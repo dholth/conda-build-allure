@@ -1,0 +1,66 @@
+name: Test report action
+
+on:
+  push:
+  repository_dispatch:
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Call allure-multi action
+        uses: dholth/allure-multi@main
+        with:
+          repository: dholth/conda-package-handling
+          pattern: allure-*
+          group: allure-(.*)-latest
+
+      # https://lannonbr.com/blog/2019-12-09-git-commit-in-actions/
+      - name: setup git config
+        run: |
+          cd gh-pages # not a global config
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      # to keep track of history, even though we deploy gh-pages ourselves
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          cd gh-pages
+          git add .
+          git commit -m "reports"
+          git push origin gh-pages
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload report
+          path: gh-pages
+
+  pages:
+
+    runs-on: ubuntu-latest
+    # if: github.ref == 'refs/heads/main'
+    needs: [report]
+
+    # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
