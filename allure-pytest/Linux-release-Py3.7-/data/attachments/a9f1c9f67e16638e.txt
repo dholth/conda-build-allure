@@ -1,0 +1,24 @@
+Skipped: pyslet from /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_unicode_in_tarball defines build/skip for this configuration ({'target_platform': 'linux-64', 'python': '3.7'}).
+Renaming work directory '/tmp/cb/popen-gw0/test_extract_tarball_with_unic0/pyslet_1668028412482/work' to '/tmp/cb/popen-gw0/test_extract_tarball_with_unic0/pyslet_1668028412482/work_moved_pyslet-0.5.20140801-py37_0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_extract_tarball_with_unic0/pyslet_1668028412482/work, dest=/tmp/cb/popen-gw0/test_extract_tarball_with_unic0/pyslet_1668028412482/work_moved_pyslet-0.5.20140801-py37_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:00.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

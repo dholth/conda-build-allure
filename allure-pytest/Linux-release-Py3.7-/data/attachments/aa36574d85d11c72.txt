@@ -1,0 +1,4 @@
+No files or script found for output pkg_subpackage
+No files or script found for output pkg_subpackage_python_noarch
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp_nvtek48/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpm6wa0qbr/info/recipe) will be used.

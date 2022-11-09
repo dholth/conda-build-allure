@@ -1,0 +1,12 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/split_packages_hash_resolution/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test-split1
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging test-split1
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output test-split1
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpuaadl48z/info/recipe) will be used.
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-split1-1.0.0-nomklh907175f_0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-split1-1.0.0-nomklh907175f_0_linux-64)
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpw2jf2el3/info/recipe) will be used.
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-split1-1.0.0-hbbb92e4_0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-split1-1.0.0-hbbb92e4_0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-1.0.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_split_0/test_1668029422002/work_moved_test-1.0.0-0_linux-64_main_build_loop)

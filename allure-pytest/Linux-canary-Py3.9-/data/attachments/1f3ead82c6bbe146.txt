@@ -1,0 +1,6 @@
+Error: bad_relative_link_src_file2 is a symlink to a path that may not exist after the build is completed (../../conda-bld/work/file2)
+Error: bad_relative_outside_nodot_file1 is a symlink to a path that may not exist after the build is completed (dir/../../../conda-bld/work/file1)
+Error: bad_abs_link_src_file1 is a symlink to a path that may not exist after the build is completed (/tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028160035/work/file1)
+Error: bad_abs_link_src_file2 is a symlink to a path that may not exist after the build is completed (/tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028160035/work/file2)
+Error: bad_relative_outside_nodot_file2 is a symlink to a path that may not exist after the build is completed (dir/../../../conda-bld/work/file2)
+Error: bad_relative_link_src_file1 is a symlink to a path that may not exist after the build is completed (../../conda-bld/work/file1)

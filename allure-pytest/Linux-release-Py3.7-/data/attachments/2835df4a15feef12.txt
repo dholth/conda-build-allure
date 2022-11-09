@@ -1,0 +1,60 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/tmpd04o7apb
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    perl:          5.26.2-h14c3975_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Moo
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Moo
+WARNING :: Version mismatch in Moo
+WARNING :: Version: , RelVersion: 2.005004
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Moo
+WARNING :: Version mismatch in Moo
+WARNING :: Version: , RelVersion: 2.005004
+Processing dependencies for Moo...Skipping develop dependency namespace::clean
+Skipping develop dependency Moose
+Skipping develop dependency namespace::autoclean
+Skipping develop dependency Type::Tiny
+Skipping develop dependency Class::Tiny
+Skipping develop dependency Mouse
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Fatal
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Fatal
+WARNING :: Version mismatch in Test-Fatal
+WARNING :: Version: 0.3, RelVersion: 0.016
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/Role::Tiny
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Role::Tiny
+WARNING :: Version mismatch in Role-Tiny
+WARNING :: Version: 2.2003, RelVersion: 2.002004
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/Sub::Defer
+WARNING :: module Sub::Defer found in distribution Sub-Quote
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Sub::Defer
+WARNING :: module Sub::Defer found in distribution Sub-Quote
+WARNING :: Version mismatch in Sub-Quote
+WARNING :: Version: 2.6006, RelVersion: 2.006006
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Sub::Quote
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Sub::Quote
+WARNING :: Version mismatch in Sub-Quote
+WARNING :: Version: 2.6006, RelVersion: 2.006006
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/perl
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Class::Method::Modifiers
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Class::Method::Modifiers
+WARNING :: Version mismatch in Class-Method-Modifiers
+WARNING :: Version: 1.10, RelVersion: 2.13
+..module Moo adds set()
+Using url https://cpan.metacpan.org/authors/id/H/HA/HAARG/Moo-2.005004.tar.gz (108339) for Moo.
+INFO :: For Moo-2.005004.tar.gz, we need the following build tools:
+[]
+Writing recipe for perl-moo-2.005004

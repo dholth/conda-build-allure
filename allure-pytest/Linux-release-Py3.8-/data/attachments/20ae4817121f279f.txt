@@ -1,0 +1,38 @@
+Free software (X11 License):OTHER
+GPL 3:GPL3
+Old MIT:MIT
+file LICENSE (FOSS):OTHER
+MIT + file LICENSE:MIT
+GPL-3 | file LICENSE:GPL3
+LGPL-3:LGPL
+CC0:CC
+Apache License 2.0:APACHE
+BSD_3_clause + file LICENSE:BSD
+LGPL-2.1:LGPL
+GPL (>= 2):GPL3
+GPL (>= 2) | file LICENSE:GPL3
+GPL (>= 3):GPL3
+GPL-2:GPL2
+GPL-2 | GPL-3:GPL3
+GPL:GPL
+LGPL (>= 2):LGPL
+BSL-1.0:OTHER
+GPL (>= 3) | file LICENCE:GPL3
+BSD_2_clause + file LICENSE:BSD
+GPL-3:GPL3
+Lucent Public License:OTHER
+None:NONE
+LGPL-2:LGPL
+BSD License and GNU Library or Lesser General Public License (LGPL):LGPL
+Apache License (== 2.0):APACHE
+GPL-2 | file LICENSE:GPL2
+GPL-2 | GPL-3 | file LICENSE:GPL3
+Open Source (http://www.libpng.org/pub/png/src/libpng-LICENSE.txt):OTHER
+zlib (http://zlib.net/zlib_license.html):OTHER
+MIT License:MIT
+MIT + file LICENSE | Unlimited:MIT
+GNU Lesser General Public License (LGPL):LGPL
+GNU General Public License v2 or later (GPLv2+):GPL2
+Custom free software license:OTHER
+BSD License:BSD
+Unlimited:MIT

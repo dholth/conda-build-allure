@@ -1,0 +1,4 @@
+C:\Users\RUNNER~1\AppData\Local\Temp\tmp57fjt_89conda_skeleton_sympy-0.7.5.tar.gz\sympy-0.7.5\sympy\mpmath\ctx_mp_python.py:873: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if other is 0:
+C:\Users\RUNNER~1\AppData\Local\Temp\tmp57fjt_89conda_skeleton_sympy-0.7.5.tar.gz\sympy-0.7.5\sympy\mpmath\ctx_mp_python.py:967: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if other is 0:

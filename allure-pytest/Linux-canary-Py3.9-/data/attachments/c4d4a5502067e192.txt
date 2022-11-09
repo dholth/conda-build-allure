@@ -1,0 +1,8 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.io:443 "GET /pypi/bigfile/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /pypi/bigfile/json HTTP/1.1" 200 8630
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/25/51/b612d897850edde4c2c96b52fc86ba18d6c2ebfc52e2bbc4430f9ed397ae/bigfile-0.1.24.tar.gz HTTP/1.1" 200 169951
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for bigfile
+[33mWARNING [0m conda_build.render:render.py:625 Returning non-final recipe for bigfile-0.1.24-py39_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:630 Host: wheel, wheel, libgfortran-ng, libgfortran-ng, tzdata, tzdata, tzdata, tzdata, pip, pip, pip, pip, setuptools, setuptools, setuptools, _openmp_mutex, _openmp_mutex, _openmp_mutex, _openmp_mutex, certifi, feature:/linux-64::__glibc, feature:|@/linux-64::__glibc, __glibc, __glibc, __glibc, __glibc

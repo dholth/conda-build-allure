@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_no_force_upload
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging test_no_force_upload
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output test_no_force_upload
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpgix0i4xo/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030643775/work' to '/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030643775/work_moved_test_no_force_upload-1.0-1_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030643775/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030643775/work_moved_test_no_force_upload-1.0-1_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpsbfgpfbt/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030645160/work' to '/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030645160/work_moved_test_no_force_upload-1.0-1_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030645160/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_no_force_upload_1668030645160/work_moved_test_no_force_upload-1.0-1_linux-64_main_build_loop)

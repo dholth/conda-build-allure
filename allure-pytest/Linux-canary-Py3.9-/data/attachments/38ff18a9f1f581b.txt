@@ -1,0 +1,109 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/toplevel/absolute'...
+done.
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/toplevel/relative'...
+done.
+Cloning into bare repository '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/git_cache/tmp/cb/popen-gw1/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028242517/work'...
+done.
+Note: switching to '0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at e0aea9d added submodules@0
+Cloning into bare repository '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/git_cache/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/tmp/tmpa619j8u5'...
+done.
+Submodule 'absolute' (/tmp/cb/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/tmp/cb/popen-gw1/test_relative_git_url_submodul0/git_cache/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028242517/work/absolute'...
+done.
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028242517/work/relative'...
+done.
++ echo absolute0relative0
++ diff -wuN /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028242517/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/expected_summaries.txt /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028242517/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/summaries.txt
++ exit 0
+From /tmp/cb/popen-gw1/test_relative_git_url_submodul0/absolute_sub
+   228ca60..23b3bbb  master     -> origin/master
+From /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   78fea2f..114085f  master     -> origin/master
+From /tmp/cb/popen-gw1/test_relative_git_url_submodul0/toplevel
+   e0aea9d..e1b7780  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028253451/work'...
+done.
+Note: switching to '1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at e1b7780 added submodules@1
+From /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   78fea2f..114085f  master     -> master
+Cloning into '/tmp/tmp5i4kblmn'...
+done.
+Submodule 'absolute' (/tmp/cb/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/tmp/cb/popen-gw1/test_relative_git_url_submodul0/git_cache/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028253451/work/absolute'...
+done.
+Cloning into '/tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028253451/work/relative'...
+done.
++ echo absolute1relative1
++ diff -wuN /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028253451/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/expected_summaries.txt /tmp/cb/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1668028253451/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/summaries.txt
++ exit 0

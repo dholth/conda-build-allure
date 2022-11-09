@@ -1,0 +1,2 @@
+C:\Users\runneradmin\cbtmp\popen-gw0\test_get_package_metadata0\_h_env\lib\site-packages\setuptools\installer.py:30: SetuptoolsDeprecationWarning: setuptools.installer is deprecated. Requirements should be satisfied by a PEP 517 installer.
+  SetuptoolsDeprecationWarning,

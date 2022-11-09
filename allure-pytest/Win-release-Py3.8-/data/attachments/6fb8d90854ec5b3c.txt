@@ -1,0 +1,53 @@
+Attempting to finalize metadata for split_packages_jinja2_subpackage_name_subpackage
+Attempting to finalize metadata for split_packages_jinja2_subpackage_name
+BUILD START: ['split_packages_jinja2_subpackage_name_subpackage-1.0-0.tar.bz2', 'split_packages_jinja2_subpackage_name-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+source tree in: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\split_packages_jinja2_subpackage_name_1668031800608\work
+Packaging split_packages_jinja2_subpackage_name_subpackage
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging split_packages_jinja2_subpackage_name
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name_subpackage-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpvsx8on2m\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name_subpackage-1.0-0.tar.bz2
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp4lvpa7yb\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\split_packages_jinja2_subpackage_name_1668031800608\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\split_packages_jinja2_subpackage_name_1668031800608\work_moved_split_packages_jinja2_subpackage_name-1.0-0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\split_packages_jinja2_subpackage_name_1668031800608\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\split_packages_jinja2_subpackage_name_1668031800608\work_moved_split_packages_jinja2_subpackage_name-1.0-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name_subpackage-1.0-0.tar.bz2 ^
+    C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_jinja20\win-64\split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "split_packages_jinja2_subpackage_name-1.0-0": {
+    "recipe": {}
+  },
+  "split_packages_jinja2_subpackage_name_subpackage-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:08.7
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

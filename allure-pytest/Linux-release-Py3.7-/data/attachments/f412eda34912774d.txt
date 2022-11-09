@@ -1,0 +1,6 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/msumastro/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/msumastro/json HTTP/1.1" 200 9303
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/b8/00/6bd0fbfbaa85463d814ae8a581aaeb5e6391e70f6c170213cc6acb9956f3/msumastro-0.9.0.tar.gz HTTP/1.1" 200 638121
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for msumastro

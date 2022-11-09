@@ -1,0 +1,86 @@
+Attempting to finalize metadata for scratch
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['scratch-0-0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.9.24-py37h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.3-he6710b0_2          
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.2.2-py37h06a4308_0   
+    python:           3.7.13-haa1d7c7_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py37h06a4308_0   
+    sqlite:           3.39.3-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.6-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work
+export PREFIX=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work
+weee
+
+Resource usage statistics from building scratch:
+   Process count: 1
+   CPU time: Sys=0:00:00.0, User=-
+   Memory: 4.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.1
+
+
+Packaging scratch
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw1/test_activate_scripts_not_incl0/linux-64/scratch-0-0.tar.bz2
+Adding in variants from /tmp/tmpzq6lerym/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw1/test_activate_scripts_not_incl0/linux-64/scratch-0-0.tar.bz2
+Renaming work directory '/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work' to '/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work_moved_scratch-0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work, dest=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1668030681287/work_moved_scratch-0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw1/test_activate_scripts_not_incl0/linux-64/scratch-0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "scratch-0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:12.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 4.0K
+Total disk usage observed (not including envs): 20B
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

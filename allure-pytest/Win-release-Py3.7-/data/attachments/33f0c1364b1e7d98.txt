@@ -1,0 +1,3 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for compatible
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/win-64/libpng-1.6.37-h7a46e7a_0.conda'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /pkgs/main/win-64/libpng-1.6.37-h7a46e7a_0.conda

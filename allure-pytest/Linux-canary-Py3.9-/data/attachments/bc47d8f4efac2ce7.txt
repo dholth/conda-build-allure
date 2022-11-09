@@ -1,0 +1,98 @@
+checkout: 'HEAD'
+Your branch is up to date with 'origin/_conda_cache_origin_head'.
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 867039564659ec2b8b35a7c50705caa9a1af3941
+Merge: 900f30d faff79b
+Author: Jannis Leidel <jannis@leidel.info>
+Date:   Thu Nov 18 10:47:32 2021 +0100
+
+    Merge pull request #3 from conda/dependabot/pip/pip-21.1
+    
+    Bump pip from 8.1.2 to 21.1
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.21.11-7-g8670395
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+On branch _conda_cache_origin_head
+Your branch is up to date with 'origin/_conda_cache_origin_head'.
+
+nothing to commit, working tree clean
+
+checkout: '1.21.11'
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 7a05dd80afb2ffa458db79ae1767afdf76eb491a
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Aug 9 21:14:09 2016 -0500
+
+    create dummy content for entry points in small repo
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.21.11
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+HEAD detached at 1.21.11
+nothing to commit, working tree clean
+
+checkout: '1.20.0'
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 2a558a86bb77b1d21a0be77c3775464500e9dfe2
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 17 10:38:30 2016 -0500
+
+    add test recipe
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.20.0
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+HEAD detached at 1.20.0
+nothing to commit, working tree clean
+
+checkout: '1.21.11'
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 7a05dd80afb2ffa458db79ae1767afdf76eb491a
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Aug 9 21:14:09 2016 -0500
+
+    create dummy content for entry points in small repo
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.21.11
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+HEAD detached at 1.21.11
+nothing to commit, working tree clean
+
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+checkout: '1.20.0'
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 2a558a86bb77b1d21a0be77c3775464500e9dfe2
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 17 10:38:30 2016 -0500
+
+    add test recipe
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.20.0
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+HEAD detached at 1.20.0
+nothing to commit, working tree clean
+

@@ -1,0 +1,8 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.io:443 "GET /pypi/hdf5storage/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /pypi/hdf5storage/json HTTP/1.1" 200 11787
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/2f/a4/306f00ce633c492d5557f42a2ca922b2a5625fa36d8264c3066cf7d1f59c/hdf5storage-0.1.18.zip HTTP/1.1" 200 126907
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for hdf5storage
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/linux-64/h5py-3.7.0-py39h737f45e_0.conda'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='repo.anaconda.com', port=443): Read timed out. (read timeout=60.0)")': /pkgs/main/linux-64/h5py-3.7.0-py39h737f45e_0.conda

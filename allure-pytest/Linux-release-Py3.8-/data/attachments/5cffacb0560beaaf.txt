@@ -1,0 +1,29 @@
+Attempting to finalize metadata for foobar
+BUILD START: ['foobar-1.0-0.tar.bz2']
+source tree in: /tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/work
+Packaging foobar
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw0/test_failed_tests_exit_build0/linux-64/foobar-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp696z7p_n/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/work' to '/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/work_moved_foobar-1.0-0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/work, dest=/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/work_moved_foobar-1.0-0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    foobar: 1.0-0 file:///tmp/cb/popen-gw0/test_failed_tests_exit_build0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export SRC_DIR=/tmp/cb/popen-gw0/test_failed_tests_exit_build0/foobar_1668028166809/test_tmp

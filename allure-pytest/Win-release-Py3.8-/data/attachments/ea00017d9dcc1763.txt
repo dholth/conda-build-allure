@@ -1,0 +1,4 @@
+Attempting to finalize metadata for test_inspect_hash_input
+Packaging test_inspect_hash_input
+Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\test_inspect_hash_input_1668032012787\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\test_inspect_hash_input_1668032012787\work_moved_test_inspect_hash_input-1.0-1_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\test_inspect_hash_input_1668032012787\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\test_inspect_hash_input_1668032012787\work_moved_test_inspect_hash_input-1.0-1_win-64_main_build_loop)

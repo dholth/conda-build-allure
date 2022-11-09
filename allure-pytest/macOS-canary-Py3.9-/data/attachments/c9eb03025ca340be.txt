@@ -1,0 +1,69 @@
+Adding in variants from internal_defaults
+Attempting to finalize metadata for test_source_files
+BUILD START: ['test_source_files-1.0-0.tar.bz2']
+Copying /Users/runner/work/conda-build/conda-build/tests/test-recipes/test-package to /private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work/
+source tree in: /private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work
+Packaging test_source_files
+Packaging test_source_files-1.0-0
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /private/tmp/cb_serial/test_recipe_builds_test_source0/osx-64/test_source_files-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpy40vyx97/info/recipe/conda_build_config.yaml
+Renaming work directory '/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work' to '/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work_moved_test_source_files-1.0-0_osx-64'
+shutil.move(work)=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work, dest=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work_moved_test_source_files-1.0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    test_source_files: 1.0-0 file:///private/tmp/cb_serial/test_recipe_builds_test_source0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/test_tmp
+
+Resource usage statistics from testing test_source_files:
+   Process count: 4
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 26.6M
+   Disk usage: 48B
+   Time elapsed: 0:00:04.2
+
+
+TEST END: /private/tmp/cb_serial/test_recipe_builds_test_source0/osx-64/test_source_files-1.0-0.tar.bz2
+Renaming work directory '/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work' to '/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work_moved_test_source_files-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work, dest=/private/tmp/cb_serial/test_recipe_builds_test_source0/test_source_files_1668028312124/work_moved_test_source_files-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /private/tmp/cb_serial/test_recipe_builds_test_source0/osx-64/test_source_files-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_source_files-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:07.6
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 26.6M
+Total disk usage observed (not including envs): 48B

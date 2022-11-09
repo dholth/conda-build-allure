@@ -1,0 +1,4 @@
+Renaming work directory '/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030498580/work' to '/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030498580/work_moved_conda-build-test-has-prefix-files-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030498580/work, dest=/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030498580/work_moved_conda-build-test-has-prefix-files-1.0-0_linux-64_main_build_loop)
+Renaming work directory '/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030510677/work' to '/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030510677/work_moved_conda-build-test-has-prefix-files-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030510677/work, dest=/home/runner/cbtmp/conda-build-test-has-prefix-files_1668030510677/work_moved_conda-build-test-has-prefix-files-1.0-0_linux-64_main_build_loop)

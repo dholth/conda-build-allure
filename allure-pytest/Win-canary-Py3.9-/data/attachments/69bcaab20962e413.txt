@@ -1,0 +1,4 @@
+No files or script found for output testprg
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\cbtmp\popen-gw0\test_copy_test_source_files0\win-64\testprg-1.0-0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\cbtmp\popen-gw0\test_copy_test_source_files0\win-64\testprg-1.0-0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)

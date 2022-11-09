@@ -1,0 +1,8 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_host_entries_finalized/conda_build_config.yaml
+Attempting to finalize metadata for test_host_packages_finalized
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

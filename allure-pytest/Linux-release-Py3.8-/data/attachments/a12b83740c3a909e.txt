@@ -1,0 +1,241 @@
+Warning, the following versions were found for peppercorn
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Using 0.6
+Use --version to specify a different version.
+Using url https://files.pythonhosted.org/packages/e4/77/93085de7108cdf1a0b092ff443872a8f9442c736d7ddebdf2f27627935f4/peppercorn-0.6.tar.gz (16 KB) for peppercorn.
+Downloading peppercorn
+PyPI URL:  https://files.pythonhosted.org/packages/e4/77/93085de7108cdf1a0b092ff443872a8f9442c736d7ddebdf2f27627935f4/peppercorn-0.6.tar.gz
+Unpacking peppercorn...
+done
+working in /tmp/tmp_ln908t0conda_skeleton_peppercorn-0.6.tar.gz
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/skeleton_1668030373656/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.9.24-py38h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.3-he6710b0_2          
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    patch:            2.7.6-h7b6447c_1001     
+    pip:              22.2.2-py38h06a4308_0   
+    python:           3.8.13-haa1d7c7_1       
+    pyyaml:           6.0-py38h7f8727e_1      
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py38h06a4308_0   
+    sqlite:           3.39.3-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.6-h5eee18b_0        
+    yaml:             0.2.5-h7b6447c_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Applying patch: /tmp/tmp_ln908t0conda_skeleton_peppercorn-0.6.tar.gz/pypi-distutils.patch
+Applying patch: /tmp/tmp_ln908t0conda_skeleton_peppercorn-0.6.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/tmp/tmpl2r4h9s2/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+patching file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+Applying patch: /tmp/tmp_ln908t0conda_skeleton_peppercorn-0.6.tar.gz/pypi-distutils.patch
+Applying patch: /tmp/tmp_ln908t0conda_skeleton_peppercorn-0.6.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/tmp/tmpnk754qn2/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+patching file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+Writing recipe for peppercorn
+Attempting to finalize metadata for peppercorn
+BUILD START: ['peppercorn-0.6-py38_0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.9.24-py38h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.3-he6710b0_2          
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.2.2-py38h06a4308_0   
+    python:           3.8.13-haa1d7c7_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py38h06a4308_0   
+    sqlite:           3.39.3-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.6-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Source cache directory is: /usr/share/miniconda/envs/test/conda-bld/src_cache
+Downloading source to cache: peppercorn-0.6_96d7681d7a.tar.gz
+Downloading https://pypi.io/packages/source/p/peppercorn/peppercorn-0.6.tar.gz
+Extracting download
+source tree in: /usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work
+export PREFIX=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export BUILD_PREFIX=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/_build_env
+export SRC_DIR=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work
+Using pip 22.2.2 from $PREFIX/lib/python3.8/site-packages/pip (python 3.8)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /tmp/pip-ephem-wheel-cache-d83_ojkg
+Created temporary directory: /tmp/pip-build-tracker-vcghlly9
+Initialized build tracking at /tmp/pip-build-tracker-vcghlly9
+Created build tracker: /tmp/pip-build-tracker-vcghlly9
+Entered build tracker: /tmp/pip-build-tracker-vcghlly9
+Created temporary directory: /tmp/pip-install-1hf3irko
+Processing $SRC_DIR
+  Added file://$SRC_DIR to build tracker '/tmp/pip-build-tracker-vcghlly9'
+  Running setup.py (path:$SRC_DIR/setup.py) egg_info for package from file://$SRC_DIR
+  Created temporary directory: /tmp/pip-pip-egg-info-f1x88_jn
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in $SRC_DIR has version 0.6, which satisfies requirement peppercorn==0.6 from file://$SRC_DIR
+  Removed peppercorn==0.6 from file://$SRC_DIR from build tracker '/tmp/pip-build-tracker-vcghlly9'
+Created temporary directory: /tmp/pip-unpack-md4zyky7
+Building wheels for collected packages: peppercorn
+  Created temporary directory: /tmp/pip-wheel-qbeu_g3u
+  Building wheel for peppercorn (setup.py): started
+  Destination directory: /tmp/pip-wheel-qbeu_g3u
+  Building wheel for peppercorn (setup.py): finished with status 'done'
+  Created wheel for peppercorn: filename=peppercorn-0.6-py3-none-any.whl size=5839 sha256=9c5d5626de2e8b0e03726449738bc03e4fc8346f9f5905d5eb36c81c30f2618e
+  Stored in directory: /tmp/pip-ephem-wheel-cache-d83_ojkg/wheels/69/17/fb/37d06db0111baec2d829dfd46d0d425da19b581fa5f0db026f
+Successfully built peppercorn
+Installing collected packages: peppercorn
+
+Successfully installed peppercorn-0.6
+Removed build tracker: '/tmp/pip-build-tracker-vcghlly9'
+
+Resource usage statistics from building peppercorn:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.3
+   Memory: 57.6M
+   Disk usage: 192B
+   Time elapsed: 0:00:04.2
+
+
+Packaging peppercorn
+compiling .pyc files...
+number of files: 15
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.04 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/isympy (text): Patching
+TEST START: /usr/share/miniconda/envs/test/conda-bld/linux-64/peppercorn-0.6-py38_0.tar.bz2
+Adding in variants from /tmp/tmpx4jxq2w2/info/recipe/conda_build_config.yaml
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work' to '/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work_moved_peppercorn-0.6-py38_0_linux-64'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work, dest=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work_moved_peppercorn-0.6-py38_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                      
+    _openmp_mutex:    5.1-1_gnu                     
+    ca-certificates:  2022.10.11-h06a4308_0         
+    certifi:          2022.9.24-py38h06a4308_0      
+    ld_impl_linux-64: 2.38-h1181459_1               
+    libffi:           3.3-he6710b0_2                
+    libgcc-ng:        11.2.0-h1234567_1             
+    libgomp:          11.2.0-h1234567_1             
+    libstdcxx-ng:     11.2.0-h1234567_1             
+    ncurses:          6.3-h5eee18b_3                
+    openssl:          1.1.1s-h7f8727e_0             
+    peppercorn:       0.6-py38_0               local
+    pip:              22.2.2-py38h06a4308_0         
+    python:           3.8.13-haa1d7c7_1             
+    readline:         8.2-h5eee18b_0                
+    setuptools:       65.5.0-py38h06a4308_0         
+    sqlite:           3.39.3-h5082296_0             
+    tk:               8.6.12-h1ccaba5_0             
+    wheel:            0.37.1-pyhd3eb1b0_0           
+    xz:               5.2.6-h5eee18b_0              
+    zlib:             1.2.13-h5eee18b_0             
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+export SRC_DIR=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/test_tmp
+import: 'peppercorn'
+import: 'peppercorn'
+
+Resource usage statistics from testing peppercorn:
+   Process count: 1
+   CPU time: Sys=0:00:00.0, User=-
+   Memory: 12.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /usr/share/miniconda/envs/test/conda-bld/linux-64/peppercorn-0.6-py38_0.tar.bz2
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work' to '/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work_moved_peppercorn-0.6-py38_0_linux-64_main_build_loop'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work, dest=/usr/share/miniconda/envs/test/conda-bld/peppercorn_1668030379226/work_moved_peppercorn-0.6-py38_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /usr/share/miniconda/envs/test/conda-bld/linux-64/peppercorn-0.6-py38_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "peppercorn-0.6-py38_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:21.8
+CPU usage: sys=0:00:00.1, user=0:00:00.3
+Maximum memory usage observed: 57.6M
+Total disk usage observed (not including envs): 208B
+
+
+####################################################################################
+Source and build intermediates have been left in /usr/share/miniconda/envs/test/conda-bld.
+There are currently 51 accumulated.
+To remove them, you can run the ```conda build purge``` command

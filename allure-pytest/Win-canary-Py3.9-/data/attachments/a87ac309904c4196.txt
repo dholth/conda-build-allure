@@ -1,0 +1,19 @@
+Attempting to finalize metadata for conda-build-test-depedencies
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-depedencies-1.0-abc.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+Leaving build/test directories:
+  Work:
+ C:\Users\runneradmin\cbtmp\popen-gw1\test_runtime_dependencies0\work 
+  Test:
+ C:\Users\runneradmin\cbtmp\popen-gw1\test_runtime_dependencies0\test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  C:\Users\runneradmin\cbtmp\popen-gw1\test_runtime_dependencies0\_test_env 
+  Build:
+source activate  C:\Users\runneradmin\cbtmp\popen-gw1\test_runtime_dependencies0\_build_env 
+
+

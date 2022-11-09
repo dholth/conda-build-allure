@@ -1,0 +1,4 @@
+No files or script found for output test_downstream_with_test_fail
+No files or script found for output test_upstream_with_downstream_tests
++ exit 1
+Tests failed for test_downstream_with_test_fail-1.0-0.tar.bz2 - moving package to /tmp/cb/popen-gw1/test_downstream_tests0/broken

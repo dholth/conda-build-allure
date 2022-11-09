@@ -1,0 +1,1 @@
+No hash (md5, sha1, sha256) provided for source-rmarkdown_2.18.tar.gz.  Source download forced.  Add hash to recipe to use source cache.

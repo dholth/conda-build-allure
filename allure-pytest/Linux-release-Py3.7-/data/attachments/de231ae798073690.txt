@@ -1,0 +1,67 @@
+Attempting to finalize metadata for test_build_output_folder
+Packaging test_build_output_folder
+Adding in variants from /tmp/tmpz0vfo9yf/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/tmpxwty9k8h/work' to '/tmp/tmpxwty9k8h/work_moved_test_build_output_folder-1.0-1_linux-64'
+shutil.move(work)=/tmp/tmpxwty9k8h/work, dest=/tmp/tmpxwty9k8h/work_moved_test_build_output_folder-1.0-1_linux-64)
+Renaming work directory '/tmp/tmpxwty9k8h/work' to '/tmp/tmpxwty9k8h/work_moved_test_build_output_folder-1.0-1_linux-64_main_build_loop'
+shutil.move(work)=/tmp/tmpxwty9k8h/work, dest=/tmp/tmpxwty9k8h/work_moved_test_build_output_folder-1.0-1_linux-64_main_build_loop)
+BUILD START: ['test_build_output_folder-1.0-1.tar.bz2']
+source tree in: /tmp/tmpxwty9k8h/work
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/tmpxwty9k8h/out/linux-64/test_build_output_folder-1.0-1.tar.bz2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/tmpxwty9k8h/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    test_build_output_folder: 1.0-1 file:///tmp/tmpxwty9k8h/out
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/tmp/tmpxwty9k8h/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/tmp/tmpxwty9k8h/test_tmp
+A-OK
+
+Resource usage statistics from testing test_build_output_folder:
+   Process count: 1
+   CPU time: Sys=0:00:00.0, User=-
+   Memory: 12.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /tmp/tmpxwty9k8h/out/linux-64/test_build_output_folder-1.0-1.tar.bz2
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/tmpxwty9k8h/out/linux-64/test_build_output_folder-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_build_output_folder-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:07.8
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 12.0K
+Total disk usage observed (not including envs): 16B

@@ -1,0 +1,31 @@
+  0%|          | 0/1 [00:00<?, ?it/s]Subdir: noarch:   0%|          | 0/1 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+Gathering repodata:   0%|          | 0/8 [00:00<?, ?it/s][A
+
+Finding updated files: 0it [00:00, ?it/s][A[A
+
+                                         [A[A
+
+File format:   0%|          | 0/2 [00:00<?, ?it/s][A[A
+
+
+hash & extract packages for noarch: 0it [00:00, ?it/s][A[A[A
+
+
+                                                      [A[A[A
+
+
+hash & extract packages for noarch: 0it [00:00, ?it/s][A[A[A
+
+
+                                                      [A[A[A
+
+                                                  [A[A
+Writing pre-patch repodata:  12%|█▎        | 1/8 [00:00<00:00, 650.58it/s][A
+Applying patch instructions:  25%|██▌       | 2/8 [00:00<00:00, 989.34it/s][A
+Writing patched repodata:  38%|███▊      | 3/8 [00:00<00:00, 1367.26it/s]  [A
+Building current_repodata subset:  50%|█████     | 4/8 [00:00<00:00, 1575.92it/s][A
+Writing current_repodata subset:  62%|██████▎   | 5/8 [00:00<00:00, 1425.95it/s] [A
+Writing subdir index HTML:  75%|███████▌  | 6/8 [00:00<00:00, 1532.82it/s]      [A
+Updating channeldata:  88%|████████▊ | 7/8 [00:00<00:00, 423.39it/s]      [A
+                                                                    [A                                                     

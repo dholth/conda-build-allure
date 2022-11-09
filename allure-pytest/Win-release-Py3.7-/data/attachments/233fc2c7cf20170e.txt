@@ -1,0 +1,5 @@
+Attempting to finalize metadata for conda-build-test-numpy-build-run
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

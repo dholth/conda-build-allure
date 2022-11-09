@@ -1,0 +1,4 @@
+Not detecting used variables in output script D:\a\conda-build\conda-build\tests\test-recipes\split-packages\python_test_dep\test_thingie.py; conda-build only knows how to search .sh and .bat files right now.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpfx97mbie\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpvzlffu6g\info\recipe) will be used.
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

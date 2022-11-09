@@ -1,0 +1,8 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_package_test
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging test_package_test
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output test_package_test
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_package_test1/test_package_test_1668030672941/work' to '/tmp/cb/popen-gw1/test_package_test1/test_package_test_1668030672941/work_moved_test_package_test-1.0-1_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_package_test1/test_package_test_1668030672941/work, dest=/tmp/cb/popen-gw1/test_package_test1/test_package_test_1668030672941/work_moved_test_package_test-1.0-1_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmprk27y1y8/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/work' to '/usr/share/miniconda/envs/test/conda-bld/test_package_test_1668030672941/work_moved_test_package_test-1.0-1_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_package_test_1668030672941/work_moved_test_package_test-1.0-1_linux-64)

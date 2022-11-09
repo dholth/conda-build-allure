@@ -1,0 +1,7 @@
+Attempting to finalize metadata for conda-build-test-entry-points
+Packaging conda-build-test-entry-points
+Adding in variants from /tmp/tmpfjj5108p/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work' to '/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work_moved_conda-build-test-entry-points-1.0-py37_0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work, dest=/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work_moved_conda-build-test-entry-points-1.0-py37_0_linux-64)
+Renaming work directory '/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work' to '/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work_moved_conda-build-test-entry-points-1.0-py37_0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work, dest=/tmp/cb/popen-gw0/test_conda_pkg_format_None__ta0/conda-build-test-entry-points_1668028780915/work_moved_conda-build-test-entry-points-1.0-py37_0_linux-64_main_build_loop)

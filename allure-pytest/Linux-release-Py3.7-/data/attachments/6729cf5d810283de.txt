@@ -1,0 +1,3 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-recursive-build-fail
+[33mWARNING [0m conda_build.render:render.py:626 Returning non-final recipe for conda-build-test-recursive-build-fail-1.0-0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:628 Build: recursive-build2

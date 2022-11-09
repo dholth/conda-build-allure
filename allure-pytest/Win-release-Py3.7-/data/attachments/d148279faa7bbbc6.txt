@@ -1,0 +1,5 @@
+msvc_compiler key in meta.yaml is deprecated. Use the newvariant-powered compiler configuration instead. Note that msvc_compileris incompatible with the new {{{{compiler('c')}}}} jinja scheme.
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\Miniconda3\conda-bld\conda-build-test-build-msvc-compiler_1668028809058\_h_env
+
+No files or script found for output conda-build-test-build-msvc-compiler

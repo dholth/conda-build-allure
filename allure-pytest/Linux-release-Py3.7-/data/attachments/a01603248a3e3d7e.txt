@@ -1,0 +1,7 @@
+Attempting to finalize metadata for conda-build-test-rewrite-env
+Packaging conda-build-test-rewrite-env
+Adding in variants from /tmp/tmpwmpg6jan/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work' to '/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work_moved_conda-build-test-rewrite-env-1.0-0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work, dest=/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work_moved_conda-build-test-rewrite-env-1.0-0_linux-64)
+Renaming work directory '/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work' to '/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work_moved_conda-build-test-rewrite-env-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work, dest=/tmp/cb/popen-gw1/test_rewrite_output0/conda-build-test-rewrite-env_1668030135059/work_moved_conda-build-test-rewrite-env-1.0-0_linux-64_main_build_loop)

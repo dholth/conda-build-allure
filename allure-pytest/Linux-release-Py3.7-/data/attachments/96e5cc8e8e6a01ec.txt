@@ -1,0 +1,18 @@
+Attempting to finalize metadata for conda-build-test-symlinks-fail
+BUILD START: ['conda-build-test-symlinks-fail-1.0-0.tar.bz2']
+source tree in: /tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028147806/work
+export PREFIX=/tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028147806/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028147806/work
+
+Resource usage statistics from building conda-build-test-symlinks-fail:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging conda-build-test-symlinks-fail
+number of files: 16
+Making absolute symlink relative (good_abs_link_file2 -> /tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028147806/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/file2 :-> file2)
+Making absolute symlink relative (good_abs_link_file1 -> /tmp/cb/popen-gw0/test_symlink_fail0/conda-build-test-symlinks-fail_1668028147806/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/file1 :-> file1)
