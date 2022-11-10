@@ -1,0 +1,2 @@
+No files or script found for output test_hash_input_contents
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp8ckl2azr/info/recipe) will be used.

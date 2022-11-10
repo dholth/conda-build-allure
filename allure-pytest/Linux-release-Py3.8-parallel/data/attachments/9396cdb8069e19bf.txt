@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_pin_compatible_in_output/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test1_abc
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/linux-64/numpy-1.16.6-py38h0708ffd_4.conda'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='repo.anaconda.com', port=443): Read timed out. (read timeout=60.0)")': /pkgs/main/linux-64/numpy-1.16.6-py38h0708ffd_4.conda

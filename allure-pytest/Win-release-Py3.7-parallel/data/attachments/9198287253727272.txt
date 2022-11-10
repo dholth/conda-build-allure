@@ -1,0 +1,6 @@
+No files or script found for output test_api_extra_dep
+Traceback (most recent call last):
+  File "C:\Users\runneradmin\cbtmp\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1668037240180\test_tmp\run_test.py", line 2, in <module>
+    import click
+ModuleNotFoundError: No module named 'click'
+Tests failed for test_api_extra_dep-1.0-1.tar.bz2 - moving package to C:\Users\runneradmin\cbtmp\popen-gw0\test_api_extra_dep0\broken

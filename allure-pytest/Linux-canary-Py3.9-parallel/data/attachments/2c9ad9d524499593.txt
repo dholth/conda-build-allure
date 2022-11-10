@@ -1,0 +1,73 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/tmptgsnac1q
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    perl:          5.26.2-h14c3975_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Perl::Lint
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Perl::Lint
+Processing dependencies for Perl-Lint...Skipping develop dependency Test::Pod
+Skipping develop dependency Test::CPAN::Meta
+Skipping develop dependency Test::MinimumVersion::Fast
+Skipping develop dependency Pod::Usage
+Skipping develop dependency Test::Perl::Critic
+Skipping develop dependency Test::Spellunker
+Skipping develop dependency autodie
+Skipping develop dependency Test::PAUSE::Permissions
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/B::Keywords
+INFO :: url_module https://fastapi.metacpan.org/v1/module/B::Keywords
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/List::MoreUtils
+INFO :: url_module https://fastapi.metacpan.org/v1/module/List::MoreUtils
+WARNING :: Version mismatch in List-MoreUtils
+WARNING :: Version: 0.33, RelVersion: 0.430
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Email::Address
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Email::Address
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/List::Flatten
+INFO :: url_module https://fastapi.metacpan.org/v1/module/List::Flatten
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/String::CamelCase
+INFO :: url_module https://fastapi.metacpan.org/v1/module/String::CamelCase
+...INFO :: url_module https://fastapi.metacpan.org/v1/module/Compiler::Lexer
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Compiler::Lexer
+WARNING :: Version mismatch in Compiler-Lexer
+WARNING :: Version: 0.22, RelVersion: 0.23
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/perl
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Path::Tiny
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Path::Tiny
+WARNING :: Version mismatch in Path-Tiny
+WARNING :: Version: 0.68, RelVersion: 0.142
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Deep::NoTest
+WARNING :: module Test::Deep::NoTest found in distribution Test-Deep
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Deep::NoTest
+WARNING :: module Test::Deep::NoTest found in distribution Test-Deep
+....INFO :: url_module https://fastapi.metacpan.org/v1/module/Regexp::Lexer
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Regexp::Lexer
+WARNING :: Version mismatch in Regexp-Lexer
+WARNING :: Version: 0.5, RelVersion: 0.05
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Module::Build::Tiny
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Module::Build::Tiny
+WARNING :: Version mismatch in Module-Build-Tiny
+WARNING :: Version: 0.35, RelVersion: 0.039
+.INFO :: url_module https://fastapi.metacpan.org/v1/module/Capture::Tiny
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Capture::Tiny
+..INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Base::Less
+WARNING :: module Test::Base::Less found in distribution Text-TestBase
+INFO :: url_module https://fastapi.metacpan.org/v1/module/Test::Base::Less
+WARNING :: module Test::Base::Less found in distribution Text-TestBase
+.module Perl-Lint adds set()
+Using url https://cpan.metacpan.org/authors/id/M/MO/MOZNION/Perl-Lint-0.25.tar.gz (172253) for Perl-Lint.
+INFO :: For Perl-Lint-0.25.tar.gz, we need the following build tools:
+[]
+Writing recipe for perl-perl-lint-0.25

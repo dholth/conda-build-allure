@@ -1,0 +1,5 @@
+Adding in variants from /tmp/tmp3xu3a2ys/info/recipe/conda_build_config.yaml
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037266240/work' to '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037266240/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037266240/work, dest=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037266240/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037267768/work' to '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037267768/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037267768/work, dest=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668037267768/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)

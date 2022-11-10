@@ -1,0 +1,8 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_build_metadata_object
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging test_build_metadata_object
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output test_build_metadata_object
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmphmtwhbyj/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work' to '/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work_moved_test_build_metadata_object-1.0-1_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work, dest=/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work_moved_test_build_metadata_object-1.0-1_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work' to '/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work_moved_test_build_metadata_object-1.0-1_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work, dest=/tmp/cb/popen-gw0/test_build_metadata_object0/test_build_metadata_object_1668034175620/work_moved_test_build_metadata_object-1.0-1_linux-64_main_build_loop)

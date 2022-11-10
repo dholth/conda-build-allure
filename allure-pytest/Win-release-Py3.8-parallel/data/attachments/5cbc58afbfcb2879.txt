@@ -1,0 +1,15 @@
+Parsing input package r-zoo:
+.. name: zoo location: None new_location: C:\Users\runneradmin\cbtmp\popen-gw1\test_cran_license_r_zoo_GPL_2_0\r-zoo
+Making/refreshing recipe for zoo
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/zoo_1.8-11.tar.gz
+Reading package metadata from C:\Users\runneradmin\cbtmp\popen-gw1\test_cran_license_r_zoo_GPL_2_0\src_cache\source-zoo_1.8-11_848e50f875.tar.gz
+Writing recipe for zoo
+Attempting to finalize metadata for r-zoo
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

@@ -1,0 +1,53 @@
+Attempting to finalize metadata for fix_permissions
+BUILD START: ['fix_permissions-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/fix_permissions to /tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work/
+source tree in: /tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work
+export PREFIX=/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export SRC_DIR=/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work
+
+Resource usage statistics from building fix_permissions:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 3.4M
+   Disk usage: 36B
+   Time elapsed: 0:00:02.0
+
+
+Packaging fix_permissions
+number of files: 6
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+build_env_setup.sh (text): Patching
+TEST START: /tmp/cb_serial/test_recipe_builds_fix_permiss0/linux-64/fix_permissions-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpizsp25_q/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb_serial/test_recipe_builds_fix_permiss0/linux-64/fix_permissions-1.0-0.tar.bz2
+Renaming work directory '/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work' to '/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work_moved_fix_permissions-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work, dest=/tmp/cb_serial/test_recipe_builds_fix_permiss0/fix_permissions_1668034874147/work_moved_fix_permissions-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb_serial/test_recipe_builds_fix_permiss0/linux-64/fix_permissions-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "fix_permissions-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:03.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 3.4M
+Total disk usage observed (not including envs): 36B

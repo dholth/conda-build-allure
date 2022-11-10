@@ -1,0 +1,112 @@
+Attempting to finalize metadata for mkl
+Attempting to finalize metadata for mkl-include
+Attempting to finalize metadata for mkl-devel
+Attempting to finalize metadata for mkl-static
+BUILD START: ['mkl-2018.0.1-intel_5.tar.bz2', 'mkl-include-2018.0.1-intel_5.tar.bz2', 'mkl-devel-2018.0.1-intel_5.tar.bz2', 'mkl-static-2018.0.1-intel_5.tar.bz2']
+source tree in: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/work
+Packaging mkl
+number of files: 0
+Skipping binary relocation logic
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging mkl-include
+number of files: 0
+Skipping binary relocation logic
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging mkl-devel
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+
+
+The following NEW packages will be INSTALLED:
+
+    mkl:         2018.0.1-intel_5 file:///tmp/cb/popen-gw0/test_subpackage_recipes_output0
+    mkl-include: 2018.0.1-intel_5 file:///tmp/cb/popen-gw0/test_subpackage_recipes_output0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Skipping binary relocation logic
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging mkl-static
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+
+
+The following NEW packages will be INSTALLED:
+
+    mkl-include: 2018.0.1-intel_5 file:///tmp/cb/popen-gw0/test_subpackage_recipes_output0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Skipping binary relocation logic
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-2018.0.1-intel_5.tar.bz2
+Adding in variants from /tmp/tmp86yf0q2w/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-2018.0.1-intel_5.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-include-2018.0.1-intel_5.tar.bz2
+Adding in variants from /tmp/tmp0s0lyau7/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-include-2018.0.1-intel_5.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-devel-2018.0.1-intel_5.tar.bz2
+Adding in variants from /tmp/tmpbu_d6esp/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-devel-2018.0.1-intel_5.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-static-2018.0.1-intel_5.tar.bz2
+Adding in variants from /tmp/tmply_tmx19/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-static-2018.0.1-intel_5.tar.bz2
+Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/work_moved_mkl-2018.0.1-intel_5_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035272364/work_moved_mkl-2018.0.1-intel_5_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-2018.0.1-intel_5.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-include-2018.0.1-intel_5.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-devel-2018.0.1-intel_5.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_output0/linux-64/mkl-static-2018.0.1-intel_5.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "mkl-2018.0.1-intel_5": {
+    "recipe": {}
+  },
+  "mkl-devel-2018.0.1-intel_5": {
+    "recipe": {}
+  },
+  "mkl-include-2018.0.1-intel_5": {
+    "recipe": {}
+  },
+  "mkl-static-2018.0.1-intel_5": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.9
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

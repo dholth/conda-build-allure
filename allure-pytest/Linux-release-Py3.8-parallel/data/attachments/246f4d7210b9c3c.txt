@@ -1,0 +1,15 @@
+[33mWARNING [0m conda_build.metadata:metadata.py:2809 Not detecting used variables in output script /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/script_autodetect_interpreter/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage_shell
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for split_packages_autodetect_interpreter
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging my_script_subpackage
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging my_script_subpackage_shell
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging split_packages_autodetect_interpreter
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output split_packages_autodetect_interpreter
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpz_sqley8/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpz_sqley8/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp0nln4w4b/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp0nln4w4b/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmphdrxwb2f/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_script0/split_packages_autodetect_interpreter_1668035150385/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_script0/split_packages_autodetect_interpreter_1668035150385/work_moved_split_packages_autodetect_interpreter-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_script0/split_packages_autodetect_interpreter_1668035150385/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_script0/split_packages_autodetect_interpreter_1668035150385/work_moved_split_packages_autodetect_interpreter-1.0-0_linux-64_main_build_loop)

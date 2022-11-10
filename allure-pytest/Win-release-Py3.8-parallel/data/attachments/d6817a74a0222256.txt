@@ -1,0 +1,17 @@
+Cloning into bare repository '/c/Users/runneradmin/cbtmp/popen-gw0/test_recipe_builds_building_ji2/git_cache/D_/a/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/c/Users/runneradmin/cbtmp/popen-gw0/test_recipe_builds_building_ji2/conda-build-test-source-setup-py-data_1668037472596/work'...
+done.
+Note: checking out '1.21.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 29bb0bd... remove tag spec in versioneer
+No files or script found for output conda-build-test-source-setup-py-data

@@ -1,0 +1,20 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-post-link-build-error
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _post-link-fails
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging _post-link-fails
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output _post-link-fails
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpmd_as73a/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/private/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1668038422606/work' to '/private/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1668038422606/work_moved__post-link-fails-1.0-0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/private/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1668038422606/work, dest=/private/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1668038422606/work_moved__post-link-fails-1.0-0_osx-64_main_build_loop)
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[33mWARNING [0m /Users/runner/work/conda-build/conda-build/miniconda/lib/python3.9/site-packages/conda_package_handling/tarball.py:tarball.py:157 Failed extraction with libarchive... falling back to python implementation
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-post-link-test-error
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging conda-build-test-post-link-test-error
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output conda-build-test-post-link-test-error
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmprug9mpxe/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/private/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1668038437451/work' to '/private/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1668038437451/work_moved_conda-build-test-post-link-test-error-1.0-0_osx-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/private/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1668038437451/work, dest=/private/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1668038437451/work_moved_conda-build-test-post-link-test-error-1.0-0_osx-64)

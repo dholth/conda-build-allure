@@ -1,0 +1,99 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/envs/conda_build_bootstrap_test
+
+  added / updated specs:
+    - git
+
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main None
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu None
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h7b6447c_0 None
+  c-ares             pkgs/main/linux-64::c-ares-1.18.1-h7f8727e_0 None
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2022.10.11-h06a4308_0 None
+  curl               pkgs/main/linux-64::curl-7.85.0-h5eee18b_0 None
+  expat              pkgs/main/linux-64::expat-2.4.9-h6a678d5_0 None
+  gdbm               pkgs/main/linux-64::gdbm-1.18-hd4cb3f1_4 None
+  gettext            pkgs/main/linux-64::gettext-0.21.0-hf68c758_0 None
+  git                pkgs/main/linux-64::git-2.34.1-pl5262hc120c5b_0 None
+  icu                pkgs/main/linux-64::icu-58.2-he6710b0_3 None
+  krb5               pkgs/main/linux-64::krb5-1.19.2-hac12032_0 None
+  libcurl            pkgs/main/linux-64::libcurl-7.85.0-h91b91d3_0 None
+  libedit            pkgs/main/linux-64::libedit-3.1.20210910-h7f8727e_0 None
+  libev              pkgs/main/linux-64::libev-4.33-h7f8727e_1 None
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 None
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 None
+  libnghttp2         pkgs/main/linux-64::libnghttp2-1.46.0-hce63b2e_0 None
+  libssh2            pkgs/main/linux-64::libssh2-1.10.0-h8f2d780_0 None
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 None
+  libxml2            pkgs/main/linux-64::libxml2-2.9.14-h74e7548_0 None
+  ncurses            pkgs/main/linux-64::ncurses-6.3-h5eee18b_3 None
+  openssl            pkgs/main/linux-64::openssl-1.1.1s-h7f8727e_0 None
+  pcre2              pkgs/main/linux-64::pcre2-10.37-he7ceb23_1 None
+  perl               pkgs/main/linux-64::perl-5.34.0-h5eee18b_2 None
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 None
+  tk                 pkgs/main/linux-64::tk-8.6.12-h1ccaba5_0 None
+  xz                 pkgs/main/linux-64::xz-5.2.6-h5eee18b_0 None
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_0 None
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate conda_build_bootstrap_test
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Retrieving notices: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/envs/conda_build_bootstrap_test
+
+
+The following packages will be REMOVED:
+
+  _libgcc_mutex-0.1-main
+  _openmp_mutex-5.1-1_gnu
+  bzip2-1.0.8-h7b6447c_0
+  c-ares-1.18.1-h7f8727e_0
+  ca-certificates-2022.10.11-h06a4308_0
+  curl-7.85.0-h5eee18b_0
+  expat-2.4.9-h6a678d5_0
+  gdbm-1.18-hd4cb3f1_4
+  gettext-0.21.0-hf68c758_0
+  git-2.34.1-pl5262hc120c5b_0
+  icu-58.2-he6710b0_3
+  krb5-1.19.2-hac12032_0
+  libcurl-7.85.0-h91b91d3_0
+  libedit-3.1.20210910-h7f8727e_0
+  libev-4.33-h7f8727e_1
+  libgcc-ng-11.2.0-h1234567_1
+  libgomp-11.2.0-h1234567_1
+  libnghttp2-1.46.0-hce63b2e_0
+  libssh2-1.10.0-h8f2d780_0
+  libstdcxx-ng-11.2.0-h1234567_1
+  libxml2-2.9.14-h74e7548_0
+  ncurses-6.3-h5eee18b_3
+  openssl-1.1.1s-h7f8727e_0
+  pcre2-10.37-he7ceb23_1
+  perl-5.34.0-h5eee18b_2
+  readline-8.2-h5eee18b_0
+  tk-8.6.12-h1ccaba5_0
+  xz-5.2.6-h5eee18b_0
+  zlib-1.2.13-h5eee18b_0
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done

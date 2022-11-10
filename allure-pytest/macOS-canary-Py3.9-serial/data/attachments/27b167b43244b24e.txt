@@ -1,0 +1,6 @@
+Cloning into bare repository '/private/tmp/cb_serial/test_recipe_builds_source_setu0/git_cache/Users/runner/work/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/private/tmp/cb_serial/test_recipe_builds_source_setu0/conda-build-test-source-setup-py-data_1668036446409/work'...
+done.
+HEAD is now at 29bb0bd remove tag spec in versioneer
+No files or script found for output conda-build-test-source-setup-py-data

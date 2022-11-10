@@ -1,0 +1,5 @@
+Adding in variants from /tmp/tmp54tmhe5k/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037012344/work' to '/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037012344/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037012344/work, dest=/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037012344/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)
+Renaming work directory '/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037014832/work' to '/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037014832/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037014832/work, dest=/tmp/cb/popen-gw1/test_build_skip_existing_croot0/empty_sections_1668037014832/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)

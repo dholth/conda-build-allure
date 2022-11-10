@@ -1,0 +1,6 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/hdf5storage/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/hdf5storage/json HTTP/1.1" 200 11787
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/2f/a4/306f00ce633c492d5557f42a2ca922b2a5625fa36d8264c3066cf7d1f59c/hdf5storage-0.1.18.zip HTTP/1.1" 200 126907
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for hdf5storage

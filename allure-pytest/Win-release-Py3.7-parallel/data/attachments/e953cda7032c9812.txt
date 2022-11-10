@@ -1,0 +1,77 @@
+Attempting to finalize metadata for test_downstream_with_test_fail
+BUILD START: ['test_downstream_with_test_fail-1.0-0.tar.bz2']
+source tree in: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_downstream_with_test_fail_1668036364001\work
+Packaging test_downstream_with_test_fail
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_downstream_with_test_fail_1668036364001\work' to 'C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_downstream_with_test_fail_1668036364001\work_moved_test_downstream_with_test_fail-1.0-0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_downstream_with_test_fail_1668036364001\work, dest=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_downstream_with_test_fail_1668036364001\work_moved_test_downstream_with_test_fail-1.0-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\win-64\test_downstream_with_test_fail-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_downstream_with_test_fail-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:02.0
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+Attempting to finalize metadata for test_upstream_with_downstream_tests
+BUILD START: ['test_upstream_with_downstream_tests-1.0-0.tar.bz2']
+source tree in: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\work
+Packaging test_upstream_with_downstream_tests
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\win-64\test_upstream_with_downstream_tests-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp6v7j950y\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\win-64\test_upstream_with_downstream_tests-1.0-0.tar.bz2
+Testing downstream package: test_downstream_with_test_fail
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\win-64\test_downstream_with_test_fail-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpnukt58bt\info\recipe\conda_build_config.yaml
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\work' to 'C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\work_moved_test_downstream_with_test_fail-1.0-0_win-64'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\work, dest=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\work_moved_test_downstream_with_test_fail-1.0-0_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    test_downstream_with_test_fail: 1.0-0 file:///C:/Users/runneradmin/cbtmp/popen-gw0/test_downstream_tests0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+set PREFIX=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\_test_env
+set SRC_DIR=C:\Users\runneradmin\cbtmp\popen-gw0\test_downstream_tests0\test_upstream_with_downstream_tests_1668036366000\test_tmp
+
+(base) %SRC_DIR%>call "%SRC_DIR%\conda_test_env_vars.bat" 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>call "%SRC_DIR%\run_test.bat" 
+
+(base) %SRC_DIR%>exit 1 

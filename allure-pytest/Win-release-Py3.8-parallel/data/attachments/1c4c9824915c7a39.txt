@@ -1,0 +1,5 @@
+Using legacy MSVC compiler setup.  This will be removed in conda-build 4.0. If this recipe does not use a compiler, this message is safe to ignore.  Otherwise, use {{compiler('<language>')}} jinja2 in requirements/build.
+No files or script found for output test_no_include_recipe_meta_yaml
+Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
+No files or script found for output no_include_recipe
+Tests failed for no_include_recipe-0.0-0.tar.bz2 - moving package to C:\Users\runneradmin\cbtmp\popen-gw1\test_no_include_recipe_meta_ya0\broken

@@ -1,0 +1,21 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for run_exports_constrains
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for run_exports_constrains_only_weak
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for strong_constrains_export
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for strong_run_export
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for weak_constrains_export
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for weak_run_export
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging run_exports_constrains
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output run_exports_constrains
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging run_exports_constrains_only_weak
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output run_exports_constrains_only_weak
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging strong_constrains_export
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output strong_constrains_export
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging strong_run_export
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output strong_run_export
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging weak_constrains_export
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output weak_constrains_export
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging weak_run_export
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output weak_run_export
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_run_exports_constrains0\test_run_exports_constrains_1668035875670\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_run_exports_constrains0\test_run_exports_constrains_1668035875670\work_moved_test_run_exports_constrains-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_run_exports_constrains0\test_run_exports_constrains_1668035875670\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_run_exports_constrains0\test_run_exports_constrains_1668035875670\work_moved_test_run_exports_constrains-1.0-0_win-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_run_exports_constrains

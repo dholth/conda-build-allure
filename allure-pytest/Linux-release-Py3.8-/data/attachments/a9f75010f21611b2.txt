@@ -1,0 +1,13 @@
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to osx-64
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to osx-arm64
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-32
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-64
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-ppc64
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-ppc64le
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-s390x
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-armv6l
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-armv7l
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to linux-aarch64
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to win-32
+Source platform 'win-64' and target platform 'win-64' are identical. Skipping conversion.
+Converting affine-2.0.0-py27_0.tar.bz2 from win-64 to win-arm64

@@ -1,0 +1,13 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for testprg
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging testprg
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output testprg
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp1q1j0574/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work' to '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work_moved_testprg-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work, dest=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work_moved_testprg-1.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work' to '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work_moved_testprg-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work, dest=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034697477/work_moved_testprg-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpc4qygjt1/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work' to '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work_moved_testprg-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work, dest=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work_moved_testprg-1.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work' to '/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work_moved_testprg-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work, dest=/tmp/cb/popen-gw0/test_copy_test_source_files_de0/testprg_1668034730009/work_moved_testprg-1.0-0_linux-64_main_build_loop)

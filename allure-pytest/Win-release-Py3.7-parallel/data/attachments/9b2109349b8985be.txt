@@ -1,0 +1,50 @@
+  Running command python setup.py egg_info
+  C:\Users\runneradmin\cbtmp\popen-gw1\test_pypi_installer_metadata0\imagesize_1668037358304\_h_env\lib\site-packages\setuptools\config\setupcfg.py:508: SetuptoolsDeprecationWarning: The license_file parameter is deprecated, use license_files instead.
+    warnings.warn(msg, warning_class)
+  running egg_info
+  creating C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info
+  writing C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\dependency_links.txt
+  writing top-level names to C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\top_level.txt
+  writing manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  adding license file 'LICENSE.rst'
+  writing manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-uu7_3yu4\imagesize.egg-info\SOURCES.txt'
+  Running command python setup.py bdist_wheel
+  C:\Users\runneradmin\cbtmp\popen-gw1\test_pypi_installer_metadata0\imagesize_1668037358304\_h_env\lib\site-packages\setuptools\config\setupcfg.py:508: SetuptoolsDeprecationWarning: The license_file parameter is deprecated, use license_files instead.
+    warnings.warn(msg, warning_class)
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build\lib
+  copying imagesize.py -> build\lib
+  C:\Users\runneradmin\cbtmp\popen-gw1\test_pypi_installer_metadata0\imagesize_1668037358304\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+    warnings.warn(
+  installing to build\bdist.win-amd64\wheel
+  running install
+  running install_lib
+  creating build\bdist.win-amd64
+  creating build\bdist.win-amd64\wheel
+  copying build\lib\imagesize.py -> build\bdist.win-amd64\wheel\.
+  running install_egg_info
+  running egg_info
+  writing imagesize.egg-info\PKG-INFO
+  writing dependency_links to imagesize.egg-info\dependency_links.txt
+  writing top-level names to imagesize.egg-info\top_level.txt
+  reading manifest file 'imagesize.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  adding license file 'LICENSE.rst'
+  writing manifest file 'imagesize.egg-info\SOURCES.txt'
+  Copying imagesize.egg-info to build\bdist.win-amd64\wheel\.\imagesize-1.1.0-py3.9.egg-info
+  running install_scripts
+  creating build\bdist.win-amd64\wheel\imagesize-1.1.0.dist-info\WHEEL
+  creating 'C:\Users\runneradmin\AppData\Local\Temp\pip-wheel-9cgwxgv0\imagesize-1.1.0-py2.py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+  adding 'imagesize.py'
+  adding 'imagesize-1.1.0.dist-info/LICENSE.rst'
+  adding 'imagesize-1.1.0.dist-info/METADATA'
+  adding 'imagesize-1.1.0.dist-info/WHEEL'
+  adding 'imagesize-1.1.0.dist-info/top_level.txt'
+  adding 'imagesize-1.1.0.dist-info/RECORD'
+  removing build\bdist.win-amd64\wheel

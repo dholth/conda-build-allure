@@ -1,0 +1,29 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_numpy_setup_py_data to /tmp/cb_serial/test_numpy_setup_py_data0/load_setup_py_test_1668035265330/work/
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test
+
+  added / updated specs:
+    - cython
+
+
+The following NEW packages will be INSTALLED:
+
+  cython             pkgs/main/linux-64::cython-0.29.32-py37h6a678d5_0 None
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Retrieving notices: ...working... done
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_numpy_setup_py_data to /tmp/cb_serial/test_numpy_setup_py_data0/load_setup_py_test_1668035275296/work/
+Attempting to finalize metadata for load_setup_py_test
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

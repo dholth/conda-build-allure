@@ -1,0 +1,5 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.io:443 "GET /pypi/sympy/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /pypi/sympy/json HTTP/1.1" 200 18539
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/5a/36/4667b08bc45131fe655a27b1a112c1730f3244343c53a338f44d730bd6ba/sympy-1.11.1.tar.gz HTTP/1.1" 200 12921384

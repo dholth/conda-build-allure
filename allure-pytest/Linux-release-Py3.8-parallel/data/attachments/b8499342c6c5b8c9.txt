@@ -1,0 +1,1 @@
+Testing based on recipes is deprecated as of conda-build 3.16.0.  Please adjust your code to pass your desired conda package to test instead.

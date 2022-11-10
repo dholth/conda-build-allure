@@ -1,0 +1,6 @@
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.16
+Cloning into bare repository '/tmp/cb/popen-gw0/test_git_describe_info_on_bran0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/tmp/cb/popen-gw0/test_git_describe_info_on_bran0/git_describe_number_branch_1668034058179/work'...
+done.
+Switched to a new branch '1.20.2+1'
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.

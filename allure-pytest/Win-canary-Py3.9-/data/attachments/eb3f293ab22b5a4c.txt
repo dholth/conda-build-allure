@@ -1,0 +1,4 @@
+No files or script found for output test_about_license_file_single
+No files or script found for output test_about_license_file_list
+No files or script found for output test_about_license_file_dir
+No files or script found for output test_about_license_file_dir-no-slash-suffix

@@ -1,0 +1,3 @@
+
+Remove all packages in environment C:\Users\runneradmin\Miniconda3\envs\conda_build_bootstrap_test:
+

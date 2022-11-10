@@ -1,0 +1,64 @@
+Attempting to finalize metadata for pkg_subpackage
+Attempting to finalize metadata for pkg_subpackage_python_noarch
+BUILD START: ['pkg_subpackage-1.0-0.tar.bz2', 'pkg_subpackage_python_noarch-1.0-0.tar.bz2', 'split_packages_jinja2_subpackage_name-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+source tree in: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/split_packages_jinja2_subpackage_name_1668035545501/work
+Packaging pkg_subpackage
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging pkg_subpackage_python_noarch
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp9oevxthw/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage-1.0-0.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage_python_noarch-1.0-0.tar.bz2
+Adding in variants from /tmp/tmplslj8y9y/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage_python_noarch-1.0-0.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/linux-64/split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpwutqd0y9/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/linux-64/split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/split_packages_jinja2_subpackage_name_1668035545501/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/split_packages_jinja2_subpackage_name_1668035545501/work_moved_split_packages_jinja2_subpackage_name-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/split_packages_jinja2_subpackage_name_1668035545501/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/split_packages_jinja2_subpackage_name_1668035545501/work_moved_split_packages_jinja2_subpackage_name-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage-1.0-0.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/noarch/pkg_subpackage_python_noarch-1.0-0.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_noarch0/linux-64/split_packages_jinja2_subpackage_name-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "pkg_subpackage-1.0-0": {
+    "recipe": {}
+  },
+  "pkg_subpackage_python_noarch-1.0-0": {
+    "recipe": {}
+  },
+  "split_packages_jinja2_subpackage_name-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:06.9
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

@@ -1,0 +1,25 @@
+Source cache directory is: C:\Users\runneradmin\cbtmp\popen-gw0\test_multiple_different_source0\src_cache
+Extracting download
+checkout: 'HEAD'
+Your branch is up-to-date with 'origin/main'.
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe log -n1 <==
+
+commit 867039564659ec2b8b35a7c50705caa9a1af3941
+Merge: 900f30d faff79b
+Author: Jannis Leidel <jannis@leidel.info>
+Date:   Thu Nov 18 10:47:32 2021 +0100
+
+    Merge pull request #3 from conda/dependabot/pip/pip-21.1
+    
+    Bump pip from 8.1.2 to 21.1
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe describe --tags --dirty <==
+
+1.21.11-7-g8670395
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe status <==
+
+On branch main
+Your branch is up-to-date with 'origin/main'.
+nothing to commit, working directory clean
+

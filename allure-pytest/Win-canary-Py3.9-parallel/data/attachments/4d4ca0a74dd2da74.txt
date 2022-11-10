@@ -1,0 +1,14 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage_shell_1
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage_shell_2
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for split_packages_bash_windows
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging my_script_subpackage_shell_1
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging my_script_subpackage_shell_2
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging split_packages_bash_windows
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output split_packages_bash_windows
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp_aiv4mjp\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp_aiv4mjp\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpfpapzvjy\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpfpapzvjy\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpd8dxwnag\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_script1\split_packages_bash_windows_1668038206899\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_script1\split_packages_bash_windows_1668038206899\work_moved_split_packages_bash_windows-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_script1\split_packages_bash_windows_1668038206899\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_script1\split_packages_bash_windows_1668038206899\work_moved_split_packages_bash_windows-1.0-0_win-64_main_build_loop)

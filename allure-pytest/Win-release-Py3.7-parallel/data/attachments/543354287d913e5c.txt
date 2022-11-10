@@ -1,0 +1,1 @@
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: C:\Users\runneradmin\cbtmp\popen-gw1\test_git_into_existing_populat0\src_cache

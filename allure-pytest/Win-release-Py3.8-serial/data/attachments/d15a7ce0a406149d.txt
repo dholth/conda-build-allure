@@ -1,0 +1,9 @@
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.16
+Using legacy MSVC compiler setup.  This will be removed in conda-build 4.0. If this recipe does not use a compiler, this message is safe to ignore.  Otherwise, use {{compiler('<language>')}} jinja2 in requirements/build.
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1668034984313\_build_env
+
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1668034984313\_build_env
+
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpi14xxxko\info\recipe) will be used.

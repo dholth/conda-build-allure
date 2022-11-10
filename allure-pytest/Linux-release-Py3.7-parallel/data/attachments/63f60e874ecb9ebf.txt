@@ -1,0 +1,3 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): repo.anaconda.com:80
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 http://repo.anaconda.com:80 "GET /pkgs/free/linux-64/cryptography-1.8.1-py36_0.tar.bz2 HTTP/1.1" 301 None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://repo.anaconda.com:443 "GET /pkgs/free/linux-64/cryptography-1.8.1-py36_0.tar.bz2 HTTP/1.1" 200 865871

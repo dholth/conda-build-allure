@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for empty_sections
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging empty_sections
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output empty_sections
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmphrey7pkm/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668036733531/work' to '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668036733531/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668036733531/work, dest=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1668036733531/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)

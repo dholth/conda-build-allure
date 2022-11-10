@@ -1,0 +1,1 @@
+ERROR conda.core.link:_execute(733): An error occurred while installing package 'file:///C:/Users/runneradmin/cbtmp/popen-gw0/test_warning_on_file_clobberin0::pkg_b-1.0.0-0'.

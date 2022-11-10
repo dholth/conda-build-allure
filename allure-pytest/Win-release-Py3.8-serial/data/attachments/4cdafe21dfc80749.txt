@@ -1,0 +1,6 @@
+
+PackagesNotFoundError: The following packages are missing from the target environment:
+  - cython
+
+
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.

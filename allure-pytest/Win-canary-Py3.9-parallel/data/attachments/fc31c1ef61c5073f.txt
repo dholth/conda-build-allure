@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_circular_deps_cross\conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gcc_impl_linux-32
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/linux-32/repodata.json'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /pkgs/main/linux-32/repodata.json
+[33mWARNING [0m conda_build.render:render.py:625 Returning non-final recipe for gcc_impl_linux-32-7.5.0-0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:628 Build: sysroot_linux-32
+[33mWARNING [0m conda_build.render:render.py:630 Host: sysroot_linux-32
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gxx_impl_linux-32
+[33mWARNING [0m conda_build.render:render.py:625 Returning non-final recipe for gxx_impl_linux-32-7.5.0-0; one or more dependencies was unsatisfiable:

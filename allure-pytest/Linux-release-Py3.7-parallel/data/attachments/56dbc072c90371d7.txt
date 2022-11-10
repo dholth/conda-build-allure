@@ -1,0 +1,4 @@
+No files or script found for output a
+No files or script found for output b
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp2xhrm_5n/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpwvyc0ow1/info/recipe) will be used.

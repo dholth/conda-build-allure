@@ -1,0 +1,7 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): cran.r-project.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://cran.r-project.org:443 "GET /src/contrib/ HTTP/1.1" 200 None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://cran.r-project.org:443 "GET /src/contrib/Archive/ HTTP/1.1" 200 None
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for source-meanr_0.1-5.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-meanr
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/linux-64/pkg-config-0.29.2-h1bed415_8.conda'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:813 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='repo.anaconda.com', port=443): Read timed out. (read timeout=60.0)")': /pkgs/main/linux-64/pkg-config-0.29.2-h1bed415_8.conda

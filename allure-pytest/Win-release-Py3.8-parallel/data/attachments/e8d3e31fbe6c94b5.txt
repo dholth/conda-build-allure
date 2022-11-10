@@ -1,0 +1,8 @@
+Parsing input package bigReg:
+.. name: bigreg location: None new_location: C:\Users\runneradmin\cbtmp\popen-gw1\test_cran_os_type_bigReg_skip_0\r-bigreg
+Making/refreshing recipe for bigreg
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/bigReg_0.1.2.tar.gz
+Reading package metadata from C:\Users\runneradmin\cbtmp\popen-gw1\test_cran_os_type_bigReg_skip_0\src_cache\source-bigReg_0.1.2_7cdcac717f.tar.gz
+Writing recipe for bigreg

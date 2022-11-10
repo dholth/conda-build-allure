@@ -1,0 +1,40 @@
+Attempting to finalize metadata for metapackage_test_build_number
+BUILD START: ['metapackage_test_build_number-1.0-1.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+source tree in: C:\Users\runneradmin\Miniconda3\conda-bld\metapackage_test_build_number_1668037732246\work
+Packaging metapackage_test_build_number
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: C:\Users\runneradmin\Miniconda3\conda-bld\win-64\metapackage_test_build_number-1.0-1.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpp106qs7k\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\Miniconda3\conda-bld\win-64\metapackage_test_build_number-1.0-1.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\metapackage_test_build_number_1668037732246\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\metapackage_test_build_number_1668037732246\work_moved_metapackage_test_build_number-1.0-1_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\metapackage_test_build_number_1668037732246\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\metapackage_test_build_number_1668037732246\work_moved_metapackage_test_build_number-1.0-1_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\Miniconda3\conda-bld\win-64\metapackage_test_build_number-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "metapackage_test_build_number-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:10.0
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

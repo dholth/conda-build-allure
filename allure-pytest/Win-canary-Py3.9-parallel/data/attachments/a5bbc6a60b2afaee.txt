@@ -1,0 +1,12 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

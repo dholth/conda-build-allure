@@ -1,0 +1,5 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.io:443 "GET /pypi/planemo/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /pypi/planemo/json HTTP/1.1" 200 80109
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/c3/14/89c5f97ff1b8d5aa52b28b0ec1948605bb9eacc8f4d819ddec4eee64c2f7/planemo-0.75.2.tar.gz HTTP/1.1" 200 374934

@@ -1,0 +1,8 @@
+/tmp/cb/popen-gw0/test_rm_rf_does_not_remove_rel0/test_rm_rf_does_not_follow_links_1668035676060/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+warning: install_lib: 'build/lib' does not exist -- no Python modules to install
+
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found

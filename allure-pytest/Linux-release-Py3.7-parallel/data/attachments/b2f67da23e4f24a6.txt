@@ -1,0 +1,23 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for mkl
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for mkl-include
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for mkl-devel
+[33mWARNING [0m conda_build.utils:utils.py:1796 Adding .* to spec 'mkl 2018.0.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[33mWARNING [0m conda_build.utils:utils.py:1796 Adding .* to spec 'mkl-include 2018.0.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for mkl-static
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging mkl
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output mkl
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging mkl-include
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output mkl-include
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging mkl-devel
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output mkl-devel
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging mkl-static
+[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output mkl-static
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmps5c50qhy/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpcgv4mmcp/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpcgv4mmcp/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp97p8s44t/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp97p8s44t/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp53ocm_rv/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp53ocm_rv/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035564558/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035564558/work_moved_mkl-2018.0.1-intel_5_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035564558/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_output0/mkl_1668035564558/work_moved_mkl-2018.0.1-intel_5_linux-64_main_build_loop)

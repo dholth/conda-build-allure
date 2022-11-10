@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\conda-build\conda-build\relative\path\empty_with_build_script_1668037089150\_h_env
+
+No files or script found for output empty_with_build_script

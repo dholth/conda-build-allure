@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_empty_with_0\empty_with_build_script_1668035187114\_h_env
+
+No files or script found for output empty_with_build_script

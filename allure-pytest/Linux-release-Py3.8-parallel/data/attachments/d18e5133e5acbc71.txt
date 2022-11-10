@@ -1,0 +1,92 @@
+Attempting to finalize metadata for abc
+Attempting to finalize metadata for test_files_in_parent_recipe
+BUILD START: ['abc-1.0-0.tar.bz2', 'test_files_in_parent_recipe-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/test_files_in_parent/src to /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work/
+source tree in: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work
+export PREFIX=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work
+weee
+
+Resource usage statistics from building test_files_in_parent_recipe:
+   Process count: 1
+   CPU time: Sys=0:00:00.0, User=-
+   Memory: -
+   Disk usage: 20B
+   Time elapsed: 0:00:02.1
+
+
+Packaging abc
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging test_files_in_parent_recipe
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/abc-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpz4jdxvc5/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work_moved_abc-1.0-0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work_moved_abc-1.0-0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    abc: 1.0-0 file:///tmp/cb/popen-gw0/test_subpackage_recipes_test_f1
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export SRC_DIR=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/test_tmp
+
+Resource usage statistics from testing abc:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: -
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/abc-1.0-0.tar.bz2
+TEST START: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/test_files_in_parent_recipe-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpexhtnb1q/info/recipe/conda_build_config.yaml
+Nothing to test for: /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/test_files_in_parent_recipe-1.0-0.tar.bz2
+Renaming work directory '/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work' to '/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work_moved_test_files_in_parent_recipe-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work, dest=/tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/test_files_in_parent_recipe_1668035262203/work_moved_test_files_in_parent_recipe-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/abc-1.0-0.tar.bz2 \
+    /tmp/cb/popen-gw0/test_subpackage_recipes_test_f1/linux-64/test_files_in_parent_recipe-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "abc-1.0-0": {
+    "recipe": {}
+  },
+  "test_files_in_parent_recipe-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:10.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 36B

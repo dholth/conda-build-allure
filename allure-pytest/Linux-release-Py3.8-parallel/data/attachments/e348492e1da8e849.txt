@@ -1,0 +1,60 @@
+Using url https://files.pythonhosted.org/packages/e7/a8/7556133689add8d1a54c0b14aeff0acb03c64707ce100ecd53934da1aa13/pip-8.1.2.tar.gz (1.1 MB) for pip.
+Downloading pip
+PyPI URL:  https://files.pythonhosted.org/packages/e7/a8/7556133689add8d1a54c0b14aeff0acb03c64707ce100ecd53934da1aa13/pip-8.1.2.tar.gz
+Unpacking pip...
+done
+working in /tmp/tmpljx_n2gvconda_skeleton_pip-8.1.2.tar.gz
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_repo__pypi_pip_8_1_2_0/skeleton_1668034915545/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.9.24-py38h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.3-he6710b0_2          
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    patch:            2.7.6-h7b6447c_1001     
+    pip:              22.2.2-py38h06a4308_0   
+    python:           3.8.13-haa1d7c7_1       
+    pyyaml:           6.0-py38h7f8727e_1      
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py38h06a4308_0   
+    sqlite:           3.39.3-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.6-h5eee18b_0        
+    yaml:             0.2.5-h7b6447c_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Applying patch: /tmp/tmpljx_n2gvconda_skeleton_pip-8.1.2.tar.gz/pypi-distutils.patch
+Applying patch: /tmp/tmpljx_n2gvconda_skeleton_pip-8.1.2.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/tmp/tmprxz0461v/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+patching file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+Applying patch: /tmp/tmpljx_n2gvconda_skeleton_pip-8.1.2.tar.gz/pypi-distutils.patch
+Applying patch: /tmp/tmpljx_n2gvconda_skeleton_pip-8.1.2.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/tmp/tmp_5c6px0e/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+patching file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+Writing recipe for pip
+--dirty flag and --keep-old-work not specified. Removing build/test folder after successful build/test.
+

@@ -1,0 +1,38 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for libarchive
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /tmp/cb_serial/test_recipe_builds_libarchive_0/src_cache
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.7z.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.7z
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.7z
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar.bz2
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.bz2
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar.gz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.gz
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.lzma.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar.lzma
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.lzma
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.xz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar.xz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.xz
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tar.z.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tar.z
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.z
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.tgz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.tgz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tgz
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.whl.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.whl
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.whl
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for test.zip.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: test.zip
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.zip
+[32mINFO    [0m conda_build.build:build.py:2297 Packaging libarchive
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp0zg3sptw/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work' to '/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work_moved_libarchive-1-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work, dest=/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work_moved_libarchive-1-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work' to '/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work_moved_libarchive-1-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work, dest=/tmp/cb_serial/test_recipe_builds_libarchive_0/libarchive_1668034453549/work_moved_libarchive-1-0_linux-64_main_build_loop)

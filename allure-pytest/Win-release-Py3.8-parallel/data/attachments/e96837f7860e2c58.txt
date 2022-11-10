@@ -1,0 +1,5 @@
+Source cache directory is: C:\Users\runneradmin\cbtmp\popen-gw0\test_multiple_url_sources0\src_cache
+Extracting download
+Downloading source to cache: b.tar.bz2
+Downloading file:///D:/a/conda-build/conda-build/tests/archives/b.tar.bz2
+Extracting download

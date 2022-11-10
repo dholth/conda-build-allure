@@ -1,0 +1,6 @@
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\14_variant_in_run_and_test\conda_build_config.yaml
+Attempting to finalize metadata for test_variant_in_run_and_test
+Building repodata for C:\Users\runneradmin\cbtmp_serial\test_ensure_valid_spec_on_run_0\noarch
+Building repodata for C:\Users\runneradmin\cbtmp_serial\test_ensure_valid_spec_on_run_0\win-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

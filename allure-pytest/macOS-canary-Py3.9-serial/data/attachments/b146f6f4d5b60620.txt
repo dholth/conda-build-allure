@@ -1,0 +1,158 @@
+Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_set_env_var_activate_build/conda_build_config.yaml
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-environment-vars-in-build-env-1.0-h254f028_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _conda-build-test-environment-vars-in-build-env: 1.0-0                     local   
+    cctools_osx-64:                                  949.0.1-hc7db93f_25       defaults
+    clang:                                           14.0.6-hecd8cb5_0         defaults
+    clang-14:                                        14.0.6-default_h32c6d10_0 defaults
+    clang_osx-64:                                    14.0.6-hb1e4b1b_0         defaults
+    clangxx:                                         14.0.6-default_h32c6d10_0 defaults
+    compiler-rt:                                     14.0.6-hda8b6b8_0         defaults
+    compiler-rt_osx-64:                              14.0.6-h8d5cb93_0         defaults
+    ld64_osx-64:                                     530-h70f3046_25           defaults
+    ldid:                                            2.1.2-h2d21305_2          defaults
+    libclang-cpp14:                                  14.0.6-default_h32c6d10_0 defaults
+    libcxx:                                          14.0.6-h9765a3e_0         defaults
+    libffi:                                          3.3-hb1e8313_2            defaults
+    libllvm14:                                       14.0.6-he552d86_0         defaults
+    llvm-tools:                                      14.0.6-h8bd2559_0         defaults
+    tapi:                                            1000.10.8-ha1b3eb9_0      defaults
+    zlib:                                            1.2.13-h4dc903c_0         defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work
+export PREFIX=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export BUILD_PREFIX=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/_build_env
+export SRC_DIR=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work
+INFO: activate_clang_osx-64.sh made the following environmental changes:
++AR=x86_64-apple-darwin13.4.0-ar
++AS=x86_64-apple-darwin13.4.0-as
++CC=x86_64-apple-darwin13.4.0-clang
++CC_FOR_BUILD=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-clang
++CFLAGS=-march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem $PREFIX/include -fdebug-prefix-map=$SRC_DIR=/usr/local/src/conda/conda-build-test-environment-vars-in-build-env-1.0 -fdebug-prefix-map=$PREFIX=/usr/local/src/conda-prefix
++CHECKSYMS=x86_64-apple-darwin13.4.0-checksyms
++CLANG=x86_64-apple-darwin13.4.0-clang
++CMAKE_ARGS=-DCMAKE_AR=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ar -DCMAKE_CXX_COMPILER_AR=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ar -DCMAKE_C_COMPILER_AR=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ar -DCMAKE_RANLIB=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ranlib -DCMAKE_CXX_COMPILER_RANLIB=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ranlib -DCMAKE_C_COMPILER_RANLIB=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ranlib -DCMAKE_LINKER=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-ld -DCMAKE_STRIP=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-strip -DCMAKE_INSTALL_NAME_TOOL=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-install_name_tool -DCMAKE_LIBTOOL=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-libtool -DCMAKE_OSX_DEPLOYMENT_TARGET=10.15 -DCMAKE_BUILD_TYPE=Release -DCMAKE_OSX_SYSROOT=/Applications/Xcode_13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -DCMAKE_INSTALL_PREFIX=$PREFIX -DCMAKE_INSTALL_LIBDIR=lib -DCMAKE_PROGRAM_PATH=$BUILD_PREFIX/bin;$PREFIX/bin
++CMAKE_PREFIX_PATH=:$PREFIX
++CONDA_TOOLCHAIN_BUILD=x86_64-apple-darwin13.4.0
++CONDA_TOOLCHAIN_HOST=x86_64-apple-darwin13.4.0
++CPPFLAGS=-D_FORTIFY_SOURCE=2 -isystem $PREFIX/include -mmacosx-version-min=10.15
++DEBUG_CFLAGS=-march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -Og -g -Wall -Wextra -isystem $PREFIX/include -fdebug-prefix-map=$SRC_DIR=/usr/local/src/conda/conda-build-test-environment-vars-in-build-env-1.0 -fdebug-prefix-map=$PREFIX=/usr/local/src/conda-prefix
++HOST=x86_64-apple-darwin13.4.0
++INSTALL_NAME_TOOL=x86_64-apple-darwin13.4.0-install_name_tool
++LD=x86_64-apple-darwin13.4.0-ld
++LDFLAGS=-Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,$PREFIX/lib -L$PREFIX/lib
++LDFLAGS_LD=-pie -headerpad_max_install_names -dead_strip_dylibs -rpath $PREFIX/lib -L$PREFIX/lib
++LIBTOOL=x86_64-apple-darwin13.4.0-libtool
++LIPO=x86_64-apple-darwin13.4.0-lipo
++MESON_ARGS=--buildtype release --prefix=$PREFIX -Dlibdir=lib
++NM=x86_64-apple-darwin13.4.0-nm
++NMEDIT=x86_64-apple-darwin13.4.0-nmedit
++OBJC=x86_64-apple-darwin13.4.0-clang
++OBJC_FOR_BUILD=$BUILD_PREFIX/bin/x86_64-apple-darwin13.4.0-clang
++OTOOL=x86_64-apple-darwin13.4.0-otool
++PAGESTUFF=x86_64-apple-darwin13.4.0-pagestuff
++RANLIB=x86_64-apple-darwin13.4.0-ranlib
++REDO_PREBINDING=x86_64-apple-darwin13.4.0-redo_prebinding
++SDKROOT=/Applications/Xcode_13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk
++SEGEDIT=x86_64-apple-darwin13.4.0-segedit
++SEG_ADDR_TABLE=x86_64-apple-darwin13.4.0-seg_addr_table
++SEG_HACK=x86_64-apple-darwin13.4.0-seg_hack
++SIZE=x86_64-apple-darwin13.4.0-size
++STRINGS=x86_64-apple-darwin13.4.0-strings
++STRIP=x86_64-apple-darwin13.4.0-strip
++_CONDA_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_x86_64_apple_darwin13_4_0
++ac_cv_func_malloc_0_nonnull=yes
++ac_cv_func_realloc_0_nonnull=yes
++build_alias=x86_64-apple-darwin13.4.0
++host_alias=x86_64-apple-darwin13.4.0
+setting TEST_VAR
+
+Resource usage statistics from building conda-build-test-environment-vars-in-build-env:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 16.7M
+   Disk usage: 32B
+   Time elapsed: 0:00:04.3
+
+
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _conda-build-test-environment-vars-in-build-env: 1.0-0                     local   
+    cctools_osx-64:                                  949.0.1-hc7db93f_25       defaults
+    clang:                                           14.0.6-hecd8cb5_0         defaults
+    clang-14:                                        14.0.6-default_h32c6d10_0 defaults
+    clang_osx-64:                                    14.0.6-hb1e4b1b_0         defaults
+    clangxx:                                         14.0.6-default_h32c6d10_0 defaults
+    compiler-rt:                                     14.0.6-hda8b6b8_0         defaults
+    compiler-rt_osx-64:                              14.0.6-h8d5cb93_0         defaults
+    ld64_osx-64:                                     530-h70f3046_25           defaults
+    ldid:                                            2.1.2-h2d21305_2          defaults
+    libclang-cpp14:                                  14.0.6-default_h32c6d10_0 defaults
+    libcxx:                                          14.0.6-h9765a3e_0         defaults
+    libffi:                                          3.3-hb1e8313_2            defaults
+    libllvm14:                                       14.0.6-he552d86_0         defaults
+    llvm-tools:                                      14.0.6-h8bd2559_0         defaults
+    tapi:                                            1000.10.8-ha1b3eb9_0      defaults
+    zlib:                                            1.2.13-h4dc903c_0         defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-h254f028_0.tar.bz2
+Nothing to test for: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-h254f028_0.tar.bz2
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work_moved_conda-build-test-environment-vars-in-build-env-1.0-h254f028_0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1668038343196/work_moved_conda-build-test-environment-vars-in-build-env-1.0-h254f028_0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-h254f028_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-environment-vars-in-build-env-1.0-h254f028_0": {
+    "recipe": {
+      "c_compiler": "clang",
+      "target_platform": "osx-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:33.7
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 16.7M
+Total disk usage observed (not including envs): 32B

@@ -1,0 +1,2 @@
+/tmp/cb/popen-gw1/test_get_package_metadata0/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/lib/python3.7/site-packages/setuptools/installer.py:30: SetuptoolsDeprecationWarning: setuptools.installer is deprecated. Requirements should be satisfied by a PEP 517 installer.
+  SetuptoolsDeprecationWarning,

@@ -1,0 +1,7 @@
+Attempting to finalize metadata for test_skip_existing_url
+Packaging test_skip_existing_url
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp5c3uw9vx\info\recipe\conda_build_config.yaml
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work' to 'C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work_moved_test_skip_existing_url-1.0-1_win-64'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work, dest=C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work_moved_test_skip_existing_url-1.0-1_win-64)
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work' to 'C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work_moved_test_skip_existing_url-1.0-1_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work, dest=C:\Users\runneradmin\cbtmp\popen-gw0\test_skip_existing_url0\test_skip_existing_url_1668035221743\work_moved_test_skip_existing_url-1.0-1_win-64_main_build_loop)

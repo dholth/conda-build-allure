@@ -1,0 +1,21 @@
+Attempting to finalize metadata for conda-build-test-recursive-build-fail
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+BUILD START: ['conda-build-test-recursive-build-fail-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+Leaving build/test directories:
+  Work:
+ C:\Users\runneradmin\cbtmp\popen-gw0\test_failed_recipe_leaves_fold0\conda-build-test-recursive-build-fail_1668036001799\work 
+  Test:
+ C:\Users\runneradmin\cbtmp\popen-gw0\test_failed_recipe_leaves_fold0\conda-build-test-recursive-build-fail_1668036001799\test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  C:\Users\runneradmin\cbtmp\popen-gw0\test_failed_recipe_leaves_fold0\conda-build-test-recursive-build-fail_1668036001799\_test_env 
+  Build:
+source activate  C:\Users\runneradmin\cbtmp\popen-gw0\test_failed_recipe_leaves_fold0\conda-build-test-recursive-build-fail_1668036001799\_h_env 
+
+
