@@ -1,0 +1,9 @@
+Attempting to finalize metadata for pyyaml
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Source cache directory is: /tmp/tmpzfrj7i30/src_cache
+Downloading source to cache: PyYAML-3.11_f50e08ef0f.tar.gz
+Downloading https://pypi.io/packages/source/P/PyYAML/PyYAML-3.11.tar.gz
+Success
+Extracting download
+Source tree in: /tmp/tmpzfrj7i30/work

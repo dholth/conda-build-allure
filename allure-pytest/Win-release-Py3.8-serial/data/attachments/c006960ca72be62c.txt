@@ -1,0 +1,119 @@
+Attempting to finalize metadata for test_python_env_var_present
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test_python_env_var_present-1.0-py39_0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates: 2022.10.11-haa95532_0   
+    certifi:         2022.9.24-py39haa95532_0
+    openssl:         1.1.1s-h2bbff1b_0       
+    pip:             22.2.2-py39haa95532_0   
+    python:          3.9.15-h6244533_0       
+    setuptools:      65.5.0-py39haa95532_0   
+    sqlite:          3.39.3-h2bbff1b_0       
+    tzdata:          2022f-h04d1e81_0        
+    vc:              14.2-h21ff451_1         
+    vs2015_runtime:  14.27.29016-h5e58377_2  
+    wheel:           0.37.1-pyhd3eb1b0_0     
+    wincertstore:    0.2-py39haa95532_2      
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work
+Packaging test_python_env_var_present
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\win-64\test_python_env_var_present-1.0-py39_0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp_t_dbj82\info\recipe\conda_build_config.yaml
+Renaming C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_h_env prefix directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_h_env' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\host_prefix_moved_test_python_env_var_present-1.0-py39_0_win-64'
+shutil.move(C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_h_env prefix)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_h_env, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\host_prefix_moved_test_python_env_var_present-1.0-py39_0_win-64)
+Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work_moved_test_python_env_var_present-1.0-py39_0_win-64'
+shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work_moved_test_python_env_var_present-1.0-py39_0_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates:             2022.10.11-haa95532_0                                                                             
+    certifi:                     2022.9.24-py39haa95532_0                                                                          
+    openssl:                     1.1.1s-h2bbff1b_0                                                                                 
+    pip:                         22.2.2-py39haa95532_0                                                                             
+    python:                      3.9.15-h6244533_0                                                                                 
+    setuptools:                  65.5.0-py39haa95532_0                                                                             
+    sqlite:                      3.39.3-h2bbff1b_0                                                                                 
+    test_python_env_var_present: 1.0-py39_0               file:///C:/Users/runneradmin/cbtmp_serial/test_recipe_builds_python_env_0
+    tzdata:                      2022f-h04d1e81_0                                                                                  
+    vc:                          14.2-h21ff451_1                                                                                   
+    vs2015_runtime:              14.27.29016-h5e58377_2                                                                            
+    wheel:                       0.37.1-pyhd3eb1b0_0                                                                               
+    wincertstore:                0.2-py39haa95532_2                                                                                
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+set PREFIX=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\_test_env
+set SRC_DIR=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\test_tmp
+
+(base) %SRC_DIR%>call "%SRC_DIR%\conda_test_env_vars.bat" 
+
+(base) %SRC_DIR%>set "CONDA_SHLVL="   && 
+
+(base) %SRC_DIR%>conda activate "%PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(%PREFIX%) %SRC_DIR%>"%PREFIX%\python.exe" -s "%SRC_DIR%\run_test.py" 
+===== testing package: test_python_env_var_present-1.0-py39_0 =====
+running run_test.py
+===== test_python_env_var_present-1.0-py39_0 OK =====
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+Resource usage statistics from testing test_python_env_var_present:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 1.5M
+   Disk usage: 1.7K
+   Time elapsed: 0:00:02.0
+
+
+TEST END: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\win-64\test_python_env_var_present-1.0-py39_0.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work_moved_test_python_env_var_present-1.0-py39_0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\test_python_env_var_present_1669037252702\work_moved_test_python_env_var_present-1.0-py39_0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_python_env_0\win-64\test_python_env_var_present-1.0-py39_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_python_env_var_present-1.0-py39_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:35.2
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 1.5M
+Total disk usage observed (not including envs): 1.7K

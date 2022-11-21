@@ -1,0 +1,7 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_has_ds_store
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging test_has_ds_store
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpc12ptlju/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work' to '/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work_moved_test_has_ds_store-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work, dest=/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work_moved_test_has_ds_store-1.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work' to '/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work_moved_test_has_ds_store-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work, dest=/tmp/cb_serial/test_recipe_builds_ds_store_ig0/test_has_ds_store_1669035289989/work_moved_test_has_ds_store-1.0-0_linux-64_main_build_loop)

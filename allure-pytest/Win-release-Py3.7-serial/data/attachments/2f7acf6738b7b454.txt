@@ -1,2 +1,0 @@
-Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_no_anaconda_upload_condar0\empty_sections_1668037159798\work' to 'C:\Users\runneradmin\cbtmp_serial\test_no_anaconda_upload_condar0\empty_sections_1668037159798\work_moved_empty_sections-0.0-0_win-64_main_build_loop'
-shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_no_anaconda_upload_condar0\empty_sections_1668037159798\work, dest=C:\Users\runneradmin\cbtmp_serial\test_no_anaconda_upload_condar0\empty_sections_1668037159798\work_moved_empty_sections-0.0-0_win-64_main_build_loop)

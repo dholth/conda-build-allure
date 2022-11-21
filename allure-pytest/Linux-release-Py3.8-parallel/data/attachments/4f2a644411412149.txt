@@ -1,0 +1,3 @@
+The install/build script(s) for skip_compile_pyc deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

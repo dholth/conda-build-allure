@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for scratch
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging scratch
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output scratch
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpjbuz6c38/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1669037393737/work' to '/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1669037393737/work_moved_scratch-0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1669037393737/work, dest=/tmp/cb/popen-gw1/test_activate_scripts_not_incl0/scratch_1669037393737/work_moved_scratch-0-0_linux-64_main_build_loop)

@@ -1,0 +1,20 @@
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Binary doesn't have a program header
+Binary doesn't have a program header
+Binary doesn't have a program header
+Binary doesn't have a program header
+Unknown format
++ python -c 'import lief; binary = lief.parse("/tmp/cb/popen-gw0/test_rpath_unix0/rpath_1669034426816/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ grep '$ORIGIN/../previous:$ORIGIN/../lib:$ORIGIN/../plugins:$ORIGIN/../successive'
++ python -c 'import lief; binary = lief.parse("/tmp/cb/popen-gw0/test_rpath_unix0/rpath_1669034426816/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ exit 0

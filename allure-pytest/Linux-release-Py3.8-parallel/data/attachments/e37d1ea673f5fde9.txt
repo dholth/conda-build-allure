@@ -1,6 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for metapackage_test_build_string
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging metapackage_test_build_string
-[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output metapackage_test_build_string
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpox52n2z1/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/metapackage_test_build_string_1668036240670/work' to '/usr/share/miniconda/envs/test/conda-bld/metapackage_test_build_string_1668036240670/work_moved_metapackage_test_build_string-1.0-frank_linux-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/metapackage_test_build_string_1668036240670/work, dest=/usr/share/miniconda/envs/test/conda-bld/metapackage_test_build_string_1668036240670/work_moved_metapackage_test_build_string-1.0-frank_linux-64_main_build_loop)

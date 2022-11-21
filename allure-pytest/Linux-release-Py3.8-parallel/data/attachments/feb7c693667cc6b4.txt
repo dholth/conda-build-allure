@@ -1,7 +1,0 @@
-No files or script found for output test-split1
-Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmppnw5d8ys/info/recipe) will be used.
-+ echo hello
-+ exit 0
-Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpfrt3fayu/info/recipe) will be used.
-+ echo hello
-+ exit 0

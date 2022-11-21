@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_hoist_sourc1\mypkg_1669036696833\_h_env
+

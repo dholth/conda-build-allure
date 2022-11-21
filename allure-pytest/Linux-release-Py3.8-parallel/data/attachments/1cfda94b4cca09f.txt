@@ -1,7 +1,0 @@
-Attempting to finalize metadata for test_no_filename_hash
-Packaging test_no_filename_hash
-Adding in variants from /tmp/tmps0xu8fmv/info/recipe/conda_build_config.yaml
-Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work' to '/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work_moved_test_no_filename_hash-1.0-1_linux-64'
-shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work_moved_test_no_filename_hash-1.0-1_linux-64)
-Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work' to '/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work_moved_test_no_filename_hash-1.0-1_linux-64_main_build_loop'
-shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_no_filename_hash_1668035948596/work_moved_test_no_filename_hash-1.0-1_linux-64_main_build_loop)

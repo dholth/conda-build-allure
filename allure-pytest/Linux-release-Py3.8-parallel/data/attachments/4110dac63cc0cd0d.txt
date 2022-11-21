@@ -1,0 +1,8 @@
+The install/build script(s) for test_compileall deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
+  File "f2_bad.py", line 1
+    I am a bad file that should not pass compileall.
+      ^
+SyntaxError: invalid syntax
+

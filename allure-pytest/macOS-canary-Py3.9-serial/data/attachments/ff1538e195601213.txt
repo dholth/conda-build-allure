@@ -1,3 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpev_r_lzi/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/private/tmp/cb_serial/test_offline_anaconda_0/empty_sections_1668038280098/work' to '/private/tmp/cb_serial/test_offline_anaconda_0/empty_sections_1668038280098/work_moved_empty_sections-0.0-0_osx-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/private/tmp/cb_serial/test_offline_anaconda_0/empty_sections_1668038280098/work, dest=/private/tmp/cb_serial/test_offline_anaconda_0/empty_sections_1668038280098/work_moved_empty_sections-0.0-0_osx-64_main_build_loop)

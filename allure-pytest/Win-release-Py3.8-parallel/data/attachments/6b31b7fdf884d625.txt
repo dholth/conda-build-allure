@@ -1,0 +1,2 @@
+Glob C:\Users\runneradmin\cbtmp\popen-gw0\test_build_no_build_id0\_h_env\both-slash-prefix did not match in root_dir C:\Users\runneradmin\cbtmp\popen-gw0\test_build_no_build_id0\_h_env
+ERROR conda_build.utils:expand_globs(1207): Glob C:\Users\runneradmin\cbtmp\popen-gw0\test_build_no_build_id0\_h_env\both-slash-prefix did not match in root_dir C:\Users\runneradmin\cbtmp\popen-gw0\test_build_no_build_id0\_h_env

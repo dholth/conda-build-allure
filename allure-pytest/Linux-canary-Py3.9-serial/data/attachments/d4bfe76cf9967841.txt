@@ -1,0 +1,2 @@
++ test -f /tmp/cb_serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1669034770918/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_/info/testfile
++ exit 0

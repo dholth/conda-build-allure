@@ -1,0 +1,13 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-post-link-build-error
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _post-link-fails
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _post-link-fails
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _post-link-fails
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpduj3pork/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1669035780464/work' to '/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1669035780464/work_moved__post-link-fails-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1669035780464/work, dest=/tmp/cb_serial/test_env_creation_fail_exits_b0/_post-link-fails_1669035780464/work_moved__post-link-fails-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-post-link-test-error
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging conda-build-test-post-link-test-error
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-post-link-test-error
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp8m4g_4ys/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1669035790942/work' to '/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1669035790942/work_moved_conda-build-test-post-link-test-error-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1669035790942/work, dest=/tmp/cb_serial/test_env_creation_fail_exits_b0/conda-build-test-post-link-test-error_1669035790942/work_moved_conda-build-test-post-link-test-error-1.0-0_linux-64)

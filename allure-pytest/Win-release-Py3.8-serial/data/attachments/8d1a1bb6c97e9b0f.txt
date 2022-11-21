@@ -1,9 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for click
-[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_wheel_sourc0\src_cache
-[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for click-6.7-py2.py3-none-any.whl.  Source download forced.  Add hash to recipe to use source cache.
-[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: click-6.7-py2.py3-none-any.whl
-[32mINFO    [0m conda_build.source:source.py:85 Downloading https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging click
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp6z7mzvhn\info\recipe\conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_wheel_sourc0\click_1668036877958\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_wheel_sourc0\click_1668036877958\work_moved_click-6.7-0_win-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_wheel_sourc0\click_1668036877958\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_wheel_sourc0\click_1668036877958\work_moved_click-6.7-0_win-64_main_build_loop)

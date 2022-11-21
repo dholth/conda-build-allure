@@ -1,0 +1,18 @@
+C:\Users\runneradmin\cbtmp\popen-gw0\test_noarch_python_10\noarch_python_test_package_1669035378646\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: build_py: byte-compiling is disabled, skipping.
+
+warning: install_lib: byte-compiling is disabled, skipping.
+
+warning: no previously-included files matching '*' found under directory 'shell'
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format

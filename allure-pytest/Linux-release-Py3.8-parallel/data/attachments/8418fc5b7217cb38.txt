@@ -1,0 +1,9 @@
+/tmp/cb/popen-gw1/test_noarch_python_10/noarch_python_test_package_1669034507546/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: build_py: byte-compiling is disabled, skipping.
+
+warning: install_lib: byte-compiling is disabled, skipping.
+
+The install/build script(s) for noarch_python_test_package deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

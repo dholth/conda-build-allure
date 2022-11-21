@@ -1,0 +1,3 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for empty_pkg_with_python_build_host
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging empty_pkg_with_python_build_host
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output empty_pkg_with_python_build_host

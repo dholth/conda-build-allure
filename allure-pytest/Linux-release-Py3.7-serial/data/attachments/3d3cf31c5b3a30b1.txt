@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for requires_external_channel
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging requires_external_channel
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output requires_external_channel
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp_57bwxlp/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1669035585398/work' to '/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1669035585398/work_moved_requires_external_channel-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1669035585398/work, dest=/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1669035585398/work_moved_requires_external_channel-1.0-0_linux-64_main_build_loop)

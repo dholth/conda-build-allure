@@ -1,0 +1,15 @@
++ env
++ cat
+The install/build script(s) for split_package_entry_points1 deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
++ cat
+The install/build script(s) for split_package_entry_points2 deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
+No files or script found for output test_split_package_entry_points
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp3cfj1eva/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp5bzac0op/info/recipe) will be used.
++ top1
++ top2
++ exit 0

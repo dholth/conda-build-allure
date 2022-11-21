@@ -1,0 +1,376 @@
+Adding in variants from internal_defaults
+Attempting to finalize metadata for subpackage
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['subpackage-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    libpng:         1.6.34-h325896a_0      
+    vc:             9-h2eaa2aa_6           
+    vs2008_runtime: 9.00.30729.1-haa95532_6
+    zlib:           1.2.11-h3cc03e0_3      
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work
+Rewriting env in output: {'BUILD_PREFIX': 'C:\\Users\\runneradmin\\cbtmp_serial\\test_recipe_builds_always_incl0\\conda-build-test-always_include_files-glob_1669035277308\\_build_env',
+ 'PREFIX': 'C:\\Users\\runneradmin\\cbtmp_serial\\test_recipe_builds_always_incl0\\conda-build-test-always_include_files-glob_1669035277308\\_h_env',
+ 'SRC_DIR': 'C:\\Users\\runneradmin\\cbtmp_serial\\test_recipe_builds_always_incl0\\conda-build-test-always_include_files-glob_1669035277308\\work'}
+
+(base) %SRC_DIR%>IF "" == "" (call %SRC_DIR%\build_env_setup.bat ) 
+
+(base) %SRC_DIR%>set "CONDA_BUILD=1" 
+
+(base) %SRC_DIR%>set "PYTHONNOUSERSITE=1" 
+
+(base) %SRC_DIR%>set "CONDA_DEFAULT_ENV=%PREFIX%" 
+
+(base) %SRC_DIR%>set "ARCH=64" 
+
+(base) %SRC_DIR%>set "PREFIX=%PREFIX%" 
+
+(base) %SRC_DIR%>set "BUILD_PREFIX=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "SYS_PREFIX=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "SYS_PYTHON=C:\Users\runneradmin\Miniconda3\python.exe" 
+
+(base) %SRC_DIR%>set "SUBDIR=win-64" 
+
+(base) %SRC_DIR%>set "build_platform=win-64" 
+
+(base) %SRC_DIR%>set "SRC_DIR=%SRC_DIR%" 
+
+(base) %SRC_DIR%>set "ROOT=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "CONDA_PY=39" 
+
+(base) %SRC_DIR%>set "PY3K=1" 
+
+(base) %SRC_DIR%>set "PY_VER=3.9" 
+
+(base) %SRC_DIR%>set "STDLIB_DIR=%PREFIX%\Lib" 
+
+(base) %SRC_DIR%>set "SP_DIR=%PREFIX%\Lib\site-packages" 
+
+(base) %SRC_DIR%>set "NPY_VER=1.16" 
+
+(base) %SRC_DIR%>set "CONDA_NPY=1.16" 
+
+(base) %SRC_DIR%>set "NPY_DISTUTILS_APPEND_FLAGS=1" 
+
+(base) %SRC_DIR%>set "PERL_VER=5.26" 
+
+(base) %SRC_DIR%>set "CONDA_PERL=5.26.2" 
+
+(base) %SRC_DIR%>set "LUA_VER=5" 
+
+(base) %SRC_DIR%>set "CONDA_LUA=5" 
+
+(base) %SRC_DIR%>set "R_VER=3.4" 
+
+(base) %SRC_DIR%>set "CONDA_R=3.4" 
+
+(base) %SRC_DIR%>set "PKG_NAME=conda-build-test-always_include_files-glob" 
+
+(base) %SRC_DIR%>set "PKG_VERSION=1.0" 
+
+(base) %SRC_DIR%>set "PKG_BUILDNUM=0" 
+
+(base) %SRC_DIR%>set "PKG_BUILD_STRING=placeholder" 
+
+(base) %SRC_DIR%>set "PKG_HASH=1234567" 
+
+(base) %SRC_DIR%>set "RECIPE_DIR=D:\a\conda-build\conda-build\tests\test-recipes\metadata\always_include_files_glob" 
+
+(base) %SRC_DIR%>set "CPU_COUNT=2" 
+
+(base) %SRC_DIR%>set "SHLIB_EXT=.dll" 
+
+(base) %SRC_DIR%>set "PATH=C:\Users\runneradmin\Miniconda3;C:\Users\runneradmin\Miniconda3\Library\mingw-w64\bin;C:\Users\runneradmin\Miniconda3\Library\usr\bin;C:\Users\runneradmin\Miniconda3\Library\bin;C:\Users\runneradmin\Miniconda3\Scripts;C:\Users\runneradmin\Miniconda3\bin;C:\Users\runneradmin\Miniconda3\condabin;C:\Users\runneradmin\AppData\Roaming\Python\Python38\Scripts;C:\hostedtoolcache\windows\Python\3.8.10\x64\Scripts;C:\hostedtoolcache\windows\Python\3.8.10\x64;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\cf-cli;C:\Program Files (x86)\NSIS;C:\tools\zstd;C:\Program Files\Mercurial;C:\hostedtoolcache\windows\stack\2.9.1\x64;C:\cabal\bin;C:\ghcup\bin;C:\tools\ghc-9.4.2\bin;C:\Program Files\dotnet;C:\mysql\bin;C:\Program Files\R\R-4.2.1\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.17.13\x64\bin;C:\hostedtoolcache\windows\Python\3.7.9\x64\Scripts;C:\hostedtoolcache\windows\Python\3.7.9\x64;C:\hostedtoolcache\windows\Ruby\2.5.9\x64\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.345-1\x64\bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\ProgramData\Chocolatey\bin;C:\Program Files\PowerShell\7;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn;C:\Program Files\OpenSSL\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\SeleniumWebDrivers\ChromeDriver;C:\SeleniumWebDrivers\EdgeDriver;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Amazon\SessionManagerPlugin\bin;C:\Program Files\Amazon\AWSSAMCLI\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Microsoft BizTalk Server;C:\Program Files\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps" 
+
+(base) %SRC_DIR%>set "SCRIPTS=%PREFIX%\Scripts" 
+
+(base) %SRC_DIR%>set "LIBRARY_PREFIX=%PREFIX%\Library" 
+
+(base) %SRC_DIR%>set "LIBRARY_BIN=%PREFIX%\Library\bin" 
+
+(base) %SRC_DIR%>set "LIBRARY_INC=%PREFIX%\Library\include" 
+
+(base) %SRC_DIR%>set "LIBRARY_LIB=%PREFIX%\Library\lib" 
+
+(base) %SRC_DIR%>set "CYGWIN_PREFIX=/cygdrive/c/Users/runneradmin/cbtmp_serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1669035277308/_h_env" 
+
+(base) %SRC_DIR%>set "ALLUSERSPROFILE=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "APPDATA=C:\Users\runneradmin\AppData\Roaming" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramW6432=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "COMPUTERNAME=fv-az158-22" 
+
+(base) %SRC_DIR%>set "ComSpec=C:\Windows\system32\cmd.exe" 
+
+(base) %SRC_DIR%>set "HOMEDRIVE=C:" 
+
+(base) %SRC_DIR%>set "HOMEPATH=\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "LOCALAPPDATA=C:\Users\runneradmin\AppData\Local" 
+
+(base) %SRC_DIR%>set "LOGONSERVER=\\fv-az158-22" 
+
+(base) %SRC_DIR%>set "NUMBER_OF_PROCESSORS=2" 
+
+(base) %SRC_DIR%>set "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" 
+
+(base) %SRC_DIR%>set "ProgramData=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "ProgramFiles=C:\Program Files" 
+
+(base) %SRC_DIR%>set "ProgramFiles(x86)=C:\Program Files (x86)" 
+
+(base) %SRC_DIR%>set "ProgramW6432=C:\Program Files" 
+
+(base) %SRC_DIR%>set "PROMPT=(base) $P$G" 
+
+(base) %SRC_DIR%>set "PSModulePath=C:\\Modules\azurerm_2.1.0;C:\\Modules\azure_2.1.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell" 
+
+(base) %SRC_DIR%>set "PUBLIC=C:\Users\Public" 
+
+(base) %SRC_DIR%>set "SystemDrive=C:" 
+
+(base) %SRC_DIR%>set "SystemRoot=C:\Windows" 
+
+(base) %SRC_DIR%>set "TEMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "TMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "USERDOMAIN=fv-az158-22" 
+
+(base) %SRC_DIR%>set "USERNAME=runneradmin" 
+
+(base) %SRC_DIR%>set "USERPROFILE=C:\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "windir=C:\Windows" 
+
+(base) %SRC_DIR%>set "PROCESSOR_ARCHITECTURE=AMD64" 
+
+(base) %SRC_DIR%>set "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 85 Stepping 4, GenuineIntel" 
+
+(base) %SRC_DIR%>set "BUILD=amd64-pc-windows-19.0.0" 
+
+(base) %SRC_DIR%>set "VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" 
+
+(base) %SRC_DIR%>set "pin_run_as_build=OrderedDict([('python', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')])), ('r-base', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')]))])" 
+
+(base) %SRC_DIR%>set "ignore_build_only_deps={'python', 'numpy'}" 
+
+(base) %SRC_DIR%>set "extend_keys={'ignore_version', 'pin_run_as_build', 'ignore_build_only_deps', 'extend_keys'}" 
+
+(base) %SRC_DIR%>set "c_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "cran_mirror=https://cran.r-project.org" 
+
+(base) %SRC_DIR%>set "cxx_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "vc=14" 
+
+(base) %SRC_DIR%>set "r_base=3.4" 
+
+(base) %SRC_DIR%>set "cpu_optimization_target=nocona" 
+
+(base) %SRC_DIR%>set "fortran_compiler=gfortran" 
+
+(base) %SRC_DIR%>set "target_platform=win-64" 
+
+(base) %SRC_DIR%>set "CONDA_BUILD_STATE=BUILD" 
+
+(base) %SRC_DIR%>set "PIP_NO_BUILD_ISOLATION=False" 
+
+(base) %SRC_DIR%>set "PIP_NO_DEPENDENCIES=True" 
+
+(base) %SRC_DIR%>set "PIP_IGNORE_INSTALLED=True" 
+
+(base) %SRC_DIR%>set "PIP_CACHE_DIR=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\pip_cache" 
+
+(base) %SRC_DIR%>set "PIP_NO_INDEX=True" 
+
+(base) %SRC_DIR%>set DISTUTILS_USE_SDK=1 
+
+(base) %SRC_DIR%>set MSSdk=1 
+
+(base) %SRC_DIR%>set PY_VCRUNTIME_REDIST=%PREFIX%\Library\bin\vcruntime140.dll 
+
+(base) %SRC_DIR%>set "VS_VERSION=14.0" 
+
+(base) %SRC_DIR%>set "VS_MAJOR=14" 
+
+(base) %SRC_DIR%>set "VS_YEAR=2015" 
+
+(base) %SRC_DIR%>set "CMAKE_GENERATOR=Visual Studio 14 2015 Win64" 
+
+(base) %SRC_DIR%>set "MSYS2_ARG_CONV_EXCL=/AI;/AL;/OUT;/out" 
+
+(base) %SRC_DIR%>set "MSYS2_ENV_CONV_EXCL=CL" 
+
+(base) %SRC_DIR%>call "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\..\VC\vcvarsall.bat" amd64 
+
+(base) %SRC_DIR%>set "INCLUDE=%PREFIX%\Library\include;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt;" 
+
+(base) %SRC_DIR%>set "LIB=%PREFIX%\Library\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64;" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate "%PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "%BUILD_PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>REM ===== end generated header ===== 
+
+(%PREFIX%) %SRC_DIR%>echo "weee"  1>%PREFIX%\top_level.txt 
+
+Resource usage statistics from building conda-build-test-always_include_files-glob:
+   Process count: 3
+   CPU time: Sys=0:00:00.3, User=0:00:00.5
+   Memory: 39.7M
+   Disk usage: 10.5K
+   Time elapsed: 0:00:06.1
+
+
+Packaging subpackage
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    jpeg:           9e-h2bbff1b_0         
+    vc:             14.2-h21ff451_1       
+    vs2015_runtime: 14.27.29016-h5e58377_2
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Packaging subpackage-1.0-0
+
+(base) C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate "C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env" 
+
+(C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env) (base) C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_build_env" 
+
+(C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env) (base) C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work>echo it works  1>C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env\test.txt 
+
+Resource usage statistics from bundling subpackage:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 2.7M
+   Disk usage: 11.0K
+   Time elapsed: 0:00:02.1
+
+
+Including in package existing file Library\lib\libjpeg.lib
+number of files: 2
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\win-64\subpackage-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpckzznjpx\info\recipe\conda_build_config.yaml
+Renaming C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env prefix directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\host_prefix_moved_subpackage-1.0-0_win-64'
+shutil.move(C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env prefix)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_h_env, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\host_prefix_moved_subpackage-1.0-0_win-64)
+Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work_moved_subpackage-1.0-0_win-64'
+shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work_moved_subpackage-1.0-0_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    subpackage: 1.0-0 file:///C:/Users/runneradmin/cbtmp_serial/test_recipe_builds_always_incl0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+set PREFIX=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\_test_env
+set SRC_DIR=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\test_tmp
+
+(base) %SRC_DIR%>call "%SRC_DIR%\conda_test_env_vars.bat" 
+
+(base) %SRC_DIR%>set "CONDA_SHLVL="   && 
+
+(base) %SRC_DIR%>conda activate "%PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(%PREFIX%) %SRC_DIR%>call "%SRC_DIR%\run_test.bat" 
+
+(%PREFIX%) %SRC_DIR%>if not exist %PREFIX%\Library\lib\libjpeg.lib exit 1 
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(%PREFIX%) %SRC_DIR%>if not exist %PREFIX%\test.txt exit 1 
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(%PREFIX%) %SRC_DIR%>exit /B 0 
+
+(%PREFIX%) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+Resource usage statistics from testing subpackage:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 1.5M
+   Disk usage: 1006B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\win-64\subpackage-1.0-0.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work_moved_conda-build-test-always_include_files-glob-1.0-0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\conda-build-test-always_include_files-glob_1669035277308\work_moved_conda-build-test-always_include_files-glob-1.0-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_always_incl0\win-64\subpackage-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "subpackage-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:54.4
+CPU usage: sys=0:00:00.3, user=0:00:00.5
+Maximum memory usage observed: 39.7M
+Total disk usage observed (not including envs): 22.4K

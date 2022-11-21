@@ -1,9 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-url
-[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_url_0\src_cache
-[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: conda-build-1.8.1_0bf1f3598a.tar.gz
-[32mINFO    [0m conda_build.source:source.py:85 Downloading https://github.com/conda/conda-build/archive/1.8.1.tar.gz
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging conda-build-test-source-url
-[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output conda-build-test-source-url
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp472tcffq\info\recipe\conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_url_0\conda-build-test-source-url_1668036665884\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_url_0\conda-build-test-source-url_1668036665884\work_moved_conda-build-test-source-url-1.0-0_win-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_url_0\conda-build-test-source-url_1668036665884\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_url_0\conda-build-test-source-url_1668036665884\work_moved_conda-build-test-source-url-1.0-0_win-64_main_build_loop)

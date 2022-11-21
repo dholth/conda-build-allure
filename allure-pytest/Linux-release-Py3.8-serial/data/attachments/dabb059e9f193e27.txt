@@ -1,0 +1,10 @@
+The install/build script(s) for conda-build-test-binary_has_prefix_files_list deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
++ cd /tmp/cb_serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1669035171280/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
++ cat binary-has-prefix
++ cat binary-has-prefix
++ grep /tmp/cb_serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1669035171280/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
++ cat binary-has-prefix-ignored
++ cat binary-has-prefix-ignored
++ grep --invert-match /tmp/cb_serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1669035171280/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh

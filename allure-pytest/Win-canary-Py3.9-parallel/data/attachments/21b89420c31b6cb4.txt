@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for dll-hello
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging dll-hello
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpej8wqrtw\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_recipe_build0\dll-hello_1669036485223\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_recipe_build0\dll-hello_1669036485223\work_moved_dll-hello-1.0.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_recipe_build0\dll-hello_1669036485223\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_recipe_build0\dll-hello_1669036485223\work_moved_dll-hello-1.0.0-0_win-64_main_build_loop)

@@ -1,0 +1,5 @@
+Using legacy MSVC compiler setup.  This will be removed in conda-build 4.0. If this recipe does not use a compiler, this message is safe to ignore.  Otherwise, use {{compiler('<language>')}} jinja2 in requirements/build.
+No files or script found for output test_no_include_recipe_config_arg
+Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.16
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

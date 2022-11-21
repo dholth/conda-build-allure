@@ -1,5 +1,0 @@
-[35mDEBUG   [0m conda_build.index:index.py:796 found subdirs {'noarch', 'osx-64'}
-[32mINFO    [0m conda_build.index:index.py:865 Building repodata for C:\Users\runneradmin\cbtmp\popen-gw1\test_gen_patch_py0\noarch
-[35mDEBUG   [0m conda_build.index:index.py:1367 using patch generator C:\Users\runneradmin\cbtmp\popen-gw1\test_gen_patch_py0\repodata_patch.py for noarch
-[32mINFO    [0m conda_build.index:index.py:865 Building repodata for C:\Users\runneradmin\cbtmp\popen-gw1\test_gen_patch_py0\osx-64
-[35mDEBUG   [0m conda_build.index:index.py:1367 using patch generator C:\Users\runneradmin\cbtmp\popen-gw1\test_gen_patch_py0\repodata_patch.py for osx-64

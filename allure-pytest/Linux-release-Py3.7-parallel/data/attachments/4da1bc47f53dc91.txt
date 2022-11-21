@@ -1,2 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for noarch_test_package
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging noarch_test_package

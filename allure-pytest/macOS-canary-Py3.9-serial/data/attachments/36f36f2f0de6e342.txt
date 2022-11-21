@@ -1,5 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_purge_all
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging test_purge_all
-[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output test_purge_all
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpf2wpfo7x/test_purge_all_1668038614007/work' to '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpf2wpfo7x/test_purge_all_1668038614007/work_moved_test_purge_all-1.0-1_osx-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpf2wpfo7x/test_purge_all_1668038614007/work, dest=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpf2wpfo7x/test_purge_all_1668038614007/work_moved_test_purge_all-1.0-1_osx-64_main_build_loop)

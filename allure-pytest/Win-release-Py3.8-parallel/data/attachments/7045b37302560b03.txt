@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\conda-build\conda-build\relative\path\empty_with_build_script_1669037450631\_h_env
+
+Testing based on recipes is deprecated as of conda-build 3.16.0.  Please adjust your code to pass your desired conda package to test instead.

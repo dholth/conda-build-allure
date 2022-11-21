@@ -1,2 +1,0 @@
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_clean_rpaths0/clean_rpaths_1668034791202/work' to '/tmp/cb/popen-gw0/test_clean_rpaths0/clean_rpaths_1668034791202/work_moved_clean_rpaths-0.0.1-h9bf148f_0_linux-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_clean_rpaths0/clean_rpaths_1668034791202/work, dest=/tmp/cb/popen-gw0/test_clean_rpaths0/clean_rpaths_1668034791202/work_moved_clean_rpaths-0.0.1-h9bf148f_0_linux-64_main_build_loop)

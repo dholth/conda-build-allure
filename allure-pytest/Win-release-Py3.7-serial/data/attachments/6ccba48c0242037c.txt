@@ -1,5 +1,0 @@
-No hash (md5, sha1, sha256) provided for mypkg.zip.  Source download forced.  Add hash to recipe to use source cache.
-
-EnvironmentLocationNotFound: Not a conda environment: C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_hoist_sourc0\mypkg_1668036004584\_h_env
-
-No files or script found for output mypkg

@@ -1,0 +1,4 @@
+No files or script found for output test_python_env_var_present
+The install/build script(s) for test_python_env_var_present deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

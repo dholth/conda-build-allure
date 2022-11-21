@@ -1,0 +1,14 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_downstream_with_test_fail
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging test_downstream_with_test_fail
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_downstream_with_test_fail
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_downstream_tests0/test_downstream_with_test_fail_1669035037344/work' to '/tmp/cb/popen-gw1/test_downstream_tests0/test_downstream_with_test_fail_1669035037344/work_moved_test_downstream_with_test_fail-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_downstream_tests0/test_downstream_with_test_fail_1669035037344/work, dest=/tmp/cb/popen-gw1/test_downstream_tests0/test_downstream_with_test_fail_1669035037344/work_moved_test_downstream_with_test_fail-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_upstream_with_downstream_tests
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging test_upstream_with_downstream_tests
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_upstream_with_downstream_tests
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpui727uqk/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.build:build.py:3121 Testing downstream package: test_downstream_with_test_fail
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpv9tkbm_x/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_downstream_tests0/test_upstream_with_downstream_tests_1669035039008/work' to '/tmp/cb/popen-gw1/test_downstream_tests0/test_upstream_with_downstream_tests_1669035039008/work_moved_test_downstream_with_test_fail-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_downstream_tests0/test_upstream_with_downstream_tests_1669035039008/work, dest=/tmp/cb/popen-gw1/test_downstream_tests0/test_upstream_with_downstream_tests_1669035039008/work_moved_test_downstream_with_test_fail-1.0-0_linux-64)
+[33mWARNING [0m conda_build.build:build.py:2982 Tests failed for test_downstream_with_test_fail-1.0-0.tar.bz2 - moving package to /tmp/cb/popen-gw1/test_downstream_tests0/broken

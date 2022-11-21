@@ -1,3 +1,0 @@
-Returning non-final recipe for cfastpm--0; one or more dependencies was unsatisfiable:
-Host: mpich
-Host: openmpi

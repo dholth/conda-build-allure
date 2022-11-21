@@ -1,7 +1,0 @@
-Attempting to finalize metadata for test_skip_existing_url
-Packaging test_skip_existing_url
-Adding in variants from /tmp/tmpj0a9os9_/info/recipe/conda_build_config.yaml
-Renaming work directory '/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work' to '/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work_moved_test_skip_existing_url-1.0-1_linux-64'
-shutil.move(work)=/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work, dest=/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work_moved_test_skip_existing_url-1.0-1_linux-64)
-Renaming work directory '/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work' to '/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work_moved_test_skip_existing_url-1.0-1_linux-64_main_build_loop'
-shutil.move(work)=/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work, dest=/tmp/cb/popen-gw1/test_skip_existing_url0/test_skip_existing_url_1668034198851/work_moved_test_skip_existing_url-1.0-1_linux-64_main_build_loop)

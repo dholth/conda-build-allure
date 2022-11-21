@@ -1,0 +1,6 @@
+No files or script found for output conda-build-test-jinja2-in-recipe
+The install/build script(s) for conda-build-test-jinja2-in-recipe deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
++ echo
++ exit 0

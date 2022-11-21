@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-setup-py-data
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging conda-build-test-source-setup-py-data
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-source-setup-py-data
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmphluffu7i\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_setu0\conda-build-test-source-setup-py-data_1669037621412\work' to 'C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_setu0\conda-build-test-source-setup-py-data_1669037621412\work_moved_conda-build-test-source-setup-py-data-1.21.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_setu0\conda-build-test-source-setup-py-data_1669037621412\work, dest=C:\Users\runneradmin\cbtmp_serial\test_recipe_builds_source_setu0\conda-build-test-source-setup-py-data_1669037621412\work_moved_conda-build-test-source-setup-py-data-1.21.0-0_win-64_main_build_loop)

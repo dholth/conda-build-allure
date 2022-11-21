@@ -1,0 +1,10 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for entry_points_have_prefix
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging entry_points_have_prefix
+[33mWARNING [0m conda_build.build:build.py:1456 The install/build script(s) for entry_points_have_prefix deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpmp51pfea/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work' to '/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work_moved_entry_points_have_prefix-0.0.1-py38_0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work, dest=/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work_moved_entry_points_have_prefix-0.0.1-py38_0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work' to '/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work_moved_entry_points_have_prefix-0.0.1-py38_0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work, dest=/tmp/cb_serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1669034392949/work_moved_entry_points_have_prefix-0.0.1-py38_0_linux-64_main_build_loop)

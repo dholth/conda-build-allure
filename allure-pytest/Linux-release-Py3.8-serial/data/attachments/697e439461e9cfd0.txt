@@ -1,0 +1,4 @@
+No hash (md5, sha1, sha256) provided for click-6.7-py2.py3-none-any.whl.  Source download forced.  Add hash to recipe to use source cache.
+The install/build script(s) for click deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

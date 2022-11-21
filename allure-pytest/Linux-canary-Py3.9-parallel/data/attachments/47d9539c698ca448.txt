@@ -1,9 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pyyaml
-[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /tmp/tmp7emlveuf/src_cache
-[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: PyYAML-3.11_f50e08ef0f.tar.gz
-[32mINFO    [0m conda_build.source:source.py:85 Downloading https://pypi.io/packages/source/P/PyYAML/PyYAML-3.11.tar.gz
-[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/packages/source/P/PyYAML/PyYAML-3.11.tar.gz'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
-[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=60.0)")': /packages/source/P/PyYAML/PyYAML-3.11.tar.gz
-[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/packages/source/P/PyYAML/PyYAML-3.11.tar.gz'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
-[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='files.pythonhosted.org', port=443): Read timed out. (read timeout=60.0)")': /packages/source/P/PyYAML/PyYAML-3.11.tar.gz
-[32mINFO    [0m conda_build.source:source.py:96 Success

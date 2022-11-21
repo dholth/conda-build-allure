@@ -1,0 +1,65 @@
+Cloning into 'absolute'...
+done.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory.
+Cloning into 'relative'...
+done.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory.
+Cloning into bare repository '/c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/git_cache/C_/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/relative_submodules_1669035340940/work'...
+done.
+Note: checking out '0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at cb37919... added submodules@0
+Cloning into bare repository '/c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/git_cache/C_/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/tmp/tmp2n3i2qhz'...
+done.
+Cloning into 'absolute'...
+done.
+Cloning into 'relative'...
+done.
+From /c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/absolute_sub
+   bbc335e..4ad3948  master     -> origin/master
+From /c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/relative_sub
+   3ce5710..76c9077  master     -> origin/master
+From C:\Users\runneradmin\cbtmp\popen-gw0\test_relative_git_url_submodul0\toplevel
+   cb37919..a256fdf  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/relative_submodules_1669035430269/work'...
+done.
+Note: checking out '1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at a256fdf... added submodules@1
+From /c/Users/runneradmin/cbtmp/popen-gw0/test_relative_git_url_submodul0/toplevel/../relative_sub
+   3ce5710..76c9077  master     -> master
+Cloning into '/tmp/tmpsi59x3o6'...
+done.
+Cloning into 'absolute'...
+done.
+Cloning into 'relative'...
+done.

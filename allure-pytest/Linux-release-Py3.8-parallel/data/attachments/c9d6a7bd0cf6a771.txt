@@ -1,0 +1,11 @@
+/tmp/cb/popen-gw0/test_rm_rf_does_not_remove_rel0/test_rm_rf_does_not_follow_links_1669035598323/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+warning: install_lib: 'build/lib' does not exist -- no Python modules to install
+
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+The install/build script(s) for test_rm_rf_does_not_follow_links deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

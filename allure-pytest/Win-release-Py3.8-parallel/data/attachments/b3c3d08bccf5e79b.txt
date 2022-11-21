@@ -1,0 +1,9 @@
+C:\Users\runneradmin\cbtmp\popen-gw1\test_rm_rf_does_not_remove_rel0\test_rm_rf_does_not_follow_links_1669038487005\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+warning: install_lib: 'build\lib' does not exist -- no Python modules to install
+
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(143): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

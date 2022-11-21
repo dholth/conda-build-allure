@@ -1,0 +1,22 @@
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Binary doesn't have a program header
+Binary doesn't have a program header
+Binary doesn't have a program header
+Binary doesn't have a program header
+Unknown format
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp1dsix3ex/info/recipe) will be used.
++ test -e /tmp/cb_serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1669034356914/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/test.txt
++ test -e /tmp/cb_serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1669034356914/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/lib/libjpeg.so.9
++ test -e /tmp/cb_serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1669034356914/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/lib/libjpeg.so
++ exit 0

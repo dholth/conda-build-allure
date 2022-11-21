@@ -1,9 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for def
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging def
-[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output def
-[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpzn3a9pwr\info\recipe) will be used.
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpzn3a9pwr\info\recipe\conda_build_config.yaml
-[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp2csbaeb7\info\recipe) will be used.
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp2csbaeb7\info\recipe\conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw0\test_about_metadata0\subpackage_has_about_metadata_1668038214447\work' to 'C:\Users\runneradmin\cbtmp\popen-gw0\test_about_metadata0\subpackage_has_about_metadata_1668038214447\work_moved_subpackage_has_about_metadata-1.0-0_win-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw0\test_about_metadata0\subpackage_has_about_metadata_1668038214447\work, dest=C:\Users\runneradmin\cbtmp\popen-gw0\test_about_metadata0\subpackage_has_about_metadata_1668038214447\work_moved_subpackage_has_about_metadata-1.0-0_win-64_main_build_loop)

@@ -1,0 +1,48 @@
+Attempting to finalize metadata for pkg_a
+Packaging pkg_a
+Adding in variants from /tmp/tmpq30hz5ex/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop)
+Attempting to finalize metadata for pkg_b
+Packaging pkg_b
+Adding in variants from /tmp/tmpbdz5ehxz/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64)
+Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop)
+Adding in variants from /tmp/tmpi_owxdgh/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work_moved_pkg_b-1.0.0-0_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work_moved_pkg_b-1.0.0-0_linux-64)
+BUILD START: ['pkg_b-1.0.0-0.tar.bz2']
+source tree in: /tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work
+export PREFIX=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work
+
+Resource usage statistics from building pkg_b:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /tmp/cb/popen-gw0/test_warning_on_file_clobberin0/linux-64/pkg_b-1.0.0-0.tar.bz2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+
+
+The following NEW packages will be INSTALLED:
+
+    pkg_a: 1.0.0-0 file:///tmp/cb/popen-gw0/test_warning_on_file_clobberin0
+    pkg_b: 1.0.0-0 file:///tmp/cb/popen-gw0/test_warning_on_file_clobberin0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... failed

@@ -1,6 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for patch_section_empty
-[32mINFO    [0m conda_build.build:build.py:2297 Packaging patch_section_empty
-[33mWARNING [0m conda_build.build:build.py:1632 No files or script found for output patch_section_empty
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpmdhzw8qu/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_empty_patch0/patch_section_empty_1668034954493/work' to '/tmp/cb_serial/test_recipe_builds_empty_patch0/patch_section_empty_1668034954493/work_moved_patch_section_empty-1.0-0_linux-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_empty_patch0/patch_section_empty_1668034954493/work, dest=/tmp/cb_serial/test_recipe_builds_empty_patch0/patch_section_empty_1668034954493/work_moved_patch_section_empty-1.0-0_linux-64_main_build_loop)

@@ -1,2 +1,0 @@
-Returning non-final recipe for impyla-0.18.0-py38_0; one or more dependencies was unsatisfiable:
-Host: thrift_sasl, thrift

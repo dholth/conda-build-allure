@@ -1,0 +1,104 @@
+Attempting to finalize metadata for test2
+BUILD START: ['test-1.0-0.tar.bz2', 'test2-1.0-0.tar.bz2']
+Copying D:\a\conda-build\conda-build\tests\test-recipes\split-packages\test_files_copying to C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work\
+source tree in: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work
+Packaging test
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging test2
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmps4_mwr04\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test-1.0-0.tar.bz2
+TEST START: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test2-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpm6sh76me\info\recipe\conda_build_config.yaml
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work_moved_test2-1.0-0_win-64'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work_moved_test2-1.0-0_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    test2: 1.0-0 file:///C:/Users/runneradmin/cbtmp/popen-gw1/test_subpackage_recipes_test_f0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+set PREFIX=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\_test_env
+set SRC_DIR=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\test_tmp
+
+(base) %SRC_DIR%>call "%SRC_DIR%\conda_test_env_vars.bat" 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>call "%SRC_DIR%\run_test.bat" 
+
+(base) %SRC_DIR%>if not exist file exit 1 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>if not exist folder/file2 exit 1 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>if not exist source_file exit 1 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>if not exist source_folder/file3 exit
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>exit /B 0 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+Resource usage statistics from testing test2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 108.0K
+   Disk usage: 596B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test2-1.0-0.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work' to 'C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work_moved_test-1.0-0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work, dest=C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\test_1669037880823\work_moved_test-1.0-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test-1.0-0.tar.bz2 ^
+    C:\Users\runneradmin\cbtmp\popen-gw1\test_subpackage_recipes_test_f0\win-64\test2-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test-1.0-0": {
+    "recipe": {}
+  },
+  "test2-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:10.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 108.0K
+Total disk usage observed (not including envs): 596B

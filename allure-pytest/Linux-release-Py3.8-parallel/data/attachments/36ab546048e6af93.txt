@@ -1,0 +1,5 @@
+/tmp/cb/popen-gw0/test_setup_py_data_in_env0/conda-build-test-source-setup-py-data-in-env_1669034727785/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+The install/build script(s) for conda-build-test-source-setup-py-data-in-env deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix

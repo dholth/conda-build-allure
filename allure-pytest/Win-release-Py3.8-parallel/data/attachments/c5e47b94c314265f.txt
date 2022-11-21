@@ -1,2 +1,0 @@
-Source cache directory is: C:\Users\runneradmin\cbtmp\popen-gw0\test_append_hash_to_fn0\src_cache
-Extracting download

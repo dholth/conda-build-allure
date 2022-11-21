@@ -1,3 +1,0 @@
-No files or script found for output split_packages_bash_windows
-Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpytq4tlz6/info/recipe) will be used.
-Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpjdo5l76w/info/recipe) will be used.

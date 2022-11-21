@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pyyaml
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: C:\Users\RUNNER~1\AppData\Local\Temp\tmp888265fj\src_cache
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: PyYAML-3.11_f50e08ef0f.tar.gz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading https://pypi.io/packages/source/P/PyYAML/PyYAML-3.11.tar.gz
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/packages/source/P/PyYAML/PyYAML-3.11.tar.gz'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /packages/source/P/PyYAML/PyYAML-3.11.tar.gz
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/packages/source/P/PyYAML/PyYAML-3.11.tar.gz'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /packages/source/P/PyYAML/PyYAML-3.11.tar.gz
+[32mINFO    [0m conda_build.source:source.py:96 Success

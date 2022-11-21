@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-multiple
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging conda-build-test-source-multiple
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-source-multiple
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpgp826iov/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1669035250000/work' to '/tmp/cb_serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1669035250000/work_moved_conda-build-test-source-multiple-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1669035250000/work, dest=/tmp/cb_serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1669035250000/work_moved_conda-build-test-source-multiple-1.0-0_linux-64_main_build_loop)

@@ -1,3 +1,0 @@
-No hash (md5, sha1, sha256) provided for source-magree_1.1.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
-Returning non-final recipe for r-magree-1.1-r34_0; one or more dependencies was unsatisfiable:
-Build: m2w64_c_win-64, m2w64_fortran_win-64

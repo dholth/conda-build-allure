@@ -1,2 +1,0 @@
-Copying /home/runner/work/conda-build/conda_build_test_recipe to /tmp/cb/popen-gw0/test_relative_path_git_version0/flex_1668034124331/work/
-Attempting to finalize metadata for flex

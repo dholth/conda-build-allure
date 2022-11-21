@@ -1,0 +1,168 @@
+Attempting to finalize metadata for entry_points_have_prefix
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['entry_points_have_prefix-0.0.1-py39_0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: /private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates: 2022.10.11-hecd8cb5_0    defaults
+    certifi:         2022.9.24-py39hecd8cb5_0 defaults
+    libcxx:          14.0.6-h9765a3e_0        defaults
+    libffi:          3.3-hb1e8313_2           defaults
+    ncurses:         6.3-hca72f7f_3           defaults
+    openssl:         1.1.1s-hca72f7f_0        defaults
+    pip:             22.2.2-py39hecd8cb5_0    defaults
+    python:          3.9.15-hdfd78df_0        defaults
+    readline:        8.2-hca72f7f_0           defaults
+    setuptools:      65.5.0-py39hecd8cb5_0    defaults
+    sqlite:          3.39.3-h707629a_0        defaults
+    tk:              8.6.12-h5d9f67b_0        defaults
+    tzdata:          2022f-h04d1e81_0         defaults
+    wheel:           0.37.1-pyhd3eb1b0_0      defaults
+    xz:              5.2.6-hca72f7f_0         defaults
+    zlib:            1.2.13-h4dc903c_0        defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Copying /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/entry_points_have_prefix to /private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work/
+source tree in: /private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work
+export PREFIX=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export BUILD_PREFIX=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/_build_env
+export SRC_DIR=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work
+Using pip 22.2.2 from $PREFIX/lib/python3.9/site-packages/pip (python 3.9)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /private/tmp/pip-ephem-wheel-cache-gwuqktky
+Created temporary directory: /private/tmp/pip-build-tracker-obokzxzl
+Initialized build tracking at /private/tmp/pip-build-tracker-obokzxzl
+Created build tracker: /private/tmp/pip-build-tracker-obokzxzl
+Entered build tracker: /private/tmp/pip-build-tracker-obokzxzl
+Created temporary directory: /private/tmp/pip-install-mth_9eg5
+Processing $SRC_DIR
+  Added file://$SRC_DIR to build tracker '/private/tmp/pip-build-tracker-obokzxzl'
+  Running setup.py (path:$SRC_DIR/setup.py) egg_info for package from file://$SRC_DIR
+  Created temporary directory: /private/tmp/pip-pip-egg-info-2hnxbgfv
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in $SRC_DIR has version 0.0.1, which satisfies requirement test-entry-points-have-prefix==0.0.1 from file://$SRC_DIR
+  Removed test-entry-points-have-prefix==0.0.1 from file://$SRC_DIR from build tracker '/private/tmp/pip-build-tracker-obokzxzl'
+Created temporary directory: /private/tmp/pip-unpack-f8g3345w
+Building wheels for collected packages: test-entry-points-have-prefix
+  Created temporary directory: /private/tmp/pip-wheel-k5gnp6x2
+  Building wheel for test-entry-points-have-prefix (setup.py): started
+  Destination directory: /private/tmp/pip-wheel-k5gnp6x2
+  Building wheel for test-entry-points-have-prefix (setup.py): finished with status 'done'
+  Created wheel for test-entry-points-have-prefix: filename=test_entry_points_have_prefix-0.0.1-py3-none-any.whl size=2243 sha256=bce5b3eaba3e93b8d983427d104a43a36a3ccd9b85979cd21332aed22973223f
+  Stored in directory: /private/tmp/pip-ephem-wheel-cache-gwuqktky/wheels/8d/6a/12/e5f7d5a89c18ed8d8c9084fc7283171144a88e80a944eba766
+Successfully built test-entry-points-have-prefix
+Installing collected packages: test-entry-points-have-prefix
+
+  changing mode of $PREFIX/bin/test_entry_points_have_prefix_CASED to 755
+Successfully installed test-entry-points-have-prefix-0.0.1
+Removed build tracker: '/private/tmp/pip-build-tracker-obokzxzl'
+
+Resource usage statistics from building entry_points_have_prefix:
+   Process count: 4
+   CPU time: Sys=0:00:00.4, User=0:00:00.8
+   Memory: 59.1M
+   Disk usage: 144B
+   Time elapsed: 0:00:08.5
+
+
+Packaging entry_points_have_prefix
+compiling .pyc files...
+number of files: 13
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.13 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/test_entry_points_have_prefix_CASED (text): Patching
+TEST START: /private/tmp/cb_serial/test_recipe_builds_entry_point1/osx-64/entry_points_have_prefix-0.0.1-py39_0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpdjqv5u3l/info/recipe/conda_build_config.yaml
+Renaming work directory '/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work' to '/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work_moved_entry_points_have_prefix-0.0.1-py39_0_osx-64'
+shutil.move(work)=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work, dest=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work_moved_entry_points_have_prefix-0.0.1-py39_0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates:          2022.10.11-hecd8cb5_0 defaults                                                     
+    entry_points_have_prefix: 0.0.1-py39_0          file:///private/tmp/cb_serial/test_recipe_builds_entry_point1
+    libcxx:                   14.0.6-h9765a3e_0     defaults                                                     
+    libffi:                   3.3-hb1e8313_2        defaults                                                     
+    ncurses:                  6.3-hca72f7f_3        defaults                                                     
+    openssl:                  1.1.1s-hca72f7f_0     defaults                                                     
+    python:                   3.9.15-hdfd78df_0     defaults                                                     
+    readline:                 8.2-hca72f7f_0        defaults                                                     
+    ripgrep:                  13.0.0-hc2228c6_0     defaults                                                     
+    sqlite:                   3.39.3-h707629a_0     defaults                                                     
+    tk:                       8.6.12-h5d9f67b_0     defaults                                                     
+    tzdata:                   2022f-h04d1e81_0      defaults                                                     
+    xz:                       5.2.6-hca72f7f_0      defaults                                                     
+    zlib:                     1.2.13-h4dc903c_0     defaults                                                     
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/test_tmp
+entry_point called ok
+$PREFIX/bin/test_entry_points_have_prefix_CASED:#!$PREFIX/bin/python
+$PREFIX/bin/test_entry_points_have_prefix_CASED:# -*- coding: utf-8 -*-
+$PREFIX/bin/test_entry_points_have_prefix_CASED:import re
+$PREFIX/bin/test_entry_points_have_prefix_CASED:import sys
+$PREFIX/bin/test_entry_points_have_prefix_CASED:from entry_points_have_prefix import main
+$PREFIX/bin/test_entry_points_have_prefix_CASED:if __name__ == '__main__':
+$PREFIX/bin/test_entry_points_have_prefix_CASED:    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+$PREFIX/bin/test_entry_points_have_prefix_CASED:    sys.exit(main.main())
+
+Resource usage statistics from testing entry_points_have_prefix:
+   Process count: 4
+   CPU time: Sys=0:00:00.2, User=0:00:00.4
+   Memory: 31.6M
+   Disk usage: 32B
+   Time elapsed: 0:00:06.4
+
+
+TEST END: /private/tmp/cb_serial/test_recipe_builds_entry_point1/osx-64/entry_points_have_prefix-0.0.1-py39_0.tar.bz2
+Renaming work directory '/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work' to '/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work_moved_entry_points_have_prefix-0.0.1-py39_0_osx-64_main_build_loop'
+shutil.move(work)=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work, dest=/private/tmp/cb_serial/test_recipe_builds_entry_point1/entry_points_have_prefix_1669036355720/work_moved_entry_points_have_prefix-0.0.1-py39_0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /private/tmp/cb_serial/test_recipe_builds_entry_point1/osx-64/entry_points_have_prefix-0.0.1-py39_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "entry_points_have_prefix-0.0.1-py39_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:29.0
+CPU usage: sys=0:00:00.6, user=0:00:01.2
+Maximum memory usage observed: 59.1M
+Total disk usage observed (not including envs): 176B

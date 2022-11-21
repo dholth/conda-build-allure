@@ -1,8 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.io:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.io:443 "GET /pypi/impyla/json HTTP/1.1" 301 122
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /pypi/impyla/json HTTP/1.1" 200 15244
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/83/ad/c228a3063c1ae3ebdf8000fd84ba43d916520aa651194465feb92d02840e/impyla-0.18.0.tar.gz HTTP/1.1" 200 258219
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for impyla
-[33mWARNING [0m conda_build.render:render.py:625 Returning non-final recipe for impyla-0.18.0-py38_0; one or more dependencies was unsatisfiable:
-[33mWARNING [0m conda_build.render:render.py:630 Host: thrift_sasl, thrift

@@ -1,0 +1,50 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_xgboost_example/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _py-xgboost-mutex
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _r-xgboost-mutex
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for fake_r_mro-base
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for fake_r_r-base
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for libxgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py-xgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-xgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py-xgboost-cpu
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-xgboost-cpu
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for xgboost
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _py-xgboost-mutex
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _py-xgboost-mutex
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _r-xgboost-mutex
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _r-xgboost-mutex
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging fake_r_mro-base
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output fake_r_mro-base
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging fake_r_r-base
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output fake_r_r-base
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging libxgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output libxgboost
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging py-xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output py-xgboost
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging r-xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output r-xgboost
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging py-xgboost-cpu
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output py-xgboost-cpu
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging r-xgboost-cpu
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output r-xgboost-cpu
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output xgboost
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpx41elrqq/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpx41elrqq/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpg3cee8o4/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpg3cee8o4/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpconyfnby/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp2i5_873g/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpwfktmk7l/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpwfktmk7l/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmphwjocy90/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmphwjocy90/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp704odkf8/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpy66i7qqk/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp63p8l_zc/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp63p8l_zc/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp_mcsrh2g/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpy2s29cup/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpiccrw826/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_loops_do_not_remove_earli0/xgboost_1669036292785/work' to '/tmp/cb/popen-gw0/test_loops_do_not_remove_earli0/xgboost_1669036292785/work_moved_xgboost-0.80-1_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_loops_do_not_remove_earli0/xgboost_1669036292785/work, dest=/tmp/cb/popen-gw0/test_loops_do_not_remove_earli0/xgboost_1669036292785/work_moved_xgboost-0.80-1_linux-64_main_build_loop)

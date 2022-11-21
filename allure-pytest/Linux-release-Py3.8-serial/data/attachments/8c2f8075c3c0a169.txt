@@ -1,0 +1,7 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _cdt_linking
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _cdt_linking
+[33mWARNING [0m conda_build.build:build.py:1456 The install/build script(s) for _cdt_linking deleted the following files (from dependencies) from the prefix:
+['x86_64-conda-linux-gnu/sysroot/lib64/libgfortran.so.5.0.0', 'x86_64-conda-linux-gnu/sysroot/lib64/libgfortran.so.5', 'x86_64-conda-linux-gnu/sysroot/lib64/libgfortran.so', 'x86_64-conda-linux-gnu/sysroot/lib64/libgfortran.so.5.0.0T']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_cdt_linking0/_cdt_linking_1669034585343/work' to '/tmp/cb_serial/test_recipe_builds_cdt_linking0/_cdt_linking_1669034585343/work_moved__cdt_linking-0-h9bf148f_0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_cdt_linking0/_cdt_linking_1669034585343/work, dest=/tmp/cb_serial/test_recipe_builds_cdt_linking0/_cdt_linking_1669034585343/work_moved__cdt_linking-0-h9bf148f_0_linux-64_main_build_loop)

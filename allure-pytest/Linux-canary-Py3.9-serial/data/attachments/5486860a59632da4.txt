@@ -1,0 +1,8 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-test_conda_build_r_tests
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging r-test_conda_build_r_tests
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output r-test_conda_build_r_tests
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmppd0bo8g2/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work' to '/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work_moved_r-test_conda_build_r_tests-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work, dest=/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work_moved_r-test_conda_build_r_tests-1.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work' to '/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work_moved_r-test_conda_build_r_tests-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work, dest=/tmp/cb_serial/test_recipe_builds_r_test_impo0/r-test_conda_build_r_tests_1669035607293/work_moved_r-test_conda_build_r_tests-1.0-0_linux-64_main_build_loop)

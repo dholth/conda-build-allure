@@ -1,0 +1,7 @@
+Not detecting used variables in output script /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/script_autodetect_interpreter/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+The install/build script(s) for my_script_subpackage deleted the following files (from dependencies) from the prefix:
+['lib/libffi.7.so']
+This will cause the post-link checks to mis-report. Please try not to delete and files (DSOs in particular) from the prefix
+No files or script found for output split_packages_autodetect_interpreter
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpqyojqqrq/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpfj7vyy2n/info/recipe) will be used.

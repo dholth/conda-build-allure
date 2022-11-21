@@ -1,0 +1,15 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pkg_a
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging pkg_a
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpq30hz5ex/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1669034907291/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pkg_b
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging pkg_b
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpbdz5ehxz/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034910786/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpi_owxdgh/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work' to '/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work_moved_pkg_b-1.0.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work, dest=/tmp/cb/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1669034923610/work_moved_pkg_b-1.0.0-0_linux-64)
