@@ -1,0 +1,15 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _recursive-build-a
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _recursive-build-b
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _recursive-build-b
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _recursive-build-b
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpz5o8dwh_/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-b_1669131382579/work' to '/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-b_1669131382579/work_moved__recursive-build-b-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-b_1669131382579/work, dest=/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-b_1669131382579/work_moved__recursive-build-b-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging _recursive-build-a
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _recursive-build-a
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp924jh_4q/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-a_1669131383649/work' to '/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-a_1669131383649/work_moved__recursive-build-a-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-a_1669131383649/work, dest=/tmp/cb/popen-gw1/test_recursion_layers0/_recursive-build-a_1669131383649/work_moved__recursive-build-a-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpx5b5a1re/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw1/test_recursion_layers0/conda-build-test-recursive-build-two-layers_1669131393202/work' to '/tmp/cb/popen-gw1/test_recursion_layers0/conda-build-test-recursive-build-two-layers_1669131393202/work_moved_conda-build-test-recursive-build-two-layers-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw1/test_recursion_layers0/conda-build-test-recursive-build-two-layers_1669131393202/work, dest=/tmp/cb/popen-gw1/test_recursion_layers0/conda-build-test-recursive-build-two-layers_1669131393202/work_moved_conda-build-test-recursive-build-two-layers-1.0-0_linux-64_main_build_loop)

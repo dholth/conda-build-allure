@@ -1,0 +1,21 @@
+Cloning into bare repository '/tmp/cb/popen-gw0/test_source_cache_build0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/usr/share/miniconda/envs/test/conda-bld/conda-build-test-source-git-jinja2_1669131559236/work'...
+done.
+Note: switching to '1.20.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 262d444 saving other files...

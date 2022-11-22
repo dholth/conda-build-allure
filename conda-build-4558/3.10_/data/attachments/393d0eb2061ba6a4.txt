@@ -1,0 +1,103 @@
+Adding in variants from internal_defaults
+Adding in variants from config.variant
+Attempting to finalize metadata for test_no_include_recipe_config_arg
+BUILD START: ['test_no_include_recipe_config_arg-1.0-1.tar.bz2']
+source tree in: /tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work
+Packaging test_no_include_recipe_config_arg
+Packaging test_no_include_recipe_config_arg-1.0-1
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /tmp/cb/popen-gw1/test_no_include_recipe_config_0/linux-64/test_no_include_recipe_config_arg-1.0-1.tar.bz2
+Adding in variants from /tmp/tmpq35u1_xr/info/recipe/conda_build_config.yaml
+Renaming work directory '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work' to '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-1_linux-64'
+shutil.move(work)=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work, dest=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-1_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place
+
+
+The following NEW packages will be INSTALLED:
+
+    test_no_include_recipe_config_arg: 1.0-1 file:///tmp/cb/popen-gw1/test_no_include_recipe_config_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place
+export SRC_DIR=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/test_tmp
+A-OK
+
+Resource usage statistics from testing test_no_include_recipe_config_arg:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 12.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: /tmp/cb/popen-gw1/test_no_include_recipe_config_0/linux-64/test_no_include_recipe_config_arg-1.0-1.tar.bz2
+Renaming work directory '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work' to '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-1_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work, dest=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-1_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw1/test_no_include_recipe_config_0/linux-64/test_no_include_recipe_config_arg-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_no_include_recipe_config_arg-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:37.4
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 12.0K
+Total disk usage observed (not including envs): 16B
+BUILD START: ['test_no_include_recipe_config_arg-1.0-2.tar.bz2']
+source tree in: /tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Renaming work directory '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work' to '/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-2_linux-64_main_build_loop'
+shutil.move(work)=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work, dest=/tmp/cb/popen-gw1/test_no_include_recipe_config_0/test_no_include_recipe_config_arg_1669131080486/work_moved_test_no_include_recipe_config_arg-1.0-2_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /tmp/cb/popen-gw1/test_no_include_recipe_config_0/linux-64/test_no_include_recipe_config_arg-1.0-2.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_no_include_recipe_config_arg-1.0-2": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:01.7
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

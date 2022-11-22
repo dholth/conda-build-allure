@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.build:build.py:2292 Packaging conda-build-test-depedencies
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-depedencies
+[32mINFO    [0m conda_build.utils:utils.py:2019 Renaming work directory '/tmp/cb/popen-gw0/test_dependencies_with_notest0/conda-build-test-depedencies_1669131538798/work' to '/tmp/cb/popen-gw0/test_dependencies_with_notest0/conda-build-test-depedencies_1669131538798/work_moved_conda-build-test-depedencies-1.0-abc_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:2026 shutil.move(work)=/tmp/cb/popen-gw0/test_dependencies_with_notest0/conda-build-test-depedencies_1669131538798/work, dest=/tmp/cb/popen-gw0/test_dependencies_with_notest0/conda-build-test-depedencies_1669131538798/work_moved_conda-build-test-depedencies-1.0-abc_linux-64_main_build_loop)

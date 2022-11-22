@@ -1,0 +1,80 @@
+Attempting to finalize metadata for empty_pkg_with_python_build_host
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['empty_pkg_with_python_build_host-1.0-h9bf148f_0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:                        0.1-main                 
+    _openmp_mutex:                        5.1-1_gnu                
+    _sysroot_linux-64_curr_repodata_hack: 3-haa98f57_10            
+    binutils_impl_linux-64:               2.38-h2a08ee3_1          
+    binutils_linux-64:                    2.38.0-hc2dff05_0        
+    bzip2:                                1.0.8-h7b6447c_0         
+    ca-certificates:                      2022.10.11-h06a4308_0    
+    certifi:                              2022.9.24-py310h06a4308_0
+    gcc_impl_linux-64:                    11.2.0-h1234567_1        
+    gcc_linux-64:                         11.2.0-h5c386dc_0        
+    kernel-headers_linux-64:              3.10.0-h57e8cba_10       
+    ld_impl_linux-64:                     2.38-h1181459_1          
+    libffi:                               3.3-he6710b0_2           
+    libgcc-devel_linux-64:                11.2.0-h1234567_1        
+    libgcc-ng:                            11.2.0-h1234567_1        
+    libgomp:                              11.2.0-h1234567_1        
+    libstdcxx-ng:                         11.2.0-h1234567_1        
+    libuuid:                              1.41.5-h5eee18b_0        
+    ncurses:                              6.3-h5eee18b_3           
+    openssl:                              1.1.1s-h7f8727e_0        
+    pip:                                  22.2.2-py310h06a4308_0   
+    python:                               3.10.8-haa1d7c7_0        
+    readline:                             8.2-h5eee18b_0           
+    setuptools:                           65.5.0-py310h06a4308_0   
+    sqlite:                               3.39.3-h5082296_0        
+    sysroot_linux-64:                     2.17-h57e8cba_10         
+    tk:                                   8.6.12-h1ccaba5_0        
+    tzdata:                               2022f-h04d1e81_0         
+    wheel:                                0.37.1-pyhd3eb1b0_0      
+    xz:                                   5.2.6-h5eee18b_0         
+    zlib:                                 1.2.13-h5eee18b_0        
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/work
+export PREFIX=/tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export BUILD_PREFIX=/tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/_build_env
+export SRC_DIR=/tmp/cb/popen-gw0/test_empty_package_with_python0/empty_pkg_with_python_build_host_1669131727742/work
+weeee
+
+Resource usage statistics from building empty_pkg_with_python_build_host:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging empty_pkg_with_python_build_host
