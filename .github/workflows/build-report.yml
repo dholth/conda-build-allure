@@ -16,7 +16,7 @@ jobs:
           path: gh-pages
 
       - name: Call allure-multi action
-        uses: conda/actions/allure-multi@allure-multi
+        uses: conda/actions/allure-multi@main
         with:
           repository: conda/conda-build
           pattern: allure-*
