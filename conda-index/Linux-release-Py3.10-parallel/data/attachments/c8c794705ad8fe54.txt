@@ -1,0 +1,45 @@
+2023-01-06T15:27:35 Subdir: linux-64 Gathering repodata
+2023-01-06T15:27:35 linux-64 Writing pre-patch repodata
+2023-01-06T15:27:35 linux-64 Applying patch instructions
+2023-01-06T15:27:35 linux-64 Writing patched repodata
+2023-01-06T15:27:35 linux-64 Building current_repodata subset
+2023-01-06T15:27:35 linux-64 Writing current_repodata subset
+2023-01-06T15:27:35 linux-64 Writing index HTML
+2023-01-06T15:27:35 Subdir: noarch Gathering repodata
+2023-01-06T15:27:35 noarch Writing pre-patch repodata
+2023-01-06T15:27:35 noarch Applying patch instructions
+2023-01-06T15:27:35 noarch Writing patched repodata
+2023-01-06T15:27:35 noarch Building current_repodata subset
+2023-01-06T15:27:35 noarch Writing current_repodata subset
+2023-01-06T15:27:35 noarch Writing index HTML
+No files or script found for output foobar
+2023-01-06T15:27:37 Subdir: linux-64 Gathering repodata
+2023-01-06T15:27:37 linux-64 Writing pre-patch repodata
+2023-01-06T15:27:37 linux-64 Applying patch instructions
+2023-01-06T15:27:37 linux-64 Writing patched repodata
+2023-01-06T15:27:37 linux-64 Building current_repodata subset
+2023-01-06T15:27:37 Subdir: noarch Gathering repodata
+2023-01-06T15:27:37 noarch Writing pre-patch repodata
+2023-01-06T15:27:37 noarch Applying patch instructions
+2023-01-06T15:27:37 noarch Writing patched repodata
+2023-01-06T15:27:37 noarch Building current_repodata subset
+2023-01-06T15:27:37 linux-64 Writing current_repodata subset
+2023-01-06T15:27:37 linux-64 Writing index HTML
+2023-01-06T15:27:37 noarch Writing current_repodata subset
+2023-01-06T15:27:37 noarch Writing index HTML
+2023-01-06T15:27:40 Subdir: linux-64 Gathering repodata
+2023-01-06T15:27:40 linux-64 Writing pre-patch repodata
+2023-01-06T15:27:40 linux-64 Applying patch instructions
+2023-01-06T15:27:40 linux-64 Writing patched repodata
+2023-01-06T15:27:40 linux-64 Building current_repodata subset
+2023-01-06T15:27:40 linux-64 Writing current_repodata subset
+2023-01-06T15:27:40 linux-64 Writing index HTML
+2023-01-06T15:27:40 Subdir: noarch Gathering repodata
+2023-01-06T15:27:40 noarch Writing pre-patch repodata
+2023-01-06T15:27:40 noarch Applying patch instructions
+2023-01-06T15:27:40 noarch Writing patched repodata
+2023-01-06T15:27:40 noarch Building current_repodata subset
+2023-01-06T15:27:40 noarch Writing current_repodata subset
+2023-01-06T15:27:40 noarch Writing index HTML
++ exit 1
+Tests failed for foobar-1.0-0.tar.bz2 - moving package to /home/runner/work/_temp/parallel/popen-gw0/test_failed_tests_exit_build0/broken

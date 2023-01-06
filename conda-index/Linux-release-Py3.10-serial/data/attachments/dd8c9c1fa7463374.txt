@@ -1,0 +1,31 @@
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
+2023-01-06T15:29:26 Subdir: linux-64 Gathering repodata
+2023-01-06T15:29:26 linux-64 Writing pre-patch repodata
+2023-01-06T15:29:26 linux-64 Applying patch instructions
+2023-01-06T15:29:26 linux-64 Writing patched repodata
+2023-01-06T15:29:26 linux-64 Building current_repodata subset
+2023-01-06T15:29:26 Subdir: noarch Gathering repodata
+2023-01-06T15:29:26 noarch Writing pre-patch repodata
+2023-01-06T15:29:26 noarch Applying patch instructions
+2023-01-06T15:29:26 noarch Writing patched repodata
+2023-01-06T15:29:26 noarch Building current_repodata subset
+2023-01-06T15:29:26 linux-64 Writing current_repodata subset
+2023-01-06T15:29:26 linux-64 Writing index HTML
+2023-01-06T15:29:26 noarch Writing current_repodata subset
+2023-01-06T15:29:26 noarch Writing index HTML
+No hash (md5, sha1, sha256) provided for somefile.tar.  Source download forced.  Add hash to recipe to use source cache.
+No files or script found for output test_patch_read_only
+2023-01-06T15:30:04 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:04 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:04 linux-64 Applying patch instructions
+2023-01-06T15:30:04 linux-64 Writing patched repodata
+2023-01-06T15:30:04 linux-64 Building current_repodata subset
+2023-01-06T15:30:04 Subdir: noarch Gathering repodata
+2023-01-06T15:30:04 noarch Writing pre-patch repodata
+2023-01-06T15:30:04 noarch Applying patch instructions
+2023-01-06T15:30:04 noarch Writing patched repodata
+2023-01-06T15:30:04 noarch Building current_repodata subset
+2023-01-06T15:30:04 linux-64 Writing current_repodata subset
+2023-01-06T15:30:04 linux-64 Writing index HTML
+2023-01-06T15:30:04 noarch Writing current_repodata subset
+2023-01-06T15:30:04 noarch Writing index HTML

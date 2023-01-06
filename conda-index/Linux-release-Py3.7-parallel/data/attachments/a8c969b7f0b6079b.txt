@@ -1,0 +1,9 @@
+No hash (md5, sha1, sha256) provided for cb9f7a236fa5fb1ab0e49199fb07016c598d428f69a3823c1d49f3b38eef86fe.  Source download forced.  Add hash to recipe to use source cache.
+Error: HTTP 404 CONNECTION FAILED for url <file:///home/runner/work/_temp/parallel/popen-gw1/test_build_sh_shellcheck_clean2/src_cache/cb9f7a236fa5fb1ab0e49199fb07016c598d428f69a3823c1d49f3b38eef86fe>
+Elapsed: 00:00.000220
+
+An HTTP error occurred when trying to retrieve this URL.
+HTTP errors are often intermittent, and a simple retry will get you on your way.
+No hash (md5, sha1, sha256) provided for 8a106b58d2b45b4757ebba9f431cfcd6197392b5ee7640ab288b062fa754822c-primary.xml.gz.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for screen-4.0.3-19.el6.x86_64.rpm.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for screen-4.0.3-19.el6.src.rpm.  Source download forced.  Add hash to recipe to use source cache.

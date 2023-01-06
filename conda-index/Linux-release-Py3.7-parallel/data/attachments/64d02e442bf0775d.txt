@@ -1,0 +1,62 @@
+2023-01-06T16:17:01 Subdir: linux-64 Gathering repodata
+2023-01-06T16:17:01 linux-64 Writing pre-patch repodata
+2023-01-06T16:17:01 linux-64 Applying patch instructions
+2023-01-06T16:17:01 linux-64 Writing patched repodata
+2023-01-06T16:17:01 linux-64 Building current_repodata subset
+2023-01-06T16:17:01 Subdir: noarch Gathering repodata
+2023-01-06T16:17:01 noarch Writing pre-patch repodata
+2023-01-06T16:17:01 noarch Applying patch instructions
+2023-01-06T16:17:01 noarch Writing patched repodata
+2023-01-06T16:17:01 noarch Building current_repodata subset
+2023-01-06T16:17:01 noarch Writing current_repodata subset
+2023-01-06T16:17:01 noarch Writing index HTML
+2023-01-06T16:17:01 linux-64 Writing current_repodata subset
+2023-01-06T16:17:01 linux-64 Writing index HTML
++ '[' '!' -f /home/runner/work/_temp/parallel/popen-gw0/test_build_script_and_script_e0/test_build_script_in_output_1673021820347/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/top_level.txt ']'
++ echo wee
+2023-01-06T16:17:08 Subdir: linux-64 Gathering repodata
+2023-01-06T16:17:08 linux-64 Writing pre-patch repodata
+2023-01-06T16:17:08 linux-64 Applying patch instructions
+2023-01-06T16:17:08 linux-64 Writing patched repodata
+2023-01-06T16:17:08 linux-64 Building current_repodata subset
+2023-01-06T16:17:08 Subdir: noarch Gathering repodata
+2023-01-06T16:17:08 noarch Writing pre-patch repodata
+2023-01-06T16:17:08 noarch Applying patch instructions
+2023-01-06T16:17:08 noarch Writing patched repodata
+2023-01-06T16:17:08 noarch Building current_repodata subset
+2023-01-06T16:17:08 linux-64 Writing current_repodata subset
+2023-01-06T16:17:08 linux-64 Writing index HTML
+2023-01-06T16:17:09 noarch Writing current_repodata subset
+2023-01-06T16:17:09 noarch Writing index HTML
+No files or script found for output test_build_script_in_output
+2023-01-06T16:17:12 Subdir: linux-64 Gathering repodata
+2023-01-06T16:17:12 linux-64 Writing pre-patch repodata
+2023-01-06T16:17:12 linux-64 Applying patch instructions
+2023-01-06T16:17:12 linux-64 Writing patched repodata
+2023-01-06T16:17:12 linux-64 Building current_repodata subset
+2023-01-06T16:17:12 Subdir: noarch Gathering repodata
+2023-01-06T16:17:12 noarch Writing pre-patch repodata
+2023-01-06T16:17:12 noarch Applying patch instructions
+2023-01-06T16:17:12 noarch Writing patched repodata
+2023-01-06T16:17:12 noarch Building current_repodata subset
+2023-01-06T16:17:12 noarch Writing current_repodata subset
+2023-01-06T16:17:12 noarch Writing index HTML
+2023-01-06T16:17:12 linux-64 Writing current_repodata subset
+2023-01-06T16:17:12 linux-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpfrbyie3y/info/recipe) will be used.
+2023-01-06T16:17:16 Subdir: linux-64 Gathering repodata
+2023-01-06T16:17:16 linux-64 Writing pre-patch repodata
+2023-01-06T16:17:16 linux-64 Applying patch instructions
+2023-01-06T16:17:16 linux-64 Writing patched repodata
+2023-01-06T16:17:16 linux-64 Building current_repodata subset
+2023-01-06T16:17:16 linux-64 Writing current_repodata subset
+2023-01-06T16:17:16 linux-64 Writing index HTML
+2023-01-06T16:17:16 Subdir: noarch Gathering repodata
+2023-01-06T16:17:16 noarch Writing pre-patch repodata
+2023-01-06T16:17:16 noarch Applying patch instructions
+2023-01-06T16:17:16 noarch Writing patched repodata
+2023-01-06T16:17:16 noarch Building current_repodata subset
+2023-01-06T16:17:16 noarch Writing current_repodata subset
+2023-01-06T16:17:16 noarch Writing index HTML
++ test -e /home/runner/work/_temp/parallel/popen-gw0/test_build_script_and_script_e0/test_build_script_in_output_1673021820347/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/test.txt
++ exit 0

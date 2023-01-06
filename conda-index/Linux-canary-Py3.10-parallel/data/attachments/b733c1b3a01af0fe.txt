@@ -1,0 +1,111 @@
+2023-01-06T15:37:00 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:00 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:00 linux-64 Applying patch instructions
+2023-01-06T15:37:00 linux-64 Writing patched repodata
+2023-01-06T15:37:00 linux-64 Building current_repodata subset
+2023-01-06T15:37:00 linux-64 Writing current_repodata subset
+2023-01-06T15:37:00 linux-64 Writing index HTML
+2023-01-06T15:37:00 Subdir: noarch Gathering repodata
+2023-01-06T15:37:00 noarch Writing pre-patch repodata
+2023-01-06T15:37:00 noarch Applying patch instructions
+2023-01-06T15:37:00 noarch Writing patched repodata
+2023-01-06T15:37:00 noarch Building current_repodata subset
+2023-01-06T15:37:00 noarch Writing current_repodata subset
+2023-01-06T15:37:00 noarch Writing index HTML
+No files or script found for output testprg
+2023-01-06T15:37:16 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:16 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:16 linux-64 Applying patch instructions
+2023-01-06T15:37:16 linux-64 Writing patched repodata
+2023-01-06T15:37:16 linux-64 Building current_repodata subset
+2023-01-06T15:37:16 linux-64 Writing current_repodata subset
+2023-01-06T15:37:16 linux-64 Writing index HTML
+2023-01-06T15:37:16 Subdir: noarch Gathering repodata
+2023-01-06T15:37:16 noarch Writing pre-patch repodata
+2023-01-06T15:37:16 noarch Applying patch instructions
+2023-01-06T15:37:16 noarch Writing patched repodata
+2023-01-06T15:37:16 noarch Building current_repodata subset
+2023-01-06T15:37:16 noarch Writing current_repodata subset
+2023-01-06T15:37:16 noarch Writing index HTML
+2023-01-06T15:37:18 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:18 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:18 linux-64 Applying patch instructions
+2023-01-06T15:37:18 linux-64 Writing patched repodata
+2023-01-06T15:37:18 linux-64 Building current_repodata subset
+2023-01-06T15:37:18 linux-64 Writing current_repodata subset
+2023-01-06T15:37:18 linux-64 Writing index HTML
+2023-01-06T15:37:18 Subdir: noarch Gathering repodata
+2023-01-06T15:37:18 noarch Writing pre-patch repodata
+2023-01-06T15:37:18 noarch Applying patch instructions
+2023-01-06T15:37:18 noarch Writing patched repodata
+2023-01-06T15:37:18 noarch Building current_repodata subset
+2023-01-06T15:37:18 noarch Writing current_repodata subset
+2023-01-06T15:37:18 noarch Writing index HTML
++ pytest -h
++ test -e test_files_folder/text.txt
++ test -e recipe_file
++ exit 0
+2023-01-06T15:37:41 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:41 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:41 linux-64 Applying patch instructions
+2023-01-06T15:37:41 linux-64 Writing patched repodata
+2023-01-06T15:37:41 linux-64 Building current_repodata subset
+2023-01-06T15:37:41 Subdir: noarch Gathering repodata
+2023-01-06T15:37:41 noarch Writing pre-patch repodata
+2023-01-06T15:37:41 noarch Applying patch instructions
+2023-01-06T15:37:41 noarch Writing patched repodata
+2023-01-06T15:37:41 noarch Building current_repodata subset
+2023-01-06T15:37:41 linux-64 Writing current_repodata subset
+2023-01-06T15:37:41 linux-64 Writing index HTML
+2023-01-06T15:37:41 noarch Writing current_repodata subset
+2023-01-06T15:37:41 noarch Writing index HTML
+2023-01-06T15:37:44 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:44 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:44 linux-64 Applying patch instructions
+2023-01-06T15:37:44 linux-64 Writing patched repodata
+2023-01-06T15:37:44 linux-64 Building current_repodata subset
+2023-01-06T15:37:44 linux-64 Writing current_repodata subset
+2023-01-06T15:37:44 linux-64 Writing index HTML
+2023-01-06T15:37:44 Subdir: noarch Gathering repodata
+2023-01-06T15:37:44 noarch Writing pre-patch repodata
+2023-01-06T15:37:44 noarch Applying patch instructions
+2023-01-06T15:37:44 noarch Writing patched repodata
+2023-01-06T15:37:44 noarch Building current_repodata subset
+2023-01-06T15:37:44 noarch Writing current_repodata subset
+2023-01-06T15:37:44 noarch Writing index HTML
+2023-01-06T15:37:47 Subdir: linux-64 Gathering repodata
+2023-01-06T15:37:47 linux-64 Writing pre-patch repodata
+2023-01-06T15:37:47 linux-64 Applying patch instructions
+2023-01-06T15:37:47 linux-64 Writing patched repodata
+2023-01-06T15:37:47 linux-64 Building current_repodata subset
+2023-01-06T15:37:47 Subdir: noarch Gathering repodata
+2023-01-06T15:37:47 linux-64 Writing current_repodata subset
+2023-01-06T15:37:47 linux-64 Writing index HTML
+2023-01-06T15:37:47 noarch Writing pre-patch repodata
+2023-01-06T15:37:47 noarch Applying patch instructions
+2023-01-06T15:37:47 noarch Writing patched repodata
+2023-01-06T15:37:47 noarch Building current_repodata subset
+2023-01-06T15:37:47 noarch Writing current_repodata subset
+2023-01-06T15:37:47 noarch Writing index HTML
++ pytest -h
++ test -e test_files_folder/text.txt
++ test -e recipe_file
++ exit 0
+2023-01-06T15:38:06 Subdir: linux-64 Gathering repodata
+2023-01-06T15:38:06 linux-64 Writing pre-patch repodata
+2023-01-06T15:38:06 linux-64 Applying patch instructions
+2023-01-06T15:38:06 linux-64 Writing patched repodata
+2023-01-06T15:38:06 linux-64 Building current_repodata subset
+2023-01-06T15:38:06 linux-64 Writing current_repodata subset
+2023-01-06T15:38:06 linux-64 Writing index HTML
+2023-01-06T15:38:06 Subdir: noarch Gathering repodata
+2023-01-06T15:38:06 noarch Writing pre-patch repodata
+2023-01-06T15:38:06 noarch Applying patch instructions
+2023-01-06T15:38:06 noarch Writing patched repodata
+2023-01-06T15:38:06 noarch Building current_repodata subset
+2023-01-06T15:38:06 noarch Writing current_repodata subset
+2023-01-06T15:38:06 noarch Writing index HTML
++ pytest -h
++ test -e test_files_folder/text.txt
++ test -e recipe_file
++ exit 0

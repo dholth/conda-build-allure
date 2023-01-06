@@ -1,0 +1,53 @@
+2023-01-06T15:58:32 Error extracting another_bad_package.conda
+Traceback (most recent call last):
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_index/index/sqlitecache.py", line 217, in _extract_to_cache
+    fn, abs_fn, size, mtime
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_index/index/sqlitecache.py", line 251, in extract_to_cache_unconditional
+    package_stream = iter(package_streaming.stream_conda_info(abs_fn))
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_package_streaming/package_streaming.py", line 75, in stream_conda_info
+    return stream_conda_component(filename, fileobj, component)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_package_streaming/package_streaming.py", line 98, in stream_conda_component
+    zf = zipfile.ZipFile(fileobj or filename)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/zipfile.py", line 1258, in __init__
+    self._RealGetContents()
+  File "/usr/share/miniconda/envs/test/lib/python3.7/zipfile.py", line 1325, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+ERROR conda_index.index:extract_subdir_to_cache(794): Package at /home/runner/work/conda-build/conda-build/tests/index_data/corrupt/noarch/another_bad_package.conda did not contain valid index.json data.  Please check the file and remove/redownload if necessary to obtain a valid package.
+2023-01-06T15:58:32 Error extracting bad_package.tar.bz2
+Traceback (most recent call last):
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_index/index/sqlitecache.py", line 217, in _extract_to_cache
+    fn, abs_fn, size, mtime
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_index/index/sqlitecache.py", line 252, in extract_to_cache_unconditional
+    for tar, member in package_stream:
+  File "/usr/share/miniconda/envs/test/lib/python3.7/site-packages/conda_package_streaming/package_streaming.py", line 50, in tar_generator
+    with tarfile_open(fileobj=fileobj, mode="r|") as tar:
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 1605, in open
+    t = cls(name, filemode, stream, **kwargs)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 1486, in __init__
+    self.firstmember = self.next()
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 2289, in next
+    tarinfo = self.tarinfo.fromtarfile(self)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 1094, in fromtarfile
+    buf = tarfile.fileobj.read(BLOCKSIZE)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 537, in read
+    buf = self._read(size)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 545, in _read
+    return self.__read(size)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/tarfile.py", line 570, in __read
+    buf = self.fileobj.read(self.bufsize)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/bz2.py", line 178, in read
+    return self._buffer.read(size)
+  File "/usr/share/miniconda/envs/test/lib/python3.7/_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "/usr/share/miniconda/envs/test/lib/python3.7/_compression.py", line 103, in read
+    data = self._decompressor.decompress(rawblock, size)
+OSError: Invalid data stream
+ERROR conda_index.index:extract_subdir_to_cache(794): Package at /home/runner/work/conda-build/conda-build/tests/index_data/corrupt/noarch/bad_package.tar.bz2 did not contain valid index.json data.  Please check the file and remove/redownload if necessary to obtain a valid package.
+2023-01-06T15:58:33 Subdir: noarch Gathering repodata
+2023-01-06T15:58:33 noarch Writing pre-patch repodata
+2023-01-06T15:58:33 noarch Applying patch instructions
+2023-01-06T15:58:33 noarch Writing patched repodata
+2023-01-06T15:58:33 noarch Building current_repodata subset
+2023-01-06T15:58:33 noarch Writing current_repodata subset
+2023-01-06T15:58:33 noarch Writing index HTML

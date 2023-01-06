@@ -1,0 +1,74 @@
+Attempting to finalize metadata for conda-build-test-source-multiple
+BUILD START: ['conda-build-test-source-multiple-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda_build_test_recipe to /home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work/
+checkout: '1.20.2'
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 262d44497c1b6df66501126dd93354701fdb6df4
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 17 10:51:25 2016 -0500
+
+    saving other files...
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+1.20.2
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+HEAD detached at 1.20.2
+nothing to commit, working tree clean
+
+source tree in: /home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work
+1.20.2
+$SRC_DIR
+1.21.11
+7
+g8670395
+867039564659ec2b8b35a7c50705caa9a1af3941
+
+Resource usage statistics from building conda-build-test-source-multiple:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.2
+   Memory: 22.5M
+   Disk usage: 800B
+   Time elapsed: 0:00:02.0
+
+
+Packaging conda-build-test-source-multiple
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/serial/test_recipe_builds_source_mult0/linux-64/conda-build-test-source-multiple-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp30f8rpdn/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/serial/test_recipe_builds_source_mult0/linux-64/conda-build-test-source-multiple-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work' to '/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work_moved_conda-build-test-source-multiple-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673020028191/work_moved_conda-build-test-source-multiple-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/serial/test_recipe_builds_source_mult0/linux-64/conda-build-test-source-multiple-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-source-multiple-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:08.3
+CPU usage: sys=0:00:00.0, user=0:00:00.2
+Maximum memory usage observed: 22.5M
+Total disk usage observed (not including envs): 800B

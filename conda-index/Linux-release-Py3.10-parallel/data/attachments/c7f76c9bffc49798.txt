@@ -1,0 +1,107 @@
+2023-01-06T15:59:16 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:16 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:16 linux-64 Applying patch instructions
+2023-01-06T15:59:16 linux-64 Writing patched repodata
+2023-01-06T15:59:16 linux-64 Building current_repodata subset
+2023-01-06T15:59:16 linux-64 Writing current_repodata subset
+2023-01-06T15:59:16 linux-64 Writing index HTML
+2023-01-06T15:59:16 Subdir: noarch Gathering repodata
+2023-01-06T15:59:16 noarch Writing pre-patch repodata
+2023-01-06T15:59:16 noarch Applying patch instructions
+2023-01-06T15:59:16 noarch Writing patched repodata
+2023-01-06T15:59:16 noarch Building current_repodata subset
+2023-01-06T15:59:16 noarch Writing current_repodata subset
+2023-01-06T15:59:16 noarch Writing index HTML
+Adding .* to spec 'mkl-include 2018.0.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'mkl 2018.0.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+No files or script found for output mkl
+2023-01-06T15:59:19 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:19 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:19 linux-64 Applying patch instructions
+2023-01-06T15:59:19 linux-64 Writing patched repodata
+2023-01-06T15:59:19 linux-64 Building current_repodata subset
+2023-01-06T15:59:19 linux-64 Writing current_repodata subset
+2023-01-06T15:59:19 linux-64 Writing index HTML
+2023-01-06T15:59:19 Subdir: noarch Gathering repodata
+2023-01-06T15:59:19 noarch Writing pre-patch repodata
+2023-01-06T15:59:19 noarch Applying patch instructions
+2023-01-06T15:59:19 noarch Writing patched repodata
+2023-01-06T15:59:19 noarch Building current_repodata subset
+2023-01-06T15:59:19 noarch Writing current_repodata subset
+2023-01-06T15:59:19 noarch Writing index HTML
+No files or script found for output mkl-include
+2023-01-06T15:59:22 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:22 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:22 linux-64 Applying patch instructions
+2023-01-06T15:59:22 linux-64 Writing patched repodata
+2023-01-06T15:59:22 linux-64 Building current_repodata subset
+2023-01-06T15:59:22 Subdir: noarch Gathering repodata
+2023-01-06T15:59:22 noarch Writing pre-patch repodata
+2023-01-06T15:59:22 noarch Applying patch instructions
+2023-01-06T15:59:22 noarch Writing patched repodata
+2023-01-06T15:59:22 noarch Building current_repodata subset
+2023-01-06T15:59:22 linux-64 Writing current_repodata subset
+2023-01-06T15:59:22 linux-64 Writing index HTML
+2023-01-06T15:59:22 noarch Writing current_repodata subset
+2023-01-06T15:59:22 noarch Writing index HTML
+No files or script found for output mkl-devel
+2023-01-06T15:59:29 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:29 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:29 linux-64 Applying patch instructions
+2023-01-06T15:59:29 linux-64 Writing patched repodata
+2023-01-06T15:59:29 linux-64 Building current_repodata subset
+2023-01-06T15:59:29 linux-64 Writing current_repodata subset
+2023-01-06T15:59:29 linux-64 Writing index HTML
+2023-01-06T15:59:29 Subdir: noarch Gathering repodata
+2023-01-06T15:59:29 noarch Writing pre-patch repodata
+2023-01-06T15:59:29 noarch Applying patch instructions
+2023-01-06T15:59:29 noarch Writing patched repodata
+2023-01-06T15:59:29 noarch Building current_repodata subset
+2023-01-06T15:59:29 noarch Writing current_repodata subset
+2023-01-06T15:59:29 noarch Writing index HTML
+2023-01-06T15:59:31 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:31 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:31 linux-64 Applying patch instructions
+2023-01-06T15:59:31 linux-64 Writing patched repodata
+2023-01-06T15:59:31 linux-64 Building current_repodata subset
+2023-01-06T15:59:32 linux-64 Writing current_repodata subset
+2023-01-06T15:59:32 linux-64 Writing index HTML
+2023-01-06T15:59:32 Subdir: noarch Gathering repodata
+2023-01-06T15:59:32 noarch Writing pre-patch repodata
+2023-01-06T15:59:32 noarch Applying patch instructions
+2023-01-06T15:59:32 noarch Writing patched repodata
+2023-01-06T15:59:32 noarch Building current_repodata subset
+2023-01-06T15:59:32 noarch Writing current_repodata subset
+2023-01-06T15:59:32 noarch Writing index HTML
+No files or script found for output mkl-static
+2023-01-06T15:59:38 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:38 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:38 linux-64 Applying patch instructions
+2023-01-06T15:59:38 linux-64 Writing patched repodata
+2023-01-06T15:59:38 linux-64 Building current_repodata subset
+2023-01-06T15:59:38 Subdir: noarch Gathering repodata
+2023-01-06T15:59:38 noarch Writing pre-patch repodata
+2023-01-06T15:59:38 noarch Applying patch instructions
+2023-01-06T15:59:38 noarch Writing patched repodata
+2023-01-06T15:59:38 noarch Building current_repodata subset
+2023-01-06T15:59:38 linux-64 Writing current_repodata subset
+2023-01-06T15:59:38 linux-64 Writing index HTML
+2023-01-06T15:59:38 noarch Writing current_repodata subset
+2023-01-06T15:59:38 noarch Writing index HTML
+2023-01-06T15:59:41 Subdir: linux-64 Gathering repodata
+2023-01-06T15:59:41 linux-64 Writing pre-patch repodata
+2023-01-06T15:59:41 linux-64 Applying patch instructions
+2023-01-06T15:59:41 linux-64 Writing patched repodata
+2023-01-06T15:59:41 linux-64 Building current_repodata subset
+2023-01-06T15:59:41 linux-64 Writing current_repodata subset
+2023-01-06T15:59:41 linux-64 Writing index HTML
+2023-01-06T15:59:41 Subdir: noarch Gathering repodata
+2023-01-06T15:59:41 noarch Writing pre-patch repodata
+2023-01-06T15:59:41 noarch Applying patch instructions
+2023-01-06T15:59:41 noarch Writing patched repodata
+2023-01-06T15:59:41 noarch Building current_repodata subset
+2023-01-06T15:59:41 noarch Writing current_repodata subset
+2023-01-06T15:59:41 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp1fs20x1o/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmphboehnf4/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp_pwm6b57/info/recipe) will be used.

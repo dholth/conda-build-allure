@@ -1,0 +1,292 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_xgboost_example/conda_build_config.yaml
+Attempting to finalize metadata for _py-xgboost-mutex
+Attempting to finalize metadata for _r-xgboost-mutex
+Attempting to finalize metadata for fake_r_mro-base
+Attempting to finalize metadata for fake_r_r-base
+Attempting to finalize metadata for libxgboost
+Attempting to finalize metadata for py-xgboost
+Attempting to finalize metadata for r-xgboost
+Attempting to finalize metadata for py-xgboost-cpu
+Attempting to finalize metadata for r-xgboost-cpu
+Attempting to finalize metadata for xgboost
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['_py-xgboost-mutex-2.0-cpu_0.tar.bz2', '_r-xgboost-mutex-2.0-cpu_0.tar.bz2', 'fake_r_mro-base-3.5.0-h63cd8cc_1.tar.bz2', 'fake_r_r-base-3.5.0-h9f90389_1.tar.bz2', 'libxgboost-0.80-1.tar.bz2', 'py-xgboost-0.80-1.tar.bz2', 'r-xgboost-0.80-hee1be70_1.tar.bz2', 'r-xgboost-0.80-h7998755_1.tar.bz2', 'py-xgboost-cpu-0.80-1.tar.bz2', 'r-xgboost-cpu-0.80-hee1be70_1.tar.bz2', 'r-xgboost-cpu-0.80-h7998755_1.tar.bz2', 'xgboost-0.80-1.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    make:          4.2.1-h1bed415_1 
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/work
+Packaging _py-xgboost-mutex
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging _r-xgboost-mutex
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging fake_r_mro-base
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging fake_r_r-base
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging libxgboost
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging py-xgboost
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    libxgboost: 0.80-1 file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging r-xgboost
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    fake_r_r-base: 3.5.0-h9f90389_1 file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+    libxgboost:    0.80-1           file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    fake_r_mro-base: 3.5.0-h63cd8cc_1 file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+    libxgboost:      0.80-1           file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging py-xgboost-cpu
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging r-xgboost-cpu
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    fake_r_r-base: 3.5.0-h9f90389_1 file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    fake_r_mro-base: 3.5.0-h63cd8cc_1 file:///home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging xgboost
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_py-xgboost-mutex-2.0-cpu_0.tar.bz2
+Adding in variants from /tmp/tmpfei38wiu/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_py-xgboost-mutex-2.0-cpu_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_r-xgboost-mutex-2.0-cpu_0.tar.bz2
+Adding in variants from /tmp/tmp2fxqez3g/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_r-xgboost-mutex-2.0-cpu_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_mro-base-3.5.0-h63cd8cc_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_mro-base-3.5.0-h63cd8cc_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_r-base-3.5.0-h9f90389_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_r-base-3.5.0-h9f90389_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/libxgboost-0.80-1.tar.bz2
+Adding in variants from /tmp/tmpqjjt9g6o/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/libxgboost-0.80-1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-0.80-1.tar.bz2
+Adding in variants from /tmp/tmp6svlz5ov/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-0.80-1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-hee1be70_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-hee1be70_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-h7998755_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-h7998755_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-cpu-0.80-1.tar.bz2
+Adding in variants from /tmp/tmpu1pro0gn/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-cpu-0.80-1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-hee1be70_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-hee1be70_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-h7998755_1.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-h7998755_1.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/xgboost-0.80-1.tar.bz2
+Adding in variants from /tmp/tmp8wvs7f9t/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/xgboost-0.80-1.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/work_moved_xgboost-0.80-1_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/xgboost_1673021715301/work_moved_xgboost-0.80-1_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_py-xgboost-mutex-2.0-cpu_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/_r-xgboost-mutex-2.0-cpu_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_mro-base-3.5.0-h63cd8cc_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/fake_r_r-base-3.5.0-h9f90389_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/libxgboost-0.80-1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-0.80-1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-hee1be70_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-0.80-h7998755_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/py-xgboost-cpu-0.80-1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-hee1be70_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/r-xgboost-cpu-0.80-h7998755_1.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw1/test_loops_do_not_remove_earli0/linux-64/xgboost-0.80-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "_py-xgboost-mutex-2.0-cpu_0": {
+    "recipe": {}
+  },
+  "_r-xgboost-mutex-2.0-cpu_0": {
+    "recipe": {}
+  },
+  "fake_r_mro-base-3.5.0-h63cd8cc_1": {
+    "recipe": {
+      "r_implementation": "mro-base",
+      "r_version": "3.5.0",
+      "target_platform": "linux-64"
+    }
+  },
+  "fake_r_r-base-3.5.0-h9f90389_1": {
+    "recipe": {
+      "r_implementation": "r-base",
+      "r_version": "3.5.0",
+      "target_platform": "linux-64"
+    }
+  },
+  "libxgboost-0.80-1": {
+    "recipe": {}
+  },
+  "py-xgboost-0.80-1": {
+    "recipe": {}
+  },
+  "py-xgboost-cpu-0.80-1": {
+    "recipe": {}
+  },
+  "r-xgboost-0.80-h7998755_1": {
+    "recipe": {
+      "r_implementation": "mro-base",
+      "target_platform": "linux-64"
+    }
+  },
+  "r-xgboost-0.80-hee1be70_1": {
+    "recipe": {
+      "r_implementation": "r-base",
+      "target_platform": "linux-64"
+    }
+  },
+  "r-xgboost-cpu-0.80-h7998755_1": {
+    "recipe": {
+      "r_implementation": "mro-base",
+      "target_platform": "linux-64"
+    }
+  },
+  "r-xgboost-cpu-0.80-hee1be70_1": {
+    "recipe": {
+      "r_implementation": "r-base",
+      "target_platform": "linux-64"
+    }
+  },
+  "xgboost-0.80-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:46.3
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

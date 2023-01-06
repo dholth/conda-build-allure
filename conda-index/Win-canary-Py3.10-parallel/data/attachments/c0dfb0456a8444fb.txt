@@ -1,0 +1,35 @@
+2023-01-06T15:52:19 Subdir: noarch Gathering repodata
+2023-01-06T15:52:19 noarch Writing pre-patch repodata
+2023-01-06T15:52:19 noarch Applying patch instructions
+2023-01-06T15:52:19 noarch Writing patched repodata
+2023-01-06T15:52:19 noarch Building current_repodata subset
+2023-01-06T15:52:19 Subdir: win-64 Gathering repodata
+2023-01-06T15:52:19 win-64 Writing pre-patch repodata
+2023-01-06T15:52:19 win-64 Applying patch instructions
+2023-01-06T15:52:19 win-64 Writing patched repodata
+2023-01-06T15:52:19 win-64 Building current_repodata subset
+2023-01-06T15:52:21 noarch Writing current_repodata subset
+2023-01-06T15:52:21 noarch Writing index HTML
+2023-01-06T15:52:21 win-64 Writing current_repodata subset
+2023-01-06T15:52:21 win-64 Writing index HTML
+D:\a\_temp\parallel\popen-gw0\test_script_win_creates_exe__s0\script_win_creates_exe_1673020338613\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+D:\a\_temp\parallel\popen-gw0\test_script_win_creates_exe__s0\script_win_creates_exe_1673020338613\_h_env\lib\site-packages\setuptools\command\easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: install_lib: 'build\lib' does not exist -- no Python modules to install
+
+zip_safe flag not set; analyzing archive contents...
+2023-01-06T15:53:03 Subdir: noarch Gathering repodata
+2023-01-06T15:53:03 noarch Writing pre-patch repodata
+2023-01-06T15:53:03 noarch Applying patch instructions
+2023-01-06T15:53:03 noarch Writing patched repodata
+2023-01-06T15:53:03 noarch Building current_repodata subset
+2023-01-06T15:53:03 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:03 win-64 Writing pre-patch repodata
+2023-01-06T15:53:03 win-64 Applying patch instructions
+2023-01-06T15:53:03 win-64 Writing patched repodata
+2023-01-06T15:53:03 win-64 Building current_repodata subset
+2023-01-06T15:53:03 noarch Writing current_repodata subset
+2023-01-06T15:53:03 noarch Writing index HTML
+2023-01-06T15:53:04 win-64 Writing current_repodata subset
+2023-01-06T15:53:04 win-64 Writing index HTML

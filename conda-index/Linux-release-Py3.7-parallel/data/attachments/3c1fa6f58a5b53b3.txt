@@ -1,0 +1,419 @@
+Attempting to finalize metadata for split_package_entry_points1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Attempting to finalize metadata for split_package_entry_points2
+Attempting to finalize metadata for test_split_package_entry_points
+BUILD START: ['split_package_entry_points1-1.0-py37_0.tar.bz2', 'split_package_entry_points2-1.0-py37_0.tar.bz2', 'test_split_package_entry_points-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.12.7-py37h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.4.2-h6a678d5_6        
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.3.1-py37h06a4308_0   
+    python:           3.7.15-h7a1cb2a_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py37h06a4308_0   
+    sqlite:           3.40.0-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.8-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work
+Packaging split_package_entry_points1
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.12.7-py37h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.4.2-h6a678d5_6        
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.3.1-py37h06a4308_0   
+    python:           3.7.15-h7a1cb2a_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py37h06a4308_0   
+    sqlite:           3.40.0-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.8-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+PKG_BUILD_STRING=py37_0
+PKG_CONFIG_PATH=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/pkgconfig
+PYTHONNOUSERSITE=1
+PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+MSYS2_PATH_TYPE=inherit
+pin_run_as_build=OrderedDict([('python', {'min_pin': 'x.x', 'max_pin': 'x.x'}), ('r-base', {'min_pin': 'x.x', 'max_pin': 'x.x'}), ('pkg', {'max_pin': 'x.x'})])
+TOP_PKG_NAME=split_package_entry_points1
+CONDA_PERL=5.26
+STDLIB_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/python3.7
+CONDA_NPY=121
+SHLIB_EXT=.so
+PY3K=1
+CPU_COUNT=2
+DIRTY=
+CONDA_PY=37
+cpu_optimization_target=nocona
+build_platform=linux-64
+PKG_NAME=split_package_entry_points1
+PWD=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work
+TOP_PKG_VERSION=1.0
+PKG_BUILDNUM=0
+LUA_VER=5
+fortran_compiler=gfortran
+R_VER=3.5
+HOME=/home/runner
+LANG=C.UTF-8
+cxx_compiler=gxx
+SP_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/python3.7/site-packages
+CONDA_BUILD=1
+target_platform=linux-64
+PKG_HASH=
+CONDA_LUA=5
+RECIPE_DIR=/home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_entry_points
+ignore_build_only_deps={'numpy', 'python'}
+SUBDIR=linux-64
+PYTHON=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bin/python
+PERL_VER=5.26
+ARCH=64
+ROOT=/usr/share/miniconda/envs/test
+SHLVL=1
+LD_RUN_PATH=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib
+SYS_PYTHON=/usr/share/miniconda/envs/test/bin/python
+HTTPS_PROXY=
+HTTP_PROXY=
+CONDA_R=3.5
+SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work
+extend_keys={'pin_run_as_build', 'ignore_build_only_deps', 'extend_keys', 'ignore_version'}
+BUILD_PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_build_env
+NPY_DISTUTILS_APPEND_FLAGS=1
+SYS_PREFIX=/usr/share/miniconda/envs/test
+CONDA_DEFAULT_ENV=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+PKG_VERSION=1.0
+REQUESTS_CA_BUNDLE=
+CHERE_INVOKING=1
+cran_mirror=https://cran.r-project.org
+PY_VER=3.7
+r_base=3.5
+PATH=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bin:/usr/share/miniconda/envs/test/bin:/usr/share/miniconda/condabin:/usr/share/miniconda/condabin:/home/runner/.local/bin:/opt/pipx_bin:/home/runner/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/runner/.dotnet/tools
+BUILD=x86_64-conda_cos6-linux-gnu
+CMAKE_GENERATOR=Unix Makefiles
+NPY_VER=1.21
+c_compiler=gcc
+_=/usr/bin/env
+
+Resource usage statistics from bundling split_package_entry_points1:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.2
+   Memory: 18.1M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+compiling .pyc files...
+number of files: 3
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/pkg1 (text): Patching
+Packaging split_package_entry_points2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.12.7-py37h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.4.2-h6a678d5_6        
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.3.1-py37h06a4308_0   
+    python:           3.7.15-h7a1cb2a_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py37h06a4308_0   
+    sqlite:           3.40.0-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.8-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling split_package_entry_points2:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.2
+   Memory: 18.1M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.1
+
+
+compiling .pyc files...
+number of files: 3
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/pkg2 (text): Patching
+Packaging test_split_package_entry_points
+number of files: 2
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/top1 (text): Patching
+bin/top2 (text): Patching
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points1-1.0-py37_0.tar.bz2
+Adding in variants from /tmp/tmpkf_vsmeg/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_split_package_entry_points1-1.0-py37_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_split_package_entry_points1-1.0-py37_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:               0.1-main                                                                                                  
+    _openmp_mutex:               5.1-1_gnu                                                                                                 
+    ca-certificates:             2022.10.11-h06a4308_0                                                                                     
+    certifi:                     2022.12.7-py37h06a4308_0                                                                                  
+    ld_impl_linux-64:            2.38-h1181459_1                                                                                           
+    libffi:                      3.4.2-h6a678d5_6                                                                                          
+    libgcc-ng:                   11.2.0-h1234567_1                                                                                         
+    libgomp:                     11.2.0-h1234567_1                                                                                         
+    libstdcxx-ng:                11.2.0-h1234567_1                                                                                         
+    ncurses:                     6.3-h5eee18b_3                                                                                            
+    openssl:                     1.1.1s-h7f8727e_0                                                                                         
+    pip:                         22.3.1-py37h06a4308_0                                                                                     
+    python:                      3.7.15-h7a1cb2a_1                                                                                         
+    readline:                    8.2-h5eee18b_0                                                                                            
+    setuptools:                  65.5.0-py37h06a4308_0                                                                                     
+    split_package_entry_points1: 1.0-py37_0               file:///home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0
+    sqlite:                      3.40.0-h5082296_0                                                                                         
+    tk:                          8.6.12-h1ccaba5_0                                                                                         
+    wheel:                       0.37.1-pyhd3eb1b0_0                                                                                       
+    xz:                          5.2.8-h5eee18b_0                                                                                          
+    zlib:                        1.2.13-h5eee18b_0                                                                                         
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/test_tmp
+Hello pkg1
+===== testing package: split_package_entry_points1-1.0-py37_0 =====
+running test-pkg1.py
+Hello pkg1
+attempting to call  $PREFIX/bin/pkg1
+===== split_package_entry_points1-1.0-py37_0 OK =====
+
+Resource usage statistics from testing split_package_entry_points1:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 18.1M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points1-1.0-py37_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points2-1.0-py37_0.tar.bz2
+Adding in variants from /tmp/tmpk402y5lt/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_split_package_entry_points2-1.0-py37_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_split_package_entry_points2-1.0-py37_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:               0.1-main                                                                                                  
+    _openmp_mutex:               5.1-1_gnu                                                                                                 
+    ca-certificates:             2022.10.11-h06a4308_0                                                                                     
+    certifi:                     2022.12.7-py37h06a4308_0                                                                                  
+    ld_impl_linux-64:            2.38-h1181459_1                                                                                           
+    libffi:                      3.4.2-h6a678d5_6                                                                                          
+    libgcc-ng:                   11.2.0-h1234567_1                                                                                         
+    libgomp:                     11.2.0-h1234567_1                                                                                         
+    libstdcxx-ng:                11.2.0-h1234567_1                                                                                         
+    ncurses:                     6.3-h5eee18b_3                                                                                            
+    openssl:                     1.1.1s-h7f8727e_0                                                                                         
+    pip:                         22.3.1-py37h06a4308_0                                                                                     
+    python:                      3.7.15-h7a1cb2a_1                                                                                         
+    readline:                    8.2-h5eee18b_0                                                                                            
+    setuptools:                  65.5.0-py37h06a4308_0                                                                                     
+    split_package_entry_points2: 1.0-py37_0               file:///home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0
+    sqlite:                      3.40.0-h5082296_0                                                                                         
+    tk:                          8.6.12-h1ccaba5_0                                                                                         
+    wheel:                       0.37.1-pyhd3eb1b0_0                                                                                       
+    xz:                          5.2.8-h5eee18b_0                                                                                          
+    zlib:                        1.2.13-h5eee18b_0                                                                                         
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/test_tmp
+Hello pkg2
+===== testing package: split_package_entry_points2-1.0-py37_0 =====
+running test-pkg2.py
+Hello pkg2
+attempting to call  $PREFIX/bin/pkg2
+===== split_package_entry_points2-1.0-py37_0 OK =====
+
+Resource usage statistics from testing split_package_entry_points2:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 18.7M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points2-1.0-py37_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/test_split_package_entry_points-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpgtsb4dak/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_test_split_package_entry_points-1.0-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_test_split_package_entry_points-1.0-0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:                   0.1-main                                                                                                  
+    _openmp_mutex:                   5.1-1_gnu                                                                                                 
+    ca-certificates:                 2022.10.11-h06a4308_0                                                                                     
+    certifi:                         2022.12.7-py37h06a4308_0                                                                                  
+    ld_impl_linux-64:                2.38-h1181459_1                                                                                           
+    libffi:                          3.4.2-h6a678d5_6                                                                                          
+    libgcc-ng:                       11.2.0-h1234567_1                                                                                         
+    libgomp:                         11.2.0-h1234567_1                                                                                         
+    libstdcxx-ng:                    11.2.0-h1234567_1                                                                                         
+    ncurses:                         6.3-h5eee18b_3                                                                                            
+    openssl:                         1.1.1s-h7f8727e_0                                                                                         
+    pip:                             22.3.1-py37h06a4308_0                                                                                     
+    python:                          3.7.15-h7a1cb2a_1                                                                                         
+    readline:                        8.2-h5eee18b_0                                                                                            
+    setuptools:                      65.5.0-py37h06a4308_0                                                                                     
+    split_package_entry_points1:     1.0-py37_0               file:///home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0
+    split_package_entry_points2:     1.0-py37_0               file:///home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0
+    sqlite:                          3.40.0-h5082296_0                                                                                         
+    test_split_package_entry_points: 1.0-0                    file:///home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0
+    tk:                              8.6.12-h1ccaba5_0                                                                                         
+    wheel:                           0.37.1-pyhd3eb1b0_0                                                                                       
+    xz:                              5.2.8-h5eee18b_0                                                                                          
+    zlib:                            1.2.13-h5eee18b_0                                                                                         
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/test_tmp
+Hello pkg1
+Hello pkg2
+
+Resource usage statistics from testing test_split_package_entry_points:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 21.4M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/test_split_package_entry_points-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_test_split_package_entry_points-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/test_split_package_entry_points_1673021516016/work_moved_test_split_package_entry_points-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points1-1.0-py37_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/split_package_entry_points2-1.0-py37_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_toplevel_entry_points_do_0/linux-64/test_split_package_entry_points-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "split_package_entry_points1-1.0-py37_0": {
+    "recipe": {}
+  },
+  "split_package_entry_points2-1.0-py37_0": {
+    "recipe": {}
+  },
+  "test_split_package_entry_points-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:36.8
+CPU usage: sys=0:00:00.2, user=0:00:00.9
+Maximum memory usage observed: 21.4M
+Total disk usage observed (not including envs): 88B

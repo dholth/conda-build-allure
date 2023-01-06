@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /home/runner/work/_temp/parallel/popen-gw0/test_alternative_url_no_fn0/src_cache
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for a.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: a.tar.bz2
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/archives/a.tar.bz2

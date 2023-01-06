@@ -1,0 +1,33 @@
+2023-01-06T15:48:22 Subdir: linux-64 Gathering repodata
+2023-01-06T15:48:22 linux-64 Writing pre-patch repodata
+2023-01-06T15:48:22 linux-64 Applying patch instructions
+2023-01-06T15:48:22 linux-64 Writing patched repodata
+2023-01-06T15:48:22 linux-64 Building current_repodata subset
+2023-01-06T15:48:22 Subdir: noarch Gathering repodata
+2023-01-06T15:48:22 noarch Writing pre-patch repodata
+2023-01-06T15:48:22 noarch Applying patch instructions
+2023-01-06T15:48:22 noarch Writing patched repodata
+2023-01-06T15:48:22 noarch Building current_repodata subset
+2023-01-06T15:48:22 linux-64 Writing current_repodata subset
+2023-01-06T15:48:22 linux-64 Writing index HTML
+2023-01-06T15:48:22 noarch Writing current_repodata subset
+2023-01-06T15:48:22 noarch Writing index HTML
+/home/runner/work/_temp/serial/test_recipe_builds_jinja_load_1/test-jinja-setuptools_1673020100824/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+/home/runner/work/_temp/serial/test_recipe_builds_jinja_load_1/test-jinja-setuptools_1673020100824/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold/lib/python3.7/site-packages/setuptools/command/easy_install.py:147: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  EasyInstallDeprecationWarning,
+zip_safe flag not set; analyzing archive contents...
+2023-01-06T15:48:38 Subdir: linux-64 Gathering repodata
+2023-01-06T15:48:38 linux-64 Writing pre-patch repodata
+2023-01-06T15:48:38 linux-64 Applying patch instructions
+2023-01-06T15:48:38 linux-64 Writing patched repodata
+2023-01-06T15:48:38 linux-64 Building current_repodata subset
+2023-01-06T15:48:38 Subdir: noarch Gathering repodata
+2023-01-06T15:48:38 noarch Writing pre-patch repodata
+2023-01-06T15:48:38 noarch Applying patch instructions
+2023-01-06T15:48:38 noarch Writing patched repodata
+2023-01-06T15:48:38 noarch Building current_repodata subset
+2023-01-06T15:48:38 linux-64 Writing current_repodata subset
+2023-01-06T15:48:38 linux-64 Writing index HTML
+2023-01-06T15:48:38 noarch Writing current_repodata subset
+2023-01-06T15:48:38 noarch Writing index HTML

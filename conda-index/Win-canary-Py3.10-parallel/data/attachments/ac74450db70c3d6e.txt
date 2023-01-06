@@ -1,0 +1,54 @@
+2023-01-06T15:43:59 Subdir: noarch Gathering repodata
+2023-01-06T15:43:59 noarch Writing pre-patch repodata
+2023-01-06T15:43:59 noarch Applying patch instructions
+2023-01-06T15:43:59 noarch Writing patched repodata
+2023-01-06T15:43:59 noarch Building current_repodata subset
+2023-01-06T15:43:59 Subdir: win-64 Gathering repodata
+2023-01-06T15:43:59 win-64 Writing pre-patch repodata
+2023-01-06T15:43:59 win-64 Applying patch instructions
+2023-01-06T15:43:59 win-64 Writing patched repodata
+2023-01-06T15:43:59 win-64 Building current_repodata subset
+2023-01-06T15:44:00 noarch Writing current_repodata subset
+2023-01-06T15:44:00 noarch Writing index HTML
+2023-01-06T15:44:00 win-64 Writing current_repodata subset
+2023-01-06T15:44:00 win-64 Writing index HTML
+D:\a\_temp\parallel\popen-gw0\test_noarch_python_10\noarch_python_test_package_1673019838683\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: build_py: byte-compiling is disabled, skipping.
+
+warning: install_lib: byte-compiling is disabled, skipping.
+
+warning: no previously-included files matching '*' found under directory 'shell'
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+2023-01-06T15:51:54 Subdir: noarch Gathering repodata
+2023-01-06T15:51:54 noarch Writing pre-patch repodata
+2023-01-06T15:51:54 noarch Applying patch instructions
+2023-01-06T15:51:54 noarch Writing patched repodata
+2023-01-06T15:51:54 noarch Building current_repodata subset
+2023-01-06T15:51:54 Subdir: win-64 Gathering repodata
+2023-01-06T15:51:54 win-64 Writing pre-patch repodata
+2023-01-06T15:51:54 win-64 Applying patch instructions
+2023-01-06T15:51:54 win-64 Writing patched repodata
+2023-01-06T15:51:54 win-64 Building current_repodata subset
+2023-01-06T15:51:55 noarch Writing current_repodata subset
+2023-01-06T15:51:55 noarch Writing index HTML
+2023-01-06T15:51:55 win-64 Writing current_repodata subset
+2023-01-06T15:51:55 win-64 Writing index HTML

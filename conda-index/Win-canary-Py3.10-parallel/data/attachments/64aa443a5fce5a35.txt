@@ -1,0 +1,93 @@
+2023-01-06T15:53:27 Subdir: noarch Gathering repodata
+2023-01-06T15:53:27 noarch Writing pre-patch repodata
+2023-01-06T15:53:27 noarch Applying patch instructions
+2023-01-06T15:53:27 noarch Writing patched repodata
+2023-01-06T15:53:27 noarch Building current_repodata subset
+2023-01-06T15:53:28 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:28 win-64 Writing pre-patch repodata
+2023-01-06T15:53:28 win-64 Applying patch instructions
+2023-01-06T15:53:28 win-64 Writing patched repodata
+2023-01-06T15:53:28 win-64 Building current_repodata subset
+2023-01-06T15:53:28 noarch Writing current_repodata subset
+2023-01-06T15:53:28 noarch Writing index HTML
+2023-01-06T15:53:28 win-64 Writing current_repodata subset
+2023-01-06T15:53:28 win-64 Writing index HTML
+No files or script found for output strong_pinned_package
+2023-01-06T15:53:31 Subdir: noarch Gathering repodata
+2023-01-06T15:53:31 noarch Writing pre-patch repodata
+2023-01-06T15:53:31 noarch Applying patch instructions
+2023-01-06T15:53:31 noarch Writing patched repodata
+2023-01-06T15:53:31 noarch Building current_repodata subset
+2023-01-06T15:53:31 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:31 win-64 Writing pre-patch repodata
+2023-01-06T15:53:31 win-64 Applying patch instructions
+2023-01-06T15:53:31 win-64 Writing patched repodata
+2023-01-06T15:53:31 win-64 Building current_repodata subset
+2023-01-06T15:53:31 noarch Writing current_repodata subset
+2023-01-06T15:53:31 noarch Writing index HTML
+2023-01-06T15:53:32 win-64 Writing current_repodata subset
+2023-01-06T15:53:32 win-64 Writing index HTML
+No files or script found for output test_has_run_exports
+2023-01-06T15:53:34 Subdir: noarch Gathering repodata
+2023-01-06T15:53:34 noarch Writing pre-patch repodata
+2023-01-06T15:53:34 noarch Applying patch instructions
+2023-01-06T15:53:34 noarch Writing patched repodata
+2023-01-06T15:53:34 noarch Building current_repodata subset
+2023-01-06T15:53:35 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:35 win-64 Writing pre-patch repodata
+2023-01-06T15:53:35 win-64 Applying patch instructions
+2023-01-06T15:53:35 win-64 Writing patched repodata
+2023-01-06T15:53:35 win-64 Building current_repodata subset
+2023-01-06T15:53:35 noarch Writing current_repodata subset
+2023-01-06T15:53:35 noarch Writing index HTML
+2023-01-06T15:53:36 win-64 Writing current_repodata subset
+2023-01-06T15:53:36 win-64 Writing index HTML
+No files or script found for output weak_pinned_package
+2023-01-06T15:53:39 Subdir: noarch Gathering repodata
+2023-01-06T15:53:39 noarch Writing pre-patch repodata
+2023-01-06T15:53:39 noarch Applying patch instructions
+2023-01-06T15:53:39 noarch Writing patched repodata
+2023-01-06T15:53:39 noarch Building current_repodata subset
+2023-01-06T15:53:40 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:40 win-64 Writing pre-patch repodata
+2023-01-06T15:53:40 win-64 Applying patch instructions
+2023-01-06T15:53:40 win-64 Writing patched repodata
+2023-01-06T15:53:40 win-64 Building current_repodata subset
+2023-01-06T15:53:40 win-64 Writing current_repodata subset
+2023-01-06T15:53:40 win-64 Writing index HTML
+2023-01-06T15:53:40 noarch Writing current_repodata subset
+2023-01-06T15:53:40 noarch Writing index HTML
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)
+No files or script found for output test_has_run_exports_implicit_weak
+2023-01-06T15:53:44 Subdir: noarch Gathering repodata
+2023-01-06T15:53:44 noarch Writing pre-patch repodata
+2023-01-06T15:53:44 noarch Applying patch instructions
+2023-01-06T15:53:44 noarch Writing patched repodata
+2023-01-06T15:53:44 noarch Building current_repodata subset
+2023-01-06T15:53:44 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:44 win-64 Writing pre-patch repodata
+2023-01-06T15:53:44 win-64 Applying patch instructions
+2023-01-06T15:53:44 win-64 Writing patched repodata
+2023-01-06T15:53:44 win-64 Building current_repodata subset
+2023-01-06T15:53:45 noarch Writing current_repodata subset
+2023-01-06T15:53:45 noarch Writing index HTML
+2023-01-06T15:53:45 win-64 Writing current_repodata subset
+2023-01-06T15:53:45 win-64 Writing index HTML
+2023-01-06T15:53:48 Subdir: noarch Gathering repodata
+2023-01-06T15:53:48 noarch Writing pre-patch repodata
+2023-01-06T15:53:48 noarch Applying patch instructions
+2023-01-06T15:53:48 noarch Writing patched repodata
+2023-01-06T15:53:48 noarch Building current_repodata subset
+2023-01-06T15:53:48 Subdir: win-64 Gathering repodata
+2023-01-06T15:53:48 win-64 Writing pre-patch repodata
+2023-01-06T15:53:48 win-64 Applying patch instructions
+2023-01-06T15:53:48 win-64 Writing patched repodata
+2023-01-06T15:53:48 win-64 Building current_repodata subset
+2023-01-06T15:53:49 win-64 Writing current_repodata subset
+2023-01-06T15:53:49 win-64 Writing index HTML
+2023-01-06T15:53:49 noarch Writing current_repodata subset
+2023-01-06T15:53:49 noarch Writing index HTML
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)
+Adding .* to spec 'weak_pinned_package 1.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'strong_pinned_package 1.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'weak_pinned_package 2.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level

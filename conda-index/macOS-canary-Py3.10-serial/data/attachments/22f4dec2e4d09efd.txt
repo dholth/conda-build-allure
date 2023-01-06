@@ -1,0 +1,49 @@
+Attempting to finalize metadata for selectors-in-imported-templates
+BUILD START: ['selectors-in-imported-templates-1.0-2.tar.bz2']
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work
+
+Resource usage statistics from building selectors-in-imported-templates:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 16.9M
+   Disk usage: 32B
+   Time elapsed: 0:00:02.2
+
+
+Packaging selectors-in-imported-templates
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/osx-64/selectors-in-imported-templates-1.0-2.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpvwon3qz9/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/osx-64/selectors-in-imported-templates-1.0-2.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work_moved_selectors-in-imported-templates-1.0-2_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/selectors-in-imported-templates_1673022116703/work_moved_selectors-in-imported-templates-1.0-2_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_selectors_i0/osx-64/selectors-in-imported-templates-1.0-2.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "selectors-in-imported-templates-1.0-2": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.4
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 16.9M
+Total disk usage observed (not including envs): 32B

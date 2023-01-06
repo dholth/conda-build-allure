@@ -1,0 +1,5 @@
+Attempting to finalize metadata for test_hash_no_apply_to_custom_build_string
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed

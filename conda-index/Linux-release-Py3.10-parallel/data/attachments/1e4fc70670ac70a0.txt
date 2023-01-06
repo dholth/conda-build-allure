@@ -1,0 +1,13 @@
+Source platform 'osx-64' and target platform 'osx-64' are identical. Skipping conversion.
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to osx-arm64
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-32
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-64
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-ppc64
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-ppc64le
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-s390x
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-armv6l
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-armv7l
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to linux-aarch64
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to win-32
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to win-64
+Converting anaconda-4.4.0-np112py36_0.tar.bz2 from osx-64 to win-arm64

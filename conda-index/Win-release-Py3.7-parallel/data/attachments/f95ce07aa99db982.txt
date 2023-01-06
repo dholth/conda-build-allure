@@ -1,0 +1,31 @@
+2023-01-06T16:25:40 Subdir: noarch Gathering repodata
+2023-01-06T16:25:40 Subdir: win-64 Gathering repodata
+2023-01-06T16:25:40 noarch Writing pre-patch repodata
+2023-01-06T16:25:40 win-64 Writing pre-patch repodata
+2023-01-06T16:25:40 noarch Applying patch instructions
+2023-01-06T16:25:40 noarch Writing patched repodata
+2023-01-06T16:25:40 noarch Building current_repodata subset
+2023-01-06T16:25:40 win-64 Applying patch instructions
+2023-01-06T16:25:40 win-64 Writing patched repodata
+2023-01-06T16:25:40 win-64 Building current_repodata subset
+2023-01-06T16:25:41 win-64 Writing current_repodata subset
+2023-01-06T16:25:41 win-64 Writing index HTML
+2023-01-06T16:25:41 noarch Writing current_repodata subset
+2023-01-06T16:25:41 noarch Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw1\test_relative_path_test_artifa0\relative\path\empty_with_build_script_1673022339834\_h_env
+
+2023-01-06T16:25:46 Subdir: noarch Gathering repodata
+2023-01-06T16:25:46 noarch Writing pre-patch repodata
+2023-01-06T16:25:46 noarch Applying patch instructions
+2023-01-06T16:25:46 noarch Writing patched repodata
+2023-01-06T16:25:46 noarch Building current_repodata subset
+2023-01-06T16:25:46 Subdir: win-64 Gathering repodata
+2023-01-06T16:25:46 win-64 Writing pre-patch repodata
+2023-01-06T16:25:46 win-64 Applying patch instructions
+2023-01-06T16:25:46 win-64 Writing patched repodata
+2023-01-06T16:25:46 win-64 Building current_repodata subset
+2023-01-06T16:25:46 noarch Writing current_repodata subset
+2023-01-06T16:25:46 noarch Writing index HTML
+2023-01-06T16:25:46 win-64 Writing current_repodata subset
+2023-01-06T16:25:46 win-64 Writing index HTML

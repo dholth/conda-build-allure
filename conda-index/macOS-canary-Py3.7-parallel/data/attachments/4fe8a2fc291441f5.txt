@@ -1,0 +1,20 @@
+2023-01-06T15:55:04 Subdir: osx-64 Gathering repodata
+2023-01-06T15:55:04 osx-64 Writing pre-patch repodata
+2023-01-06T15:55:04 osx-64 Applying patch instructions
+2023-01-06T15:55:04 osx-64 Writing patched repodata
+2023-01-06T15:55:04 Subdir: noarch Gathering repodata
+2023-01-06T15:55:04 noarch Writing pre-patch repodata
+2023-01-06T15:55:04 noarch Applying patch instructions
+2023-01-06T15:55:04 noarch Writing patched repodata
+2023-01-06T15:55:04 noarch Building current_repodata subset
+2023-01-06T15:55:04 osx-64 Building current_repodata subset
+2023-01-06T15:55:05 osx-64 Writing current_repodata subset
+2023-01-06T15:55:05 noarch Writing current_repodata subset
+2023-01-06T15:55:05 noarch Writing index HTML
+2023-01-06T15:55:05 osx-64 Writing index HTML
+Error: bad_abs_link_src_file2 is a symlink to a path that may not exist after the build is completed (/Users/runner/work/_temp/parallel/popen-gw1/test_symlink_fail0/conda-build-test-symlinks-fail_1673020499451/work/file2)
+Error: bad_relative_link_src_file1 is a symlink to a path that may not exist after the build is completed (../../conda-bld/work/file1)
+Error: bad_relative_outside_nodot_file1 is a symlink to a path that may not exist after the build is completed (dir/../../../conda-bld/work/file1)
+Error: bad_relative_outside_nodot_file2 is a symlink to a path that may not exist after the build is completed (dir/../../../conda-bld/work/file2)
+Error: bad_relative_link_src_file2 is a symlink to a path that may not exist after the build is completed (../../conda-bld/work/file2)
+Error: bad_abs_link_src_file1 is a symlink to a path that may not exist after the build is completed (/Users/runner/work/_temp/parallel/popen-gw1/test_symlink_fail0/conda-build-test-symlinks-fail_1673020499451/work/file1)

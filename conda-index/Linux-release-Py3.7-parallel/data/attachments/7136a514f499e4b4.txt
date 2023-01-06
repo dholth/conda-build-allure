@@ -1,0 +1,7 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): cran.r-project.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://cran.r-project.org:443 "GET /src/contrib/ HTTP/1.1" 200 None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://cran.r-project.org:443 "GET /src/contrib/Archive/ HTTP/1.1" 200 None
+[33mWARNING [0m conda_build.source:source.py:64 No hash (md5, sha1, sha256) provided for source-magree_1.1.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-magree
+[33mWARNING [0m conda_build.render:render.py:624 Returning non-final recipe for r-magree-1.1-r35_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:628 Host: libgcc-ng, libgcc-ng, libgfortran5, libgfortran-ng, feature:/linux-64::__glibc, feature:|@/linux-64::__glibc, __glibc, __glibc

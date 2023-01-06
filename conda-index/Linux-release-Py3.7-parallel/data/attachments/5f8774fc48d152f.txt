@@ -1,0 +1,193 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel/relative'...
+done.
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019027051/work'...
+done.
+Note: switching to '0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at d160125 added submodules@0
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/tmp/tmpjg6n6fp8'...
+done.
+Submodule 'absolute' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019027051/work/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019027051/work/relative'...
+done.
+2023-01-06T15:30:29 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:29 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:29 linux-64 Applying patch instructions
+2023-01-06T15:30:29 linux-64 Writing patched repodata
+2023-01-06T15:30:29 linux-64 Building current_repodata subset
+2023-01-06T15:30:29 linux-64 Writing current_repodata subset
+2023-01-06T15:30:29 linux-64 Writing index HTML
+2023-01-06T15:30:29 Subdir: noarch Gathering repodata
+2023-01-06T15:30:29 noarch Writing pre-patch repodata
+2023-01-06T15:30:29 noarch Applying patch instructions
+2023-01-06T15:30:29 noarch Writing patched repodata
+2023-01-06T15:30:29 noarch Building current_repodata subset
+2023-01-06T15:30:29 noarch Writing current_repodata subset
+2023-01-06T15:30:29 noarch Writing index HTML
+2023-01-06T15:30:34 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:34 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:34 linux-64 Applying patch instructions
+2023-01-06T15:30:34 linux-64 Writing patched repodata
+2023-01-06T15:30:34 linux-64 Building current_repodata subset
+2023-01-06T15:30:34 linux-64 Writing current_repodata subset
+2023-01-06T15:30:34 linux-64 Writing index HTML
+2023-01-06T15:30:34 Subdir: noarch Gathering repodata
+2023-01-06T15:30:34 noarch Writing pre-patch repodata
+2023-01-06T15:30:34 noarch Applying patch instructions
+2023-01-06T15:30:34 noarch Writing patched repodata
+2023-01-06T15:30:34 noarch Building current_repodata subset
+2023-01-06T15:30:34 noarch Writing current_repodata subset
+2023-01-06T15:30:34 noarch Writing index HTML
+2023-01-06T15:30:37 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:37 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:37 linux-64 Applying patch instructions
+2023-01-06T15:30:37 linux-64 Writing patched repodata
+2023-01-06T15:30:37 Subdir: noarch Gathering repodata
+2023-01-06T15:30:37 linux-64 Building current_repodata subset
+2023-01-06T15:30:37 noarch Writing pre-patch repodata
+2023-01-06T15:30:37 noarch Applying patch instructions
+2023-01-06T15:30:37 noarch Writing patched repodata
+2023-01-06T15:30:37 noarch Building current_repodata subset
+2023-01-06T15:30:37 noarch Writing current_repodata subset
+2023-01-06T15:30:37 noarch Writing index HTML
+2023-01-06T15:30:37 linux-64 Writing current_repodata subset
+2023-01-06T15:30:37 linux-64 Writing index HTML
++ echo absolute0relative0
++ diff -wuN /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019027051/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/expected_summaries.txt /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019027051/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/summaries.txt
++ exit 0
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub
+   363f840..b44f254  master     -> origin/master
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   ac8f0c1..0ac0ba7  master     -> origin/master
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel
+   d160125..4a292a2  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019045640/work'...
+done.
+Note: switching to '1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 4a292a2 added submodules@1
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   ac8f0c1..0ac0ba7  master     -> master
+Cloning into '/tmp/tmpwesbzt60'...
+done.
+Submodule 'absolute' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019045640/work/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019045640/work/relative'...
+done.
+2023-01-06T15:30:49 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:49 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:49 linux-64 Applying patch instructions
+2023-01-06T15:30:49 linux-64 Writing patched repodata
+2023-01-06T15:30:49 linux-64 Building current_repodata subset
+2023-01-06T15:30:49 Subdir: noarch Gathering repodata
+2023-01-06T15:30:49 noarch Writing pre-patch repodata
+2023-01-06T15:30:49 noarch Applying patch instructions
+2023-01-06T15:30:49 noarch Writing patched repodata
+2023-01-06T15:30:49 noarch Building current_repodata subset
+2023-01-06T15:30:49 linux-64 Writing current_repodata subset
+2023-01-06T15:30:49 linux-64 Writing index HTML
+2023-01-06T15:30:49 noarch Writing current_repodata subset
+2023-01-06T15:30:49 noarch Writing index HTML
+2023-01-06T15:30:54 Subdir: linux-64 Gathering repodata
+2023-01-06T15:30:54 linux-64 Writing pre-patch repodata
+2023-01-06T15:30:54 linux-64 Applying patch instructions
+2023-01-06T15:30:54 linux-64 Writing patched repodata
+2023-01-06T15:30:54 linux-64 Building current_repodata subset
+2023-01-06T15:30:55 linux-64 Writing current_repodata subset
+2023-01-06T15:30:55 linux-64 Writing index HTML
+2023-01-06T15:30:55 Subdir: noarch Gathering repodata
+2023-01-06T15:30:55 noarch Writing pre-patch repodata
+2023-01-06T15:30:55 noarch Applying patch instructions
+2023-01-06T15:30:55 noarch Writing patched repodata
+2023-01-06T15:30:55 noarch Building current_repodata subset
+2023-01-06T15:30:55 noarch Writing current_repodata subset
+2023-01-06T15:30:55 noarch Writing index HTML
+2023-01-06T15:31:01 Subdir: linux-64 Gathering repodata
+2023-01-06T15:31:01 linux-64 Writing pre-patch repodata
+2023-01-06T15:31:01 linux-64 Applying patch instructions
+2023-01-06T15:31:01 linux-64 Writing patched repodata
+2023-01-06T15:31:01 linux-64 Building current_repodata subset
+2023-01-06T15:31:01 Subdir: noarch Gathering repodata
+2023-01-06T15:31:01 noarch Writing pre-patch repodata
+2023-01-06T15:31:01 noarch Applying patch instructions
+2023-01-06T15:31:01 noarch Writing patched repodata
+2023-01-06T15:31:01 noarch Building current_repodata subset
+2023-01-06T15:31:01 linux-64 Writing current_repodata subset
+2023-01-06T15:31:01 linux-64 Writing index HTML
+2023-01-06T15:31:01 noarch Writing current_repodata subset
+2023-01-06T15:31:01 noarch Writing index HTML
++ echo absolute1relative1
++ diff -wuN /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019045640/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/expected_summaries.txt /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673019045640/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/summaries.txt
++ exit 0

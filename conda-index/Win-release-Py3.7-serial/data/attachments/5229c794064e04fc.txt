@@ -1,0 +1,110 @@
+2023-01-06T16:14:53 Subdir: noarch Gathering repodata
+2023-01-06T16:14:53 noarch Writing pre-patch repodata
+2023-01-06T16:14:53 noarch Applying patch instructions
+2023-01-06T16:14:53 noarch Writing patched repodata
+2023-01-06T16:14:53 noarch Building current_repodata subset
+2023-01-06T16:14:53 Subdir: win-64 Gathering repodata
+2023-01-06T16:14:53 win-64 Writing pre-patch repodata
+2023-01-06T16:14:53 win-64 Applying patch instructions
+2023-01-06T16:14:53 win-64 Writing patched repodata
+2023-01-06T16:14:53 win-64 Building current_repodata subset
+2023-01-06T16:14:53 noarch Writing current_repodata subset
+2023-01-06T16:14:53 noarch Writing index HTML
+2023-01-06T16:14:53 win-64 Writing current_repodata subset
+2023-01-06T16:14:53 win-64 Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_entry_point1\entry_points_have_prefix_1673021690963\_build_env
+
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info
+  writing C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\dependency_links.txt
+  writing entry points to C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\entry_points.txt
+  writing top-level names to C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\top_level.txt
+  writing manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  writing manifest file 'C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-rfi_k0p8\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  Running command python setup.py bdist_wheel
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build\lib
+  creating build\lib\entry_points_have_prefix
+  copying src\entry_points_have_prefix\main.py -> build\lib\entry_points_have_prefix
+  copying src\entry_points_have_prefix\__init__.py -> build\lib\entry_points_have_prefix
+  running egg_info
+  creating src\test_entry_points_have_prefix.egg-info
+  writing src\test_entry_points_have_prefix.egg-info\PKG-INFO
+  writing dependency_links to src\test_entry_points_have_prefix.egg-info\dependency_links.txt
+  writing entry points to src\test_entry_points_have_prefix.egg-info\entry_points.txt
+  writing top-level names to src\test_entry_points_have_prefix.egg-info\top_level.txt
+  writing manifest file 'src\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  reading manifest file 'src\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  writing manifest file 'src\test_entry_points_have_prefix.egg-info\SOURCES.txt'
+  D:\a\_temp\serial\test_recipe_builds_entry_point1\entry_points_have_prefix_1673021690963\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+    warnings.warn(
+  installing to build\bdist.win-amd64\wheel
+  running install
+  running install_lib
+  creating build\bdist.win-amd64
+  creating build\bdist.win-amd64\wheel
+  creating build\bdist.win-amd64\wheel\entry_points_have_prefix
+  copying build\lib\entry_points_have_prefix\main.py -> build\bdist.win-amd64\wheel\.\entry_points_have_prefix
+  copying build\lib\entry_points_have_prefix\__init__.py -> build\bdist.win-amd64\wheel\.\entry_points_have_prefix
+  running install_egg_info
+  Copying src\test_entry_points_have_prefix.egg-info to build\bdist.win-amd64\wheel\.\test_entry_points_have_prefix-0.0.1-py3.10.egg-info
+  running install_scripts
+  creating build\bdist.win-amd64\wheel\test_entry_points_have_prefix-0.0.1.dist-info\WHEEL
+  creating 'C:\Users\runneradmin\AppData\Local\Temp\pip-wheel-mnt6f3gv\test_entry_points_have_prefix-0.0.1-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+  adding 'entry_points_have_prefix/__init__.py'
+  adding 'entry_points_have_prefix/main.py'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/METADATA'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/WHEEL'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/entry_points.txt'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/top_level.txt'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/RECORD'
+  removing build\bdist.win-amd64\wheel
+2023-01-06T16:16:20 Subdir: noarch Gathering repodata
+2023-01-06T16:16:20 noarch Writing pre-patch repodata
+2023-01-06T16:16:20 Subdir: win-64 Gathering repodata
+2023-01-06T16:16:20 noarch Applying patch instructions
+2023-01-06T16:16:20 noarch Writing patched repodata
+2023-01-06T16:16:20 win-64 Writing pre-patch repodata
+2023-01-06T16:16:20 noarch Building current_repodata subset
+2023-01-06T16:16:20 win-64 Applying patch instructions
+2023-01-06T16:16:20 win-64 Writing patched repodata
+2023-01-06T16:16:20 win-64 Building current_repodata subset
+2023-01-06T16:16:21 noarch Writing current_repodata subset
+2023-01-06T16:16:21 win-64 Writing current_repodata subset
+2023-01-06T16:16:21 noarch Writing index HTML
+2023-01-06T16:16:21 win-64 Writing index HTML
+2023-01-06T16:16:26 Subdir: noarch Gathering repodata
+2023-01-06T16:16:26 Subdir: win-64 Gathering repodata
+2023-01-06T16:16:26 noarch Writing pre-patch repodata
+2023-01-06T16:16:26 win-64 Writing pre-patch repodata
+2023-01-06T16:16:26 noarch Applying patch instructions
+2023-01-06T16:16:26 noarch Writing patched repodata
+2023-01-06T16:16:26 win-64 Applying patch instructions
+2023-01-06T16:16:26 win-64 Writing patched repodata
+2023-01-06T16:16:26 noarch Building current_repodata subset
+2023-01-06T16:16:26 win-64 Building current_repodata subset
+2023-01-06T16:16:26 noarch Writing current_repodata subset
+2023-01-06T16:16:26 noarch Writing index HTML
+2023-01-06T16:16:26 win-64 Writing current_repodata subset
+2023-01-06T16:16:26 win-64 Writing index HTML
+2023-01-06T16:16:32 Subdir: noarch Gathering repodata
+2023-01-06T16:16:32 noarch Writing pre-patch repodata
+2023-01-06T16:16:32 noarch Applying patch instructions
+2023-01-06T16:16:32 noarch Writing patched repodata
+2023-01-06T16:16:32 noarch Building current_repodata subset
+2023-01-06T16:16:32 Subdir: win-64 Gathering repodata
+2023-01-06T16:16:32 win-64 Writing pre-patch repodata
+2023-01-06T16:16:32 win-64 Applying patch instructions
+2023-01-06T16:16:32 win-64 Writing patched repodata
+2023-01-06T16:16:32 win-64 Building current_repodata subset
+2023-01-06T16:16:32 noarch Writing current_repodata subset
+2023-01-06T16:16:32 noarch Writing index HTML
+2023-01-06T16:16:32 win-64 Writing current_repodata subset
+2023-01-06T16:16:32 win-64 Writing index HTML

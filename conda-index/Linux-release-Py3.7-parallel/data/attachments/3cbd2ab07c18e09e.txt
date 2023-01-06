@@ -1,0 +1,121 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_pypi_installer_metadata/conda_build_config.yaml
+Attempting to finalize metadata for imagesize
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['imagesize-1.1.0-py39_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.12.7-py39h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.4.2-h6a678d5_6        
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.3.1-py39h06a4308_0   
+    python:           3.9.15-h7a1cb2a_2       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py39h06a4308_0   
+    sqlite:           3.40.0-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    tzdata:           2022g-h04d1e81_0        
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.8-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Source cache directory is: /home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/src_cache
+Downloading source to cache: imagesize-1.1.0_f3832918bc.tar.gz
+Downloading https://pypi.io/packages/source/i/imagesize/imagesize-1.1.0.tar.gz
+Extracting download
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export BUILD_PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/_build_env
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work
+Using pip 22.3.1 from $PREFIX/lib/python3.9/site-packages/pip (python 3.9)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /tmp/pip-build-tracker-hxwzad68
+Initialized build tracking at /tmp/pip-build-tracker-hxwzad68
+Created build tracker: /tmp/pip-build-tracker-hxwzad68
+Entered build tracker: /tmp/pip-build-tracker-hxwzad68
+Created temporary directory: /tmp/pip-install-azfhghkz
+Created temporary directory: /tmp/pip-ephem-wheel-cache-yb2xhlt4
+Processing $SRC_DIR
+  Added file://$SRC_DIR to build tracker '/tmp/pip-build-tracker-hxwzad68'
+  Running setup.py (path:$SRC_DIR/setup.py) egg_info for package from file://$SRC_DIR
+  Created temporary directory: /tmp/pip-pip-egg-info-vprvqasi
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in $SRC_DIR has version 1.1.0, which satisfies requirement imagesize==1.1.0 from file://$SRC_DIR
+  Removed imagesize==1.1.0 from file://$SRC_DIR from build tracker '/tmp/pip-build-tracker-hxwzad68'
+Created temporary directory: /tmp/pip-unpack-fpj6463h
+Building wheels for collected packages: imagesize
+  Created temporary directory: /tmp/pip-wheel-5s7e53i4
+  Building wheel for imagesize (setup.py): started
+  Destination directory: /tmp/pip-wheel-5s7e53i4
+  Building wheel for imagesize (setup.py): finished with status 'done'
+  Created wheel for imagesize: filename=imagesize-1.1.0-py2.py3-none-any.whl size=4422 sha256=d8eb5bbafa6962578a6f8f1c18483fcbf00e33a9851954669690a53799f71b2c
+  Stored in directory: /tmp/pip-ephem-wheel-cache-yb2xhlt4/wheels/d8/f3/b5/af2af56a69cce846852736160581d398e23b023571b5f6e8b2
+Successfully built imagesize
+Installing collected packages: imagesize
+
+Successfully installed imagesize-1.1.0
+Removed build tracker: '/tmp/pip-build-tracker-hxwzad68'
+
+Resource usage statistics from building imagesize:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 18.1M
+   Disk usage: 1.6K
+   Time elapsed: 0:00:02.1
+
+
+Packaging imagesize
+compiling .pyc files...
+number of files: 10
+Fixing permissions
+Packaged license file/s.
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work_moved_imagesize-1.1.0-py39_0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673020746883/work_moved_imagesize-1.1.0-py39_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/linux-64/imagesize-1.1.0-py39_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "imagesize-1.1.0-py39_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:27.2
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 18.1M
+Total disk usage observed (not including envs): 1.6K

@@ -1,0 +1,20 @@
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw0/test_git_describe_info_on_bran0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/home/runner/work/_temp/parallel/popen-gw0/test_git_describe_info_on_bran0/git_describe_number_branch_1673018754631/work'...
+done.
+Switched to a new branch '1.20.2+1'
+2023-01-06T15:25:56 Subdir: linux-64 Gathering repodata
+2023-01-06T15:25:56 linux-64 Writing pre-patch repodata
+2023-01-06T15:25:56 linux-64 Applying patch instructions
+2023-01-06T15:25:56 linux-64 Writing patched repodata
+2023-01-06T15:25:56 Subdir: noarch Gathering repodata
+2023-01-06T15:25:56 linux-64 Building current_repodata subset
+2023-01-06T15:25:56 noarch Writing pre-patch repodata
+2023-01-06T15:25:56 noarch Applying patch instructions
+2023-01-06T15:25:56 noarch Writing patched repodata
+2023-01-06T15:25:56 noarch Building current_repodata subset
+2023-01-06T15:25:56 linux-64 Writing current_repodata subset
+2023-01-06T15:25:56 linux-64 Writing index HTML
+2023-01-06T15:25:56 noarch Writing current_repodata subset
+2023-01-06T15:25:56 noarch Writing index HTML
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.

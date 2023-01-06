@@ -1,0 +1,1 @@
+Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/variants/python_in_build_only/conda_build_config.yaml

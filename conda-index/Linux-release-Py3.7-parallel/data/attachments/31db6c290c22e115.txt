@@ -1,0 +1,34 @@
+2023-01-06T15:32:19 Subdir: linux-64 Gathering repodata
+2023-01-06T15:32:19 linux-64 Writing pre-patch repodata
+2023-01-06T15:32:19 linux-64 Applying patch instructions
+2023-01-06T15:32:19 linux-64 Writing patched repodata
+2023-01-06T15:32:19 linux-64 Building current_repodata subset
+2023-01-06T15:32:19 Subdir: noarch Gathering repodata
+2023-01-06T15:32:19 noarch Writing pre-patch repodata
+2023-01-06T15:32:19 noarch Applying patch instructions
+2023-01-06T15:32:19 noarch Writing patched repodata
+2023-01-06T15:32:19 noarch Building current_repodata subset
+2023-01-06T15:32:19 linux-64 Writing current_repodata subset
+2023-01-06T15:32:19 linux-64 Writing index HTML
+2023-01-06T15:32:19 noarch Writing current_repodata subset
+2023-01-06T15:32:19 noarch Writing index HTML
+/home/runner/work/_temp/parallel/popen-gw1/test_noarch_python_10/noarch_python_test_package_1673019138701/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+warning: build_py: byte-compiling is disabled, skipping.
+
+warning: install_lib: byte-compiling is disabled, skipping.
+
+2023-01-06T15:32:48 Subdir: linux-64 Gathering repodata
+2023-01-06T15:32:48 linux-64 Writing pre-patch repodata
+2023-01-06T15:32:48 linux-64 Applying patch instructions
+2023-01-06T15:32:48 linux-64 Writing patched repodata
+2023-01-06T15:32:48 linux-64 Building current_repodata subset
+2023-01-06T15:32:48 linux-64 Writing current_repodata subset
+2023-01-06T15:32:48 linux-64 Writing index HTML
+2023-01-06T15:32:48 Subdir: noarch Gathering repodata
+2023-01-06T15:32:48 noarch Writing pre-patch repodata
+2023-01-06T15:32:48 noarch Applying patch instructions
+2023-01-06T15:32:48 noarch Writing patched repodata
+2023-01-06T15:32:48 noarch Building current_repodata subset
+2023-01-06T15:32:48 noarch Writing current_repodata subset
+2023-01-06T15:32:48 noarch Writing index HTML

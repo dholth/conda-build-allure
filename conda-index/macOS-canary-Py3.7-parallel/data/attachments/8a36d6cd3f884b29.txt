@@ -1,0 +1,16 @@
+2023-01-06T16:43:41 Subdir: noarch Gathering repodata
+2023-01-06T16:43:41 noarch Writing pre-patch repodata
+2023-01-06T16:43:42 Subdir: osx-64 Gathering repodata
+2023-01-06T16:43:42 noarch Applying patch instructions
+2023-01-06T16:43:42 noarch Writing patched repodata
+2023-01-06T16:43:42 noarch Building current_repodata subset
+2023-01-06T16:43:42 osx-64 Writing pre-patch repodata
+2023-01-06T16:43:42 osx-64 Applying patch instructions
+2023-01-06T16:43:42 osx-64 Writing patched repodata
+2023-01-06T16:43:42 osx-64 Building current_repodata subset
+2023-01-06T16:43:42 noarch Writing current_repodata subset
+2023-01-06T16:43:42 noarch Writing index HTML
+2023-01-06T16:43:42 osx-64 Writing current_repodata subset
+2023-01-06T16:43:42 osx-64 Writing index HTML
+/Users/runner/work/_temp/parallel/popen-gw2/test_get_package_metadata0/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/python3.7/site-packages/setuptools/installer.py:30: SetuptoolsDeprecationWarning: setuptools.installer is deprecated. Requirements should be satisfied by a PEP 517 installer.
+  SetuptoolsDeprecationWarning,

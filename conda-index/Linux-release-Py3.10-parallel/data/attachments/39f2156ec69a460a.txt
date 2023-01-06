@@ -1,0 +1,34 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-git-jinja2
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'linux-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0, subdir=linux-64 db_filename=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/linux-64/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 linux-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 linux-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 linux-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 linux-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 linux-64 cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0, subdir=noarch db_filename=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/noarch/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed linux-64
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'linux-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: linux-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 linux-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0, subdir=linux-64 db_filename=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/linux-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 linux-64 channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0, subdir=noarch db_filename=/home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/index.html to /home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/channeldata.json to /home/runner/work/_temp/parallel/popen-gw1/test_output_build_path_git_sou0/channeldata.json

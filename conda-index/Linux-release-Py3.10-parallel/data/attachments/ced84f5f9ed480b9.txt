@@ -1,0 +1,6 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): cran.r-project.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://cran.r-project.org:443 "GET /src/contrib/ HTTP/1.1" 200 None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://cran.r-project.org:443 "GET /src/contrib/Archive/ HTTP/1.1" 200 None
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for source-rmarkdown_2.19.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/src/contrib/rmarkdown_2.19.tar.gz'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd86844100>, 'Connection to cran.r-project.org timed out. (connect timeout=9.15)')': /src/contrib/rmarkdown_2.19.tar.gz

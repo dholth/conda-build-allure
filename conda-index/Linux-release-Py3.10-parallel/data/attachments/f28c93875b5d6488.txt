@@ -1,0 +1,212 @@
+Attempting to finalize metadata for test_r_env_var_present
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test_r_env_var_present-1.0-r35_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:          0.1-main               
+    _openmp_mutex:          5.1-1_gnu              
+    _r-mutex:               1.0.0-anacondar_1      
+    binutils_impl_linux-64: 2.33.1-he6710b0_7      
+    binutils_linux-64:      2.33.1-h9595d00_15     
+    bwidget:                1.9.11-1               
+    bzip2:                  1.0.8-h7b6447c_0       
+    ca-certificates:        2022.10.11-h06a4308_0  
+    cairo:                  1.16.0-hb05425b_3      
+    curl:                   7.69.1-hbc83047_0      
+    expat:                  2.4.9-h6a678d5_0       
+    fontconfig:             2.14.1-h52c9d5c_1      
+    freetype:               2.12.1-h4a9f257_0      
+    fribidi:                1.0.10-h7b6447c_0      
+    gcc_impl_linux-64:      7.3.0-habb00fd_1       
+    gcc_linux-64:           7.3.0-h553295d_15      
+    gfortran_impl_linux-64: 7.3.0-hdf63c60_1       
+    gfortran_linux-64:      7.3.0-h553295d_15      
+    glib:                   2.69.1-he621ea3_2      
+    graphite2:              1.3.14-h295c915_1      
+    gsl:                    2.4-h14c3975_4         
+    gxx_impl_linux-64:      7.3.0-hdf63c60_1       
+    gxx_linux-64:           7.3.0-h553295d_15      
+    harfbuzz:               4.3.0-hd55b92a_0       
+    icu:                    58.2-he6710b0_3        
+    jpeg:                   9e-h7f8727e_0          
+    krb5:                   1.17.1-h173b8e3_0      
+    ld_impl_linux-64:       2.33.1-h53a641e_7      
+    lerc:                   3.0-h295c915_0         
+    libcurl:                7.69.1-h20c2e04_0      
+    libdeflate:             1.8-h7f8727e_5         
+    libedit:                3.1.20221030-h5eee18b_0
+    libffi:                 3.4.2-h6a678d5_6       
+    libgcc-ng:              11.2.0-h1234567_1      
+    libgfortran-ng:         7.5.0-ha8ba4b0_17      
+    libgfortran4:           7.5.0-ha8ba4b0_17      
+    libgomp:                11.2.0-h1234567_1      
+    libpng:                 1.6.37-hbc83047_0      
+    libssh2:                1.10.0-h8f2d780_0      
+    libstdcxx-ng:           11.2.0-h1234567_1      
+    libtiff:                4.4.0-hecacb30_2       
+    libuuid:                1.41.5-h5eee18b_0      
+    libwebp-base:           1.2.4-h5eee18b_0       
+    libxcb:                 1.15-h7f8727e_0        
+    libxml2:                2.9.14-h74e7548_0      
+    lz4-c:                  1.9.4-h6a678d5_0       
+    make:                   4.2.1-h1bed415_1       
+    ncurses:                6.3-h5eee18b_3         
+    openssl:                1.1.1s-h7f8727e_0      
+    pango:                  1.50.7-h05da053_0      
+    pcre:                   8.45-h295c915_0        
+    pixman:                 0.40.0-h7f8727e_1      
+    r-base:                 3.5.3-h26b83e4_0       
+    readline:               8.2-h5eee18b_0         
+    tk:                     8.6.12-h1ccaba5_0      
+    tktable:                2.10-h14c3975_0        
+    xz:                     5.2.8-h5eee18b_0       
+    zlib:                   1.2.13-h5eee18b_0      
+    zstd:                   1.5.2-ha4553b6_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work
+Packaging test_r_env_var_present
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/linux-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+Adding in variants from /tmp/tmp5m0ukgzg/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work_moved_test_r_env_var_present-1.0-r35_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work_moved_test_r_env_var_present-1.0-r35_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:          0.1-main                                                                                                 
+    _openmp_mutex:          5.1-1_gnu                                                                                                
+    _r-mutex:               1.0.0-anacondar_1                                                                                        
+    binutils_impl_linux-64: 2.33.1-he6710b0_7                                                                                        
+    binutils_linux-64:      2.33.1-h9595d00_15                                                                                       
+    bwidget:                1.9.11-1                                                                                                 
+    bzip2:                  1.0.8-h7b6447c_0                                                                                         
+    ca-certificates:        2022.10.11-h06a4308_0                                                                                    
+    cairo:                  1.16.0-hb05425b_3                                                                                        
+    certifi:                2022.12.7-py310h06a4308_0                                                                                
+    curl:                   7.69.1-hbc83047_0                                                                                        
+    expat:                  2.4.9-h6a678d5_0                                                                                         
+    fontconfig:             2.14.1-h52c9d5c_1                                                                                        
+    freetype:               2.12.1-h4a9f257_0                                                                                        
+    fribidi:                1.0.10-h7b6447c_0                                                                                        
+    gcc_impl_linux-64:      7.3.0-habb00fd_1                                                                                         
+    gcc_linux-64:           7.3.0-h553295d_15                                                                                        
+    gfortran_impl_linux-64: 7.3.0-hdf63c60_1                                                                                         
+    gfortran_linux-64:      7.3.0-h553295d_15                                                                                        
+    glib:                   2.69.1-h4ff587b_1                                                                                        
+    graphite2:              1.3.14-h295c915_1                                                                                        
+    gsl:                    2.4-h14c3975_4                                                                                           
+    gxx_impl_linux-64:      7.3.0-hdf63c60_1                                                                                         
+    gxx_linux-64:           7.3.0-h553295d_15                                                                                        
+    harfbuzz:               4.3.0-hd55b92a_0                                                                                         
+    icu:                    58.2-he6710b0_3                                                                                          
+    jpeg:                   9e-h7f8727e_0                                                                                            
+    krb5:                   1.17.1-h173b8e3_0                                                                                        
+    ld_impl_linux-64:       2.33.1-h53a641e_7                                                                                        
+    lerc:                   3.0-h295c915_0                                                                                           
+    libcurl:                7.69.1-h20c2e04_0                                                                                        
+    libdeflate:             1.8-h7f8727e_5                                                                                           
+    libedit:                3.1.20221030-h5eee18b_0                                                                                  
+    libffi:                 3.3-he6710b0_2                                                                                           
+    libgcc-ng:              11.2.0-h1234567_1                                                                                        
+    libgfortran-ng:         7.5.0-ha8ba4b0_17                                                                                        
+    libgfortran4:           7.5.0-ha8ba4b0_17                                                                                        
+    libgomp:                11.2.0-h1234567_1                                                                                        
+    libpng:                 1.6.37-hbc83047_0                                                                                        
+    libssh2:                1.10.0-h8f2d780_0                                                                                        
+    libstdcxx-ng:           11.2.0-h1234567_1                                                                                        
+    libtiff:                4.4.0-hecacb30_2                                                                                         
+    libuuid:                1.41.5-h5eee18b_0                                                                                        
+    libwebp-base:           1.2.4-h5eee18b_0                                                                                         
+    libxcb:                 1.15-h7f8727e_0                                                                                          
+    libxml2:                2.9.14-h74e7548_0                                                                                        
+    lz4-c:                  1.9.4-h6a678d5_0                                                                                         
+    make:                   4.2.1-h1bed415_1                                                                                         
+    ncurses:                6.3-h5eee18b_3                                                                                           
+    openssl:                1.1.1s-h7f8727e_0                                                                                        
+    pango:                  1.50.7-h05da053_0                                                                                        
+    pcre:                   8.45-h295c915_0                                                                                          
+    pip:                    22.3.1-py310h06a4308_0                                                                                   
+    pixman:                 0.40.0-h7f8727e_1                                                                                        
+    python:                 3.10.4-h12debd9_0                                                                                        
+    r-base:                 3.5.3-h26b83e4_0                                                                                         
+    readline:               8.2-h5eee18b_0                                                                                           
+    setuptools:             65.5.0-py310h06a4308_0                                                                                   
+    sqlite:                 3.40.0-h5082296_0                                                                                        
+    test_r_env_var_present: 1.0-r35_0                 file:///home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0
+    tk:                     8.6.12-h1ccaba5_0                                                                                        
+    tktable:                2.10-h14c3975_0                                                                                          
+    tzdata:                 2022g-h04d1e81_0                                                                                         
+    wheel:                  0.37.1-pyhd3eb1b0_0                                                                                      
+    xz:                     5.2.8-h5eee18b_0                                                                                         
+    zlib:                   1.2.13-h5eee18b_0                                                                                        
+    zstd:                   1.5.2-ha4553b6_0                                                                                         
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/test_tmp
+===== testing package: test_r_env_var_present-1.0-r35_0 =====
+running run_test.py
+===== test_r_env_var_present-1.0-r35_0 OK =====
+
+Resource usage statistics from testing test_r_env_var_present:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 22.5M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/linux-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work_moved_test_r_env_var_present-1.0-r35_0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/test_r_env_var_present_1673019227638/work_moved_test_r_env_var_present-1.0-r35_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_only_r_env_vars_defined0/linux-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_r_env_var_present-1.0-r35_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:41.2
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 22.5M
+Total disk usage observed (not including envs): 16B

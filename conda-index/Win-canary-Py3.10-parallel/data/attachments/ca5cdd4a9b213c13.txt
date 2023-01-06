@@ -1,0 +1,31 @@
+2023-01-06T15:38:36 Subdir: noarch Gathering repodata
+2023-01-06T15:38:36 Subdir: win-64 Gathering repodata
+2023-01-06T15:38:36 noarch Writing pre-patch repodata
+2023-01-06T15:38:36 win-64 Writing pre-patch repodata
+2023-01-06T15:38:36 noarch Applying patch instructions
+2023-01-06T15:38:36 noarch Writing patched repodata
+2023-01-06T15:38:36 noarch Building current_repodata subset
+2023-01-06T15:38:36 win-64 Applying patch instructions
+2023-01-06T15:38:36 win-64 Writing patched repodata
+2023-01-06T15:38:36 win-64 Building current_repodata subset
+2023-01-06T15:38:37 win-64 Writing current_repodata subset
+2023-01-06T15:38:37 win-64 Writing index HTML
+2023-01-06T15:38:37 noarch Writing current_repodata subset
+2023-01-06T15:38:37 noarch Writing index HTML
+Using legacy MSVC compiler setup.  This will be removed in conda-build 4.0. If this recipe does not use a compiler, this message is safe to ignore.  Otherwise, use {{compiler('<language>')}} jinja2 in requirements/build.
+No files or script found for output conda-build-test-dirty-skip-section
+Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
+2023-01-06T15:38:43 Subdir: noarch Gathering repodata
+2023-01-06T15:38:43 noarch Writing pre-patch repodata
+2023-01-06T15:38:43 noarch Applying patch instructions
+2023-01-06T15:38:43 noarch Writing patched repodata
+2023-01-06T15:38:43 noarch Building current_repodata subset
+2023-01-06T15:38:44 Subdir: win-64 Gathering repodata
+2023-01-06T15:38:44 win-64 Writing pre-patch repodata
+2023-01-06T15:38:44 win-64 Applying patch instructions
+2023-01-06T15:38:44 win-64 Writing patched repodata
+2023-01-06T15:38:44 win-64 Building current_repodata subset
+2023-01-06T15:38:44 noarch Writing current_repodata subset
+2023-01-06T15:38:44 noarch Writing index HTML
+2023-01-06T15:38:45 win-64 Writing current_repodata subset
+2023-01-06T15:38:45 win-64 Writing index HTML

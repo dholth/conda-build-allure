@@ -1,0 +1,4 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/31_variant_subkeys/conda_build_config.yaml
+Attempting to finalize metadata for test_variant_subkeys_some_package
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
