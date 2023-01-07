@@ -1,0 +1,32 @@
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_recipe_builds_building_ji2/git_cache/Users/runner/work/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_recipe_builds_building_ji2/mypkg_1673048449209/work'...
+done.
+2023-01-06T23:40:57 Subdir: noarch Gathering repodata
+2023-01-06T23:40:57 noarch Writing pre-patch repodata
+2023-01-06T23:40:57 Subdir: osx-64 Gathering repodata
+2023-01-06T23:40:57 osx-64 Writing pre-patch repodata
+2023-01-06T23:40:57 noarch Applying patch instructions
+2023-01-06T23:40:57 noarch Writing patched repodata
+2023-01-06T23:40:57 noarch Building current_repodata subset
+2023-01-06T23:40:57 osx-64 Applying patch instructions
+2023-01-06T23:40:57 osx-64 Writing patched repodata
+2023-01-06T23:40:57 osx-64 Building current_repodata subset
+2023-01-06T23:40:57 noarch Writing current_repodata subset
+2023-01-06T23:40:57 noarch Writing index HTML
+2023-01-06T23:40:57 osx-64 Writing current_repodata subset
+2023-01-06T23:40:57 osx-64 Writing index HTML
+2023-01-06T23:41:07 Subdir: noarch Gathering repodata
+2023-01-06T23:41:07 Subdir: osx-64 Gathering repodata
+2023-01-06T23:41:07 osx-64 Writing pre-patch repodata
+2023-01-06T23:41:07 osx-64 Applying patch instructions
+2023-01-06T23:41:07 osx-64 Writing patched repodata
+2023-01-06T23:41:07 osx-64 Building current_repodata subset
+2023-01-06T23:41:07 noarch Writing pre-patch repodata
+2023-01-06T23:41:07 noarch Applying patch instructions
+2023-01-06T23:41:07 noarch Writing patched repodata
+2023-01-06T23:41:07 noarch Building current_repodata subset
+2023-01-06T23:41:08 noarch Writing current_repodata subset
+2023-01-06T23:41:08 noarch Writing index HTML
+2023-01-06T23:41:08 osx-64 Writing current_repodata subset
+2023-01-06T23:41:08 osx-64 Writing index HTML

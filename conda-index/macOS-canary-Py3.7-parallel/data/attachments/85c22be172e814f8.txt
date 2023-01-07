@@ -1,0 +1,81 @@
+2023-01-06T23:42:58 Subdir: noarch Gathering repodata
+2023-01-06T23:42:58 noarch Writing pre-patch repodata
+2023-01-06T23:42:58 noarch Applying patch instructions
+2023-01-06T23:42:58 noarch Writing patched repodata
+2023-01-06T23:42:58 noarch Building current_repodata subset
+2023-01-06T23:42:58 Subdir: osx-64 Gathering repodata
+2023-01-06T23:42:58 osx-64 Writing pre-patch repodata
+2023-01-06T23:42:58 osx-64 Applying patch instructions
+2023-01-06T23:42:58 osx-64 Writing patched repodata
+2023-01-06T23:42:58 osx-64 Building current_repodata subset
+2023-01-06T23:42:59 noarch Writing current_repodata subset
+2023-01-06T23:42:59 noarch Writing index HTML
+2023-01-06T23:42:59 osx-64 Writing current_repodata subset
+2023-01-06T23:42:59 osx-64 Writing index HTML
+Adding .* to spec 'zlib 1.2.11' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'jpeg 9b' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+No files or script found for output my_script_subpackage
+2023-01-06T23:43:25 Subdir: noarch Gathering repodata
+2023-01-06T23:43:25 noarch Writing pre-patch repodata
+2023-01-06T23:43:25 noarch Applying patch instructions
+2023-01-06T23:43:25 noarch Writing patched repodata
+2023-01-06T23:43:25 noarch Building current_repodata subset
+2023-01-06T23:43:25 Subdir: osx-64 Gathering repodata
+2023-01-06T23:43:25 osx-64 Writing pre-patch repodata
+2023-01-06T23:43:25 osx-64 Applying patch instructions
+2023-01-06T23:43:25 osx-64 Writing patched repodata
+2023-01-06T23:43:25 osx-64 Building current_repodata subset
+2023-01-06T23:43:26 noarch Writing current_repodata subset
+2023-01-06T23:43:26 noarch Writing index HTML
+2023-01-06T23:43:26 osx-64 Writing current_repodata subset
+2023-01-06T23:43:26 osx-64 Writing index HTML
+No files or script found for output my_script_subpackage_2
+2023-01-06T23:43:38 Subdir: noarch Gathering repodata
+2023-01-06T23:43:38 noarch Writing pre-patch repodata
+2023-01-06T23:43:38 noarch Applying patch instructions
+2023-01-06T23:43:38 noarch Writing patched repodata
+2023-01-06T23:43:38 noarch Building current_repodata subset
+2023-01-06T23:43:38 Subdir: osx-64 Gathering repodata
+2023-01-06T23:43:38 osx-64 Writing pre-patch repodata
+2023-01-06T23:43:38 osx-64 Applying patch instructions
+2023-01-06T23:43:38 osx-64 Writing patched repodata
+2023-01-06T23:43:38 osx-64 Building current_repodata subset
+2023-01-06T23:43:38 noarch Writing current_repodata subset
+2023-01-06T23:43:38 noarch Writing index HTML
+2023-01-06T23:43:38 osx-64 Writing current_repodata subset
+2023-01-06T23:43:38 osx-64 Writing index HTML
+No files or script found for output split_packages_compose_run_requirements_from_subpackages
+2023-01-06T23:43:49 Subdir: noarch Gathering repodata
+2023-01-06T23:43:49 Subdir: osx-64 Gathering repodata
+2023-01-06T23:43:49 osx-64 Writing pre-patch repodata
+2023-01-06T23:43:49 noarch Writing pre-patch repodata
+2023-01-06T23:43:49 osx-64 Applying patch instructions
+2023-01-06T23:43:49 osx-64 Writing patched repodata
+2023-01-06T23:43:49 osx-64 Building current_repodata subset
+2023-01-06T23:43:49 noarch Applying patch instructions
+2023-01-06T23:43:49 noarch Writing patched repodata
+2023-01-06T23:43:49 noarch Building current_repodata subset
+2023-01-06T23:43:49 osx-64 Writing current_repodata subset
+2023-01-06T23:43:49 osx-64 Writing index HTML
+2023-01-06T23:43:49 noarch Writing current_repodata subset
+2023-01-06T23:43:49 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp99b9df0f/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp74b3zzez/info/recipe) will be used.
+2023-01-06T23:44:01 Subdir: noarch Gathering repodata
+2023-01-06T23:44:01 noarch Writing pre-patch repodata
+2023-01-06T23:44:01 noarch Applying patch instructions
+2023-01-06T23:44:01 noarch Writing patched repodata
+2023-01-06T23:44:01 Subdir: osx-64 Gathering repodata
+2023-01-06T23:44:01 osx-64 Writing pre-patch repodata
+2023-01-06T23:44:01 osx-64 Applying patch instructions
+2023-01-06T23:44:01 osx-64 Writing patched repodata
+2023-01-06T23:44:01 noarch Building current_repodata subset
+2023-01-06T23:44:01 osx-64 Building current_repodata subset
+2023-01-06T23:44:02 noarch Writing current_repodata subset
+2023-01-06T23:44:02 noarch Writing index HTML
+2023-01-06T23:44:02 osx-64 Writing current_repodata subset
+2023-01-06T23:44:02 osx-64 Writing index HTML
+++ uname
++ '[' Darwin == Darwin ']'
++ test -e /Users/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_compos0/split_packages_compose_run_requirements_from_subpackages_1673048571612/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libz.dylib
++ test -e /Users/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_compos0/split_packages_compose_run_requirements_from_subpackages_1673048571612/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libjpeg.dylib

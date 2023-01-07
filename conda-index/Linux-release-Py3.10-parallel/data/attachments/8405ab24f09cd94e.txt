@@ -1,0 +1,45 @@
+2023-01-06T21:21:05 Subdir: linux-64 Gathering repodata
+2023-01-06T21:21:05 linux-64 Writing pre-patch repodata
+2023-01-06T21:21:05 linux-64 Applying patch instructions
+2023-01-06T21:21:05 linux-64 Writing patched repodata
+2023-01-06T21:21:05 linux-64 Building current_repodata subset
+2023-01-06T21:21:05 linux-64 Writing current_repodata subset
+2023-01-06T21:21:05 linux-64 Writing index HTML
+2023-01-06T21:21:05 Subdir: noarch Gathering repodata
+2023-01-06T21:21:05 noarch Writing pre-patch repodata
+2023-01-06T21:21:05 noarch Applying patch instructions
+2023-01-06T21:21:05 noarch Writing patched repodata
+2023-01-06T21:21:05 noarch Building current_repodata subset
+2023-01-06T21:21:05 noarch Writing current_repodata subset
+2023-01-06T21:21:05 noarch Writing index HTML
+No files or script found for output output_2
+2023-01-06T21:21:08 Subdir: linux-64 Gathering repodata
+2023-01-06T21:21:08 linux-64 Writing pre-patch repodata
+2023-01-06T21:21:08 linux-64 Applying patch instructions
+2023-01-06T21:21:08 linux-64 Writing patched repodata
+2023-01-06T21:21:08 linux-64 Building current_repodata subset
+2023-01-06T21:21:08 linux-64 Writing current_repodata subset
+2023-01-06T21:21:08 linux-64 Writing index HTML
+2023-01-06T21:21:08 Subdir: noarch Gathering repodata
+2023-01-06T21:21:08 noarch Writing pre-patch repodata
+2023-01-06T21:21:08 noarch Applying patch instructions
+2023-01-06T21:21:08 noarch Writing patched repodata
+2023-01-06T21:21:08 noarch Building current_repodata subset
+2023-01-06T21:21:08 noarch Writing current_repodata subset
+2023-01-06T21:21:08 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp3un54yvw/info/recipe) will be used.
+2023-01-06T21:21:11 Subdir: linux-64 Gathering repodata
+2023-01-06T21:21:11 linux-64 Writing pre-patch repodata
+2023-01-06T21:21:11 linux-64 Applying patch instructions
+2023-01-06T21:21:11 linux-64 Writing patched repodata
+2023-01-06T21:21:11 linux-64 Building current_repodata subset
+2023-01-06T21:21:11 linux-64 Writing current_repodata subset
+2023-01-06T21:21:11 linux-64 Writing index HTML
+2023-01-06T21:21:11 Subdir: noarch Gathering repodata
+2023-01-06T21:21:11 noarch Writing pre-patch repodata
+2023-01-06T21:21:11 noarch Applying patch instructions
+2023-01-06T21:21:11 noarch Writing patched repodata
+2023-01-06T21:21:11 noarch Building current_repodata subset
+2023-01-06T21:21:11 noarch Writing current_repodata subset
+2023-01-06T21:21:11 noarch Writing index HTML
+Tests failed for output_2-1.0-0.tar.bz2 - moving package to /home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests_script0/broken

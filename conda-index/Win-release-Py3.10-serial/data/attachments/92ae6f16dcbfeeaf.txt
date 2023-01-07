@@ -1,0 +1,55 @@
+2023-01-06T21:03:42 Subdir: noarch Gathering repodata
+2023-01-06T21:03:42 Subdir: win-64 Gathering repodata
+2023-01-06T21:03:42 noarch Writing pre-patch repodata
+2023-01-06T21:03:42 win-64 Writing pre-patch repodata
+2023-01-06T21:03:42 noarch Applying patch instructions
+2023-01-06T21:03:42 win-64 Applying patch instructions
+2023-01-06T21:03:42 noarch Writing patched repodata
+2023-01-06T21:03:42 win-64 Writing patched repodata
+2023-01-06T21:03:42 noarch Building current_repodata subset
+2023-01-06T21:03:42 win-64 Building current_repodata subset
+2023-01-06T21:03:42 noarch Writing current_repodata subset
+2023-01-06T21:03:42 noarch Writing index HTML
+2023-01-06T21:03:42 win-64 Writing current_repodata subset
+2023-01-06T21:03:42 win-64 Writing index HTML
+No hash (md5, sha1, sha256) provided for test.7z.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.lzma.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.xz.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tar.z.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.tgz.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.whl.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for test.zip.  Source download forced.  Add hash to recipe to use source cache.
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_libarchive_0\libarchive_1673039020471\_h_env
+
+2023-01-06T21:03:50 Subdir: noarch Gathering repodata
+2023-01-06T21:03:50 Subdir: win-64 Gathering repodata
+2023-01-06T21:03:50 noarch Writing pre-patch repodata
+2023-01-06T21:03:50 win-64 Writing pre-patch repodata
+2023-01-06T21:03:50 noarch Applying patch instructions
+2023-01-06T21:03:50 win-64 Applying patch instructions
+2023-01-06T21:03:50 noarch Writing patched repodata
+2023-01-06T21:03:50 win-64 Writing patched repodata
+2023-01-06T21:03:50 noarch Building current_repodata subset
+2023-01-06T21:03:50 win-64 Building current_repodata subset
+2023-01-06T21:03:50 win-64 Writing current_repodata subset
+2023-01-06T21:03:50 noarch Writing current_repodata subset
+2023-01-06T21:03:50 win-64 Writing index HTML
+2023-01-06T21:03:50 noarch Writing index HTML
+2023-01-06T21:03:54 Subdir: noarch Gathering repodata
+2023-01-06T21:03:54 noarch Writing pre-patch repodata
+2023-01-06T21:03:54 noarch Applying patch instructions
+2023-01-06T21:03:54 noarch Writing patched repodata
+2023-01-06T21:03:54 noarch Building current_repodata subset
+2023-01-06T21:03:54 Subdir: win-64 Gathering repodata
+2023-01-06T21:03:54 win-64 Writing pre-patch repodata
+2023-01-06T21:03:54 win-64 Applying patch instructions
+2023-01-06T21:03:54 win-64 Writing patched repodata
+2023-01-06T21:03:54 win-64 Building current_repodata subset
+2023-01-06T21:03:55 win-64 Writing current_repodata subset
+2023-01-06T21:03:55 noarch Writing current_repodata subset
+2023-01-06T21:03:55 win-64 Writing index HTML
+2023-01-06T21:03:55 noarch Writing index HTML

@@ -1,0 +1,45 @@
+2023-01-06T20:38:46 Subdir: noarch Gathering repodata
+2023-01-06T20:38:46 noarch Writing pre-patch repodata
+2023-01-06T20:38:46 noarch Applying patch instructions
+2023-01-06T20:38:46 noarch Writing patched repodata
+2023-01-06T20:38:46 noarch Building current_repodata subset
+2023-01-06T20:38:46 Subdir: win-64 Gathering repodata
+2023-01-06T20:38:46 win-64 Writing pre-patch repodata
+2023-01-06T20:38:46 win-64 Applying patch instructions
+2023-01-06T20:38:46 win-64 Writing patched repodata
+2023-01-06T20:38:46 win-64 Building current_repodata subset
+2023-01-06T20:38:46 noarch Writing current_repodata subset
+2023-01-06T20:38:46 noarch Writing index HTML
+2023-01-06T20:38:46 win-64 Writing current_repodata subset
+2023-01-06T20:38:46 win-64 Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_arbitrary_f0\test_arbitrary_file_in_info_dir_1673037524141\_h_env
+
+2023-01-06T20:38:53 Subdir: noarch Gathering repodata
+2023-01-06T20:38:53 Subdir: win-64 Gathering repodata
+2023-01-06T20:38:53 noarch Writing pre-patch repodata
+2023-01-06T20:38:53 win-64 Writing pre-patch repodata
+2023-01-06T20:38:53 noarch Applying patch instructions
+2023-01-06T20:38:53 win-64 Applying patch instructions
+2023-01-06T20:38:53 noarch Writing patched repodata
+2023-01-06T20:38:53 win-64 Writing patched repodata
+2023-01-06T20:38:53 noarch Building current_repodata subset
+2023-01-06T20:38:53 win-64 Building current_repodata subset
+2023-01-06T20:38:53 win-64 Writing current_repodata subset
+2023-01-06T20:38:53 win-64 Writing index HTML
+2023-01-06T20:38:53 noarch Writing current_repodata subset
+2023-01-06T20:38:53 noarch Writing index HTML
+2023-01-06T20:38:58 Subdir: noarch Gathering repodata
+2023-01-06T20:38:58 noarch Writing pre-patch repodata
+2023-01-06T20:38:58 noarch Applying patch instructions
+2023-01-06T20:38:58 noarch Writing patched repodata
+2023-01-06T20:38:58 noarch Building current_repodata subset
+2023-01-06T20:38:58 Subdir: win-64 Gathering repodata
+2023-01-06T20:38:58 win-64 Writing pre-patch repodata
+2023-01-06T20:38:58 win-64 Applying patch instructions
+2023-01-06T20:38:58 win-64 Writing patched repodata
+2023-01-06T20:38:58 win-64 Building current_repodata subset
+2023-01-06T20:38:58 noarch Writing current_repodata subset
+2023-01-06T20:38:58 noarch Writing index HTML
+2023-01-06T20:38:58 win-64 Writing current_repodata subset
+2023-01-06T20:38:58 win-64 Writing index HTML

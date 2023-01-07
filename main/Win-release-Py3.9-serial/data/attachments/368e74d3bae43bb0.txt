@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673039701367\_h_env
+

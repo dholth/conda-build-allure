@@ -1,0 +1,2 @@
+Source cache directory is: /Users/runner/work/_temp/parallel/popen-gw0/test_append_hash_to_fn0/src_cache
+Extracting download

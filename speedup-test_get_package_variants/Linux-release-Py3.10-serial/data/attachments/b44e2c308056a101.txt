@@ -1,0 +1,47 @@
+  Running command python setup.py egg_info
+  running egg_info
+  creating /tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info
+  writing /tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/PKG-INFO
+  writing dependency_links to /tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/dependency_links.txt
+  writing entry points to /tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/entry_points.txt
+  writing top-level names to /tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/top_level.txt
+  writing manifest file '/tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/SOURCES.txt'
+  file noarch_python_test_package.py (for module noarch_python_test_package) not found
+  reading manifest file '/tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/SOURCES.txt'
+  writing manifest file '/tmp/pip-pip-egg-info-5e8_vkkh/noarch_python_test_package.egg-info/SOURCES.txt'
+  Running command python setup.py bdist_wheel
+  running bdist_wheel
+  running build
+  running build_py
+  file noarch_python_test_package.py (for module noarch_python_test_package) not found
+  file noarch_python_test_package.py (for module noarch_python_test_package) not found
+  warning: build_py: byte-compiling is disabled, skipping.
+
+  /home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023983000/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+    warnings.warn(
+  installing to build/bdist.linux-x86_64/wheel
+  running install
+  running install_lib
+  warning: install_lib: 'build/lib' does not exist -- no Python modules to install
+
+  running install_egg_info
+  running egg_info
+  creating noarch_python_test_package.egg-info
+  writing noarch_python_test_package.egg-info/PKG-INFO
+  writing dependency_links to noarch_python_test_package.egg-info/dependency_links.txt
+  writing entry points to noarch_python_test_package.egg-info/entry_points.txt
+  writing top-level names to noarch_python_test_package.egg-info/top_level.txt
+  writing manifest file 'noarch_python_test_package.egg-info/SOURCES.txt'
+  file noarch_python_test_package.py (for module noarch_python_test_package) not found
+  reading manifest file 'noarch_python_test_package.egg-info/SOURCES.txt'
+  writing manifest file 'noarch_python_test_package.egg-info/SOURCES.txt'
+  Copying noarch_python_test_package.egg-info to build/bdist.linux-x86_64/wheel/noarch_python_test_package-1.0-py3.10.egg-info
+  running install_scripts
+  creating build/bdist.linux-x86_64/wheel/noarch_python_test_package-1.0.dist-info/WHEEL
+  creating '/tmp/pip-wheel-gdv0gk4d/noarch_python_test_package-1.0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+  adding 'noarch_python_test_package-1.0.dist-info/METADATA'
+  adding 'noarch_python_test_package-1.0.dist-info/WHEEL'
+  adding 'noarch_python_test_package-1.0.dist-info/entry_points.txt'
+  adding 'noarch_python_test_package-1.0.dist-info/top_level.txt'
+  adding 'noarch_python_test_package-1.0.dist-info/RECORD'
+  removing build/bdist.linux-x86_64/wheel

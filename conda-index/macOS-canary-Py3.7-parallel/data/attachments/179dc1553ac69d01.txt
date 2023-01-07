@@ -1,0 +1,30 @@
+Setting build platform. This is only useful when pretending to be on another platform, such as for rendering necessary dependencies on a non-native platform. I trust that you know what you're doing.
+Setting build arch. This is only useful when pretending to be on another arch, such as for rendering necessary dependencies on a non-native arch. I trust that you know what you're doing.
+2023-01-07T00:03:16 Subdir: noarch Gathering repodata
+2023-01-07T00:03:16 noarch Writing pre-patch repodata
+2023-01-07T00:03:16 noarch Applying patch instructions
+2023-01-07T00:03:16 Subdir: osx-64 Gathering repodata
+2023-01-07T00:03:16 noarch Writing patched repodata
+2023-01-07T00:03:16 noarch Building current_repodata subset
+2023-01-07T00:03:16 osx-64 Writing pre-patch repodata
+2023-01-07T00:03:16 osx-64 Applying patch instructions
+2023-01-07T00:03:16 osx-64 Writing patched repodata
+2023-01-07T00:03:16 osx-64 Building current_repodata subset
+2023-01-07T00:03:16 Subdir: win-32 Gathering repodata
+2023-01-07T00:03:16 win-32 Writing pre-patch repodata
+2023-01-07T00:03:16 win-32 Applying patch instructions
+2023-01-07T00:03:16 win-32 Writing patched repodata
+2023-01-07T00:03:16 win-32 Building current_repodata subset
+2023-01-07T00:03:16 noarch Writing current_repodata subset
+2023-01-07T00:03:16 noarch Writing index HTML
+2023-01-07T00:03:16 osx-64 Writing current_repodata subset
+2023-01-07T00:03:16 osx-64 Writing index HTML
+2023-01-07T00:03:16 win-32 Writing current_repodata subset
+2023-01-07T00:03:16 win-32 Writing index HTML
+2023-01-07T00:03:16 Subdir: win-64 Gathering repodata
+2023-01-07T00:03:16 win-64 Writing pre-patch repodata
+2023-01-07T00:03:16 win-64 Applying patch instructions
+2023-01-07T00:03:16 win-64 Writing patched repodata
+2023-01-07T00:03:16 win-64 Building current_repodata subset
+2023-01-07T00:03:16 win-64 Writing current_repodata subset
+2023-01-07T00:03:16 win-64 Writing index HTML

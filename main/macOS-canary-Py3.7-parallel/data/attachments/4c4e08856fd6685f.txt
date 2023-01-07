@@ -1,0 +1,11 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/msumastro/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/msumastro/json HTTP/1.1" 200 10447
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/74/fb/92817036a543fe9683b2e4a6d1fecaa328e3adb5ee2e918ac1ff66dc6549/msumastro-1.1.6.tar.gz HTTP/1.1" 200 684761
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/photutils/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/photutils/json HTTP/1.1" 200 41019
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/42/cd/36a773ee9e612f45cbae4c0bb332a03474ab9a8bc7307794f2637e616ab1/photutils-0.2.2.tar.gz HTTP/1.1" 200 558662
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for photutils

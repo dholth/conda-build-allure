@@ -1,0 +1,290 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for foobar
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging foobar
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output foobar
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 1 packages
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:215 cache win-64/foobar-1.0-0.tar.bz2
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 3 KB from 1 packages at 214 KB/second
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: noarch Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 noarch Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json
+[32mINFO    [0m conda_index.index:__init__.py:597 noarch Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 noarch Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 noarch write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:611 noarch Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 noarch build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 noarch Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 noarch write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:627 noarch Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 noarch write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 noarch finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: win-64 Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 win-64 Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:597 win-64 Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 win-64 Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 win-64 write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:611 win-64 Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 win-64 build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 win-64 Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 win-64 write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:627 win-64 Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 win-64 write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 win-64 finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: noarch Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 noarch Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json
+[32mINFO    [0m conda_index.index:__init__.py:597 noarch Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 noarch Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 noarch write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:611 noarch Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 noarch build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 noarch Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 noarch write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:627 noarch Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 noarch write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 noarch finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: win-64 Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 win-64 Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json
+[32mINFO    [0m conda_index.index:__init__.py:597 win-64 Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 win-64 Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 win-64 write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:611 win-64 Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 win-64 build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 win-64 Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 win-64 write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:627 win-64 Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 win-64 write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 win-64 finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp9sdlatab\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\foobar_1673037793032\work' to 'D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\foobar_1673037793032\work_moved_foobar-1.0-0_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\foobar_1673037793032\work, dest=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\foobar_1673037793032\work_moved_foobar-1.0-0_win-64)
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json
+[33mWARNING [0m conda_build.build:build.py:2962 Tests failed for foobar-1.0-0.tar.bz2 - moving package to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\broken
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 win-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 win-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 win-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 win-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 win-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: noarch Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 noarch Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata_from_packages.json
+[32mINFO    [0m conda_index.index:__init__.py:597 noarch Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 noarch Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 noarch write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:611 noarch Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 noarch build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 noarch Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 noarch write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\current_repodata.json
+[32mINFO    [0m conda_index.index:__init__.py:627 noarch Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 noarch write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 noarch finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:583 Subdir: win-64 Gathering repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[32mINFO    [0m conda_index.index:__init__.py:589 win-64 Writing pre-patch repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata_from_packages.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:597 win-64 Applying patch instructions
+[32mINFO    [0m conda_index.index:__init__.py:606 win-64 Writing patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:608 win-64 write patched repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\repodata.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:611 win-64 Building current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:613 win-64 build current_repodata
+[32mINFO    [0m conda_index.index:__init__.py:618 win-64 Writing current_repodata subset
+[35mDEBUG   [0m conda_index.index:__init__.py:620 win-64 write current_repodata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.bz2 to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.bz2
+[35mDEBUG   [0m conda_index.index:__init__.py:1209 _maybe_remove D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.zst from D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\current_repodata.json.zst
+[32mINFO    [0m conda_index.index:__init__.py:627 win-64 Writing index HTML
+[35mDEBUG   [0m conda_index.index:__init__.py:629 win-64 write index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:632 win-64 finish
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'win-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=noarch db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\noarch\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: win-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 win-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0, subdir=win-64 db_filename=D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\win-64\.cache\cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 win-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json to D:\a\_temp\parallel\popen-gw1\test_failed_tests_exit_build0\channeldata.json

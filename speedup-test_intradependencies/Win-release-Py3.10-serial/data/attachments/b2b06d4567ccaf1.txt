@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_no_link_0\test_no_link_1673024933853\_h_env
+

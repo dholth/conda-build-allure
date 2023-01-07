@@ -1,0 +1,1 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for requires_external_channel

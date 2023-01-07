@@ -1,0 +1,44 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_xgboost_example/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _py-xgboost-mutex
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for _r-xgboost-mutex
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for fake_r_r-base
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for libxgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py-xgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-xgboost
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py-xgboost-cpu
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-xgboost-cpu
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for xgboost
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging _py-xgboost-mutex
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _py-xgboost-mutex
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging _r-xgboost-mutex
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output _r-xgboost-mutex
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging fake_r_r-base
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output fake_r_r-base
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging libxgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output libxgboost
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging py-xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output py-xgboost
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging r-xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output r-xgboost
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging py-xgboost-cpu
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output py-xgboost-cpu
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging r-xgboost-cpu
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output r-xgboost-cpu
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging xgboost
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output xgboost
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpwsgoq94t/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpwsgoq94t/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp_4w1a8ka/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp_4w1a8ka/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp1na42aes/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmps8p6nv0q/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmps8p6nv0q/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpgk23tylk/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpgk23tylk/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpc9llwzm_/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpvylzbc5m/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpvylzbc5m/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpsu3atv8w/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp9p7u_g4v/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_loops_do_not_remove_earli0/xgboost_1673053356184/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_loops_do_not_remove_earli0/xgboost_1673053356184/work_moved_xgboost-0.80-1_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_loops_do_not_remove_earli0/xgboost_1673053356184/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_loops_do_not_remove_earli0/xgboost_1673053356184/work_moved_xgboost-0.80-1_osx-64_main_build_loop)

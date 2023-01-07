@@ -1,0 +1,5 @@
+No files or script found for output test_no_include_recipe_meta_yaml
+Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
+No files or script found for output no_include_recipe
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
+Tests failed for no_include_recipe-0.0-0.tar.bz2 - moving package to /Users/runner/work/_temp/parallel/popen-gw1/test_no_include_recipe_meta_ya0/broken

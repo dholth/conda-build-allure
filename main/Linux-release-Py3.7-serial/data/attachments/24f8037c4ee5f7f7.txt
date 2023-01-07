@@ -1,0 +1,7 @@
+Attempting to finalize metadata for foobar
+Packaging foobar
+Adding in variants from /tmp/tmpasknxibp/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work' to '/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work_moved_foobar-1.0-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work, dest=/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work_moved_foobar-1.0-0_linux-64)
+Renaming work directory '/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work' to '/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work_moved_foobar-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work, dest=/home/runner/work/_temp/serial/test_early_abort0/foobar_1673038851191/work_moved_foobar-1.0-0_linux-64_main_build_loop)

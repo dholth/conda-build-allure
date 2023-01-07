@@ -1,0 +1,362 @@
+checkout: '1.20.2'
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe log -n1 <==
+
+commit 262d44497c1b6df66501126dd93354701fdb6df4
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 17 10:51:25 2016 -0500
+
+    saving other files...
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe describe --tags --dirty <==
+
+1.20.2
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe status <==
+
+HEAD detached at 1.20.2
+nothing to commit, working directory clean
+
+Attempting to finalize metadata for conda-build-test-source-git-jinja2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444.tar.bz2']
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:           1.0.8-he774522_0         
+    ca-certificates: 2022.10.11-haa95532_0    
+    certifi:         2022.12.7-py310haa95532_0
+    libffi:          3.4.2-hd77b12b_6         
+    openssl:         1.1.1s-h2bbff1b_0        
+    pip:             22.3.1-py310haa95532_0   
+    python:          3.10.8-h966fe2a_1        
+    setuptools:      65.5.0-py310haa95532_0   
+    sqlite:          3.40.0-h2bbff1b_0        
+    tk:              8.6.12-h2bbff1b_0        
+    tzdata:          2022g-h04d1e81_0         
+    vc:              14.2-h21ff451_1          
+    vs2015_runtime:  14.27.29016-h5e58377_2   
+    wheel:           0.37.1-pyhd3eb1b0_0      
+    wincertstore:    0.2-py310haa95532_2      
+    xz:              5.2.8-h8cc25b3_0         
+    zlib:            1.2.13-h8cc25b3_0        
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\work
+Rewriting env in output: {'BUILD_PREFIX': 'D:\\a\\_temp\\parallel\\popen-gw0\\test_no_locking0\\conda-build-test-source-git-jinja2_1673032260677\\_h_env',
+ 'PREFIX': 'D:\\a\\_temp\\parallel\\popen-gw0\\test_no_locking0\\conda-build-test-source-git-jinja2_1673032260677\\_h_env',
+ 'SRC_DIR': 'D:\\a\\_temp\\parallel\\popen-gw0\\test_no_locking0\\conda-build-test-source-git-jinja2_1673032260677\\work'}
+
+(base) %SRC_DIR%>IF "" == "" (call %SRC_DIR%\build_env_setup.bat ) 
+
+(base) %SRC_DIR%>set "CONDA_BUILD=1" 
+
+(base) %SRC_DIR%>set "PYTHONNOUSERSITE=1" 
+
+(base) %SRC_DIR%>set "CONDA_DEFAULT_ENV=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "ARCH=64" 
+
+(base) %SRC_DIR%>set "PREFIX=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "BUILD_PREFIX=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "SYS_PREFIX=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "SYS_PYTHON=C:\Users\runneradmin\Miniconda3\python.exe" 
+
+(base) %SRC_DIR%>set "SUBDIR=win-64" 
+
+(base) %SRC_DIR%>set "build_platform=win-64" 
+
+(base) %SRC_DIR%>set "SRC_DIR=%SRC_DIR%" 
+
+(base) %SRC_DIR%>set "ROOT=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "CONDA_PY=310" 
+
+(base) %SRC_DIR%>set "PY3K=1" 
+
+(base) %SRC_DIR%>set "PY_VER=3.10" 
+
+(base) %SRC_DIR%>set "STDLIB_DIR=%BUILD_PREFIX%\Lib" 
+
+(base) %SRC_DIR%>set "SP_DIR=%BUILD_PREFIX%\Lib\site-packages" 
+
+(base) %SRC_DIR%>set "PYTHON=%BUILD_PREFIX%\python.exe" 
+
+(base) %SRC_DIR%>set "NPY_VER=1.21" 
+
+(base) %SRC_DIR%>set "CONDA_NPY=1.21" 
+
+(base) %SRC_DIR%>set "NPY_DISTUTILS_APPEND_FLAGS=1" 
+
+(base) %SRC_DIR%>set "PERL_VER=5.26" 
+
+(base) %SRC_DIR%>set "CONDA_PERL=5.26.2" 
+
+(base) %SRC_DIR%>set "LUA_VER=5" 
+
+(base) %SRC_DIR%>set "CONDA_LUA=5" 
+
+(base) %SRC_DIR%>set "R_VER=3.4" 
+
+(base) %SRC_DIR%>set "CONDA_R=3.4" 
+
+(base) %SRC_DIR%>set "GIT_DESCRIBE_TAG=1.20.2" 
+
+(base) %SRC_DIR%>set "GIT_DESCRIBE_NUMBER=0" 
+
+(base) %SRC_DIR%>set "GIT_DESCRIBE_HASH=g262d444" 
+
+(base) %SRC_DIR%>set "GIT_DESCRIBE_TAG_PEP440=1.20.2" 
+
+(base) %SRC_DIR%>set "GIT_FULL_HASH=262d44497c1b6df66501126dd93354701fdb6df4" 
+
+(base) %SRC_DIR%>set "GIT_BUILD_STR=0_g262d444" 
+
+(base) %SRC_DIR%>set "PKG_NAME=conda-build-test-source-git-jinja2" 
+
+(base) %SRC_DIR%>set "PKG_VERSION=1.20.2" 
+
+(base) %SRC_DIR%>set "PKG_BUILDNUM=0" 
+
+(base) %SRC_DIR%>set "PKG_BUILD_STRING=placeholder" 
+
+(base) %SRC_DIR%>set "PKG_HASH=1234567" 
+
+(base) %SRC_DIR%>set "RECIPE_DIR=D:\a\conda-build\conda-build\tests\test-recipes\metadata\source_git_jinja2" 
+
+(base) %SRC_DIR%>set "CPU_COUNT=2" 
+
+(base) %SRC_DIR%>set "SHLIB_EXT=.dll" 
+
+(base) %SRC_DIR%>set "PATH=%BUILD_PREFIX%;%BUILD_PREFIX%\Library\mingw-w64\bin;%BUILD_PREFIX%\Library\usr\bin;%BUILD_PREFIX%\Library\bin;%BUILD_PREFIX%\Scripts;%BUILD_PREFIX%\bin;%BUILD_PREFIX%;%BUILD_PREFIX%\Library\mingw-w64\bin;%BUILD_PREFIX%\Library\usr\bin;%BUILD_PREFIX%\Library\bin;%BUILD_PREFIX%\Scripts;%BUILD_PREFIX%\bin;%BUILD_PREFIX%;%BUILD_PREFIX%\Library\mingw-w64\bin;%BUILD_PREFIX%\Library\usr\bin;%BUILD_PREFIX%\Library\bin;%BUILD_PREFIX%\Scripts;%BUILD_PREFIX%\bin;C:\Users\runneradmin\Miniconda3;C:\Users\runneradmin\Miniconda3\Library\mingw-w64\bin;C:\Users\runneradmin\Miniconda3\Library\usr\bin;C:\Users\runneradmin\Miniconda3\Library\bin;C:\Users\runneradmin\Miniconda3\Scripts;C:\Users\runneradmin\Miniconda3\bin;C:\Users\runneradmin\Miniconda3\condabin;C:\Users\runneradmin\AppData\Roaming\Python\Python310\Scripts;C:\hostedtoolcache\windows\Python\3.10.9\x64\Scripts;C:\hostedtoolcache\windows\Python\3.10.9\x64;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\cf-cli;C:\Program Files (x86)\NSIS;C:\tools\zstd;C:\Program Files\Mercurial;C:\hostedtoolcache\windows\stack\2.9.1\x64;C:\cabal\bin;C:\ghcup\bin;C:\tools\ghc-9.4.2\bin;C:\Program Files\dotnet;C:\mysql\bin;C:\Program Files\R\R-4.2.2\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.17.13\x64\bin;C:\hostedtoolcache\windows\Python\3.7.9\x64\Scripts;C:\hostedtoolcache\windows\Python\3.7.9\x64;C:\hostedtoolcache\windows\Ruby\2.5.9\x64\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.352-8\x64\bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\ProgramData\Chocolatey\bin;C:\Program Files\PowerShell\7;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn;C:\Program Files\OpenSSL\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\SeleniumWebDrivers\ChromeDriver;C:\SeleniumWebDrivers\EdgeDriver;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Amazon\SessionManagerPlugin\bin;C:\Program Files\Amazon\AWSSAMCLI\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Microsoft BizTalk Server;C:\Program Files\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps" 
+
+(base) %SRC_DIR%>set "SCRIPTS=%BUILD_PREFIX%\Scripts" 
+
+(base) %SRC_DIR%>set "LIBRARY_PREFIX=%BUILD_PREFIX%\Library" 
+
+(base) %SRC_DIR%>set "LIBRARY_BIN=%BUILD_PREFIX%\Library\bin" 
+
+(base) %SRC_DIR%>set "LIBRARY_INC=%BUILD_PREFIX%\Library\include" 
+
+(base) %SRC_DIR%>set "LIBRARY_LIB=%BUILD_PREFIX%\Library\lib" 
+
+(base) %SRC_DIR%>set "CYGWIN_PREFIX=/cygdrive/d/a/_temp/parallel/popen-gw0/test_no_locking0/conda-build-test-source-git-jinja2_1673032260677/_h_env" 
+
+(base) %SRC_DIR%>set "ALLUSERSPROFILE=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "APPDATA=C:\Users\runneradmin\AppData\Roaming" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramW6432=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "COMPUTERNAME=fv-az406-483" 
+
+(base) %SRC_DIR%>set "ComSpec=C:\Windows\system32\cmd.exe" 
+
+(base) %SRC_DIR%>set "HOMEDRIVE=C:" 
+
+(base) %SRC_DIR%>set "HOMEPATH=\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "LOCALAPPDATA=C:\Users\runneradmin\AppData\Local" 
+
+(base) %SRC_DIR%>set "LOGONSERVER=\\fv-az406-483" 
+
+(base) %SRC_DIR%>set "NUMBER_OF_PROCESSORS=2" 
+
+(base) %SRC_DIR%>set "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" 
+
+(base) %SRC_DIR%>set "ProgramData=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "ProgramFiles=C:\Program Files" 
+
+(base) %SRC_DIR%>set "ProgramFiles(x86)=C:\Program Files (x86)" 
+
+(base) %SRC_DIR%>set "ProgramW6432=C:\Program Files" 
+
+(base) %SRC_DIR%>set "PROMPT=(base) $P$G" 
+
+(base) %SRC_DIR%>set "PSModulePath=C:\\Modules\azurerm_2.1.0;C:\\Modules\azure_2.1.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell" 
+
+(base) %SRC_DIR%>set "PUBLIC=C:\Users\Public" 
+
+(base) %SRC_DIR%>set "SystemDrive=C:" 
+
+(base) %SRC_DIR%>set "SystemRoot=C:\Windows" 
+
+(base) %SRC_DIR%>set "TEMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "TMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "USERDOMAIN=fv-az406-483" 
+
+(base) %SRC_DIR%>set "USERNAME=runneradmin" 
+
+(base) %SRC_DIR%>set "USERPROFILE=C:\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "windir=C:\Windows" 
+
+(base) %SRC_DIR%>set "PROCESSOR_ARCHITECTURE=AMD64" 
+
+(base) %SRC_DIR%>set "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel" 
+
+(base) %SRC_DIR%>set "BUILD=amd64-pc-windows-19.0.0" 
+
+(base) %SRC_DIR%>set "VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" 
+
+(base) %SRC_DIR%>set "VS90COMNTOOLS=C:\Program Files (x86)\Common Files\Microsoft\Visual C++ for Python\9.0\VC\bin" 
+
+(base) %SRC_DIR%>set "extend_keys={'extend_keys', 'ignore_build_only_deps', 'pin_run_as_build', 'ignore_version'}" 
+
+(base) %SRC_DIR%>set "ignore_build_only_deps={'numpy', 'python'}" 
+
+(base) %SRC_DIR%>set "pin_run_as_build=OrderedDict([('python', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')])), ('r-base', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')]))])" 
+
+(base) %SRC_DIR%>set "target_platform=win-64" 
+
+(base) %SRC_DIR%>set "cxx_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "c_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "fortran_compiler=gfortran" 
+
+(base) %SRC_DIR%>set "cran_mirror=https://cran.r-project.org" 
+
+(base) %SRC_DIR%>set "vc=14" 
+
+(base) %SRC_DIR%>set "r_base=3.4" 
+
+(base) %SRC_DIR%>set "cpu_optimization_target=nocona" 
+
+(base) %SRC_DIR%>set "CONDA_BUILD_STATE=BUILD" 
+
+(base) %SRC_DIR%>set "PIP_NO_BUILD_ISOLATION=False" 
+
+(base) %SRC_DIR%>set "PIP_NO_DEPENDENCIES=True" 
+
+(base) %SRC_DIR%>set "PIP_IGNORE_INSTALLED=True" 
+
+(base) %SRC_DIR%>set "PIP_CACHE_DIR=D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\pip_cache" 
+
+(base) %SRC_DIR%>set "PIP_NO_INDEX=True" 
+
+(base) %SRC_DIR%>set DISTUTILS_USE_SDK=1 
+
+(base) %SRC_DIR%>set MSSdk=1 
+
+(base) %SRC_DIR%>set PY_VCRUNTIME_REDIST=%BUILD_PREFIX%\Library\bin\vcruntime140.dll 
+
+(base) %SRC_DIR%>set "VS_VERSION=14.0" 
+
+(base) %SRC_DIR%>set "VS_MAJOR=14" 
+
+(base) %SRC_DIR%>set "VS_YEAR=2015" 
+
+(base) %SRC_DIR%>set "CMAKE_GENERATOR=Visual Studio 14 2015 Win64" 
+
+(base) %SRC_DIR%>set "MSYS2_ARG_CONV_EXCL=/AI;/AL;/OUT;/out" 
+
+(base) %SRC_DIR%>set "MSYS2_ENV_CONV_EXCL=CL" 
+
+(base) %SRC_DIR%>call "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\..\VC\vcvarsall.bat" amd64 
+
+(base) %SRC_DIR%>set "INCLUDE=%BUILD_PREFIX%\Library\include;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt;" 
+
+(base) %SRC_DIR%>set "LIB=%BUILD_PREFIX%\Library\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64;" 
+
+(base) %SRC_DIR%>REM ===== end generated header ===== 
+
+(base) %SRC_DIR%>if not exist .git exit 1 
+
+(base) %SRC_DIR%>git config core.fileMode false 
+
+(base) %SRC_DIR%>if errorlevel 1 exit 1 
+
+(base) %SRC_DIR%>git describe --tags --dirty 
+1.20.2
+
+(base) %SRC_DIR%>if errorlevel 1 exit 1 
+
+(base) %SRC_DIR%>for /F "delims=" %i in ('git describe') do set gitdesc=%i 
+
+(base) %SRC_DIR%>set gitdesc=1.20.2 
+
+(base) %SRC_DIR%>if errorlevel 1 exit 1 
+
+(base) %SRC_DIR%>echo "1.20.2" 
+"1.20.2"
+
+(base) %SRC_DIR%>if not "1.20.2" == "1.20.2" exit 1 
+
+(base) %SRC_DIR%>echo "1.20.2" 
+"1.20.2"
+
+(base) %SRC_DIR%>if not "1.20.2" == "1.20.2" exit 1 
+
+(base) %SRC_DIR%>git status 
+HEAD detached at 1.20.2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	build_env_setup.bat
+	conda_build.bat
+	metadata_conda_debug.yaml
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+(base) %SRC_DIR%>if errorlevel 1 exit 1 
+
+Resource usage statistics from building conda-build-test-source-git-jinja2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 104.0K
+   Disk usage: 157.4K
+   Time elapsed: 0:00:02.1
+
+
+Packaging conda-build-test-source-git-jinja2
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw0\test_no_locking0\win-64\conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpal0itn89\info\recipe\conda_build_config.yaml
+Nothing to test for: D:\a\_temp\parallel\popen-gw0\test_no_locking0\win-64\conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\work' to 'D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\work_moved_conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\work, dest=D:\a\_temp\parallel\popen-gw0\test_no_locking0\conda-build-test-source-git-jinja2_1673032260677\work_moved_conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    D:\a\_temp\parallel\popen-gw0\test_no_locking0\win-64\conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-source-git-jinja2-1.20.2-py310_0_g262d444": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:02.9
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 104.0K
+Total disk usage observed (not including envs): 157.4K

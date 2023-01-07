@@ -1,0 +1,7 @@
+2023-01-06T23:19:36 Subdir: noarch Gathering repodata
+2023-01-06T23:19:36 noarch Writing pre-patch repodata
+2023-01-06T23:19:36 noarch Applying patch instructions
+2023-01-06T23:19:36 noarch Writing patched repodata
+2023-01-06T23:19:36 noarch Building current_repodata subset
+2023-01-06T23:19:36 noarch Writing current_repodata subset
+2023-01-06T23:19:36 noarch Writing index HTML

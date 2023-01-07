@@ -1,0 +1,366 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_intradependencies/conda_build_config.yaml
+Attempting to finalize metadata for dep1
+Attempting to finalize metadata for dep2
+Attempting to finalize metadata for lib1
+Attempting to finalize metadata for lib2
+Attempting to finalize metadata for py1
+Attempting to finalize metadata for py2
+Attempting to finalize metadata for r1
+Attempting to finalize metadata for r2
+BUILD START: ['dep1-3.7.3-h827a8ed_0.tar.bz2', 'dep1-2.7.16-ha86681c_0.tar.bz2', 'dep2-3.5.1-he889568_0.tar.bz2', 'lib1-1.0-0.tar.bz2', 'lib2-1.0-0.tar.bz2', 'py1-1.0-h827a8ed_0.tar.bz2', 'py1-1.0-ha86681c_0.tar.bz2', 'py2-1.0-h827a8ed_0.tar.bz2', 'py2-1.0-ha86681c_0.tar.bz2', 'r1-1.0-he889568_0.tar.bz2', 'r2-1.0-he889568_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates: 2022.10.11-h06a4308_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/work
+Packaging dep1
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging dep2
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging lib1
+
+Resource usage statistics from bundling lib1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 12B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging lib2
+
+Resource usage statistics from bundling lib2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging py1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep1: 3.7.3-h827a8ed_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib1: 1.0-0            file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling py1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep1: 2.7.16-ha86681c_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib1: 1.0-0             file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling py1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging py2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep1: 3.7.3-h827a8ed_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib2: 1.0-0            file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling py2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 24B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep1: 2.7.16-ha86681c_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib2: 1.0-0             file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling py2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 24B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging r1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep2: 3.5.1-he889568_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib1: 1.0-0            file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling r1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 28B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging r2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    dep2: 3.5.1-he889568_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+    lib2: 1.0-0            file:///home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling r2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.0K
+   Disk usage: 32B
+   Time elapsed: 0:00:02.1
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-3.7.3-h827a8ed_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-3.7.3-h827a8ed_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-2.7.16-ha86681c_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-2.7.16-ha86681c_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep2-3.5.1-he889568_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep2-3.5.1-he889568_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib1-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp28am7s3y/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib1-1.0-0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib2-1.0-0.tar.bz2
+Adding in variants from /tmp/tmphfod92as/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib2-1.0-0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-h827a8ed_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-h827a8ed_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-ha86681c_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-ha86681c_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-h827a8ed_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-h827a8ed_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-ha86681c_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-ha86681c_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r1-1.0-he889568_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r1-1.0-he889568_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r2-1.0-he889568_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r2-1.0-he889568_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/work_moved_intradependencies-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035108515/work_moved_intradependencies-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-3.7.3-h827a8ed_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep1-2.7.16-ha86681c_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/dep2-3.5.1-he889568_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib1-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/lib2-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-h827a8ed_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py1-1.0-ha86681c_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-h827a8ed_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/py2-1.0-ha86681c_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r1-1.0-he889568_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/linux-64/r2-1.0-he889568_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "dep1-2.7.16-ha86681c_0": {
+    "recipe": {
+      "DEP1": "2.7.16",
+      "target_platform": "linux-64"
+    }
+  },
+  "dep1-3.7.3-h827a8ed_0": {
+    "recipe": {
+      "DEP1": "3.7.3",
+      "target_platform": "linux-64"
+    }
+  },
+  "dep2-3.5.1-he889568_0": {
+    "recipe": {
+      "DEP2": "3.5.1",
+      "target_platform": "linux-64"
+    }
+  },
+  "lib1-1.0-0": {
+    "recipe": {}
+  },
+  "lib2-1.0-0": {
+    "recipe": {}
+  },
+  "py1-1.0-h827a8ed_0": {
+    "recipe": {
+      "DEP1": "3.7.3",
+      "target_platform": "linux-64"
+    }
+  },
+  "py1-1.0-ha86681c_0": {
+    "recipe": {
+      "DEP1": "2.7.16",
+      "target_platform": "linux-64"
+    }
+  },
+  "py2-1.0-h827a8ed_0": {
+    "recipe": {
+      "DEP1": "3.7.3",
+      "target_platform": "linux-64"
+    }
+  },
+  "py2-1.0-ha86681c_0": {
+    "recipe": {
+      "DEP1": "2.7.16",
+      "target_platform": "linux-64"
+    }
+  },
+  "r1-1.0-he889568_0": {
+    "recipe": {
+      "DEP2": "3.5.1",
+      "target_platform": "linux-64"
+    }
+  },
+  "r2-1.0-he889568_0": {
+    "recipe": {
+      "DEP2": "3.5.1",
+      "target_platform": "linux-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:05.0
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 8.0K
+Total disk usage observed (not including envs): 176B

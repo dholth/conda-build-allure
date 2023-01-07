@@ -1,0 +1,2 @@
+Renaming work directory '/home/runner/work/_temp/serial/test_no_anaconda_upload_condar1/empty_sections_1673039026139/work' to '/home/runner/work/_temp/serial/test_no_anaconda_upload_condar1/empty_sections_1673039026139/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_no_anaconda_upload_condar1/empty_sections_1673039026139/work, dest=/home/runner/work/_temp/serial/test_no_anaconda_upload_condar1/empty_sections_1673039026139/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)

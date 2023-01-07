@@ -1,0 +1,3 @@
+Glob D:\a\_temp\parallel\popen-gw0\test_recipe_test0\conda-build-test-has-prefix-files_1673027624444\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\parallel\popen-gw0\test_recipe_test0\conda-build-test-has-prefix-files_1673027624444\_h_env
+ERROR conda_build.utils:expand_globs(1207): Glob D:\a\_temp\parallel\popen-gw0\test_recipe_test0\conda-build-test-has-prefix-files_1673027624444\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\parallel\popen-gw0\test_recipe_test0\conda-build-test-has-prefix-files_1673027624444\_h_env
+Testing based on recipes is deprecated as of conda-build 3.16.0.  Please adjust your code to pass your desired conda package to test instead.

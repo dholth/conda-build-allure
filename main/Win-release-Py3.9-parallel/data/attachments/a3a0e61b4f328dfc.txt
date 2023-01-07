@@ -1,0 +1,9 @@
+added /Users/jsandhu/Documents/projects/CythonExample
+added /Users/jsandhu/Documents/projects/TestOne
+path exists, skipping /Users/jsandhu/Documents/projects/TestOne
+added /Users/jsandhu/Documents/projects/TestTwo
+uninstalled: /Users/jsandhu/Documents/projects/CythonExample
+uninstalled: /Users/jsandhu/Documents/projects/TestOne
+conda.pth does not contain path: /Users/jsandhu/Documents/projects/TestOne
+package not installed via conda develop
+uninstalled: /Users/jsandhu/Documents/projects/TestTwo

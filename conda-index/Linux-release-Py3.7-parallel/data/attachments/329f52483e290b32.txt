@@ -1,0 +1,24 @@
+2023-01-06T20:40:57 Subdir: linux-64 Gathering repodata
+2023-01-06T20:40:57 linux-64 Writing pre-patch repodata
+2023-01-06T20:40:57 linux-64 Applying patch instructions
+2023-01-06T20:40:57 linux-64 Writing patched repodata
+2023-01-06T20:40:57 linux-64 Building current_repodata subset
+2023-01-06T20:40:57 linux-64 Writing current_repodata subset
+2023-01-06T20:40:57 linux-64 Writing index HTML
+2023-01-06T20:40:57 Subdir: noarch Gathering repodata
+2023-01-06T20:40:57 noarch Writing pre-patch repodata
+2023-01-06T20:40:57 noarch Applying patch instructions
+2023-01-06T20:40:57 noarch Writing patched repodata
+2023-01-06T20:40:57 noarch Building current_repodata subset
+2023-01-06T20:40:57 noarch Writing current_repodata subset
+2023-01-06T20:40:57 noarch Writing index HTML
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format

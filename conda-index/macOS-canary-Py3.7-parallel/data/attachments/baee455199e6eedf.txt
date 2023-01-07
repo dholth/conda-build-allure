@@ -1,0 +1,210 @@
+Attempting to finalize metadata for test_r_env_var_present
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test_r_env_var_present-1.0-r35_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    _r-mutex:           1.0.0-anacondar_1         defaults
+    bwidget:            1.9.11-1                  defaults
+    bzip2:              1.0.8-h1de35cc_0          defaults
+    ca-certificates:    2022.10.11-hecd8cb5_0     defaults
+    cairo:              1.16.0-h3ce6f7e_3         defaults
+    cctools_osx-64:     949.0.1-hc7db93f_25       defaults
+    clang:              14.0.6-hecd8cb5_0         defaults
+    clang-14:           14.0.6-default_h32c6d10_0 defaults
+    clang_osx-64:       14.0.6-hb1e4b1b_0         defaults
+    clangxx:            14.0.6-default_h32c6d10_0 defaults
+    clangxx_osx-64:     14.0.6-hd8b9576_0         defaults
+    compiler-rt:        14.0.6-hda8b6b8_0         defaults
+    compiler-rt_osx-64: 14.0.6-h8d5cb93_0         defaults
+    curl:               7.67.0-ha441bb4_0         defaults
+    expat:              2.4.9-he9d5cce_0          defaults
+    fontconfig:         2.14.1-hedf32ac_1         defaults
+    freetype:           2.12.1-hd8bbffd_0         defaults
+    fribidi:            1.0.10-haf1e3a3_0         defaults
+    gettext:            0.21.0-h7535e17_0         defaults
+    gfortran_osx-64:    4.8.5-h22b1bf0_8          defaults
+    glib:               2.69.1-hfff2838_2         defaults
+    graphite2:          1.3.14-he9d5cce_1         defaults
+    gsl:                2.4-h1de35cc_4            defaults
+    harfbuzz:           4.3.0-h3f129a2_0          defaults
+    icu:                58.2-h0a44026_3           defaults
+    jpeg:               9e-hca72f7f_0             defaults
+    krb5:               1.16.4-hddcf347_0         defaults
+    ld64_osx-64:        530-h70f3046_25           defaults
+    ldid:               2.1.2-h2d21305_2          defaults
+    lerc:               3.0-he9d5cce_0            defaults
+    libclang-cpp14:     14.0.6-default_h32c6d10_0 defaults
+    libcurl:            7.67.0-h051b688_0         defaults
+    libcxx:             14.0.6-h9765a3e_0         defaults
+    libdeflate:         1.8-h9ed2024_5            defaults
+    libedit:            3.1.20221030-h6c40b1e_0   defaults
+    libffi:             3.4.2-hecd8cb5_6          defaults
+    libgfortran:        3.0.1-h93005f0_2          defaults
+    libiconv:           1.16-hca72f7f_2           defaults
+    libllvm14:          14.0.6-h91fad77_1         defaults
+    libpng:             1.6.37-ha441bb4_0         defaults
+    libssh2:            1.10.0-h0a4fc7d_0         defaults
+    libtiff:            4.4.0-h2cd0358_2          defaults
+    libwebp-base:       1.2.4-hca72f7f_0          defaults
+    libxml2:            2.9.14-hbf8cd5e_0         defaults
+    llvm-openmp:        14.0.6-h0dcd299_0         defaults
+    llvm-tools:         14.0.6-h91fad77_1         defaults
+    lz4-c:              1.9.4-hcec6c5f_0          defaults
+    make:               4.2.1-h3efe00b_1          defaults
+    ncurses:            6.3-hca72f7f_3            defaults
+    openssl:            1.1.1s-hca72f7f_0         defaults
+    pango:              1.50.7-h80fe9ab_0         defaults
+    pcre:               8.45-h23ab428_0           defaults
+    pixman:             0.40.0-h9ed2024_1         defaults
+    r-base:             3.5.3-hb1347aa_0          defaults
+    readline:           8.2-hca72f7f_0            defaults
+    tapi:               1000.10.8-ha1b3eb9_0      defaults
+    tk:                 8.6.12-h5d9f67b_0         defaults
+    tktable:            2.10-h1de35cc_0           defaults
+    xz:                 5.2.8-h6c40b1e_0          defaults
+    zlib:               1.2.13-h4dc903c_0         defaults
+    zstd:               1.5.2-hcb37349_0          defaults
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work
+Packaging test_r_env_var_present
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/osx-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpae9pqq7s/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work_moved_test_r_env_var_present-1.0-r35_0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work_moved_test_r_env_var_present-1.0-r35_0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _r-mutex:               1.0.0-anacondar_1         defaults                                                                        
+    bwidget:                1.9.11-1                  defaults                                                                        
+    bzip2:                  1.0.8-h1de35cc_0          defaults                                                                        
+    ca-certificates:        2022.10.11-hecd8cb5_0     defaults                                                                        
+    cairo:                  1.16.0-h3ce6f7e_3         defaults                                                                        
+    cctools_osx-64:         949.0.1-hc7db93f_25       defaults                                                                        
+    clang:                  14.0.6-hecd8cb5_0         defaults                                                                        
+    clang-14:               14.0.6-default_h32c6d10_0 defaults                                                                        
+    clang_osx-64:           14.0.6-hb1e4b1b_0         defaults                                                                        
+    clangxx:                14.0.6-default_h32c6d10_0 defaults                                                                        
+    clangxx_osx-64:         14.0.6-hd8b9576_0         defaults                                                                        
+    compiler-rt:            14.0.6-hda8b6b8_0         defaults                                                                        
+    compiler-rt_osx-64:     14.0.6-h8d5cb93_0         defaults                                                                        
+    curl:                   7.67.0-ha441bb4_0         defaults                                                                        
+    expat:                  2.4.9-he9d5cce_0          defaults                                                                        
+    fontconfig:             2.14.1-hedf32ac_1         defaults                                                                        
+    freetype:               2.12.1-hd8bbffd_0         defaults                                                                        
+    fribidi:                1.0.10-haf1e3a3_0         defaults                                                                        
+    gettext:                0.21.0-h7535e17_0         defaults                                                                        
+    gfortran_osx-64:        4.8.5-h22b1bf0_8          defaults                                                                        
+    glib:                   2.69.1-hfff2838_2         defaults                                                                        
+    graphite2:              1.3.14-he9d5cce_1         defaults                                                                        
+    gsl:                    2.4-h1de35cc_4            defaults                                                                        
+    harfbuzz:               4.3.0-h3f129a2_0          defaults                                                                        
+    icu:                    58.2-h0a44026_3           defaults                                                                        
+    jpeg:                   9e-hca72f7f_0             defaults                                                                        
+    krb5:                   1.16.4-hddcf347_0         defaults                                                                        
+    ld64_osx-64:            530-h70f3046_25           defaults                                                                        
+    ldid:                   2.1.2-h2d21305_2          defaults                                                                        
+    lerc:                   3.0-he9d5cce_0            defaults                                                                        
+    libclang-cpp14:         14.0.6-default_h32c6d10_0 defaults                                                                        
+    libcurl:                7.67.0-h051b688_0         defaults                                                                        
+    libcxx:                 14.0.6-h9765a3e_0         defaults                                                                        
+    libdeflate:             1.8-h9ed2024_5            defaults                                                                        
+    libedit:                3.1.20221030-h6c40b1e_0   defaults                                                                        
+    libffi:                 3.4.2-hecd8cb5_6          defaults                                                                        
+    libgfortran:            3.0.1-h93005f0_2          defaults                                                                        
+    libiconv:               1.16-hca72f7f_2           defaults                                                                        
+    libllvm14:              14.0.6-h91fad77_1         defaults                                                                        
+    libpng:                 1.6.37-ha441bb4_0         defaults                                                                        
+    libssh2:                1.10.0-h0a4fc7d_0         defaults                                                                        
+    libtiff:                4.4.0-h2cd0358_2          defaults                                                                        
+    libwebp-base:           1.2.4-hca72f7f_0          defaults                                                                        
+    libxml2:                2.9.14-hbf8cd5e_0         defaults                                                                        
+    llvm-openmp:            14.0.6-h0dcd299_0         defaults                                                                        
+    llvm-tools:             14.0.6-h91fad77_1         defaults                                                                        
+    lz4-c:                  1.9.4-hcec6c5f_0          defaults                                                                        
+    make:                   4.2.1-h3efe00b_1          defaults                                                                        
+    ncurses:                6.3-hca72f7f_3            defaults                                                                        
+    openssl:                1.1.1s-hca72f7f_0         defaults                                                                        
+    pango:                  1.50.7-h80fe9ab_0         defaults                                                                        
+    pcre:                   8.45-h23ab428_0           defaults                                                                        
+    pixman:                 0.40.0-h9ed2024_1         defaults                                                                        
+    python:                 3.10.8-h218abb5_1         defaults                                                                        
+    r-base:                 3.5.3-hb1347aa_0          defaults                                                                        
+    readline:               8.2-hca72f7f_0            defaults                                                                        
+    sqlite:                 3.40.0-h880c91c_0         defaults                                                                        
+    tapi:                   1000.10.8-ha1b3eb9_0      defaults                                                                        
+    test_r_env_var_present: 1.0-r35_0                 file:///Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0
+    tk:                     8.6.12-h5d9f67b_0         defaults                                                                        
+    tktable:                2.10-h1de35cc_0           defaults                                                                        
+    tzdata:                 2022g-h04d1e81_0          defaults                                                                        
+    xz:                     5.2.8-h6c40b1e_0          defaults                                                                        
+    zlib:                   1.2.13-h4dc903c_0         defaults                                                                        
+    zstd:                   1.5.2-hcb37349_0          defaults                                                                        
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/test_tmp
+===== testing package: test_r_env_var_present-1.0-r35_0 =====
+running run_test.py
+===== test_r_env_var_present-1.0-r35_0 OK =====
+
+Resource usage statistics from testing test_r_env_var_present:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 16.1M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.2
+
+
+TEST END: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/osx-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work_moved_test_r_env_var_present-1.0-r35_0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/work_moved_test_r_env_var_present-1.0-r35_0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/osx-64/test_r_env_var_present-1.0-r35_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_r_env_var_present-1.0-r35_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:04:50.9
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 16.1M
+Total disk usage observed (not including envs): 24B

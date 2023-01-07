@@ -1,0 +1,6 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for unknown_selector_test
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging unknown_selector_test
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output unknown_selector_test
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpf5b4qtsr/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_unknown_selectors0/unknown_selector_test_1673050039358/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_unknown_selectors0/unknown_selector_test_1673050039358/work_moved_unknown_selector_test-1.0.0-0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_unknown_selectors0/unknown_selector_test_1673050039358/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_unknown_selectors0/unknown_selector_test_1673050039358/work_moved_unknown_selector_test-1.0.0-0_osx-64_main_build_loop)

@@ -1,0 +1,56 @@
+Using url https://files.pythonhosted.org/packages/7d/23/70fa970c07f0960f7543af982d2554be805e1034b9dcee9cb3082ce80f80/sympy-1.10.tar.gz (6.8 MB) for sympy.
+Downloading sympy
+PyPI URL:  https://files.pythonhosted.org/packages/7d/23/70fa970c07f0960f7543af982d2554be805e1034b9dcee9cb3082ce80f80/sympy-1.10.tar.gz
+Unpacking sympy...
+done
+working in /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpg701pn95conda_skeleton_sympy-1.10.tar.gz
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw1/test_name_with_version_specifi0/skeleton_1673051303593/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates: 2022.10.11-hecd8cb5_0    defaults
+    certifi:         2022.12.7-py37hecd8cb5_0 defaults
+    libffi:          3.4.2-hecd8cb5_6         defaults
+    ncurses:         6.3-hca72f7f_3           defaults
+    openssl:         1.1.1s-hca72f7f_0        defaults
+    patch:           2.7.6-h1de35cc_1001      defaults
+    pip:             22.3.1-py37hecd8cb5_0    defaults
+    python:          3.7.15-h218abb5_1        defaults
+    pyyaml:          6.0-py37h6c40b1e_1       defaults
+    readline:        8.2-hca72f7f_0           defaults
+    setuptools:      65.5.0-py37hecd8cb5_0    defaults
+    sqlite:          3.40.0-h880c91c_0        defaults
+    tk:              8.6.12-h5d9f67b_0        defaults
+    wheel:           0.37.1-pyhd3eb1b0_0      defaults
+    xz:              5.2.8-h6c40b1e_0         defaults
+    yaml:            0.2.5-haf1e3a3_0         defaults
+    zlib:            1.2.13-h4dc903c_0        defaults
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Applying patch: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpg701pn95conda_skeleton_sympy-1.10.tar.gz/pypi-distutils.patch
+Applying patch: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpg701pn95conda_skeleton_sympy-1.10.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp4w2vpjo0/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+patching file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+Applying patch: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpg701pn95conda_skeleton_sympy-1.10.tar.gz/pypi-distutils.patch
+Applying patch: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpg701pn95conda_skeleton_sympy-1.10.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpj2ow5le4/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+patching file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+Writing recipe for sympy
+Attempting to finalize metadata for sympy
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

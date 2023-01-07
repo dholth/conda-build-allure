@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for def
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging def
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output def
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpoa_mdnfl/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpoa_mdnfl/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpp1eqm56l/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpp1eqm56l/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_about_metadata0/subpackage_has_about_metadata_1673031066387/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_about_metadata0/subpackage_has_about_metadata_1673031066387/work_moved_subpackage_has_about_metadata-1.0-0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_about_metadata0/subpackage_has_about_metadata_1673031066387/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_about_metadata0/subpackage_has_about_metadata_1673031066387/work_moved_subpackage_has_about_metadata-1.0-0_osx-64_main_build_loop)

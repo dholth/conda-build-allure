@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for load_setup_py_test
+[33mWARNING [0m conda_build.render:render.py:622 Returning non-final recipe for load_setup_py_test-0.1.0-np116py310_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:627 Host: setuptools, wincertstore, wincertstore, python, python, python, python, python, vs2008_runtime, vs2008_runtime, vs2008_runtime
+[33mWARNING [0m conda_build.api:api.py:129 deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.

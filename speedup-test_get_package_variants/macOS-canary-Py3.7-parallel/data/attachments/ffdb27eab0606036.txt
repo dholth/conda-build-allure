@@ -1,0 +1,95 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/tests/conda_build_bootstrap_test
+
+  added / updated specs:
+    - git
+
+
+The following NEW packages will be INSTALLED:
+
+  bzip2              pkgs/main/osx-64::bzip2-1.0.8-h1de35cc_0 
+  c-ares             pkgs/main/osx-64::c-ares-1.18.1-hca72f7f_0 
+  ca-certificates    pkgs/main/osx-64::ca-certificates-2022.10.11-hecd8cb5_0 
+  curl               pkgs/main/osx-64::curl-7.86.0-h6c40b1e_0 
+  expat              pkgs/main/osx-64::expat-2.4.9-he9d5cce_0 
+  gdbm               pkgs/main/osx-64::gdbm-1.18-hdccc71a_4 
+  gettext            pkgs/main/osx-64::gettext-0.21.0-h7535e17_0 
+  git                pkgs/main/osx-64::git-2.34.1-pl5262h74264fa_0 
+  icu                pkgs/main/osx-64::icu-58.2-h0a44026_3 
+  krb5               pkgs/main/osx-64::krb5-1.19.2-hcd88c3b_0 
+  libcurl            pkgs/main/osx-64::libcurl-7.86.0-ha585b31_0 
+  libcxx             pkgs/main/osx-64::libcxx-14.0.6-h9765a3e_0 
+  libedit            pkgs/main/osx-64::libedit-3.1.20221030-h6c40b1e_0 
+  libev              pkgs/main/osx-64::libev-4.33-h9ed2024_1 
+  libiconv           pkgs/main/osx-64::libiconv-1.16-hca72f7f_2 
+  libnghttp2         pkgs/main/osx-64::libnghttp2-1.46.0-ha29bfda_0 
+  libssh2            pkgs/main/osx-64::libssh2-1.10.0-h0a4fc7d_0 
+  libxml2            pkgs/main/osx-64::libxml2-2.9.14-hbf8cd5e_0 
+  llvm-openmp        pkgs/main/osx-64::llvm-openmp-14.0.6-h0dcd299_0 
+  ncurses            pkgs/main/osx-64::ncurses-6.3-hca72f7f_3 
+  openssl            pkgs/main/osx-64::openssl-1.1.1s-hca72f7f_0 
+  pcre2              pkgs/main/osx-64::pcre2-10.37-he7042d7_1 
+  perl               pkgs/main/osx-64::perl-5.34.0-h435f0c2_2 
+  readline           pkgs/main/osx-64::readline-8.2-hca72f7f_0 
+  tk                 pkgs/main/osx-64::tk-8.6.12-h5d9f67b_0 
+  xz                 pkgs/main/osx-64::xz-5.2.8-h6c40b1e_0 
+  zlib               pkgs/main/osx-64::zlib-1.2.13-h4dc903c_0 
+
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate /Users/runner/work/conda-build/conda-build/tests/conda_build_bootstrap_test
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/tests/conda_build_bootstrap_test
+
+
+The following packages will be REMOVED:
+
+  bzip2-1.0.8-h1de35cc_0
+  c-ares-1.18.1-hca72f7f_0
+  ca-certificates-2022.10.11-hecd8cb5_0
+  curl-7.86.0-h6c40b1e_0
+  expat-2.4.9-he9d5cce_0
+  gdbm-1.18-hdccc71a_4
+  gettext-0.21.0-h7535e17_0
+  git-2.34.1-pl5262h74264fa_0
+  icu-58.2-h0a44026_3
+  krb5-1.19.2-hcd88c3b_0
+  libcurl-7.86.0-ha585b31_0
+  libcxx-14.0.6-h9765a3e_0
+  libedit-3.1.20221030-h6c40b1e_0
+  libev-4.33-h9ed2024_1
+  libiconv-1.16-hca72f7f_2
+  libnghttp2-1.46.0-ha29bfda_0
+  libssh2-1.10.0-h0a4fc7d_0
+  libxml2-2.9.14-hbf8cd5e_0
+  llvm-openmp-14.0.6-h0dcd299_0
+  ncurses-6.3-hca72f7f_3
+  openssl-1.1.1s-hca72f7f_0
+  pcre2-10.37-he7042d7_1
+  perl-5.34.0-h435f0c2_2
+  readline-8.2-hca72f7f_0
+  tk-8.6.12-h5d9f67b_0
+  xz-5.2.8-h6c40b1e_0
+  zlib-1.2.13-h4dc903c_0
+
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done

@@ -1,0 +1,7 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.python.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.python.org:443 "GET /packages/source/s/sympy/sympy-1.10.tar.gz HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /packages/source/s/sympy/sympy-1.10.tar.gz HTTP/1.1" 301 269
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/source/s/sympy/sympy-1.10.tar.gz HTTP/1.1" 302 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/7d/23/70fa970c07f0960f7543af982d2554be805e1034b9dcee9cb3082ce80f80/sympy-1.10.tar.gz HTTP/1.1" 200 7110645
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for sympy

@@ -1,0 +1,9 @@
++ env
++ cat
++ cat
+No files or script found for output test_split_package_entry_points
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpm16gkm22/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpsqvlw32y/info/recipe) will be used.
++ top1
++ top2
++ exit 0

@@ -1,0 +1,20 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for strong_pinned_package
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_has_run_exports
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for weak_pinned_package
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging strong_pinned_package
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output strong_pinned_package
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_has_run_exports
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_has_run_exports
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging weak_pinned_package
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output weak_pinned_package
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_1673024508173\work' to 'D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_1673024508173\work_moved_test_has_run_exports-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_1673024508173\work, dest=D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_1673024508173\work_moved_test_has_run_exports-1.0-0_win-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_has_run_exports_implicit_weak
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_has_run_exports_implicit_weak
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_has_run_exports_implicit_weak
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_implicit_weak_1673024511598\work' to 'D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_implicit_weak_1673024511598\work_moved_test_has_run_exports_implicit_weak-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_implicit_weak_1673024511598\work, dest=D:\a\_temp\parallel\popen-gw1\test_run_exports0\test_has_run_exports_implicit_weak_1673024511598\work_moved_test_has_run_exports_implicit_weak-1.0-0_win-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_run_exports
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'strong_pinned_package 1.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'weak_pinned_package 1.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'weak_pinned_package 2.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level

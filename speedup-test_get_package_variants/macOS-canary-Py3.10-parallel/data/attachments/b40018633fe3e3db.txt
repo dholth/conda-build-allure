@@ -1,0 +1,7 @@
+Attempting to finalize metadata for empty_sections
+Packaging empty_sections
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmptvauprbz/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061263271/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061263271/work_moved_empty_sections-0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061263271/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061263271/work_moved_empty_sections-0.0-0_osx-64_main_build_loop)
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061268389/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061268389/work_moved_empty_sections-0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061268389/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673061268389/work_moved_empty_sections-0.0-0_osx-64_main_build_loop)

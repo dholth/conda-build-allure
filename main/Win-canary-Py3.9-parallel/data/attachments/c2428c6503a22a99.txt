@@ -1,0 +1,7 @@
+D:\a\_temp\parallel\popen-gw0\test_script_win_creates_exe__s0\script_win_creates_exe_1673039159342\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+D:\a\_temp\parallel\popen-gw0\test_script_win_creates_exe__s0\script_win_creates_exe_1673039159342\_h_env\lib\site-packages\setuptools\command\easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: install_lib: 'build\lib' does not exist -- no Python modules to install
+
+zip_safe flag not set; analyzing archive contents...

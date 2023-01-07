@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\_temp\parallel\popen-gw1\test_get_package_variants_from0\variant_example.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_variants
+[33mWARNING [0m conda_build.render:render.py:622 Returning non-final recipe for test_variants-1.0-py35_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:625 Build: python, python
+[33mWARNING [0m conda_build.render:render.py:622 Returning non-final recipe for test_variants-1.0-py27_0; one or more dependencies was unsatisfiable:

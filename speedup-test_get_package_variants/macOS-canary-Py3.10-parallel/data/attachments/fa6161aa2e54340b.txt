@@ -1,0 +1,17 @@
+WARNING: pyldd disagrees with ldd/otool. This will not cause any
+WARNING: problems for this build, but please file a bug at:
+WARNING: https://github.com/conda/conda-build
+WARNING: and (if possible) attach file /Users/runner/work/conda-build/conda-build/miniconda/lib/libpython3.10.dylib
+WARNING: 
+ldd/otool gives:
+('libpython3.10.dylib', '@rpath/libpython3.10.dylib')
+('libSystem.B.dylib', '/usr/lib/libSystem.B.dylib')
+('CoreFoundation', '/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation')
+pyldd gives:
+('libSystem.B.dylib', '/usr/lib/libSystem.B.dylib')
+('CoreFoundation', '/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation')
+
+Diffs
+{('libpython3.10.dylib', '@rpath/libpython3.10.dylib')}
+Diffs
+set()

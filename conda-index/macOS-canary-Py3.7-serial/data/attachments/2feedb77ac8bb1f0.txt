@@ -1,0 +1,33 @@
+2023-01-06T23:13:05 Subdir: noarch Gathering repodata
+2023-01-06T23:13:05 noarch Writing pre-patch repodata
+2023-01-06T23:13:05 Subdir: osx-64 Gathering repodata
+2023-01-06T23:13:05 osx-64 Writing pre-patch repodata
+2023-01-06T23:13:05 noarch Applying patch instructions
+2023-01-06T23:13:05 noarch Writing patched repodata
+2023-01-06T23:13:05 noarch Building current_repodata subset
+2023-01-06T23:13:05 osx-64 Applying patch instructions
+2023-01-06T23:13:05 osx-64 Writing patched repodata
+2023-01-06T23:13:05 osx-64 Building current_repodata subset
+2023-01-06T23:13:05 osx-64 Writing current_repodata subset
+2023-01-06T23:13:05 noarch Writing current_repodata subset
+2023-01-06T23:13:05 osx-64 Writing index HTML
+2023-01-06T23:13:05 noarch Writing index HTML
+Cloning into bare repository '/Users/runner/work/_temp/serial/test_recipe_builds_source_mult0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/Users/runner/work/_temp/serial/test_recipe_builds_source_mult0/conda-build-test-source-multiple_1673046781926/work/second-source'...
+done.
+HEAD is now at 262d444 saving other files...
+No files or script found for output conda-build-test-source-multiple
+2023-01-06T23:13:13 Subdir: noarch Gathering repodata
+2023-01-06T23:13:13 noarch Writing pre-patch repodata
+2023-01-06T23:13:13 noarch Applying patch instructions
+2023-01-06T23:13:13 noarch Writing patched repodata
+2023-01-06T23:13:13 noarch Building current_repodata subset
+2023-01-06T23:13:13 Subdir: osx-64 Gathering repodata
+2023-01-06T23:13:13 osx-64 Writing pre-patch repodata
+2023-01-06T23:13:13 osx-64 Applying patch instructions
+2023-01-06T23:13:13 osx-64 Writing patched repodata
+2023-01-06T23:13:13 osx-64 Building current_repodata subset
+2023-01-06T23:13:13 noarch Writing current_repodata subset
+2023-01-06T23:13:13 noarch Writing index HTML
+2023-01-06T23:13:13 osx-64 Writing current_repodata subset
+2023-01-06T23:13:13 osx-64 Writing index HTML

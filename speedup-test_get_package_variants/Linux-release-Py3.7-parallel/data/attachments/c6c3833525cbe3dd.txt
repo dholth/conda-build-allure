@@ -1,0 +1,8 @@
+--------------
+Hash contents:
+--------------
+{}
+----------
+meta.yaml:
+----------
+Wrote yaml to /tmp/tmp__md4n50/out.yaml

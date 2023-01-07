@@ -1,0 +1,10 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed

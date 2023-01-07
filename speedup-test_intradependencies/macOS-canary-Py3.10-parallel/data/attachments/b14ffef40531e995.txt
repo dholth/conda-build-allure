@@ -1,0 +1,2 @@
+[31m[1mERROR   [0m conda_build.index:index.py:983 Package at /Users/runner/work/conda-build/conda-build/tests/index_data/corrupt/noarch/another_bad_package.conda did not contain valid index.json data.  Please check the file and remove/redownload if necessary to obtain a valid package.
+[31m[1mERROR   [0m conda_build.index:index.py:983 Package at /Users/runner/work/conda-build/conda-build/tests/index_data/corrupt/noarch/bad_package.tar.bz2 did not contain valid index.json data.  Please check the file and remove/redownload if necessary to obtain a valid package.

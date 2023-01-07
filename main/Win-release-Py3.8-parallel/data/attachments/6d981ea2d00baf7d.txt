@@ -1,0 +1,11 @@
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\12_variant_versions\conda_build_config.yaml
+Source cache directory is: C:\Users\runneradmin\Miniconda3\conda-bld\src_cache
+Downloading source to cache: ver480.zip
+Downloading file:///D:/a/conda-build/conda-build/tests/test-recipes/variants/12_variant_versions/ver480.zip
+Extracting download
+Downloading source to cache: ver470.zip
+Downloading file:///D:/a/conda-build/conda-build/tests/test-recipes/variants/12_variant_versions/ver470.zip
+Extracting download
+Extracting download
+Attempting to finalize metadata for my_package
+Extracting download

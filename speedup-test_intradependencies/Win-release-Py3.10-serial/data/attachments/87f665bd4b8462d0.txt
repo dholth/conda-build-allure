@@ -1,0 +1,14 @@
+[32mINFO    [0m binstar:config.py:149 Using Anaconda API: https://api.anaconda.org
+[35mDEBUG   [0m binstar:config.py:152 Using token from command line args
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): api.anaconda.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://api.anaconda.org:443 "GET /package/conda_build_test/test_token_upload_c94387663b3b474f830988a81a713d29 HTTP/1.1" 404 None
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from config.variant
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_token_upload_c94387663b3b474f830988a81a713d29
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_token_upload_c94387663b3b474f830988a81a713d29
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_token_upload_c94387663b3b474f830988a81a713d29
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_token_upload0\test_token_upload_c94387663b3b474f830988a81a713d29_1673026434444\work' to 'D:\a\_temp\serial\test_token_upload0\test_token_upload_c94387663b3b474f830988a81a713d29_1673026434444\work_moved_test_token_upload_c94387663b3b474f830988a81a713d29-1.0-1_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_token_upload0\test_token_upload_c94387663b3b474f830988a81a713d29_1673026434444\work, dest=D:\a\_temp\serial\test_token_upload0\test_token_upload_c94387663b3b474f830988a81a713d29_1673026434444\work_moved_test_token_upload_c94387663b3b474f830988a81a713d29-1.0-1_win-64_main_build_loop)
+[32mINFO    [0m binstar:config.py:149 Using Anaconda API: https://api.anaconda.org
+[35mDEBUG   [0m binstar:config.py:152 Using token from command line args
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): api.anaconda.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://api.anaconda.org:443 "GET /package/conda_build_test/test_token_upload_c94387663b3b474f830988a81a713d29 HTTP/1.1" 404 None

@@ -1,0 +1,16 @@
+2023-01-07T04:06:39 Subdir: linux-64 Gathering repodata
+2023-01-07T04:06:39 linux-64 Writing pre-patch repodata
+2023-01-07T04:06:39 linux-64 Applying patch instructions
+2023-01-07T04:06:39 linux-64 Writing patched repodata
+2023-01-07T04:06:39 linux-64 Building current_repodata subset
+2023-01-07T04:06:39 linux-64 Writing current_repodata subset
+2023-01-07T04:06:39 linux-64 Writing index HTML
+2023-01-07T04:06:39 Subdir: noarch Gathering repodata
+2023-01-07T04:06:39 noarch Writing pre-patch repodata
+2023-01-07T04:06:39 noarch Applying patch instructions
+2023-01-07T04:06:39 noarch Writing patched repodata
+2023-01-07T04:06:39 noarch Building current_repodata subset
+2023-01-07T04:06:40 noarch Writing current_repodata subset
+2023-01-07T04:06:40 noarch Writing index HTML
+Returning non-final recipe for clangdev-5.0.0-1000; one or more dependencies was unsatisfiable:
+Host: llvmdev

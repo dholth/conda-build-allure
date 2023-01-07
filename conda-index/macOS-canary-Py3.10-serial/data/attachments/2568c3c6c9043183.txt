@@ -1,0 +1,443 @@
+2023-01-06T23:24:54 Subdir: noarch Gathering repodata
+2023-01-06T23:24:54 noarch Writing pre-patch repodata
+2023-01-06T23:24:54 noarch Applying patch instructions
+2023-01-06T23:24:54 noarch Writing patched repodata
+2023-01-06T23:24:54 noarch Building current_repodata subset
+2023-01-06T23:24:54 Subdir: osx-64 Gathering repodata
+2023-01-06T23:24:54 osx-64 Writing pre-patch repodata
+2023-01-06T23:24:54 osx-64 Applying patch instructions
+2023-01-06T23:24:54 osx-64 Writing patched repodata
+2023-01-06T23:24:54 osx-64 Building current_repodata subset
+2023-01-06T23:24:54 noarch Writing current_repodata subset
+2023-01-06T23:24:54 noarch Writing index HTML
+2023-01-06T23:24:54 osx-64 Writing current_repodata subset
+2023-01-06T23:24:54 osx-64 Writing index HTML
+
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+2023-01-06T23:26:39 Subdir: noarch Gathering repodata
+2023-01-06T23:26:39 noarch Writing pre-patch repodata
+2023-01-06T23:26:39 noarch Applying patch instructions
+2023-01-06T23:26:39 noarch Writing patched repodata
+2023-01-06T23:26:39 noarch Building current_repodata subset
+2023-01-06T23:26:39 Subdir: osx-64 Gathering repodata
+2023-01-06T23:26:39 osx-64 Writing pre-patch repodata
+2023-01-06T23:26:39 osx-64 Applying patch instructions
+2023-01-06T23:26:39 osx-64 Writing patched repodata
+2023-01-06T23:26:39 osx-64 Building current_repodata subset
+2023-01-06T23:26:39 noarch Writing current_repodata subset
+2023-01-06T23:26:39 noarch Writing index HTML
+2023-01-06T23:26:39 osx-64 Writing current_repodata subset
+2023-01-06T23:26:39 osx-64 Writing index HTML
+2023-01-06T23:26:48 Subdir: noarch Gathering repodata
+2023-01-06T23:26:48 noarch Writing pre-patch repodata
+2023-01-06T23:26:48 noarch Applying patch instructions
+2023-01-06T23:26:48 noarch Writing patched repodata
+2023-01-06T23:26:48 noarch Building current_repodata subset
+2023-01-06T23:26:48 Subdir: osx-64 Gathering repodata
+2023-01-06T23:26:48 osx-64 Writing pre-patch repodata
+2023-01-06T23:26:48 osx-64 Applying patch instructions
+2023-01-06T23:26:48 osx-64 Writing patched repodata
+2023-01-06T23:26:48 osx-64 Building current_repodata subset
+2023-01-06T23:26:49 noarch Writing current_repodata subset
+2023-01-06T23:26:49 noarch Writing index HTML
+2023-01-06T23:26:49 osx-64 Writing current_repodata subset
+2023-01-06T23:26:49 osx-64 Writing index HTML
++ go-hello
++ exit 0

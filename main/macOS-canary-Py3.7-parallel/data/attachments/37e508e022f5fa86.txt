@@ -1,0 +1,13 @@
+Parsing input package r-rmarkdown:
+.. name: rmarkdown location: None new_location: /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_rmarkdown_0/r-rmarkdown
+Making/refreshing recipe for rmarkdown
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/rmarkdown_2.19.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_rmarkdown_0/src_cache/source-rmarkdown_2.19_39c2a4c51d.tar.gz
+Writing recipe for rmarkdown
+Attempting to finalize metadata for r-rmarkdown
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed

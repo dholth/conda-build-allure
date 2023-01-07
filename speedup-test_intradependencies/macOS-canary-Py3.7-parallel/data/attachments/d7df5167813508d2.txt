@@ -1,0 +1,1 @@
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /Users/runner/work/_temp/parallel/popen-gw0/test_multiple_url_sources_into0/src_cache

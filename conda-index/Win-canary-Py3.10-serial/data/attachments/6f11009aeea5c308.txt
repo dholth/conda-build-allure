@@ -1,0 +1,45 @@
+2023-01-06T21:04:39 Subdir: noarch Gathering repodata
+2023-01-06T21:04:39 Subdir: win-64 Gathering repodata
+2023-01-06T21:04:39 win-64 Writing pre-patch repodata
+2023-01-06T21:04:39 noarch Writing pre-patch repodata
+2023-01-06T21:04:39 noarch Applying patch instructions
+2023-01-06T21:04:39 noarch Writing patched repodata
+2023-01-06T21:04:39 win-64 Applying patch instructions
+2023-01-06T21:04:39 win-64 Writing patched repodata
+2023-01-06T21:04:39 noarch Building current_repodata subset
+2023-01-06T21:04:39 win-64 Building current_repodata subset
+2023-01-06T21:04:40 win-64 Writing current_repodata subset
+2023-01-06T21:04:40 win-64 Writing index HTML
+2023-01-06T21:04:40 noarch Writing current_repodata subset
+2023-01-06T21:04:40 noarch Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_no_link_0\test_no_link_1673039077709\_h_env
+
+2023-01-06T21:04:47 Subdir: noarch Gathering repodata
+2023-01-06T21:04:47 Subdir: win-64 Gathering repodata
+2023-01-06T21:04:47 noarch Writing pre-patch repodata
+2023-01-06T21:04:47 noarch Applying patch instructions
+2023-01-06T21:04:47 win-64 Writing pre-patch repodata
+2023-01-06T21:04:47 noarch Writing patched repodata
+2023-01-06T21:04:47 noarch Building current_repodata subset
+2023-01-06T21:04:47 win-64 Applying patch instructions
+2023-01-06T21:04:47 win-64 Writing patched repodata
+2023-01-06T21:04:47 win-64 Building current_repodata subset
+2023-01-06T21:04:47 noarch Writing current_repodata subset
+2023-01-06T21:04:47 noarch Writing index HTML
+2023-01-06T21:04:47 win-64 Writing current_repodata subset
+2023-01-06T21:04:47 win-64 Writing index HTML
+2023-01-06T21:04:52 Subdir: noarch Gathering repodata
+2023-01-06T21:04:52 Subdir: win-64 Gathering repodata
+2023-01-06T21:04:52 noarch Writing pre-patch repodata
+2023-01-06T21:04:52 win-64 Writing pre-patch repodata
+2023-01-06T21:04:52 noarch Applying patch instructions
+2023-01-06T21:04:52 noarch Writing patched repodata
+2023-01-06T21:04:52 win-64 Applying patch instructions
+2023-01-06T21:04:52 win-64 Writing patched repodata
+2023-01-06T21:04:52 noarch Building current_repodata subset
+2023-01-06T21:04:52 win-64 Building current_repodata subset
+2023-01-06T21:04:52 noarch Writing current_repodata subset
+2023-01-06T21:04:52 noarch Writing index HTML
+2023-01-06T21:04:52 win-64 Writing current_repodata subset
+2023-01-06T21:04:52 win-64 Writing index HTML

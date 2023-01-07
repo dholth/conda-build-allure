@@ -1,0 +1,108 @@
+Attempting to finalize metadata for conda-build-test-recursive-build-two-layers
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Missing dependency _recursive-build-c, but found recipe directory, so building _recursive-build-c first
+Missing dependency _recursive-build-d, but found recipe directory, so building _recursive-build-d first
+Attempting to finalize metadata for _recursive-build-d
+BUILD START: ['_recursive-build-d-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-d_1673030950294/work
+Packaging _recursive-build-d
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-d-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpxenq1kh4/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-d-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-d_1673030950294/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-d_1673030950294/work_moved__recursive-build-d-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-d_1673030950294/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-d_1673030950294/work_moved__recursive-build-d-1.0-0_linux-64_main_build_loop)
+Attempting to finalize metadata for _recursive-build-c
+BUILD START: ['_recursive-build-c-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-c_1673030951753/work
+Packaging _recursive-build-c
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-c-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp_mw77i7w/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-c-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-c_1673030951753/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-c_1673030951753/work_moved__recursive-build-c-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-c_1673030951753/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/_recursive-build-c_1673030951753/work_moved__recursive-build-c-1.0-0_linux-64_main_build_loop)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-recursive-build-two-layers-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _recursive-build-c: 1.0-0 file:///home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0
+    _recursive-build-d: 1.0-0 file:///home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/work
+Packaging conda-build-test-recursive-build-two-layers
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    _recursive-build-c: 1.0-0 file:///home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0
+    _recursive-build-d: 1.0-0 file:///home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/conda-build-test-recursive-build-two-layers-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp20g40132/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/conda-build-test-recursive-build-two-layers-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/work_moved_conda-build-test-recursive-build-two-layers-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/conda-build-test-recursive-build-two-layers_1673030953517/work_moved_conda-build-test-recursive-build-two-layers-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-d-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/_recursive-build-c-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_recursion_packages0/linux-64/conda-build-test-recursive-build-two-layers-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "_recursive-build-c-1.0-0": {
+    "recipe": {}
+  },
+  "_recursive-build-d-1.0-0": {
+    "recipe": {}
+  },
+  "conda-build-test-recursive-build-two-layers-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:15.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

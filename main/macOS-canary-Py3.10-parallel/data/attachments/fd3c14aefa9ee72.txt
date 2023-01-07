@@ -1,0 +1,20 @@
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpo8hneiry/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0/work_moved_test_debug_pkg-1.0-0_noarch'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0/work_moved_test_debug_pkg-1.0-0_noarch)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0/_test_e
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:          1.0.8-h1de35cc_0 defaults                                                                          
+    jpeg:           9e-hca72f7f_0    defaults                                                                          
+    test_debug_pkg: 1.0-0            file:///Users/runner/work/_temp/parallel/popen-gw1/test_debug_package_custom_path0
+    xz:             5.2.8-h6c40b1e_0 defaults                                                                          
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done

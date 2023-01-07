@@ -1,0 +1,5 @@
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpai6znrz1/info/recipe) will be used.
++ test '!' -f /Users/runner/work/_temp/parallel/popen-gw0/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673051487215/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/foo
++ test '!' -f /Users/runner/work/_temp/parallel/popen-gw0/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673051487215/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bar
++ test -f /Users/runner/work/_temp/parallel/popen-gw0/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673051487215/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/baz
++ exit 0

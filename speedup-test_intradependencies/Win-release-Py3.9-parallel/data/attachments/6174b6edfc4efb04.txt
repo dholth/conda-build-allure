@@ -1,0 +1,9 @@
+Applying patch: D:\a\_temp\parallel\popen-gw1\test_crlf_source_crlf_patch0\patch.diff
+Applying patch: D:\a\_temp\parallel\popen-gw1\test_crlf_source_crlf_patch0\patch.diff with args:
+['-Np0', '-i', 'C:\\Users\\RUNNER~1\\AppData\\Local\\Temp\\tmpuvtof1ps\\patch.diff.native', '--binary']
+checking file file-deletion.txt
+checking file file-creation.txt
+checking file file-modification.txt
+patching file file-deletion.txt
+patching file file-creation.txt
+patching file file-modification.txt

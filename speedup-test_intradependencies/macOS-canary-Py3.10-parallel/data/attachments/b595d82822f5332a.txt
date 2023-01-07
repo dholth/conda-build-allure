@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-git-jinja2-2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging conda-build-test-source-git-jinja2-2
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-source-git-jinja2-2
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpyai3v790/info/recipe/conda_build_config.yaml

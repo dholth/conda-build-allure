@@ -1,0 +1,1 @@
+Copying /home/runner/work/conda-build/conda_build_test_recipe to /home/runner/work/_temp/parallel/popen-gw0/test_git_in_output_version0/test_git_in_outptut_version_1673039569029/work/

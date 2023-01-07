@@ -1,0 +1,49 @@
+Attempting to finalize metadata for pkg_a
+Packaging pkg_a
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpep6_tqin/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1673028727189/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1673028727189/work_moved_pkg_a-1.0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1673028727189/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_a_1673028727189/work_moved_pkg_a-1.0.0-0_osx-64_main_build_loop)
+Attempting to finalize metadata for pkg_b
+Packaging pkg_b
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpkjfe68ca/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work_moved_pkg_b-1.0.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work_moved_pkg_b-1.0.0-0_osx-64)
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work_moved_pkg_b-1.0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028739999/work_moved_pkg_b-1.0.0-0_osx-64_main_build_loop)
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp8hacly2t/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work_moved_pkg_b-1.0.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work_moved_pkg_b-1.0.0-0_osx-64)
+BUILD START: ['pkg_b-1.0.0-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/work
+
+Resource usage statistics from building pkg_b:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: -
+   Disk usage: 32B
+   Time elapsed: 0:00:02.3
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.03 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/osx-64/pkg_b-1.0.0-0.tar.bz2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0/pkg_b_1673028771418/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    pkg_a: 1.0.0-0 file:///Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0
+    pkg_b: 1.0.0-0 file:///Users/runner/work/_temp/parallel/popen-gw0/test_warning_on_file_clobberin0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Rolling back transaction: ...working... done

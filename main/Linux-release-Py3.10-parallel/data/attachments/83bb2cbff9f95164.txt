@@ -1,0 +1,109 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel/relative'...
+done.
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038028781/work'...
+done.
+Note: switching to '0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 8418d10 added submodules@0
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/tmp/tmpho2_52sq'...
+done.
+Submodule 'absolute' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038028781/work/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038028781/work/relative'...
+done.
++ echo absolute0relative0
++ diff -wuN /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038028781/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/expected_summaries.txt /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038028781/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/summaries.txt
++ exit 0
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub
+   c3e7c5b..09b0aed  master     -> origin/master
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   1ff6e1b..2da0c21  master     -> origin/master
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/toplevel
+   8418d10..c7be83a  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038043685/work'...
+done.
+Note: switching to '1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c7be83a added submodules@1
+From /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub
+   1ff6e1b..2da0c21  master     -> master
+Cloning into '/tmp/tmpyf_9xi40'...
+done.
+Submodule 'absolute' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/git_cache/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038043685/work/absolute'...
+done.
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038043685/work/relative'...
+done.
++ echo absolute1relative1
++ diff -wuN /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038043685/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/expected_summaries.txt /home/runner/work/_temp/parallel/popen-gw1/test_relative_git_url_submodul0/relative_submodules_1673038043685/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/summaries.txt
++ exit 0

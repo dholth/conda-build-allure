@@ -1,0 +1,7 @@
+Attempting to finalize metadata for conda-build-test-rewrite-env
+Packaging conda-build-test-rewrite-env
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpub0rz3u7/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work_moved_conda-build-test-rewrite-env-1.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work_moved_conda-build-test-rewrite-env-1.0-0_osx-64)
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work_moved_conda-build-test-rewrite-env-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_rewrite_output0/conda-build-test-rewrite-env_1673047230594/work_moved_conda-build-test-rewrite-env-1.0-0_osx-64_main_build_loop)

@@ -1,0 +1,65 @@
+Attempting to finalize metadata for conda-build-test-post-link-build-error
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Missing dependency _post-link-fails, but found recipe directory, so building _post-link-fails first
+Attempting to finalize metadata for _post-link-fails
+BUILD START: ['_post-link-fails-1.0-0.tar.bz2']
+source tree in: D:\a\_temp\serial\test_env_creation_fail_exits_b0\_post-link-fails_1673041089673\work
+Packaging _post-link-fails
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: D:\a\_temp\serial\test_env_creation_fail_exits_b0\win-64\_post-link-fails-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpxdixptnx\info\recipe\conda_build_config.yaml
+Nothing to test for: D:\a\_temp\serial\test_env_creation_fail_exits_b0\win-64\_post-link-fails-1.0-0.tar.bz2
+Renaming work directory 'D:\a\_temp\serial\test_env_creation_fail_exits_b0\_post-link-fails_1673041089673\work' to 'D:\a\_temp\serial\test_env_creation_fail_exits_b0\_post-link-fails_1673041089673\work_moved__post-link-fails-1.0-0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\serial\test_env_creation_fail_exits_b0\_post-link-fails_1673041089673\work, dest=D:\a\_temp\serial\test_env_creation_fail_exits_b0\_post-link-fails_1673041089673\work_moved__post-link-fails-1.0-0_win-64_main_build_loop)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-post-link-build-error-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-build-error_1673041095647\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _post-link-fails: 1.0-0 file:///D:/a/_temp/serial/test_env_creation_fail_exits_b0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Rolling back transaction: ...working... done
+Attempting to finalize metadata for conda-build-test-post-link-test-error
+BUILD START: ['conda-build-test-post-link-test-error-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+source tree in: D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\work
+Packaging conda-build-test-post-link-test-error
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\serial\test_env_creation_fail_exits_b0\win-64\conda-build-test-post-link-test-error-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmppp1u5muu\info\recipe\conda_build_config.yaml
+Renaming work directory 'D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\work' to 'D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\work_moved_conda-build-test-post-link-test-error-1.0-0_win-64'
+shutil.move(work)=D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\work, dest=D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\work_moved_conda-build-test-post-link-test-error-1.0-0_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\serial\test_env_creation_fail_exits_b0\conda-build-test-post-link-test-error_1673041105041\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _post-link-fails:                      1.0-0 file:///D:/a/_temp/serial/test_env_creation_fail_exits_b0
+    conda-build-test-post-link-test-error: 1.0-0 file:///D:/a/_temp/serial/test_env_creation_fail_exits_b0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Rolling back transaction: ...working... done

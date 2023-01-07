@@ -1,0 +1,15 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for output_1
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_per_output_tests
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging output_1
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output output_1
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_per_output_tests
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_per_output_tests
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpaxs1_6mw/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpaxs1_6mw/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_output_1-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_output_1-1.0-0_linux-64)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpdsg8qqvk/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_test_per_output_tests-1.0-0_linux-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_test_per_output_tests-1.0-0_linux-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_test_per_output_tests-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_per_output_tests0/test_per_output_tests_1673040252001/work_moved_test_per_output_tests-1.0-0_linux-64_main_build_loop)

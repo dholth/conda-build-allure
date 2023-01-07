@@ -1,0 +1,12 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for d
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for c
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging d
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output d
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging c
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output c
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpu8w72ret/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpu8w72ret/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpjj1w5381/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpjj1w5381/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_bad0/toplevel-dc_1673040337246/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_bad0/toplevel-dc_1673040337246/work_moved_toplevel-dc-1-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_bad0/toplevel-dc_1673040337246/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_bad0/toplevel-dc_1673040337246/work_moved_toplevel-dc-1-0_linux-64_main_build_loop)

@@ -1,0 +1,18 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from internal_defaults
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from config.variant
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_no_include_recipe_meta_yaml
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_no_include_recipe_meta_yaml
+[32mINFO    [0m conda_build.build:build.py:1528 Packaging test_no_include_recipe_meta_yaml-1.0-1
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_no_include_recipe_meta_yaml
+[33mWARNING [0m conda_build.build:build.py:1704 Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673027713664/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673027713664/work_moved_test_no_include_recipe_meta_yaml-1.0-1_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673027713664/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673027713664/work_moved_test_no_include_recipe_meta_yaml-1.0-1_osx-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for no_include_recipe
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging no_include_recipe
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output no_include_recipe
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027745428/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027745428/work_moved_no_include_recipe-0.0-0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027745428/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027745428/work_moved_no_include_recipe-0.0-0_osx-64_main_build_loop)
+[33mWARNING [0m conda_build.metadata:metadata.py:133 No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027748294/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027748294/work_moved_no_include_recipe-0.0-0_osx-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027748294/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/no_include_recipe_1673027748294/work_moved_no_include_recipe-0.0-0_osx-64)
+[33mWARNING [0m conda_build.build:build.py:2965 Tests failed for no_include_recipe-0.0-0.tar.bz2 - moving package to /Users/runner/work/_temp/parallel/popen-gw2/test_no_include_recipe_meta_ya0/broken

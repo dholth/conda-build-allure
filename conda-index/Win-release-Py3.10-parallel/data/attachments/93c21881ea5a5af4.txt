@@ -1,0 +1,45 @@
+2023-01-06T22:05:11 Subdir: noarch Gathering repodata
+2023-01-06T22:05:11 noarch Writing pre-patch repodata
+2023-01-06T22:05:11 noarch Applying patch instructions
+2023-01-06T22:05:11 noarch Writing patched repodata
+2023-01-06T22:05:11 noarch Building current_repodata subset
+2023-01-06T22:05:12 Subdir: win-64 Gathering repodata
+2023-01-06T22:05:12 win-64 Writing pre-patch repodata
+2023-01-06T22:05:12 win-64 Applying patch instructions
+2023-01-06T22:05:12 win-64 Writing patched repodata
+2023-01-06T22:05:12 win-64 Building current_repodata subset
+2023-01-06T22:05:12 win-64 Writing current_repodata subset
+2023-01-06T22:05:12 win-64 Writing index HTML
+2023-01-06T22:05:12 noarch Writing current_repodata subset
+2023-01-06T22:05:12 noarch Writing index HTML
+2023-01-06T22:05:15 Subdir: noarch Gathering repodata
+2023-01-06T22:05:15 noarch Writing pre-patch repodata
+2023-01-06T22:05:15 noarch Applying patch instructions
+2023-01-06T22:05:15 noarch Writing patched repodata
+2023-01-06T22:05:15 noarch Building current_repodata subset
+2023-01-06T22:05:16 Subdir: win-64 Gathering repodata
+2023-01-06T22:05:16 win-64 Writing pre-patch repodata
+2023-01-06T22:05:16 win-64 Applying patch instructions
+2023-01-06T22:05:16 win-64 Writing patched repodata
+2023-01-06T22:05:16 win-64 Building current_repodata subset
+2023-01-06T22:05:17 noarch Writing current_repodata subset
+2023-01-06T22:05:17 noarch Writing index HTML
+2023-01-06T22:05:17 win-64 Writing current_repodata subset
+2023-01-06T22:05:17 win-64 Writing index HTML
+No files or script found for output def
+2023-01-06T22:05:20 Subdir: noarch Gathering repodata
+2023-01-06T22:05:20 noarch Writing pre-patch repodata
+2023-01-06T22:05:20 noarch Applying patch instructions
+2023-01-06T22:05:20 noarch Writing patched repodata
+2023-01-06T22:05:20 noarch Building current_repodata subset
+2023-01-06T22:05:21 Subdir: win-64 Gathering repodata
+2023-01-06T22:05:21 win-64 Writing pre-patch repodata
+2023-01-06T22:05:21 win-64 Applying patch instructions
+2023-01-06T22:05:21 win-64 Writing patched repodata
+2023-01-06T22:05:21 win-64 Building current_repodata subset
+2023-01-06T22:05:22 noarch Writing current_repodata subset
+2023-01-06T22:05:22 noarch Writing index HTML
+2023-01-06T22:05:22 win-64 Writing current_repodata subset
+2023-01-06T22:05:22 win-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp3lfjz4ag\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpxgxtmp2_\info\recipe) will be used.

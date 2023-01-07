@@ -1,0 +1,10 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_build_host_merge
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_merge_uses_run_exports
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_build_host_merge
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_build_host_merge
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_merge_uses_run_exports
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpzwoawl36/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp7frmfs2r/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp7frmfs2r/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_merge_build_host_applies_0/test_build_host_merge_1673035466574/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_merge_build_host_applies_0/test_build_host_merge_1673035466574/work_moved_test_build_host_merge-1-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_merge_build_host_applies_0/test_build_host_merge_1673035466574/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_merge_build_host_applies_0/test_build_host_merge_1673035466574/work_moved_test_build_host_merge-1-0_linux-64_main_build_loop)

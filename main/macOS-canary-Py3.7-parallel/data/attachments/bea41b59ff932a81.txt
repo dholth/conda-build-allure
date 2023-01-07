@@ -1,0 +1,15 @@
+Parsing input package r-magree:
+.. name: magree location: None new_location: /Users/runner/work/_temp/parallel/popen-gw0/test_cran_license_r_magree_GPL0/r-magree
+Making/refreshing recipe for magree
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/magree_1.1.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw0/test_cran_license_r_magree_GPL0/src_cache/source-magree_1.1_26ba19029d.tar.gz
+Writing recipe for magree
+Attempting to finalize metadata for r-magree
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

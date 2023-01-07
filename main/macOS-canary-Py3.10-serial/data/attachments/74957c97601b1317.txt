@@ -1,0 +1,97 @@
+Attempting to finalize metadata for conda-build-test-environment-vars-in-build-env
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Missing dependency _conda-build-test-environment-vars-in-build-env, but found recipe directory, so building _conda-build-test-environment-vars-in-build-env first
+Attempting to finalize metadata for _conda-build-test-environment-vars-in-build-env
+BUILD START: ['_conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2']
+source tree in: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work
+export PREFIX=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work
+
+Resource usage statistics from building _conda-build-test-environment-vars-in-build-env:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.0M
+   Disk usage: 32B
+   Time elapsed: 0:00:02.2
+
+
+Packaging _conda-build-test-environment-vars-in-build-env
+number of files: 2
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/_conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpmug6yvik/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/_conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work_moved__conda-build-test-environment-vars-in-build-env-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/_conda-build-test-environment-vars-in-build-env_1673050237627/work_moved__conda-build-test-environment-vars-in-build-env-1.0-0_osx-64_main_build_loop)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    _conda-build-test-environment-vars-in-build-env: 1.0-0 local
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work
+export PREFIX=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export SRC_DIR=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work
+
+Resource usage statistics from building conda-build-test-environment-vars-in-build-env:
+   Process count: 1
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 15.8M
+   Disk usage: 32B
+   Time elapsed: 0:00:02.1
+
+
+Packaging conda-build-test-environment-vars-in-build-env
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmposb28n3f/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work_moved_conda-build-test-environment-vars-in-build-env-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-environment-vars-in-build-env_1673050242111/work_moved_conda-build-test-environment-vars-in-build-env-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/_conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2 \
+    /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/conda-build-test-environment-vars-in-build-env-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "_conda-build-test-environment-vars-in-build-env-1.0-0": {
+    "recipe": {}
+  },
+  "conda-build-test-environment-vars-in-build-env-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:25.0
+CPU usage: sys=0:00:00.2, user=0:00:00.3
+Maximum memory usage observed: 17.0M
+Total disk usage observed (not including envs): 64B

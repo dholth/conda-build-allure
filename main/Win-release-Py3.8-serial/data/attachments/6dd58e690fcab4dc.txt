@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for foo
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging foo
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpdh1wlhg5\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_jinja_load_2\foo_1673039682572\work' to 'D:\a\_temp\serial\test_recipe_builds_jinja_load_2\foo_1673039682572\work_moved_foo-1.2.3-py_0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_jinja_load_2\foo_1673039682572\work, dest=D:\a\_temp\serial\test_recipe_builds_jinja_load_2\foo_1673039682572\work_moved_foo-1.2.3-py_0_win-64_main_build_loop)

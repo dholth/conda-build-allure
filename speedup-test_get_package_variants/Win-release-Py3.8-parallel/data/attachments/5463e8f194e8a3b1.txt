@@ -1,0 +1,15 @@
+Cloning into bare repository '/d/a/_temp/parallel/popen-gw1/test_git_variables_with_varian0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/d/a/_temp/parallel/popen-gw1/test_git_variables_with_varian0/conda-build-test-variant-git_1673027020981/work'...
+done.
+Note: checking out '1.20.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 262d444... saving other files...

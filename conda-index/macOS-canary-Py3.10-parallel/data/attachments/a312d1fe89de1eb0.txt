@@ -1,0 +1,157 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_circular_deps_cross/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gcc_impl_linux-32
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 linux-32 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 linux-32 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 linux-32 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 linux-32 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 linux-32 cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed linux-32
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: linux-32
+[35mDEBUG   [0m conda_index.index:__init__.py:654 linux-32 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 linux-32 channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json
+[33mWARNING [0m conda_build.render:render.py:623 Returning non-final recipe for gcc_impl_linux-32-7.5.0-0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:626 Build: sysroot_linux-32
+[33mWARNING [0m conda_build.render:render.py:628 Host: sysroot_linux-32
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gxx_impl_linux-32
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 linux-32 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 linux-32 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 linux-32 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 linux-32 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 linux-32 cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed linux-32
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: linux-32
+[35mDEBUG   [0m conda_index.index:__init__.py:654 linux-32 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 linux-32 channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 linux-32 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 linux-32 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 linux-32 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 linux-32 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 linux-32 cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:801 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed linux-32
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'noarch', 'osx-64', 'linux-32'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: linux-32
+[35mDEBUG   [0m conda_index.index:__init__.py:654 linux-32 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=linux-32 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/linux-32/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 linux-32 channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:101 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json to /Users/runner/work/_temp/parallel/popen-gw1/test_circular_deps_cross0/channeldata.json
+[33mWARNING [0m conda_build.render:render.py:623 Returning non-final recipe for gxx_impl_linux-32-7.5.0-0; one or more dependencies was unsatisfiable:

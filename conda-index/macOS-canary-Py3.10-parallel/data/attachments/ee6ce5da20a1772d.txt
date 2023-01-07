@@ -1,0 +1,16 @@
+2023-01-06T23:22:59 Subdir: noarch Gathering repodata
+2023-01-06T23:22:59 noarch Writing pre-patch repodata
+2023-01-06T23:22:59 noarch Applying patch instructions
+2023-01-06T23:22:59 noarch Writing patched repodata
+2023-01-06T23:22:59 noarch Building current_repodata subset
+2023-01-06T23:22:59 Subdir: osx-64 Gathering repodata
+2023-01-06T23:22:59 osx-64 Writing pre-patch repodata
+2023-01-06T23:22:59 osx-64 Applying patch instructions
+2023-01-06T23:22:59 osx-64 Writing patched repodata
+2023-01-06T23:22:59 osx-64 Building current_repodata subset
+2023-01-06T23:23:00 noarch Writing current_repodata subset
+2023-01-06T23:23:00 noarch Writing index HTML
+2023-01-06T23:23:00 osx-64 Writing current_repodata subset
+2023-01-06T23:23:00 osx-64 Writing index HTML
+Returning non-final recipe for requires_external_channel-1.0-0; one or more dependencies was unsatisfiable:
+Build: conda_build_test_requirement

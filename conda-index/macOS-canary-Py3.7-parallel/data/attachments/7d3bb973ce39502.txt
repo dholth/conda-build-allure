@@ -1,0 +1,50 @@
+2023-01-06T23:25:28 Subdir: noarch Gathering repodata
+2023-01-06T23:25:28 Subdir: osx-64 Gathering repodata
+2023-01-06T23:25:28 noarch Writing pre-patch repodata
+2023-01-06T23:25:28 noarch Applying patch instructions
+2023-01-06T23:25:28 noarch Writing patched repodata
+2023-01-06T23:25:28 osx-64 Writing pre-patch repodata
+2023-01-06T23:25:28 osx-64 Applying patch instructions
+2023-01-06T23:25:28 osx-64 Writing patched repodata
+2023-01-06T23:25:28 osx-64 Building current_repodata subset
+2023-01-06T23:25:28 noarch Building current_repodata subset
+2023-01-06T23:25:29 noarch Writing current_repodata subset
+2023-01-06T23:25:29 noarch Writing index HTML
+2023-01-06T23:25:29 osx-64 Writing current_repodata subset
+2023-01-06T23:25:29 osx-64 Writing index HTML
+No files or script found for output test_api_extra_dep
+2023-01-06T23:25:39 Subdir: noarch Gathering repodata
+2023-01-06T23:25:39 noarch Writing pre-patch repodata
+2023-01-06T23:25:39 Subdir: osx-64 Gathering repodata
+2023-01-06T23:25:39 osx-64 Writing pre-patch repodata
+2023-01-06T23:25:39 osx-64 Applying patch instructions
+2023-01-06T23:25:39 osx-64 Writing patched repodata
+2023-01-06T23:25:39 osx-64 Building current_repodata subset
+2023-01-06T23:25:39 noarch Applying patch instructions
+2023-01-06T23:25:39 noarch Writing patched repodata
+2023-01-06T23:25:39 noarch Building current_repodata subset
+2023-01-06T23:25:40 osx-64 Writing current_repodata subset
+2023-01-06T23:25:40 osx-64 Writing index HTML
+2023-01-06T23:25:40 noarch Writing current_repodata subset
+2023-01-06T23:25:40 noarch Writing index HTML
+2023-01-06T23:25:55 Subdir: noarch Gathering repodata
+2023-01-06T23:25:55 noarch Writing pre-patch repodata
+2023-01-06T23:25:55 noarch Applying patch instructions
+2023-01-06T23:25:55 noarch Writing patched repodata
+2023-01-06T23:25:55 noarch Building current_repodata subset
+2023-01-06T23:25:55 Subdir: osx-64 Gathering repodata
+2023-01-06T23:25:55 osx-64 Writing pre-patch repodata
+2023-01-06T23:25:55 osx-64 Applying patch instructions
+2023-01-06T23:25:55 osx-64 Writing patched repodata
+2023-01-06T23:25:55 osx-64 Building current_repodata subset
+2023-01-06T23:25:56 noarch Writing current_repodata subset
+2023-01-06T23:25:56 noarch Writing index HTML
+2023-01-06T23:25:56 osx-64 Writing current_repodata subset
+2023-01-06T23:25:56 osx-64 Writing index HTML
++ echo A-OK
++ exit 0
+Traceback (most recent call last):
+  File "/Users/runner/work/_temp/parallel/popen-gw1/test_api_extra_dep0/test_api_extra_dep_1673047521311/test_tmp/run_test.py", line 2, in <module>
+    import click
+ModuleNotFoundError: No module named 'click'
+Tests failed for test_api_extra_dep-1.0-1.tar.bz2 - moving package to /Users/runner/work/_temp/parallel/popen-gw1/test_api_extra_dep0/broken

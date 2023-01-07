@@ -1,0 +1,15 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pkg_a
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging pkg_a
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp8txuvvd0\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_a_1673026921789\work' to 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_a_1673026921789\work_moved_pkg_a-1.0.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_a_1673026921789\work, dest=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_a_1673026921789\work_moved_pkg_a-1.0.0-0_win-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pkg_b
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging pkg_b
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpfabarp4l\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work' to 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work_moved_pkg_b-1.0.0-0_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work, dest=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work_moved_pkg_b-1.0.0-0_win-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work' to 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work_moved_pkg_b-1.0.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work, dest=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026926299\work_moved_pkg_b-1.0.0-0_win-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp8mgs6tch\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026940135\work' to 'D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026940135\work_moved_pkg_b-1.0.0-0_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026940135\work, dest=D:\a\_temp\parallel\popen-gw1\test_warning_on_file_clobberin0\pkg_b_1673026940135\work_moved_pkg_b-1.0.0-0_win-64)

@@ -1,0 +1,78 @@
+2023-01-06T23:51:22 Subdir: noarch Gathering repodata
+2023-01-06T23:51:22 noarch Writing pre-patch repodata
+2023-01-06T23:51:22 noarch Applying patch instructions
+2023-01-06T23:51:22 noarch Writing patched repodata
+2023-01-06T23:51:22 noarch Building current_repodata subset
+2023-01-06T23:51:22 Subdir: osx-64 Gathering repodata
+2023-01-06T23:51:22 osx-64 Writing pre-patch repodata
+2023-01-06T23:51:22 osx-64 Applying patch instructions
+2023-01-06T23:51:22 osx-64 Writing patched repodata
+2023-01-06T23:51:22 osx-64 Building current_repodata subset
+2023-01-06T23:51:22 noarch Writing current_repodata subset
+2023-01-06T23:51:22 noarch Writing index HTML
+2023-01-06T23:51:22 osx-64 Writing current_repodata subset
+2023-01-06T23:51:23 osx-64 Writing index HTML
++ test -e /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libz.dylib
++ test -e /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libjpeg.dylib
++ '[' /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh == /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh ']'
+No files or script found for output test_build_host_merge
+2023-01-06T23:52:15 Subdir: noarch Gathering repodata
+2023-01-06T23:52:15 noarch Writing pre-patch repodata
+2023-01-06T23:52:15 noarch Applying patch instructions
+2023-01-06T23:52:15 noarch Writing patched repodata
+2023-01-06T23:52:15 noarch Building current_repodata subset
+2023-01-06T23:52:16 Subdir: osx-64 Gathering repodata
+2023-01-06T23:52:16 osx-64 Writing pre-patch repodata
+2023-01-06T23:52:16 osx-64 Applying patch instructions
+2023-01-06T23:52:16 osx-64 Writing patched repodata
+2023-01-06T23:52:16 osx-64 Building current_repodata subset
+2023-01-06T23:52:16 noarch Writing current_repodata subset
+2023-01-06T23:52:16 noarch Writing index HTML
+2023-01-06T23:52:16 osx-64 Writing current_repodata subset
+2023-01-06T23:52:16 osx-64 Writing index HTML
+2023-01-06T23:52:29 Subdir: noarch Gathering repodata
+2023-01-06T23:52:29 noarch Writing pre-patch repodata
+2023-01-06T23:52:29 noarch Applying patch instructions
+2023-01-06T23:52:29 noarch Writing patched repodata
+2023-01-06T23:52:29 noarch Building current_repodata subset
+2023-01-06T23:52:29 Subdir: osx-64 Gathering repodata
+2023-01-06T23:52:29 osx-64 Writing pre-patch repodata
+2023-01-06T23:52:29 osx-64 Applying patch instructions
+2023-01-06T23:52:29 osx-64 Writing patched repodata
+2023-01-06T23:52:29 osx-64 Building current_repodata subset
+2023-01-06T23:52:29 noarch Writing current_repodata subset
+2023-01-06T23:52:29 noarch Writing index HTML
+2023-01-06T23:52:29 osx-64 Writing current_repodata subset
+2023-01-06T23:52:29 osx-64 Writing index HTML
++ '[' /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh == /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh ']'
++ test -e /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libz.dylib
++ test -e /Users/runner/work/_temp/parallel/popen-gw2/test_merge_build_host_applies_0/test_build_host_merge_1673049119158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/libjpeg.dylib
+2023-01-06T23:52:57 Subdir: noarch Gathering repodata
+2023-01-06T23:52:57 noarch Writing pre-patch repodata
+2023-01-06T23:52:57 noarch Applying patch instructions
+2023-01-06T23:52:57 noarch Writing patched repodata
+2023-01-06T23:52:57 noarch Building current_repodata subset
+2023-01-06T23:52:57 Subdir: osx-64 Gathering repodata
+2023-01-06T23:52:57 osx-64 Writing pre-patch repodata
+2023-01-06T23:52:57 osx-64 Applying patch instructions
+2023-01-06T23:52:57 osx-64 Writing patched repodata
+2023-01-06T23:52:57 osx-64 Building current_repodata subset
+2023-01-06T23:52:57 noarch Writing current_repodata subset
+2023-01-06T23:52:57 noarch Writing index HTML
+2023-01-06T23:52:57 osx-64 Writing current_repodata subset
+2023-01-06T23:52:57 osx-64 Writing index HTML
+2023-01-06T23:53:10 Subdir: noarch Gathering repodata
+2023-01-06T23:53:10 noarch Writing pre-patch repodata
+2023-01-06T23:53:10 noarch Applying patch instructions
+2023-01-06T23:53:10 noarch Writing patched repodata
+2023-01-06T23:53:10 noarch Building current_repodata subset
+2023-01-06T23:53:10 Subdir: osx-64 Gathering repodata
+2023-01-06T23:53:10 osx-64 Writing pre-patch repodata
+2023-01-06T23:53:10 osx-64 Applying patch instructions
+2023-01-06T23:53:10 osx-64 Writing patched repodata
+2023-01-06T23:53:10 osx-64 Building current_repodata subset
+2023-01-06T23:53:10 noarch Writing current_repodata subset
+2023-01-06T23:53:10 noarch Writing index HTML
+2023-01-06T23:53:10 osx-64 Writing current_repodata subset
+2023-01-06T23:53:10 osx-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp5go9ui8c/info/recipe) will be used.

@@ -1,0 +1,31 @@
+2023-01-06T20:56:48 Subdir: noarch Gathering repodata
+2023-01-06T20:56:48 Subdir: win-64 Gathering repodata
+2023-01-06T20:56:48 win-64 Writing pre-patch repodata
+2023-01-06T20:56:48 win-64 Applying patch instructions
+2023-01-06T20:56:48 noarch Writing pre-patch repodata
+2023-01-06T20:56:48 win-64 Writing patched repodata
+2023-01-06T20:56:48 win-64 Building current_repodata subset
+2023-01-06T20:56:48 noarch Applying patch instructions
+2023-01-06T20:56:48 noarch Writing patched repodata
+2023-01-06T20:56:48 noarch Building current_repodata subset
+2023-01-06T20:56:49 noarch Writing current_repodata subset
+2023-01-06T20:56:49 noarch Writing index HTML
+2023-01-06T20:56:49 win-64 Writing current_repodata subset
+2023-01-06T20:56:49 win-64 Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673038606938\_h_env
+
+2023-01-06T20:56:56 Subdir: noarch Gathering repodata
+2023-01-06T20:56:56 Subdir: win-64 Gathering repodata
+2023-01-06T20:56:56 noarch Writing pre-patch repodata
+2023-01-06T20:56:56 noarch Applying patch instructions
+2023-01-06T20:56:56 noarch Writing patched repodata
+2023-01-06T20:56:56 noarch Building current_repodata subset
+2023-01-06T20:56:56 win-64 Writing pre-patch repodata
+2023-01-06T20:56:56 win-64 Applying patch instructions
+2023-01-06T20:56:56 win-64 Writing patched repodata
+2023-01-06T20:56:56 win-64 Building current_repodata subset
+2023-01-06T20:56:56 noarch Writing current_repodata subset
+2023-01-06T20:56:56 noarch Writing index HTML
+2023-01-06T20:56:56 win-64 Writing current_repodata subset
+2023-01-06T20:56:56 win-64 Writing index HTML

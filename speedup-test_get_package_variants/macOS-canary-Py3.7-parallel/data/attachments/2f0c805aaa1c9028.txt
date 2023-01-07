@@ -1,0 +1,5 @@
+/Users/runner/work/_temp/parallel/popen-gw2/test_append_python_app_osx0/conda-build-test-osx-is-app-no-python-app_1673043562194/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+/Users/runner/work/_temp/parallel/popen-gw2/test_append_python_app_osx0/conda-build-test-osx-is-app-no-python-app_1673043562194/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_/lib/python3.7/site-packages/setuptools/command/easy_install.py:147: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  EasyInstallDeprecationWarning,
+zip_safe flag not set; analyzing archive contents...

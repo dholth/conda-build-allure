@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673024996657\_h_env
+

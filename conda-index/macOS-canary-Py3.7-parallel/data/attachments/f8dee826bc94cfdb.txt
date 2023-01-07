@@ -1,0 +1,16 @@
+From https://github.com/conda/conda_build_test_recipe
+ * [new ref]                    -> _conda_cache_origin_head
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049903696/work'...
+done.
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049903696/work'...
+done.
+HEAD is now at 2a558a8 add test recipe
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049903696/work'...
+done.
+HEAD is now at 7a05dd8 create dummy content for entry points in small repo
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049903696/work'...
+done.
+HEAD is now at 2a558a8 add test recipe
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049903696/work'...
+done.
+HEAD is now at 7a05dd8 create dummy content for entry points in small repo

@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_pypi_installer_metadata/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for imagesize
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /Users/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/src_cache
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: imagesize-1.1.0_f3832918bc.tar.gz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading https://pypi.io/packages/source/i/imagesize/imagesize-1.1.0.tar.gz
+[32mINFO    [0m conda_build.source:source.py:96 Success
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging imagesize
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673030244002/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673030244002/work_moved_imagesize-1.1.0-py39_0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673030244002/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_pypi_installer_metadata0/imagesize_1673030244002/work_moved_imagesize-1.1.0-py39_0_osx-64_main_build_loop)

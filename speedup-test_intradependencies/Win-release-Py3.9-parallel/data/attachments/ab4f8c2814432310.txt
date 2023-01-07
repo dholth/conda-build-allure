@@ -1,0 +1,10 @@
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\27_requirements_host\conda_build_config.yaml
+Attempting to finalize metadata for cfastpm
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed

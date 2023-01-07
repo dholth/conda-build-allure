@@ -1,0 +1,22 @@
+
+PackagesNotFoundError: The following packages are missing from the target environment:
+  - cython
+
+
+2023-01-06T21:46:17 Subdir: noarch Gathering repodata
+2023-01-06T21:46:17 noarch Writing pre-patch repodata
+2023-01-06T21:46:17 noarch Applying patch instructions
+2023-01-06T21:46:17 noarch Writing patched repodata
+2023-01-06T21:46:17 noarch Building current_repodata subset
+2023-01-06T21:46:17 Subdir: win-64 Gathering repodata
+2023-01-06T21:46:17 win-64 Writing pre-patch repodata
+2023-01-06T21:46:17 win-64 Applying patch instructions
+2023-01-06T21:46:17 win-64 Writing patched repodata
+2023-01-06T21:46:17 win-64 Building current_repodata subset
+2023-01-06T21:46:17 noarch Writing current_repodata subset
+2023-01-06T21:46:17 noarch Writing index HTML
+2023-01-06T21:46:17 win-64 Writing current_repodata subset
+2023-01-06T21:46:17 win-64 Writing index HTML
+Building graph of deps:   0%|          | 0/6 [00:00<?, ?it/s]Examining setuptools:   0%|          | 0/6 [00:00<?, ?it/s]  Examining python=3.10:  17%|█▋        | 1/6 [00:02<00:12,  2.55s/it]Examining python=3.10:  33%|███▎      | 2/6 [00:02<00:05,  1.27s/it]Examining cython:  33%|███▎      | 2/6 [00:02<00:05,  1.27s/it]     Examining cython:  50%|█████     | 3/6 [00:02<00:02,  1.17it/s]Examining numpy=1.16:  50%|█████     | 3/6 [00:06<00:02,  1.17it/s]Examining numpy=1.16:  67%|██████▋   | 4/6 [00:06<00:03,  1.92s/it]Examining @/win-64::__archspec==1=x86_64:  67%|██████▋   | 4/6 [00:07<00:03,  1.92s/it]Examining @/win-64::__archspec==1=x86_64:  83%|████████▎ | 5/6 [00:07<00:01,  1.66s/it]Examining @/win-64::__win==0=0:  83%|████████▎ | 5/6 [00:07<00:01,  1.66s/it]                                                                                       Determining conflicts:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for setuptools python cython:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for setuptools python cython numpy:  17%|█▋        | 1/6 [00:00<00:00, 32.00it/s]Examining conflict for setuptools cython:  33%|███▎      | 2/6 [00:00<00:00,  5.81it/s]             Examining conflict for setuptools cython:  50%|█████     | 3/6 [00:00<00:00,  8.71it/s]Examining conflict for setuptools numpy cython:  50%|█████     | 3/6 [00:00<00:00,  8.71it/s]Examining conflict for setuptools numpy cython:  67%|██████▋   | 4/6 [00:00<00:00,  7.23it/s]                                                                                             Building graph of deps:   0%|          | 0/6 [00:00<?, ?it/s]Examining setuptools:   0%|          | 0/6 [00:00<?, ?it/s]  Examining python=3.10:  17%|█▋        | 1/6 [00:02<00:12,  2.52s/it]Examining python=3.10:  33%|███▎      | 2/6 [00:02<00:05,  1.26s/it]Examining cython:  33%|███▎      | 2/6 [00:02<00:05,  1.26s/it]     Examining cython:  50%|█████     | 3/6 [00:02<00:02,  1.17it/s]Examining numpy=1.16:  50%|█████     | 3/6 [00:06<00:02,  1.17it/s]Examining numpy=1.16:  67%|██████▋   | 4/6 [00:06<00:03,  1.92s/it]Examining @/win-64::__archspec==1=x86_64:  67%|██████▋   | 4/6 [00:07<00:03,  1.92s/it]Examining @/win-64::__archspec==1=x86_64:  83%|████████▎ | 5/6 [00:07<00:01,  1.68s/it]Examining @/win-64::__win==0=0:  83%|████████▎ | 5/6 [00:07<00:01,  1.68s/it]                                                                                       Determining conflicts:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for setuptools python cython:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for setuptools python cython numpy:  17%|█▋        | 1/6 [00:00<00:00, 63.79it/s]Examining conflict for setuptools cython:  33%|███▎      | 2/6 [00:00<00:00,  6.38it/s]             Examining conflict for setuptools cython:  50%|█████     | 3/6 [00:00<00:00,  9.58it/s]Examining conflict for setuptools numpy cython:  50%|█████     | 3/6 [00:00<00:00,  9.58it/s]Examining conflict for setuptools numpy cython:  67%|██████▋   | 4/6 [00:00<00:00,  7.62it/s]                                                                                             Returning non-final recipe for load_setup_py_test-0.1.0-np116py310_0; one or more dependencies was unsatisfiable:
+Host: setuptools, setuptools, vs2008_runtime, vs2008_runtime, vs2008_runtime, python, python, python, wincertstore, wincertstore
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.

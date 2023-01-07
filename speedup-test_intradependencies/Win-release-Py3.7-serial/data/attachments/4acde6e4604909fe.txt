@@ -1,0 +1,5 @@
+[35mDEBUG   [0m tests.test_utils:test_utils.py:233 test debug message
+[32mINFO    [0m tests.test_utils:test_utils.py:234 test info message
+[32mINFO    [0m tests.test_utils:test_utils.py:235 test duplicate message
+[33mWARNING [0m tests.test_utils:test_utils.py:237 test warn message
+[31m[1mERROR   [0m tests.test_utils:test_utils.py:238 test error message

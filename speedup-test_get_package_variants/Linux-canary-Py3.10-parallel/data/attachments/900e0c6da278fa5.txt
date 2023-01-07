@@ -1,0 +1,10 @@
+Building repodata for /home/runner/work/_temp/parallel/popen-gw0/test_gen_patch_py0/noarch
+Building repodata for /home/runner/work/_temp/parallel/popen-gw0/test_gen_patch_py0/osx-64
+pass 1 track features ok
+pass 1 hotfix ok
+pass 1 revoke ok
+pass 1 remove ok
+pass 2 track features ok
+pass 2 hotfix ok
+pass 2 revoke ok
+pass 2 remove ok

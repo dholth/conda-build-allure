@@ -1,0 +1,80 @@
+2023-01-06T20:47:00 Subdir: linux-64 Gathering repodata
+2023-01-06T20:47:00 linux-64 Writing pre-patch repodata
+2023-01-06T20:47:00 linux-64 Applying patch instructions
+2023-01-06T20:47:00 linux-64 Writing patched repodata
+2023-01-06T20:47:00 linux-64 Building current_repodata subset
+2023-01-06T20:47:00 linux-64 Writing current_repodata subset
+2023-01-06T20:47:00 linux-64 Writing index HTML
+2023-01-06T20:47:00 Subdir: noarch Gathering repodata
+2023-01-06T20:47:00 noarch Writing pre-patch repodata
+2023-01-06T20:47:00 noarch Applying patch instructions
+2023-01-06T20:47:00 noarch Writing patched repodata
+2023-01-06T20:47:00 noarch Building current_repodata subset
+2023-01-06T20:47:00 noarch Writing current_repodata subset
+2023-01-06T20:47:00 noarch Writing index HTML
+2023-01-06T20:47:05 Subdir: linux-64 Gathering repodata
+2023-01-06T20:47:05 linux-64 Writing pre-patch repodata
+2023-01-06T20:47:05 linux-64 Applying patch instructions
+2023-01-06T20:47:05 linux-64 Writing patched repodata
+2023-01-06T20:47:05 linux-64 Building current_repodata subset
+2023-01-06T20:47:05 linux-64 Writing current_repodata subset
+2023-01-06T20:47:05 linux-64 Writing index HTML
+2023-01-06T20:47:05 Subdir: noarch Gathering repodata
+2023-01-06T20:47:05 noarch Writing pre-patch repodata
+2023-01-06T20:47:05 noarch Applying patch instructions
+2023-01-06T20:47:05 noarch Writing patched repodata
+2023-01-06T20:47:05 noarch Building current_repodata subset
+2023-01-06T20:47:05 noarch Writing current_repodata subset
+2023-01-06T20:47:05 noarch Writing index HTML
+Exact overlap between sysroot/lib in packages symlink_dirs_in_always_include_files_bar and symlink_dirs_in_always_include_files_foo
+Exact overlap between sysroot/lib64/empty in packages symlink_dirs_in_always_include_files_bar and symlink_dirs_in_always_include_files_foo
+2023-01-06T20:47:13 Subdir: linux-64 Gathering repodata
+2023-01-06T20:47:13 linux-64 Writing pre-patch repodata
+2023-01-06T20:47:13 linux-64 Applying patch instructions
+2023-01-06T20:47:13 linux-64 Writing patched repodata
+2023-01-06T20:47:13 linux-64 Building current_repodata subset
+2023-01-06T20:47:13 linux-64 Writing current_repodata subset
+2023-01-06T20:47:13 linux-64 Writing index HTML
+2023-01-06T20:47:13 Subdir: noarch Gathering repodata
+2023-01-06T20:47:13 noarch Writing pre-patch repodata
+2023-01-06T20:47:13 noarch Applying patch instructions
+2023-01-06T20:47:13 noarch Writing patched repodata
+2023-01-06T20:47:13 noarch Building current_repodata subset
+2023-01-06T20:47:13 noarch Writing current_repodata subset
+2023-01-06T20:47:13 noarch Writing index HTML
+2023-01-06T20:47:16 Subdir: linux-64 Gathering repodata
+2023-01-06T20:47:16 linux-64 Writing pre-patch repodata
+2023-01-06T20:47:16 linux-64 Applying patch instructions
+2023-01-06T20:47:16 linux-64 Writing patched repodata
+2023-01-06T20:47:16 linux-64 Building current_repodata subset
+2023-01-06T20:47:16 linux-64 Writing current_repodata subset
+2023-01-06T20:47:16 linux-64 Writing index HTML
+2023-01-06T20:47:16 Subdir: noarch Gathering repodata
+2023-01-06T20:47:16 noarch Writing pre-patch repodata
+2023-01-06T20:47:16 noarch Applying patch instructions
+2023-01-06T20:47:16 noarch Writing patched repodata
+2023-01-06T20:47:16 noarch Building current_repodata subset
+2023-01-06T20:47:16 noarch Writing current_repodata subset
+2023-01-06T20:47:16 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp2ghi77vc/info/recipe) will be used.
+2023-01-06T20:47:20 Subdir: linux-64 Gathering repodata
+2023-01-06T20:47:20 linux-64 Writing pre-patch repodata
+2023-01-06T20:47:20 linux-64 Applying patch instructions
+2023-01-06T20:47:20 linux-64 Writing patched repodata
+2023-01-06T20:47:20 linux-64 Building current_repodata subset
+2023-01-06T20:47:20 Subdir: noarch Gathering repodata
+2023-01-06T20:47:20 noarch Writing pre-patch repodata
+2023-01-06T20:47:20 noarch Applying patch instructions
+2023-01-06T20:47:20 noarch Writing patched repodata
+2023-01-06T20:47:20 noarch Building current_repodata subset
+2023-01-06T20:47:20 linux-64 Writing current_repodata subset
+2023-01-06T20:47:20 linux-64 Writing index HTML
+2023-01-06T20:47:20 noarch Writing current_repodata subset
+2023-01-06T20:47:20 noarch Writing index HTML
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673038019431/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib/empty
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673038019431/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib64/empty
++ exit 0
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp8nvrr7p7/info/recipe) will be used.
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673038019431/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib/empty
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673038019431/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib64/empty
++ exit 0

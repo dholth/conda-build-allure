@@ -1,0 +1,99 @@
+2023-01-06T22:42:00 Subdir: noarch Gathering repodata
+2023-01-06T22:42:00 noarch Writing pre-patch repodata
+2023-01-06T22:42:00 noarch Applying patch instructions
+2023-01-06T22:42:00 noarch Writing patched repodata
+2023-01-06T22:42:00 noarch Building current_repodata subset
+2023-01-06T22:42:00 Subdir: osx-64 Gathering repodata
+2023-01-06T22:42:00 osx-64 Writing pre-patch repodata
+2023-01-06T22:42:00 osx-64 Applying patch instructions
+2023-01-06T22:42:00 osx-64 Writing patched repodata
+2023-01-06T22:42:00 osx-64 Building current_repodata subset
+2023-01-06T22:42:01 noarch Writing current_repodata subset
+2023-01-06T22:42:01 noarch Writing index HTML
+2023-01-06T22:42:01 osx-64 Writing current_repodata subset
+2023-01-06T22:42:01 osx-64 Writing index HTML
+No files or script found for output test_r_env_var_present
+2023-01-06T22:45:25 Subdir: noarch Gathering repodata
+2023-01-06T22:45:25 noarch Writing pre-patch repodata
+2023-01-06T22:45:25 noarch Applying patch instructions
+2023-01-06T22:45:25 noarch Writing patched repodata
+2023-01-06T22:45:25 noarch Building current_repodata subset
+2023-01-06T22:45:25 Subdir: osx-64 Gathering repodata
+2023-01-06T22:45:25 osx-64 Writing pre-patch repodata
+2023-01-06T22:45:25 osx-64 Applying patch instructions
+2023-01-06T22:45:25 osx-64 Writing patched repodata
+2023-01-06T22:45:25 osx-64 Building current_repodata subset
+2023-01-06T22:45:25 noarch Writing current_repodata subset
+2023-01-06T22:45:25 noarch Writing index HTML
+2023-01-06T22:45:25 osx-64 Writing current_repodata subset
+2023-01-06T22:45:25 osx-64 Writing index HTML
+2023-01-06T22:45:40 Subdir: noarch Gathering repodata
+2023-01-06T22:45:40 noarch Writing pre-patch repodata
+2023-01-06T22:45:40 noarch Applying patch instructions
+2023-01-06T22:45:40 noarch Writing patched repodata
+2023-01-06T22:45:40 noarch Building current_repodata subset
+2023-01-06T22:45:40 Subdir: osx-64 Gathering repodata
+2023-01-06T22:45:40 osx-64 Writing pre-patch repodata
+2023-01-06T22:45:40 osx-64 Applying patch instructions
+2023-01-06T22:45:40 osx-64 Writing patched repodata
+2023-01-06T22:45:40 osx-64 Building current_repodata subset
+2023-01-06T22:45:40 noarch Writing current_repodata subset
+2023-01-06T22:45:40 noarch Writing index HTML
+2023-01-06T22:45:41 osx-64 Writing current_repodata subset
+2023-01-06T22:45:41 osx-64 Writing index HTML
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-ObjectDump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/x86_64-apple-darwin13.4.0-ObjectDump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-dyldinfo
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/x86_64-apple-darwin13.4.0-dyldinfo
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-machocheck
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/x86_64-apple-darwin13.4.0-machocheck
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-unwinddump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/x86_64-apple-darwin13.4.0-unwinddump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_only_r_env_vars_defined0/test_r_env_var_present_1673044918081/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+
+
+

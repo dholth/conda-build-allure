@@ -1,0 +1,21 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_about_prelink_message_file_single
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_about_prelink_message_file_single
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_about_prelink_message_file_single
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpnzdkjocy/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673033543270/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673033543270/work_moved_test_about_prelink_message_file_single-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673033543270/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673033543270/work_moved_test_about_prelink_message_file_single-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_about_prelink_message_file_list
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_about_prelink_message_file_list
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_about_prelink_message_file_list
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp4294nu6d/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673033545388/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673033545388/work_moved_test_about_prelink_message_file_list-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673033545388/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673033545388/work_moved_test_about_prelink_message_file_list-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_about_prelink_message_file_dir
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_about_prelink_message_file_dir
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_about_prelink_message_file_dir
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpjtn3hnic/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673033547191/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673033547191/work_moved_test_about_prelink_message_file_dir-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673033547191/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673033547191/work_moved_test_about_prelink_message_file_dir-1.0-0_linux-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_about_prelink_message_file_dir-no-slash-suffix
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_about_prelink_message_file_dir-no-slash-suffix
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_about_prelink_message_file_dir-no-slash-suffix

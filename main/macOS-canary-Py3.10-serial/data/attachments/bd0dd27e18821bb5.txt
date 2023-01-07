@@ -1,0 +1,77 @@
+Attempting to finalize metadata for test_arbitrary_file_in_info_dir
+BUILD START: ['test_arbitrary_file_in_info_dir-1.0-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work
+
+Resource usage statistics from building test_arbitrary_file_in_info_dir:
+   Process count: 4
+   CPU time: Sys=0:00:00.2, User=0:00:00.5
+   Memory: 48.3M
+   Disk usage: 32B
+   Time elapsed: 0:00:04.3
+
+
+Packaging test_arbitrary_file_in_info_dir
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/osx-64/test_arbitrary_file_in_info_dir-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpsy0b08_y/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work_moved_test_arbitrary_file_in_info_dir-1.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work_moved_test_arbitrary_file_in_info_dir-1.0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+
+
+The following NEW packages will be INSTALLED:
+
+    test_arbitrary_file_in_info_dir: 1.0-0 file:///Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/test_tmp
+
+Resource usage statistics from testing test_arbitrary_file_in_info_dir:
+   Process count: 4
+   CPU time: Sys=0:00:00.2, User=0:00:00.5
+   Memory: 44.3M
+   Disk usage: 24B
+   Time elapsed: 0:00:04.3
+
+
+TEST END: /Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/osx-64/test_arbitrary_file_in_info_dir-1.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work_moved_test_arbitrary_file_in_info_dir-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673049069480/work_moved_test_arbitrary_file_in_info_dir-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/osx-64/test_arbitrary_file_in_info_dir-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_arbitrary_file_in_info_dir-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:17.9
+CPU usage: sys=0:00:00.4, user=0:00:01.0
+Maximum memory usage observed: 48.3M
+Total disk usage observed (not including envs): 56B

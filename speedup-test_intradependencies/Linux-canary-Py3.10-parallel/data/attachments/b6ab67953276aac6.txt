@@ -1,0 +1,39 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_intradependencies/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for dep1
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for dep2
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for lib1
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for lib2
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py1
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'dep1 2.7.16' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'dep1 3.7.3' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py2
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r1
+[33mWARNING [0m conda_build.utils:utils.py:1761 Adding .* to spec 'dep2 3.5.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging dep1
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output dep1
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging dep2
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output dep2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging lib1
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging lib2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging py1
+[33mWARNING [0m conda_build.build:build.py:2366 Exact overlap between bin/py1-intradependencies in packages py1 and py1
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging py2
+[33mWARNING [0m conda_build.build:build.py:2366 Exact overlap between bin/py2-intradependencies in packages py2 and py2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging r1
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging r2
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp2q19nkcs/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp0rvvuqtj/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpepw9agpf/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpcrcp1jdv/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpcrcp1jdv/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpqge44qd7/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpqge44qd7/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp94vjnx3z/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpo7rtv6sq/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp4kjcwzxo/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpmuvxcbvy/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp051kz93s/info/recipe) will be used.
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpzb4wgml9/info/recipe) will be used.
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035170156/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035170156/work_moved_intradependencies-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035170156/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_intradependencies0/intradependencies_1673035170156/work_moved_intradependencies-1.0-0_linux-64_main_build_loop)

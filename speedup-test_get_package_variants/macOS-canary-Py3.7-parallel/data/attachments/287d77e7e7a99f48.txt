@@ -1,0 +1,19 @@
+Parsing input package r-badger:
+.. name: badger location: None new_location: /Users/runner/work/_temp/parallel/popen-gw2/test_cran_license_r_badger_Art0/r-badger
+Making/refreshing recipe for badger
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/badger_0.2.2.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw2/test_cran_license_r_badger_Art0/src_cache/source-badger_0.2.2_e04cb8b531.tar.gz
+Writing recipe for badger
+Attempting to finalize metadata for r-badger
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed

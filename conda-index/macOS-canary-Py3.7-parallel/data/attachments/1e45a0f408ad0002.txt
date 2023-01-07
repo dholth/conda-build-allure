@@ -1,0 +1,30 @@
+2023-01-06T22:44:11 Subdir: noarch Gathering repodata
+2023-01-06T22:44:11 noarch Writing pre-patch repodata
+2023-01-06T22:44:11 Subdir: osx-64 Gathering repodata
+2023-01-06T22:44:11 osx-64 Writing pre-patch repodata
+2023-01-06T22:44:11 noarch Applying patch instructions
+2023-01-06T22:44:11 noarch Writing patched repodata
+2023-01-06T22:44:11 noarch Building current_repodata subset
+2023-01-06T22:44:11 osx-64 Applying patch instructions
+2023-01-06T22:44:11 osx-64 Writing patched repodata
+2023-01-06T22:44:11 osx-64 Building current_repodata subset
+2023-01-06T22:44:11 noarch Writing current_repodata subset
+2023-01-06T22:44:11 osx-64 Writing current_repodata subset
+2023-01-06T22:44:11 noarch Writing index HTML
+2023-01-06T22:44:11 osx-64 Writing index HTML
+/Users/runner/work/_temp/parallel/popen-gw1/test_setup_py_data_in_env0/conda-build-test-source-setup-py-data-in-env_1673045046346/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+2023-01-06T22:45:21 Subdir: noarch Gathering repodata
+2023-01-06T22:45:21 noarch Writing pre-patch repodata
+2023-01-06T22:45:21 noarch Applying patch instructions
+2023-01-06T22:45:21 noarch Writing patched repodata
+2023-01-06T22:45:21 noarch Building current_repodata subset
+2023-01-06T22:45:21 Subdir: osx-64 Gathering repodata
+2023-01-06T22:45:21 osx-64 Writing pre-patch repodata
+2023-01-06T22:45:21 osx-64 Applying patch instructions
+2023-01-06T22:45:21 osx-64 Writing patched repodata
+2023-01-06T22:45:21 osx-64 Building current_repodata subset
+2023-01-06T22:45:21 noarch Writing current_repodata subset
+2023-01-06T22:45:21 noarch Writing index HTML
+2023-01-06T22:45:21 osx-64 Writing current_repodata subset
+2023-01-06T22:45:21 osx-64 Writing index HTML

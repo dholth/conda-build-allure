@@ -1,0 +1,50 @@
+Attempting to finalize metadata for dll-hello
+BUILD START: ['dll-hello-1.0.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work
+~/work/conda-build/conda-build/tests/test-recipes/dll-package ~/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work
+
+Resource usage statistics from building dll-hello:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging dll-hello
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.01 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/linux-64/dll-hello-1.0.0-0.tar.bz2
+Adding in variants from /tmp/tmphumma4x_/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/linux-64/dll-hello-1.0.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work_moved_dll-hello-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/dll-hello_1673038812956/work_moved_dll-hello-1.0.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_recipe_build0/linux-64/dll-hello-1.0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "dll-hello-1.0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:04.4
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 8.0K
+Total disk usage observed (not including envs): 20B

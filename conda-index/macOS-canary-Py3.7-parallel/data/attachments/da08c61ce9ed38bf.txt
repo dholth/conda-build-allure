@@ -1,0 +1,13 @@
+Parsing input package r-broom:
+.. name: broom location: None new_location: /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_broom_MIT_0/r-broom
+Making/refreshing recipe for broom
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/broom_1.0.2.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_broom_MIT_0/src_cache/source-broom_1.0.2_9e3572a1f3.tar.gz
+Writing recipe for broom
+Attempting to finalize metadata for r-broom
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed

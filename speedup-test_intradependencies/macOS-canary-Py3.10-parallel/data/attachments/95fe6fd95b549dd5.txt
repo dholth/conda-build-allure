@@ -1,0 +1,29 @@
+Attempting to finalize metadata for output1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Attempting to finalize metadata for output2
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/debug_1673027681581/_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    jpeg: 9e-hca72f7f_0 defaults
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/debug_1673027681581/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    zlib: 1.2.13-h4dc903c_0 defaults
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/debug_1673027681581/work

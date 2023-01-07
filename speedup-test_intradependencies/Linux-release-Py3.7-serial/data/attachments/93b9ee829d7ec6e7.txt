@@ -1,0 +1,186 @@
+Attempting to finalize metadata for entry_points_have_prefix
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['entry_points_have_prefix-0.0.1-py37_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:    0.1-main                
+    _openmp_mutex:    5.1-1_gnu               
+    ca-certificates:  2022.10.11-h06a4308_0   
+    certifi:          2022.12.7-py37h06a4308_0
+    ld_impl_linux-64: 2.38-h1181459_1         
+    libffi:           3.4.2-h6a678d5_6        
+    libgcc-ng:        11.2.0-h1234567_1       
+    libgomp:          11.2.0-h1234567_1       
+    libstdcxx-ng:     11.2.0-h1234567_1       
+    ncurses:          6.3-h5eee18b_3          
+    openssl:          1.1.1s-h7f8727e_0       
+    pip:              22.3.1-py37h06a4308_0   
+    python:           3.7.15-h7a1cb2a_1       
+    readline:         8.2-h5eee18b_0          
+    setuptools:       65.5.0-py37h06a4308_0   
+    sqlite:           3.40.0-h5082296_0       
+    tk:               8.6.12-h1ccaba5_0       
+    wheel:            0.37.1-pyhd3eb1b0_0     
+    xz:               5.2.8-h5eee18b_0        
+    zlib:             1.2.13-h5eee18b_0       
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/entry_points_have_prefix to /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work/
+source tree in: /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export BUILD_PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/_build_env
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work
+Using pip 22.3.1 from $PREFIX/lib/python3.7/site-packages/pip (python 3.7)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /tmp/pip-build-tracker-y67bfgsm
+Initialized build tracking at /tmp/pip-build-tracker-y67bfgsm
+Created build tracker: /tmp/pip-build-tracker-y67bfgsm
+Entered build tracker: /tmp/pip-build-tracker-y67bfgsm
+Created temporary directory: /tmp/pip-install-29dsjc0_
+Created temporary directory: /tmp/pip-ephem-wheel-cache-e0__8x6u
+Processing $SRC_DIR
+  Added file://$SRC_DIR to build tracker '/tmp/pip-build-tracker-y67bfgsm'
+  Running setup.py (path:$SRC_DIR/setup.py) egg_info for package from file://$SRC_DIR
+  Created temporary directory: /tmp/pip-pip-egg-info-zgt9x7nq
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in $SRC_DIR has version 0.0.1, which satisfies requirement test-entry-points-have-prefix==0.0.1 from file://$SRC_DIR
+  Removed test-entry-points-have-prefix==0.0.1 from file://$SRC_DIR from build tracker '/tmp/pip-build-tracker-y67bfgsm'
+Created temporary directory: /tmp/pip-unpack-p1jr73or
+Building wheels for collected packages: test-entry-points-have-prefix
+  Created temporary directory: /tmp/pip-wheel-cyhs_qk7
+  Building wheel for test-entry-points-have-prefix (setup.py): started
+  Destination directory: /tmp/pip-wheel-cyhs_qk7
+  Building wheel for test-entry-points-have-prefix (setup.py): finished with status 'done'
+  Created wheel for test-entry-points-have-prefix: filename=test_entry_points_have_prefix-0.0.1-py3-none-any.whl size=2243 sha256=3c1f209dd3e62f30643ae1aea0fc2f1c66cfce690f1a56b8188f45a3e67f7d94
+  Stored in directory: /tmp/pip-ephem-wheel-cache-e0__8x6u/wheels/1d/cb/a4/625365a046164a05466ce90055c2e16b24e27518f2b3ca880f
+Successfully built test-entry-points-have-prefix
+Installing collected packages: test-entry-points-have-prefix
+
+  changing mode of $PREFIX/bin/test_entry_points_have_prefix_CASED to 755
+Successfully installed test-entry-points-have-prefix-0.0.1
+Removed build tracker: '/tmp/pip-build-tracker-y67bfgsm'
+
+Resource usage statistics from building entry_points_have_prefix:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.3
+   Memory: 64.5M
+   Disk usage: 104B
+   Time elapsed: 0:00:04.1
+
+
+Packaging entry_points_have_prefix
+compiling .pyc files...
+number of files: 13
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+bin/test_entry_points_have_prefix_CASED (text): Patching
+TEST START: /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/linux-64/entry_points_have_prefix-0.0.1-py37_0.tar.bz2
+Adding in variants from /tmp/tmp2yfpnkkx/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work' to '/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work_moved_entry_points_have_prefix-0.0.1-py37_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work_moved_entry_points_have_prefix-0.0.1-py37_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:            0.1-main                                                                                      
+    _openmp_mutex:            5.1-1_gnu                                                                                     
+    ca-certificates:          2022.10.11-h06a4308_0                                                                         
+    certifi:                  2022.12.7-py37h06a4308_0                                                                      
+    entry_points_have_prefix: 0.0.1-py37_0             file:///home/runner/work/_temp/serial/test_recipe_builds_entry_point0
+    ld_impl_linux-64:         2.38-h1181459_1                                                                               
+    libffi:                   3.4.2-h6a678d5_6                                                                              
+    libgcc-ng:                11.2.0-h1234567_1                                                                             
+    libgomp:                  11.2.0-h1234567_1                                                                             
+    libstdcxx-ng:             11.2.0-h1234567_1                                                                             
+    ncurses:                  6.3-h5eee18b_3                                                                                
+    openssl:                  1.1.1s-h7f8727e_0                                                                             
+    pip:                      22.3.1-py37h06a4308_0                                                                         
+    python:                   3.7.15-h7a1cb2a_1                                                                             
+    readline:                 8.2-h5eee18b_0                                                                                
+    ripgrep:                  13.0.0-hbdeaff8_0                                                                             
+    setuptools:               65.5.0-py37h06a4308_0                                                                         
+    sqlite:                   3.40.0-h5082296_0                                                                             
+    tk:                       8.6.12-h1ccaba5_0                                                                             
+    wheel:                    0.37.1-pyhd3eb1b0_0                                                                           
+    xz:                       5.2.8-h5eee18b_0                                                                              
+    zlib:                     1.2.13-h5eee18b_0                                                                             
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/test_tmp
+entry_point called ok
+$PREFIX/bin/test_entry_points_have_prefix_CASED:#!/bin/sh
+$PREFIX/bin/test_entry_points_have_prefix_CASED:'''exec' $PREFIX/bin/python "$0" "$@"
+$PREFIX/bin/test_entry_points_have_prefix_CASED:' '''
+$PREFIX/bin/test_entry_points_have_prefix_CASED:# -*- coding: utf-8 -*-
+$PREFIX/bin/test_entry_points_have_prefix_CASED:import re
+$PREFIX/bin/test_entry_points_have_prefix_CASED:import sys
+$PREFIX/bin/test_entry_points_have_prefix_CASED:from entry_points_have_prefix import main
+$PREFIX/bin/test_entry_points_have_prefix_CASED:if __name__ == '__main__':
+$PREFIX/bin/test_entry_points_have_prefix_CASED:    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+$PREFIX/bin/test_entry_points_have_prefix_CASED:    sys.exit(main.main())
+
+Resource usage statistics from testing entry_points_have_prefix:
+   Process count: 1
+   CPU time: Sys=0:00:00.0, User=-
+   Memory: 3.3M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/linux-64/entry_points_have_prefix-0.0.1-py37_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work' to '/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work_moved_entry_points_have_prefix-0.0.1-py37_0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023104335/work_moved_entry_points_have_prefix-0.0.1-py37_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/linux-64/entry_points_have_prefix-0.0.1-py37_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "entry_points_have_prefix-0.0.1-py37_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:42.3
+CPU usage: sys=0:00:00.1, user=0:00:00.3
+Maximum memory usage observed: 64.5M
+Total disk usage observed (not including envs): 124B

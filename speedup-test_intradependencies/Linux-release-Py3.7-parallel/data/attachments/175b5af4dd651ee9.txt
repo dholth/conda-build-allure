@@ -1,0 +1,5 @@
+  File "f2_bad.py", line 1
+    I am a bad file that should not pass compileall.
+       ^
+SyntaxError: invalid syntax
+

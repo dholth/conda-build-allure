@@ -1,0 +1,2 @@
+Glob D:\a\_temp\serial\test_recipe_builds_has_prefix_0\conda-build-test-has-prefix-files_1673024505528\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\serial\test_recipe_builds_has_prefix_0\conda-build-test-has-prefix-files_1673024505528\_h_env
+ERROR conda_build.utils:expand_globs(1207): Glob D:\a\_temp\serial\test_recipe_builds_has_prefix_0\conda-build-test-has-prefix-files_1673024505528\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\serial\test_recipe_builds_has_prefix_0\conda-build-test-has-prefix-files_1673024505528\_h_env

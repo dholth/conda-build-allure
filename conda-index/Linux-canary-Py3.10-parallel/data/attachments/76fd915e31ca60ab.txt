@@ -1,0 +1,8 @@
+--------------
+Hash contents:
+--------------
+{}
+----------
+meta.yaml:
+----------
+Wrote yaml to /tmp/tmppqo32b1l/out.yaml

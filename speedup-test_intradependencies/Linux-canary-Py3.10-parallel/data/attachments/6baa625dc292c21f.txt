@@ -1,0 +1,80 @@
+Attempting to finalize metadata for split_packages_script_overlapping_files
+BUILD START: ['my_script_subpackage-1.0-0.tar.bz2', 'my_script_subpackage_2-1.0-0.tar.bz2', 'split_packages_script_overlapping_files-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673035359340/work
+
+Resource usage statistics from bundling my_script_subpackage:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.3M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.01 seconds
+
+Resource usage statistics from bundling my_script_subpackage_2:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 4.3M
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.01 seconds
+Packaging split_packages_script_overlapping_files
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage-1.0-0.tar.bz2
+Adding in variants from /tmp/tmp_dh0vb77/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage-1.0-0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage_2-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpg_y7ooao/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage_2-1.0-0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/split_packages_script_overlapping_files-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpscy76025/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/split_packages_script_overlapping_files-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673035359340/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673035359340/work_moved_split_packages_script_overlapping_files-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673035359340/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673035359340/work_moved_split_packages_script_overlapping_files-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/my_script_subpackage_2-1.0-0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/linux-64/split_packages_script_overlapping_files-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "my_script_subpackage-1.0-0": {
+    "recipe": {}
+  },
+  "my_script_subpackage_2-1.0-0": {
+    "recipe": {}
+  },
+  "split_packages_script_overlapping_files-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 4.3M
+Total disk usage observed (not including envs): 32B

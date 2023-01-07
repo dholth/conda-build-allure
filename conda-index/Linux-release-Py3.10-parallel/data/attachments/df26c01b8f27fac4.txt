@@ -1,0 +1,61 @@
+2023-01-06T21:08:08 Subdir: linux-64 Gathering repodata
+2023-01-06T21:08:08 linux-64 Writing pre-patch repodata
+2023-01-06T21:08:08 linux-64 Applying patch instructions
+2023-01-06T21:08:08 linux-64 Writing patched repodata
+2023-01-06T21:08:08 linux-64 Building current_repodata subset
+2023-01-06T21:08:08 linux-64 Writing current_repodata subset
+2023-01-06T21:08:08 linux-64 Writing index HTML
+2023-01-06T21:08:08 Subdir: noarch Gathering repodata
+2023-01-06T21:08:08 noarch Writing pre-patch repodata
+2023-01-06T21:08:08 noarch Applying patch instructions
+2023-01-06T21:08:08 noarch Writing patched repodata
+2023-01-06T21:08:08 noarch Building current_repodata subset
+2023-01-06T21:08:08 noarch Writing current_repodata subset
+2023-01-06T21:08:08 noarch Writing index HTML
+No files or script found for output abc
+2023-01-06T21:08:12 Subdir: linux-64 Gathering repodata
+2023-01-06T21:08:12 linux-64 Writing pre-patch repodata
+2023-01-06T21:08:12 linux-64 Applying patch instructions
+2023-01-06T21:08:12 linux-64 Writing patched repodata
+2023-01-06T21:08:12 linux-64 Building current_repodata subset
+2023-01-06T21:08:12 Subdir: noarch Gathering repodata
+2023-01-06T21:08:12 noarch Writing pre-patch repodata
+2023-01-06T21:08:12 noarch Applying patch instructions
+2023-01-06T21:08:12 noarch Writing patched repodata
+2023-01-06T21:08:12 noarch Building current_repodata subset
+2023-01-06T21:08:12 linux-64 Writing current_repodata subset
+2023-01-06T21:08:12 linux-64 Writing index HTML
+2023-01-06T21:08:13 noarch Writing current_repodata subset
+2023-01-06T21:08:13 noarch Writing index HTML
+No files or script found for output test_files_in_parent_recipe
+2023-01-06T21:08:15 Subdir: linux-64 Gathering repodata
+2023-01-06T21:08:15 linux-64 Writing pre-patch repodata
+2023-01-06T21:08:15 linux-64 Applying patch instructions
+2023-01-06T21:08:15 linux-64 Writing patched repodata
+2023-01-06T21:08:15 linux-64 Building current_repodata subset
+2023-01-06T21:08:15 linux-64 Writing current_repodata subset
+2023-01-06T21:08:15 linux-64 Writing index HTML
+2023-01-06T21:08:15 Subdir: noarch Gathering repodata
+2023-01-06T21:08:15 noarch Writing pre-patch repodata
+2023-01-06T21:08:15 noarch Applying patch instructions
+2023-01-06T21:08:15 noarch Writing patched repodata
+2023-01-06T21:08:15 noarch Building current_repodata subset
+2023-01-06T21:08:16 noarch Writing current_repodata subset
+2023-01-06T21:08:16 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpqctyzrq2/info/recipe) will be used.
+2023-01-06T21:08:19 Subdir: linux-64 Gathering repodata
+2023-01-06T21:08:19 linux-64 Writing pre-patch repodata
+2023-01-06T21:08:19 linux-64 Applying patch instructions
+2023-01-06T21:08:19 linux-64 Writing patched repodata
+2023-01-06T21:08:19 linux-64 Building current_repodata subset
+2023-01-06T21:08:19 linux-64 Writing current_repodata subset
+2023-01-06T21:08:19 linux-64 Writing index HTML
+2023-01-06T21:08:19 Subdir: noarch Gathering repodata
+2023-01-06T21:08:19 noarch Writing pre-patch repodata
+2023-01-06T21:08:19 noarch Applying patch instructions
+2023-01-06T21:08:19 noarch Writing patched repodata
+2023-01-06T21:08:19 noarch Building current_repodata subset
+2023-01-06T21:08:19 noarch Writing current_repodata subset
+2023-01-06T21:08:19 noarch Writing index HTML
++ test -e recipe_file
++ exit 0

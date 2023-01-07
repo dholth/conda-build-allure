@@ -1,0 +1,133 @@
+Attempting to finalize metadata for test-checkout-tool-as-dependency
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test-checkout-tool-as-dependency-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    bzip2:         1.0.8-h7b6447c_0 
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:   0.1-main               
+    _openmp_mutex:   5.1-1_gnu              
+    apr:             1.7.0-hf178f73_5       
+    ca-certificates: 2022.10.11-h06a4308_0  
+    cyrus-sasl:      2.1.27-h9c0eb46_9      
+    expat:           2.4.9-h6a678d5_0       
+    krb5:            1.19.2-hac12032_0      
+    libapr:          1.7.0-hf178f73_5       
+    libapriconv:     1.2.2-h7f8727e_5       
+    libaprutil:      1.6.1-hfefca11_5       
+    libedit:         3.1.20221030-h5eee18b_0
+    libgcc-ng:       11.2.0-h1234567_1      
+    libgomp:         11.2.0-h1234567_1      
+    libntlm:         1.6-h7f8727e_0         
+    libstdcxx-ng:    11.2.0-h1234567_1      
+    libutf8proc:     2.1.1-h14c3975_0       
+    lz4-c:           1.8.1.2-h14c3975_0     
+    ncurses:         6.3-h5eee18b_3         
+    openssl:         1.1.1s-h7f8727e_0      
+    readline:        8.2-h5eee18b_0         
+    serf:            1.3.9-ha066f01_0       
+    sqlite:          3.40.0-h5082296_0      
+    svn:             1.10.2-h52f66ed_0      
+    zlib:            1.2.13-h5eee18b_0      
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+A    svn_cache/__github.com_conda_conda_build_test_recipe.git/branches
+A    svn_cache/__github.com_conda_conda_build_test_recipe.git/trunk
+A    svn_cache/__github.com_conda_conda_build_test_recipe.git/trunk/LICENSE
+A    svn_cache/__github.com_conda_conda_build_test_recipe.git/trunk/README.md
+Checked out revision 1.
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export BUILD_PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/_build_env
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work
+Path: .
+Working Copy Root Path: $SRC_DIR
+URL: https://github.com/conda/conda_build_test_recipe.git
+Relative URL: ^/
+Repository Root: https://github.com/conda/conda_build_test_recipe.git
+Repository UUID: 31115e95-153b-3247-77bb-ce57b7db7bff
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: mike.sarahan
+Last Changed Rev: 1
+Last Changed Date: 2016-05-17 13:54:36 +0000 (Tue, 17 May 2016)
+
+
+Resource usage statistics from building test-checkout-tool-as-dependency:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 192B
+   Time elapsed: 0:00:02.0
+
+
+Packaging test-checkout-tool-as-dependency
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/linux-64/test-checkout-tool-as-dependency-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpreykfdhk/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/linux-64/test-checkout-tool-as-dependency-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work_moved_test-checkout-tool-as-dependency-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/test-checkout-tool-as-dependency_1673033373649/work_moved_test-checkout-tool-as-dependency-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_checkout_tool_as_dependen0/linux-64/test-checkout-tool-as-dependency-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test-checkout-tool-as-dependency-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:31.0
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 8.0K
+Total disk usage observed (not including envs): 192B

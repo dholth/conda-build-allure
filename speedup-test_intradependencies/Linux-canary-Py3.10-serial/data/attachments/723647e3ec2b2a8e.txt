@@ -1,0 +1,2 @@
+/home/runner/work/_temp/serial/test_recipe_builds_entry_point2/conda-build-test-entry-points_1673023717054/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(

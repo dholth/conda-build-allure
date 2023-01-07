@@ -1,0 +1,50 @@
+No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
+2023-01-06T22:50:44 Subdir: noarch Gathering repodata
+2023-01-06T22:50:44 noarch Writing pre-patch repodata
+2023-01-06T22:50:44 noarch Applying patch instructions
+2023-01-06T22:50:44 noarch Writing patched repodata
+2023-01-06T22:50:44 noarch Building current_repodata subset
+2023-01-06T22:50:44 Subdir: osx-64 Gathering repodata
+2023-01-06T22:50:44 osx-64 Writing pre-patch repodata
+2023-01-06T22:50:44 osx-64 Applying patch instructions
+2023-01-06T22:50:44 osx-64 Writing patched repodata
+2023-01-06T22:50:44 osx-64 Building current_repodata subset
+2023-01-06T22:50:45 noarch Writing current_repodata subset
+2023-01-06T22:50:45 noarch Writing index HTML
+2023-01-06T22:50:45 osx-64 Writing current_repodata subset
+2023-01-06T22:50:45 osx-64 Writing index HTML
+No files or script found for output test_source_files
+2023-01-06T22:51:38 Subdir: noarch Gathering repodata
+2023-01-06T22:51:38 noarch Writing pre-patch repodata
+2023-01-06T22:51:38 noarch Applying patch instructions
+2023-01-06T22:51:38 noarch Writing patched repodata
+2023-01-06T22:51:38 noarch Building current_repodata subset
+2023-01-06T22:51:38 Subdir: osx-64 Gathering repodata
+2023-01-06T22:51:38 osx-64 Writing pre-patch repodata
+2023-01-06T22:51:38 osx-64 Applying patch instructions
+2023-01-06T22:51:38 osx-64 Writing patched repodata
+2023-01-06T22:51:38 osx-64 Building current_repodata subset
+2023-01-06T22:51:38 noarch Writing current_repodata subset
+2023-01-06T22:51:38 noarch Writing index HTML
+2023-01-06T22:51:38 osx-64 Writing current_repodata subset
+2023-01-06T22:51:38 osx-64 Writing index HTML
+2023-01-06T22:51:45 Subdir: noarch Gathering repodata
+2023-01-06T22:51:45 noarch Writing pre-patch repodata
+2023-01-06T22:51:45 noarch Applying patch instructions
+2023-01-06T22:51:45 noarch Writing patched repodata
+2023-01-06T22:51:45 noarch Building current_repodata subset
+2023-01-06T22:51:45 Subdir: osx-64 Gathering repodata
+2023-01-06T22:51:45 osx-64 Writing pre-patch repodata
+2023-01-06T22:51:45 osx-64 Applying patch instructions
+2023-01-06T22:51:45 osx-64 Writing patched repodata
+2023-01-06T22:51:45 osx-64 Building current_repodata subset
+2023-01-06T22:51:45 noarch Writing current_repodata subset
+2023-01-06T22:51:45 noarch Writing index HTML
+2023-01-06T22:51:45 osx-64 Writing current_repodata subset
+2023-01-06T22:51:45 osx-64 Writing index HTML
++ test -e setup.py
++ test -e conda_build_test
++ test -e conda_build_test/__init__.py
++ test -e conda_build_test/empty.py
++ test -e conda_build_test/manual_entry.py
++ exit 0

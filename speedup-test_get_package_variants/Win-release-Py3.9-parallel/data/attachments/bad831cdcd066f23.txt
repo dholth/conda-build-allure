@@ -1,0 +1,462 @@
+Warning, the following versions were found for click
+0.1
+0.2
+0.3
+0.4
+0.5
+0.5.1
+0.6
+0.7
+1.0
+1.1
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+3.0
+3.1
+3.2
+3.3
+4.0
+4.1
+5.0
+5.1
+6.0
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7.dev0
+6.7
+7.0
+7.1
+7.1.1
+7.1.2
+8.0.0a1
+8.0.0rc1
+8.0.0
+8.0.1
+8.0.2
+8.0.3
+8.0.4
+8.1.0
+8.1.1
+8.1.2
+8.1.3
+Using 8.1.3
+Use --version to specify a different version.
+Using url https://files.pythonhosted.org/packages/59/87/84326af34517fca8c58418d148f2403df25303e02736832403587318e9e8/click-8.1.3.tar.gz (323 KB) for click.
+Downloading click
+PyPI URL:  https://files.pythonhosted.org/packages/59/87/84326af34517fca8c58418d148f2403df25303e02736832403587318e9e8/click-8.1.3.tar.gz
+Unpacking click...
+done
+working in C:\Users\RUNNER~1\AppData\Local\Temp\tmpg8chzg26conda_skeleton_click-8.1.3.tar.gz
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\Miniconda3\conda-bld\skeleton_1673026875304\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:             1.0.8-he774522_0         
+    ca-certificates:   2022.10.11-haa95532_0    
+    certifi:           2022.12.7-py310haa95532_0
+    libffi:            3.4.2-hd77b12b_6         
+    m2-gcc-libs:       5.3.0-4                  
+    m2-msys2-runtime:  2.5.0.17080.65c939c-3    
+    m2-patch:          2.7.5-2                  
+    msys2-conda-epoch: 20160418-1               
+    openssl:           1.1.1s-h2bbff1b_0        
+    pip:               22.3.1-py310haa95532_0   
+    python:            3.10.8-h966fe2a_1        
+    pyyaml:            6.0-py310h2bbff1b_1      
+    setuptools:        65.5.0-py310haa95532_0   
+    sqlite:            3.40.0-h2bbff1b_0        
+    tk:                8.6.12-h2bbff1b_0        
+    tzdata:            2022g-h04d1e81_0         
+    vc:                14.2-h21ff451_1          
+    vs2015_runtime:    14.27.29016-h5e58377_2   
+    wheel:             0.37.1-pyhd3eb1b0_0      
+    wincertstore:      0.2-py310haa95532_2      
+    xz:                5.2.8-h8cc25b3_0         
+    yaml:              0.2.5-he774522_0         
+    zlib:              1.2.13-h8cc25b3_0        
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+checking file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+patching file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+checking file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+patching file core.py
+Hunk #1 succeeded at 187 with fuzz 2 (offset 21 lines).
+Applying patch: C:\Users\RUNNER~1\AppData\Local\Temp\tmpg8chzg26conda_skeleton_click-8.1.3.tar.gz\pypi-distutils.patch
+Applying patch: C:\Users\RUNNER~1\AppData\Local\Temp\tmpg8chzg26conda_skeleton_click-8.1.3.tar.gz\pypi-distutils.patch with args:
+['-Np0', '-i', 'C:\\Users\\RUNNER~1\\AppData\\Local\\Temp\\tmpp1bj5no_\\pypi-distutils.patch.native', '--binary']
+Applying patch: C:\Users\RUNNER~1\AppData\Local\Temp\tmpg8chzg26conda_skeleton_click-8.1.3.tar.gz\pypi-distutils.patch
+Applying patch: C:\Users\RUNNER~1\AppData\Local\Temp\tmpg8chzg26conda_skeleton_click-8.1.3.tar.gz\pypi-distutils.patch with args:
+['-Np0', '-i', 'C:\\Users\\RUNNER~1\\AppData\\Local\\Temp\\tmpbkwp2iyb\\pypi-distutils.patch.native', '--binary']
+Writing recipe for click
+--dirty flag and --keep-old-work not specified. Removing build/test folder after successful build/test.
+
+Adding in variants from internal_defaults
+Attempting to finalize metadata for click
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['click-8.1.3-py310_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:           1.0.8-he774522_0         
+    ca-certificates: 2022.10.11-haa95532_0    
+    certifi:         2022.12.7-py310haa95532_0
+    colorama:        0.4.6-py310haa95532_0    
+    libffi:          3.4.2-hd77b12b_6         
+    openssl:         1.1.1s-h2bbff1b_0        
+    pip:             22.3.1-py310haa95532_0   
+    python:          3.10.8-h966fe2a_1        
+    setuptools:      65.5.0-py310haa95532_0   
+    sqlite:          3.40.0-h2bbff1b_0        
+    tk:              8.6.12-h2bbff1b_0        
+    tzdata:          2022g-h04d1e81_0         
+    vc:              14.2-h21ff451_1          
+    vs2015_runtime:  14.27.29016-h5e58377_2   
+    wheel:           0.37.1-pyhd3eb1b0_0      
+    wincertstore:    0.2-py310haa95532_2      
+    xz:              5.2.8-h8cc25b3_0         
+    zlib:            1.2.13-h8cc25b3_0        
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Source cache directory is: C:\Users\runneradmin\Miniconda3\conda-bld\src_cache
+Downloading source to cache: click-8.1.3_7682dc8afb.tar.gz
+Downloading https://pypi.io/packages/source/c/click/click-8.1.3.tar.gz
+Success
+Extracting download
+source tree in: C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\work
+Rewriting env in output: {'BUILD_PREFIX': 'C:\\Users\\runneradmin\\Miniconda3\\conda-bld\\click_1673026924330\\_build_env',
+ 'PREFIX': 'C:\\Users\\runneradmin\\Miniconda3\\conda-bld\\click_1673026924330\\_h_env',
+ 'SRC_DIR': 'C:\\Users\\runneradmin\\Miniconda3\\conda-bld\\click_1673026924330\\work'}
+
+(base) %SRC_DIR%>IF "" == "" (call %SRC_DIR%\build_env_setup.bat ) 
+
+(base) %SRC_DIR%>set "CONDA_BUILD=1" 
+
+(base) %SRC_DIR%>set "PYTHONNOUSERSITE=1" 
+
+(base) %SRC_DIR%>set "CONDA_DEFAULT_ENV=%PREFIX%" 
+
+(base) %SRC_DIR%>set "ARCH=64" 
+
+(base) %SRC_DIR%>set "PREFIX=%PREFIX%" 
+
+(base) %SRC_DIR%>set "BUILD_PREFIX=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "SYS_PREFIX=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "SYS_PYTHON=C:\Users\runneradmin\Miniconda3\python.exe" 
+
+(base) %SRC_DIR%>set "SUBDIR=win-64" 
+
+(base) %SRC_DIR%>set "build_platform=win-64" 
+
+(base) %SRC_DIR%>set "SRC_DIR=%SRC_DIR%" 
+
+(base) %SRC_DIR%>set "ROOT=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "CONDA_PY=310" 
+
+(base) %SRC_DIR%>set "PY3K=1" 
+
+(base) %SRC_DIR%>set "PY_VER=3.10" 
+
+(base) %SRC_DIR%>set "STDLIB_DIR=%PREFIX%\Lib" 
+
+(base) %SRC_DIR%>set "SP_DIR=%PREFIX%\Lib\site-packages" 
+
+(base) %SRC_DIR%>set "PYTHON=%PREFIX%\python.exe" 
+
+(base) %SRC_DIR%>set "NPY_VER=1.21" 
+
+(base) %SRC_DIR%>set "CONDA_NPY=1.21" 
+
+(base) %SRC_DIR%>set "NPY_DISTUTILS_APPEND_FLAGS=1" 
+
+(base) %SRC_DIR%>set "PERL_VER=5.26" 
+
+(base) %SRC_DIR%>set "CONDA_PERL=5.26.2" 
+
+(base) %SRC_DIR%>set "LUA_VER=5" 
+
+(base) %SRC_DIR%>set "CONDA_LUA=5" 
+
+(base) %SRC_DIR%>set "R_VER=3.4" 
+
+(base) %SRC_DIR%>set "CONDA_R=3.4" 
+
+(base) %SRC_DIR%>set "PKG_NAME=click" 
+
+(base) %SRC_DIR%>set "PKG_VERSION=8.1.3" 
+
+(base) %SRC_DIR%>set "PKG_BUILDNUM=0" 
+
+(base) %SRC_DIR%>set "PKG_BUILD_STRING=placeholder" 
+
+(base) %SRC_DIR%>set "PKG_HASH=1234567" 
+
+(base) %SRC_DIR%>set "RECIPE_DIR=D:\a\_temp\parallel\popen-gw1\test_skeleton_pypi1\click" 
+
+(base) %SRC_DIR%>set "CPU_COUNT=2" 
+
+(base) %SRC_DIR%>set "SHLIB_EXT=.dll" 
+
+(base) %SRC_DIR%>set "PATH=%BUILD_PREFIX%;%BUILD_PREFIX%\Library\mingw-w64\bin;%BUILD_PREFIX%\Library\usr\bin;%BUILD_PREFIX%\Library\bin;%BUILD_PREFIX%\Scripts;%BUILD_PREFIX%\bin;%PREFIX%;%PREFIX%\Library\mingw-w64\bin;%PREFIX%\Library\usr\bin;%PREFIX%\Library\bin;%PREFIX%\Scripts;%PREFIX%\bin;C:\Users\runneradmin\Miniconda3;C:\Users\runneradmin\Miniconda3\Library\mingw-w64\bin;C:\Users\runneradmin\Miniconda3\Library\usr\bin;C:\Users\runneradmin\Miniconda3\Library\bin;C:\Users\runneradmin\Miniconda3\Scripts;C:\Users\runneradmin\Miniconda3\bin;C:\Users\runneradmin\Miniconda3\condabin;C:\Users\runneradmin\AppData\Roaming\Python\Python39\Scripts;C:\hostedtoolcache\windows\Python\3.9.13\x64\Scripts;C:\hostedtoolcache\windows\Python\3.9.13\x64;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\cf-cli;C:\Program Files (x86)\NSIS;C:\tools\zstd;C:\Program Files\Mercurial;C:\hostedtoolcache\windows\stack\2.9.1\x64;C:\cabal\bin;C:\ghcup\bin;C:\tools\ghc-9.4.2\bin;C:\Program Files\dotnet;C:\mysql\bin;C:\Program Files\R\R-4.2.2\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.17.13\x64\bin;C:\hostedtoolcache\windows\Python\3.7.9\x64\Scripts;C:\hostedtoolcache\windows\Python\3.7.9\x64;C:\hostedtoolcache\windows\Ruby\2.5.9\x64\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.352-8\x64\bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\ProgramData\Chocolatey\bin;C:\Program Files\PowerShell\7;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn;C:\Program Files\OpenSSL\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\SeleniumWebDrivers\ChromeDriver;C:\SeleniumWebDrivers\EdgeDriver;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Amazon\SessionManagerPlugin\bin;C:\Program Files\Amazon\AWSSAMCLI\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Microsoft BizTalk Server;C:\Program Files\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps" 
+
+(base) %SRC_DIR%>set "SCRIPTS=%PREFIX%\Scripts" 
+
+(base) %SRC_DIR%>set "LIBRARY_PREFIX=%PREFIX%\Library" 
+
+(base) %SRC_DIR%>set "LIBRARY_BIN=%PREFIX%\Library\bin" 
+
+(base) %SRC_DIR%>set "LIBRARY_INC=%PREFIX%\Library\include" 
+
+(base) %SRC_DIR%>set "LIBRARY_LIB=%PREFIX%\Library\lib" 
+
+(base) %SRC_DIR%>set "CYGWIN_PREFIX=/cygdrive/c/Users/runneradmin/Miniconda3/conda-bld/click_1673026924330/_h_env" 
+
+(base) %SRC_DIR%>set "ALLUSERSPROFILE=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "APPDATA=C:\Users\runneradmin\AppData\Roaming" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramW6432=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "COMPUTERNAME=fv-az406-483" 
+
+(base) %SRC_DIR%>set "ComSpec=C:\Windows\system32\cmd.exe" 
+
+(base) %SRC_DIR%>set "HOMEDRIVE=C:" 
+
+(base) %SRC_DIR%>set "HOMEPATH=\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "LOCALAPPDATA=C:\Users\runneradmin\AppData\Local" 
+
+(base) %SRC_DIR%>set "LOGONSERVER=\\fv-az406-483" 
+
+(base) %SRC_DIR%>set "NUMBER_OF_PROCESSORS=2" 
+
+(base) %SRC_DIR%>set "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" 
+
+(base) %SRC_DIR%>set "ProgramData=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "ProgramFiles=C:\Program Files" 
+
+(base) %SRC_DIR%>set "ProgramFiles(x86)=C:\Program Files (x86)" 
+
+(base) %SRC_DIR%>set "ProgramW6432=C:\Program Files" 
+
+(base) %SRC_DIR%>set "PROMPT=(base) $P$G" 
+
+(base) %SRC_DIR%>set "PSModulePath=C:\\Modules\azurerm_2.1.0;C:\\Modules\azure_2.1.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell" 
+
+(base) %SRC_DIR%>set "PUBLIC=C:\Users\Public" 
+
+(base) %SRC_DIR%>set "SystemDrive=C:" 
+
+(base) %SRC_DIR%>set "SystemRoot=C:\Windows" 
+
+(base) %SRC_DIR%>set "TEMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "TMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "USERDOMAIN=fv-az406-483" 
+
+(base) %SRC_DIR%>set "USERNAME=runneradmin" 
+
+(base) %SRC_DIR%>set "USERPROFILE=C:\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "windir=C:\Windows" 
+
+(base) %SRC_DIR%>set "PROCESSOR_ARCHITECTURE=AMD64" 
+
+(base) %SRC_DIR%>set "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel" 
+
+(base) %SRC_DIR%>set "BUILD=amd64-pc-windows-19.0.0" 
+
+(base) %SRC_DIR%>set "VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" 
+
+(base) %SRC_DIR%>set "VS90COMNTOOLS=C:\Program Files (x86)\Common Files\Microsoft\Visual C++ for Python\9.0\VC\bin" 
+
+(base) %SRC_DIR%>set "ignore_build_only_deps={'python', 'numpy'}" 
+
+(base) %SRC_DIR%>set "pin_run_as_build=OrderedDict([('python', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')])), ('r-base', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')]))])" 
+
+(base) %SRC_DIR%>set "extend_keys={'ignore_build_only_deps', 'pin_run_as_build', 'extend_keys', 'ignore_version'}" 
+
+(base) %SRC_DIR%>set "target_platform=win-64" 
+
+(base) %SRC_DIR%>set "cran_mirror=https://cran.r-project.org" 
+
+(base) %SRC_DIR%>set "vc=14" 
+
+(base) %SRC_DIR%>set "r_base=3.4" 
+
+(base) %SRC_DIR%>set "fortran_compiler=gfortran" 
+
+(base) %SRC_DIR%>set "c_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "cpu_optimization_target=nocona" 
+
+(base) %SRC_DIR%>set "cxx_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "CONDA_BUILD_STATE=BUILD" 
+
+(base) %SRC_DIR%>set "PIP_NO_BUILD_ISOLATION=False" 
+
+(base) %SRC_DIR%>set "PIP_NO_DEPENDENCIES=True" 
+
+(base) %SRC_DIR%>set "PIP_IGNORE_INSTALLED=True" 
+
+(base) %SRC_DIR%>set "PIP_CACHE_DIR=C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\pip_cache" 
+
+(base) %SRC_DIR%>set "PIP_NO_INDEX=True" 
+
+(base) %SRC_DIR%>set DISTUTILS_USE_SDK=1 
+
+(base) %SRC_DIR%>set MSSdk=1 
+
+(base) %SRC_DIR%>set PY_VCRUNTIME_REDIST=%PREFIX%\Library\bin\vcruntime140.dll 
+
+(base) %SRC_DIR%>set "VS_VERSION=14.0" 
+
+(base) %SRC_DIR%>set "VS_MAJOR=14" 
+
+(base) %SRC_DIR%>set "VS_YEAR=2015" 
+
+(base) %SRC_DIR%>set "CMAKE_GENERATOR=Visual Studio 14 2015 Win64" 
+
+(base) %SRC_DIR%>set "MSYS2_ARG_CONV_EXCL=/AI;/AL;/OUT;/out" 
+
+(base) %SRC_DIR%>set "MSYS2_ENV_CONV_EXCL=CL" 
+
+(base) %SRC_DIR%>call "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\..\VC\vcvarsall.bat" amd64 
+
+(base) %SRC_DIR%>set "INCLUDE=%PREFIX%\Library\include;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt;" 
+
+(base) %SRC_DIR%>set "LIB=%PREFIX%\Library\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64;" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate "%PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "%BUILD_PREFIX%" 
+
+(%PREFIX%) %SRC_DIR%>REM ===== end generated header ===== 
+
+(%PREFIX%) %SRC_DIR%>%PREFIX%\python.exe -m pip install . -vv 
+Using pip 22.3.1 from %PREFIX%\lib\site-packages\pip (python 3.10)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-build-tracker-f6kedhg_
+Initialized build tracking at C:\Users\runneradmin\AppData\Local\Temp\pip-build-tracker-f6kedhg_
+Created build tracker: C:\Users\runneradmin\AppData\Local\Temp\pip-build-tracker-f6kedhg_
+Entered build tracker: C:\Users\runneradmin\AppData\Local\Temp\pip-build-tracker-f6kedhg_
+Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-install-alwud6z6
+Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-ephem-wheel-cache-f80u8_wk
+Processing c:\users\runneradmin\miniconda3\conda-bld\click_1673026924330\work
+  Added file:///C:/Users/runneradmin/Miniconda3/conda-bld/click_1673026924330/work to build tracker 'C:\\Users\\runneradmin\\AppData\\Local\\Temp\\pip-build-tracker-f6kedhg_'
+  Running setup.py (path:%SRC_DIR%\setup.py) egg_info for package from file:///C:/Users/runneradmin/Miniconda3/conda-bld/click_1673026924330/work
+  Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-pip-egg-info-qtpgd60x
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in c:\users\runneradmin\miniconda3\conda-bld\click_1673026924330\work has version 8.1.3, which satisfies requirement click==8.1.3 from file:///C:/Users/runneradmin/Miniconda3/conda-bld/click_1673026924330/work
+  Removed click==8.1.3 from file:///C:/Users/runneradmin/Miniconda3/conda-bld/click_1673026924330/work from build tracker 'C:\\Users\\runneradmin\\AppData\\Local\\Temp\\pip-build-tracker-f6kedhg_'
+Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-unpack-mg_zg3ps
+Building wheels for collected packages: click
+  Created temporary directory: C:\Users\runneradmin\AppData\Local\Temp\pip-wheel-51ew3y68
+  Building wheel for click (setup.py): started
+  Destination directory: C:\Users\runneradmin\AppData\Local\Temp\pip-wheel-51ew3y68
+  Building wheel for click (setup.py): finished with status 'done'
+  Created wheel for click: filename=click-8.1.3-py3-none-any.whl size=96575 sha256=af9cde5cdf809d145df443ae61447070af56e67cc4683fc55d0f8bf176d1e411
+  Stored in directory: C:\Users\runneradmin\AppData\Local\Temp\pip-ephem-wheel-cache-f80u8_wk\wheels\91\61\28\92b4a3649565a69b0ec46519d8fa4f09ace2cce71979d6647b
+Successfully built click
+Installing collected packages: click
+
+Successfully installed click-8.1.3
+Removed build tracker: 'C:\\Users\\runneradmin\\AppData\\Local\\Temp\\pip-build-tracker-f6kedhg_'
+
+Resource usage statistics from building click:
+   Process count: 4
+   CPU time: Sys=0:00:00.9, User=0:00:01.9
+   Memory: 84.8M
+   Disk usage: 1.3M
+   Time elapsed: 0:00:08.9
+
+
+Packaging click
+Packaging click-8.1.3-py310_0
+compiling .pyc files...
+number of files: 41
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.05 seconds
+TEST START: C:\Users\runneradmin\Miniconda3\conda-bld\win-64\click-8.1.3-py310_0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpr2hjiiv4\info\recipe\conda_build_config.yaml
+Nothing to test for: C:\Users\runneradmin\Miniconda3\conda-bld\win-64\click-8.1.3-py310_0.tar.bz2
+Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\work_moved_click-8.1.3-py310_0_win-64_main_build_loop'
+shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\click_1673026924330\work_moved_click-8.1.3-py310_0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    C:\Users\runneradmin\Miniconda3\conda-bld\win-64\click-8.1.3-py310_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "click-8.1.3-py310_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:06.6
+CPU usage: sys=0:00:00.9, user=0:00:01.9
+Maximum memory usage observed: 84.8M
+Total disk usage observed (not including envs): 1.3M
+
+
+####################################################################################
+Source and build intermediates have been left in C:\Users\runneradmin\Miniconda3\conda-bld.
+There are currently 51 accumulated.
+To remove them, you can run the ```conda build purge``` command

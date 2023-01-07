@@ -1,0 +1,3 @@
+Using legacy MSVC compiler setup.  This will be removed in conda-build 4.0. If this recipe does not use a compiler, this message is safe to ignore.  Otherwise, use {{compiler('<language>')}} jinja2 in requirements/build.
+No files or script found for output conda-build-test-dirty-skip-section
+Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.

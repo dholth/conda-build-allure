@@ -1,0 +1,17 @@
+Adding .* to spec 'abc 2.7.16' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'abc 3.7.3' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'foo 3.5.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+No files or script found for output foo
+Exact overlap between bin/py1-intradependencies in packages py1-intradependencies and py1-intradependencies
+Exact overlap between bin/py2-intradependencies in packages py2-intradependencies and py2-intradependencies
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp53nazp2g/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpse2aoc7e/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpubbisadf/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp492lqhiv/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp614ckic2/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpb32t6p3_/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpsjhd9tzl/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpzbiguw84/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp8o0omshk/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmps9i9rob8/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpyzsehudx/info/recipe) will be used.

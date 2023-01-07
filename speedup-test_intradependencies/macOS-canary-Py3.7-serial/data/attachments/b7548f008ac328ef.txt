@@ -1,0 +1,79 @@
+Attempting to finalize metadata for test_patch_read_only
+BUILD START: ['test_patch_read_only-1.0-0.tar.bz2']
+Source cache directory is: /Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/src_cache
+Downloading source to cache: somefile.tar
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/patch-read-only/somefile.tar
+Extracting download
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/patch-read-only/0001-Patch-with-levels-to-strip.patch
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/patch-read-only/0001-Patch-with-levels-to-strip.patch with args:
+['-Np5', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpx1dz_zmx/0001-Patch-with-levels-to-strip.patch.native', '--binary']
+File somefile is read-only; trying to patch anyway
+checking file somefile
+File somefile is read-only; trying to patch anyway
+patching file somefile
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/patch-read-only/0002-Patch-without-additional-levels.patch
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/patch-read-only/0002-Patch-without-additional-levels.patch with args:
+['-Np1', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpyz11x6hl/0002-Patch-without-additional-levels.patch.native', '--binary']
+File somefile is read-only; trying to patch anyway
+checking file somefile
+File somefile is read-only; trying to patch anyway
+patching file somefile
+Patch analysis gives:
+[[ RA-MD5LOVE ]] - [[                                   0001-Patch-with-levels-to-strip.patch ]]
+[[ RA-MD1LOVE ]] - [[                              0002-Patch-without-additional-levels.patch ]]
+
+Key:
+
+R :: Reversible                       A :: Applicable
+Y :: Build-prefix patch in use        M :: Minimal, non-amalgamated
+D :: Dry-runnable                     N :: Patch level (1 is preferred)
+L :: Patch level not-ambiguous        O :: Patch applies without offsets
+V :: Patch applies without fuzz       E :: Patch applies without emitting to stderr
+
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work
+
+Resource usage statistics from building test_patch_read_only:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.1
+   Memory: 15.2M
+   Disk usage: 40B
+   Time elapsed: 0:00:04.4
+
+
+Packaging test_patch_read_only
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/osx-64/test_patch_read_only-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp_9tnn3o8/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/osx-64/test_patch_read_only-1.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work_moved_test_patch_read_only-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/test_patch_read_only_1673031455640/work_moved_test_patch_read_only-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_patch_read_0/osx-64/test_patch_read_only-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_patch_read_only-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:08.3
+CPU usage: sys=0:00:00.1, user=0:00:00.1
+Maximum memory usage observed: 15.2M
+Total disk usage observed (not including envs): 40B

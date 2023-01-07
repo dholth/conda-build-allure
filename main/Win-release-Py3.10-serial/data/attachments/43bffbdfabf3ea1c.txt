@@ -1,0 +1,21 @@
+D:\a\_temp\serial\test_recipe_builds_entry_point0\conda-build-test-entry-points_1673038863361\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format

@@ -1,0 +1,10 @@
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging a
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output a
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging b
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output b
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmprm8o5xjl/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmprm8o5xjl/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpy93qxlu0/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpy93qxlu0/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_natural0/toplevel-ab_1673032650084/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_natural0/toplevel-ab_1673032650084/work_moved_toplevel-ab--0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_natural0/toplevel-ab_1673032650084/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_order_natural0/toplevel-ab_1673032650084/work_moved_toplevel-ab--0_linux-64_main_build_loop)

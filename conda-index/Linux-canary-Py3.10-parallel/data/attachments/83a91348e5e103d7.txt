@@ -1,0 +1,20 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+BUILD START: ['conda-build-test-recursive-build-fail-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+Leaving build/test directories:
+  Work:
+ /home/runner/work/_temp/parallel/popen-gw0/test_failed_recipe_leaves_fold0/conda-build-test-recursive-build-fail_1673061805731/work 
+  Test:
+ /home/runner/work/_temp/parallel/popen-gw0/test_failed_recipe_leaves_fold0/conda-build-test-recursive-build-fail_1673061805731/test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_failed_recipe_leaves_fold0/conda-build-test-recursive-build-fail_1673061805731/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh 
+  Build:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_failed_recipe_leaves_fold0/conda-build-test-recursive-build-fail_1673061805731/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p 
+
+

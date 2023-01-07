@@ -1,0 +1,2 @@
+Returning non-final recipe for test_hash_no_apply_to_custom_build_string-1.0-steve; one or more dependencies was unsatisfiable:
+Build: zlib

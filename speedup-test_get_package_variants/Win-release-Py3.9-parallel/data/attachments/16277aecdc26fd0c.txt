@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw1\test_relative_path_croot0\relative\path\empty_with_build_script_1673026490852\_h_env
+
+No files or script found for output empty_with_build_script

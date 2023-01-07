@@ -1,0 +1,336 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-cmake-generator-1.0-h82bb817_0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    vc:             14.2-h21ff451_1       
+    vs2015_runtime: 14.27.29016-h5e58377_2
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:          1.0.8-he774522_0        
+    cmake:          3.22.1-h9ad04ae_0       
+    libuv:          1.40.0-he774522_0       
+    lz4-c:          1.9.4-h2bbff1b_0        
+    vc:             14.2-h21ff451_1         
+    vs2015_runtime: 14.27.29016-h5e58377_2  
+    vs2017_win-64:  19.16.27032.1-hb4161e2_3
+    vswhere:        2.8.4-haa95532_0        
+    xz:             5.2.8-h8cc25b3_0        
+    zlib:           1.2.13-h8cc25b3_0       
+    zstd:           1.5.2-h19a0ad4_0        
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\work
+Rewriting env in output: {'BUILD_PREFIX': 'D:\\a\\_temp\\parallel\\popen-gw1\\test_cmake_generator_3_10_32_0\\conda-build-test-cmake-generator_1673038550187\\_build_env',
+ 'PREFIX': 'D:\\a\\_temp\\parallel\\popen-gw1\\test_cmake_generator_3_10_32_0\\conda-build-test-cmake-generator_1673038550187\\_h_env',
+ 'SRC_DIR': 'D:\\a\\_temp\\parallel\\popen-gw1\\test_cmake_generator_3_10_32_0\\conda-build-test-cmake-generator_1673038550187\\work'}
+
+(base) %SRC_DIR%>IF "" == "" (call %SRC_DIR%\build_env_setup.bat ) 
+
+(base) %SRC_DIR%>set "CONDA_BUILD=1" 
+
+(base) %SRC_DIR%>set "PYTHONNOUSERSITE=1" 
+
+(base) %SRC_DIR%>set "CONDA_DEFAULT_ENV=%PREFIX%" 
+
+(base) %SRC_DIR%>set "ARCH=64" 
+
+(base) %SRC_DIR%>set "PREFIX=%PREFIX%" 
+
+(base) %SRC_DIR%>set "BUILD_PREFIX=%BUILD_PREFIX%" 
+
+(base) %SRC_DIR%>set "SYS_PREFIX=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "SYS_PYTHON=C:\Users\runneradmin\Miniconda3\python.exe" 
+
+(base) %SRC_DIR%>set "SUBDIR=win-64" 
+
+(base) %SRC_DIR%>set "build_platform=win-64" 
+
+(base) %SRC_DIR%>set "SRC_DIR=%SRC_DIR%" 
+
+(base) %SRC_DIR%>set "ROOT=C:\Users\runneradmin\Miniconda3" 
+
+(base) %SRC_DIR%>set "CONDA_PY=310" 
+
+(base) %SRC_DIR%>set "PY3K=1" 
+
+(base) %SRC_DIR%>set "PY_VER=3.10" 
+
+(base) %SRC_DIR%>set "STDLIB_DIR=%PREFIX%\Lib" 
+
+(base) %SRC_DIR%>set "SP_DIR=%PREFIX%\Lib\site-packages" 
+
+(base) %SRC_DIR%>set "NPY_VER=1.21" 
+
+(base) %SRC_DIR%>set "CONDA_NPY=1.21" 
+
+(base) %SRC_DIR%>set "NPY_DISTUTILS_APPEND_FLAGS=1" 
+
+(base) %SRC_DIR%>set "PERL_VER=5.26" 
+
+(base) %SRC_DIR%>set "CONDA_PERL=5.26.2" 
+
+(base) %SRC_DIR%>set "LUA_VER=5" 
+
+(base) %SRC_DIR%>set "CONDA_LUA=5" 
+
+(base) %SRC_DIR%>set "R_VER=3.4" 
+
+(base) %SRC_DIR%>set "CONDA_R=3.4" 
+
+(base) %SRC_DIR%>set "PKG_NAME=conda-build-test-cmake-generator" 
+
+(base) %SRC_DIR%>set "PKG_VERSION=1.0" 
+
+(base) %SRC_DIR%>set "PKG_BUILDNUM=0" 
+
+(base) %SRC_DIR%>set "PKG_BUILD_STRING=placeholder" 
+
+(base) %SRC_DIR%>set "PKG_HASH=1234567" 
+
+(base) %SRC_DIR%>set "RECIPE_DIR=D:\a\conda-build\conda-build\tests\test-recipes\metadata\_cmake_generator" 
+
+(base) %SRC_DIR%>set "CPU_COUNT=2" 
+
+(base) %SRC_DIR%>set "SHLIB_EXT=.dll" 
+
+(base) %SRC_DIR%>set "PATH=%BUILD_PREFIX%;%BUILD_PREFIX%\Library\mingw-w64\bin;%BUILD_PREFIX%\Library\usr\bin;%BUILD_PREFIX%\Library\bin;%BUILD_PREFIX%\Scripts;%BUILD_PREFIX%\bin;%PREFIX%;%PREFIX%\Library\mingw-w64\bin;%PREFIX%\Library\usr\bin;%PREFIX%\Library\bin;%PREFIX%\Scripts;%PREFIX%\bin;C:\Users\runneradmin\Miniconda3;C:\Users\runneradmin\Miniconda3\Library\mingw-w64\bin;C:\Users\runneradmin\Miniconda3\Library\usr\bin;C:\Users\runneradmin\Miniconda3\Library\bin;C:\Users\runneradmin\Miniconda3\Scripts;C:\Users\runneradmin\Miniconda3\bin;C:\Users\runneradmin\Miniconda3\condabin;C:\Users\runneradmin\AppData\Roaming\Python\Python38\Scripts;C:\hostedtoolcache\windows\Python\3.8.10\x64\Scripts;C:\hostedtoolcache\windows\Python\3.8.10\x64;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\cf-cli;C:\Program Files (x86)\NSIS;C:\tools\zstd;C:\Program Files\Mercurial;C:\hostedtoolcache\windows\stack\2.9.1\x64;C:\cabal\bin;C:\ghcup\bin;C:\tools\ghc-9.4.2\bin;C:\Program Files\dotnet;C:\mysql\bin;C:\Program Files\R\R-4.2.2\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.17.13\x64\bin;C:\hostedtoolcache\windows\Python\3.7.9\x64\Scripts;C:\hostedtoolcache\windows\Python\3.7.9\x64;C:\hostedtoolcache\windows\Ruby\2.5.9\x64\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.352-8\x64\bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\ProgramData\Chocolatey\bin;C:\Program Files\PowerShell\7;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn;C:\Program Files\OpenSSL\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\SeleniumWebDrivers\ChromeDriver;C:\SeleniumWebDrivers\EdgeDriver;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Amazon\SessionManagerPlugin\bin;C:\Program Files\Amazon\AWSSAMCLI\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Microsoft BizTalk Server;C:\Program Files\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps" 
+
+(base) %SRC_DIR%>set "SCRIPTS=%PREFIX%\Scripts" 
+
+(base) %SRC_DIR%>set "LIBRARY_PREFIX=%PREFIX%\Library" 
+
+(base) %SRC_DIR%>set "LIBRARY_BIN=%PREFIX%\Library\bin" 
+
+(base) %SRC_DIR%>set "LIBRARY_INC=%PREFIX%\Library\include" 
+
+(base) %SRC_DIR%>set "LIBRARY_LIB=%PREFIX%\Library\lib" 
+
+(base) %SRC_DIR%>set "CYGWIN_PREFIX=/cygdrive/d/a/_temp/parallel/popen-gw1/test_cmake_generator_3_10_32_0/conda-build-test-cmake-generator_1673038550187/_h_env" 
+
+(base) %SRC_DIR%>set "ALLUSERSPROFILE=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "APPDATA=C:\Users\runneradmin\AppData\Roaming" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files" 
+
+(base) %SRC_DIR%>set "CommonProgramW6432=C:\Program Files\Common Files" 
+
+(base) %SRC_DIR%>set "COMPUTERNAME=fv-az207-588" 
+
+(base) %SRC_DIR%>set "ComSpec=C:\Windows\system32\cmd.exe" 
+
+(base) %SRC_DIR%>set "HOMEDRIVE=C:" 
+
+(base) %SRC_DIR%>set "HOMEPATH=\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "LOCALAPPDATA=C:\Users\runneradmin\AppData\Local" 
+
+(base) %SRC_DIR%>set "LOGONSERVER=\\fv-az207-588" 
+
+(base) %SRC_DIR%>set "NUMBER_OF_PROCESSORS=2" 
+
+(base) %SRC_DIR%>set "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" 
+
+(base) %SRC_DIR%>set "ProgramData=C:\ProgramData" 
+
+(base) %SRC_DIR%>set "ProgramFiles=C:\Program Files" 
+
+(base) %SRC_DIR%>set "ProgramFiles(x86)=C:\Program Files (x86)" 
+
+(base) %SRC_DIR%>set "ProgramW6432=C:\Program Files" 
+
+(base) %SRC_DIR%>set "PROMPT=(base) $P$G" 
+
+(base) %SRC_DIR%>set "PSModulePath=C:\\Modules\azurerm_2.1.0;C:\\Modules\azure_2.1.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell" 
+
+(base) %SRC_DIR%>set "PUBLIC=C:\Users\Public" 
+
+(base) %SRC_DIR%>set "SystemDrive=C:" 
+
+(base) %SRC_DIR%>set "SystemRoot=C:\Windows" 
+
+(base) %SRC_DIR%>set "TEMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "TMP=C:\Users\RUNNER~1\AppData\Local\Temp" 
+
+(base) %SRC_DIR%>set "USERDOMAIN=fv-az207-588" 
+
+(base) %SRC_DIR%>set "USERNAME=runneradmin" 
+
+(base) %SRC_DIR%>set "USERPROFILE=C:\Users\runneradmin" 
+
+(base) %SRC_DIR%>set "windir=C:\Windows" 
+
+(base) %SRC_DIR%>set "PROCESSOR_ARCHITECTURE=AMD64" 
+
+(base) %SRC_DIR%>set "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel" 
+
+(base) %SRC_DIR%>set "BUILD=amd64-pc-windows-19.0.0" 
+
+(base) %SRC_DIR%>set "VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" 
+
+(base) %SRC_DIR%>set "VS90COMNTOOLS=C:\Program Files (x86)\Common Files\Microsoft\Visual C++ for Python\9.0\VC\bin" 
+
+(base) %SRC_DIR%>set "pin_run_as_build=OrderedDict([('python', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')])), ('r-base', OrderedDict([('min_pin', 'x.x'), ('max_pin', 'x.x')]))])" 
+
+(base) %SRC_DIR%>set "ignore_build_only_deps={'numpy', 'python'}" 
+
+(base) %SRC_DIR%>set "extend_keys={'pin_run_as_build', 'ignore_build_only_deps', 'ignore_version', 'extend_keys'}" 
+
+(base) %SRC_DIR%>set "cran_mirror=https://cran.r-project.org" 
+
+(base) %SRC_DIR%>set "r_base=3.4" 
+
+(base) %SRC_DIR%>set "cpu_optimization_target=nocona" 
+
+(base) %SRC_DIR%>set "target_platform=win-64" 
+
+(base) %SRC_DIR%>set "vc=14" 
+
+(base) %SRC_DIR%>set "c_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "fortran_compiler=gfortran" 
+
+(base) %SRC_DIR%>set "cxx_compiler=vs2017" 
+
+(base) %SRC_DIR%>set "CONDA_BUILD_STATE=BUILD" 
+
+(base) %SRC_DIR%>set "PIP_NO_BUILD_ISOLATION=False" 
+
+(base) %SRC_DIR%>set "PIP_NO_DEPENDENCIES=True" 
+
+(base) %SRC_DIR%>set "PIP_IGNORE_INSTALLED=True" 
+
+(base) %SRC_DIR%>set "PIP_CACHE_DIR=D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\pip_cache" 
+
+(base) %SRC_DIR%>set "PIP_NO_INDEX=True" 
+
+(base) %SRC_DIR%>set "INCLUDE=%PREFIX%\Library\include;" 
+
+(base) %SRC_DIR%>set "LIB=%PREFIX%\Library\lib;" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) %SRC_DIR%>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "%BUILD_PREFIX%" 
+
+%SRC_DIR%>SET DISTUTILS_USE_SDK=1 
+
+%SRC_DIR%>SET MSSdk=1 
+
+%SRC_DIR%>SET "VS_VERSION=15.0" 
+
+%SRC_DIR%>SET "VS_MAJOR=15" 
+
+%SRC_DIR%>SET "VS_YEAR=2017" 
+
+%SRC_DIR%>set "MSYS2_ARG_CONV_EXCL=/AI;/AL;/OUT;/out" 
+
+%SRC_DIR%>set "MSYS2_ENV_CONV_EXCL=CL" 
+
+%SRC_DIR%>set "PY_VCRUNTIME_REDIST=%PREFIX%\bin\vcruntime140.dll" 
+
+%SRC_DIR%>set "CXX=cl.exe" 
+
+%SRC_DIR%>set "CC=cl.exe" 
+
+%SRC_DIR%>CALL %BUILD_PREFIX%\etc\conda\activate.d\vs2017_get_vsinstall_dir.bat 
+Windows SDK version found as: "10.0.22621.0"
+**********************************************************************
+** Visual Studio 2017 Developer Command Prompt v15.0
+** Copyright (c) 2017 Microsoft Corporation
+**********************************************************************
+[vcvarsall.bat] Environment initialized for: 'x64'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64\link.exe
+C:\Users\runneradmin\Miniconda3\Library\usr\bin\link.exe
+C:\Program Files\Git\usr\bin\link.exe
+C:\ProgramData\Chocolatey\bin\gcc.exe
+-- The C compiler identification is MSVC 19.16.27048.0
+-- The CXX compiler identification is MSVC 19.16.27048.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/a/_temp/parallel/popen-gw1/test_cmake_generator_3_10_32_0/conda-build-test-cmake-generator_1673038550187/work
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Checking Build System
+  Building Custom Rule D:/a/conda-build/conda-build/tests/test-recipes/metadata/_cmake_generator/CMakeLists.txt
+  hello.c
+  hello.vcxproj -> %SRC_DIR%\Release\hello.exe
+  Building Custom Rule D:/a/conda-build/conda-build/tests/test-recipes/metadata/_cmake_generator/CMakeLists.txt
+
+Resource usage statistics from building conda-build-test-cmake-generator:
+   Process count: 6
+   CPU time: Sys=0:00:01.6, User=0:00:06.6
+   Memory: 76.6M
+   Disk usage: 648.8K
+   Time elapsed: 0:00:17.5
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\win-64\conda-build-test-cmake-generator-1.0-h82bb817_0.tar.bz2
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\win-64\conda-build-test-cmake-generator-1.0-h82bb817_0.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\work' to 'D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\work_moved_conda-build-test-cmake-generator-1.0-h82bb817_0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\work, dest=D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\conda-build-test-cmake-generator_1673038550187\work_moved_conda-build-test-cmake-generator-1.0-h82bb817_0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    D:\a\_temp\parallel\popen-gw1\test_cmake_generator_3_10_32_0\win-64\conda-build-test-cmake-generator-1.0-h82bb817_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-cmake-generator-1.0-h82bb817_0": {
+    "recipe": {
+      "c_compiler": "vs2017",
+      "cxx_compiler": "vs2017",
+      "target_platform": "win-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:39.4
+CPU usage: sys=0:00:01.6, user=0:00:06.6
+Maximum memory usage observed: 76.6M
+Total disk usage observed (not including envs): 648.8K

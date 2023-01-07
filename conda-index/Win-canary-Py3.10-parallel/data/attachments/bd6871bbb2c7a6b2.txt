@@ -1,0 +1,57 @@
+2023-01-06T21:49:58 Subdir: noarch Gathering repodata
+2023-01-06T21:49:58 noarch Writing pre-patch repodata
+2023-01-06T21:49:58 noarch Applying patch instructions
+2023-01-06T21:49:58 noarch Writing patched repodata
+2023-01-06T21:49:58 noarch Building current_repodata subset
+2023-01-06T21:49:59 Subdir: win-64 Gathering repodata
+2023-01-06T21:49:59 win-64 Writing pre-patch repodata
+2023-01-06T21:49:59 win-64 Applying patch instructions
+2023-01-06T21:49:59 win-64 Writing patched repodata
+2023-01-06T21:49:59 win-64 Building current_repodata subset
+2023-01-06T21:49:59 noarch Writing current_repodata subset
+2023-01-06T21:49:59 noarch Writing index HTML
+2023-01-06T21:50:00 win-64 Writing current_repodata subset
+2023-01-06T21:50:00 win-64 Writing index HTML
+No files or script found for output has_run_exports
+2023-01-06T21:50:05 Subdir: noarch Gathering repodata
+2023-01-06T21:50:05 noarch Writing pre-patch repodata
+2023-01-06T21:50:05 noarch Applying patch instructions
+2023-01-06T21:50:05 noarch Writing patched repodata
+2023-01-06T21:50:05 noarch Building current_repodata subset
+2023-01-06T21:50:06 Subdir: win-64 Gathering repodata
+2023-01-06T21:50:06 win-64 Writing pre-patch repodata
+2023-01-06T21:50:06 win-64 Applying patch instructions
+2023-01-06T21:50:06 win-64 Writing patched repodata
+2023-01-06T21:50:06 win-64 Building current_repodata subset
+2023-01-06T21:50:06 noarch Writing current_repodata subset
+2023-01-06T21:50:06 noarch Writing index HTML
+2023-01-06T21:50:06 win-64 Writing current_repodata subset
+2023-01-06T21:50:06 win-64 Writing index HTML
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\recipe\conda_build_config.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\recipe\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\about.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\files.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\git.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\hash_input.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\index.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\paths.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpx0huglz3\info\run_exports.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\recipe\conda_build_config.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\recipe\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\about.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\files.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\git.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\hash_input.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\index.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\paths.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpmku5ktse\info\run_exports.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\recipe\conda_build_config.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\recipe\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\about.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\files.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\git.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\hash_input.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\index.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\paths.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpbq2f22rp\info\run_exports.json.  Please remove this file manually (you may need to reboot to free file handles)
+Adding .* to spec 'bzip2 1.0' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level

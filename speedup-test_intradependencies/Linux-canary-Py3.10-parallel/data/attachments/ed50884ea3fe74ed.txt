@@ -1,0 +1,11 @@
+Adding .* to spec 'zlib 1.2.11' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'jpeg 9b' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+No files or script found for output my_script_subpackage
+No files or script found for output my_script_subpackage_2
+No files or script found for output split_packages_compose_run_requirements_from_subpackages
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp8_leb1wz/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpmb132e4h/info/recipe) will be used.
+++ uname
++ '[' Linux == Darwin ']'
++ test -e /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_compos0/split_packages_compose_run_requirements_from_subpackages_1673034981943/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/libz.so
++ test -e /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_compos0/split_packages_compose_run_requirements_from_subpackages_1673034981943/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/libjpeg.so

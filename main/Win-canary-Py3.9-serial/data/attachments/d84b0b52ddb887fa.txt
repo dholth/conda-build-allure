@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_ds_store_ig0\test_has_ds_store_1673038806479\_h_env
+

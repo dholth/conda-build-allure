@@ -1,0 +1,29 @@
+Cloning into bare repository '/c/Users/runneradmin/Miniconda3/conda-bld/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/c/Users/runneradmin/Miniconda3/conda-bld/conda-build-test-source-git-jinja2_1673039548389/work'...
+done.
+Note: checking out '1.20.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 262d444... saving other files...
+2023-01-06T21:12:34 Subdir: noarch Gathering repodata
+2023-01-06T21:12:34 noarch Writing pre-patch repodata
+2023-01-06T21:12:34 noarch Applying patch instructions
+2023-01-06T21:12:34 noarch Writing patched repodata
+2023-01-06T21:12:34 noarch Building current_repodata subset
+2023-01-06T21:12:34 Subdir: win-64 Gathering repodata
+2023-01-06T21:12:34 win-64 Writing pre-patch repodata
+2023-01-06T21:12:34 win-64 Applying patch instructions
+2023-01-06T21:12:34 win-64 Writing patched repodata
+2023-01-06T21:12:34 win-64 Building current_repodata subset
+2023-01-06T21:12:35 noarch Writing current_repodata subset
+2023-01-06T21:12:35 noarch Writing index HTML
+2023-01-06T21:12:35 win-64 Writing current_repodata subset
+2023-01-06T21:12:35 win-64 Writing index HTML

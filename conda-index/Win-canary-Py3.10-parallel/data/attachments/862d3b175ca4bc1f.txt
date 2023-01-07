@@ -1,0 +1,48 @@
+2023-01-06T21:11:43 Subdir: noarch Gathering repodata
+2023-01-06T21:11:43 noarch Writing pre-patch repodata
+2023-01-06T21:11:43 noarch Applying patch instructions
+2023-01-06T21:11:43 noarch Writing patched repodata
+2023-01-06T21:11:43 noarch Building current_repodata subset
+2023-01-06T21:11:44 Subdir: win-64 Gathering repodata
+2023-01-06T21:11:44 win-64 Writing pre-patch repodata
+2023-01-06T21:11:44 win-64 Applying patch instructions
+2023-01-06T21:11:44 win-64 Writing patched repodata
+2023-01-06T21:11:44 win-64 Building current_repodata subset
+2023-01-06T21:11:44 noarch Writing current_repodata subset
+2023-01-06T21:11:44 noarch Writing index HTML
+2023-01-06T21:11:45 win-64 Writing current_repodata subset
+2023-01-06T21:11:45 win-64 Writing index HTML
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27048 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+2023-01-06T21:12:35 Subdir: noarch Gathering repodata
+2023-01-06T21:12:35 noarch Writing pre-patch repodata
+2023-01-06T21:12:35 noarch Applying patch instructions
+2023-01-06T21:12:35 noarch Writing patched repodata
+2023-01-06T21:12:35 noarch Building current_repodata subset
+2023-01-06T21:12:35 Subdir: win-64 Gathering repodata
+2023-01-06T21:12:35 win-64 Writing pre-patch repodata
+2023-01-06T21:12:35 win-64 Applying patch instructions
+2023-01-06T21:12:35 win-64 Writing patched repodata
+2023-01-06T21:12:35 win-64 Building current_repodata subset
+2023-01-06T21:12:36 noarch Writing current_repodata subset
+2023-01-06T21:12:36 noarch Writing index HTML
+2023-01-06T21:12:36 win-64 Writing current_repodata subset
+2023-01-06T21:12:36 win-64 Writing index HTML
+2023-01-06T21:12:42 Subdir: noarch Gathering repodata
+2023-01-06T21:12:42 noarch Writing pre-patch repodata
+2023-01-06T21:12:42 noarch Applying patch instructions
+2023-01-06T21:12:42 noarch Writing patched repodata
+2023-01-06T21:12:42 noarch Building current_repodata subset
+2023-01-06T21:12:43 Subdir: win-64 Gathering repodata
+2023-01-06T21:12:43 win-64 Writing pre-patch repodata
+2023-01-06T21:12:43 win-64 Applying patch instructions
+2023-01-06T21:12:43 win-64 Writing patched repodata
+2023-01-06T21:12:43 win-64 Building current_repodata subset
+2023-01-06T21:12:44 noarch Writing current_repodata subset
+2023-01-06T21:12:44 noarch Writing index HTML
+2023-01-06T21:12:45 win-64 Writing current_repodata subset
+2023-01-06T21:12:45 win-64 Writing index HTML
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27048 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+

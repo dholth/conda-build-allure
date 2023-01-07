@@ -1,0 +1,124 @@
+2023-01-06T23:01:31 Subdir: noarch Gathering repodata
+2023-01-06T23:01:31 noarch Writing pre-patch repodata
+2023-01-06T23:01:31 noarch Applying patch instructions
+2023-01-06T23:01:31 noarch Writing patched repodata
+2023-01-06T23:01:31 noarch Building current_repodata subset
+2023-01-06T23:01:31 Subdir: osx-64 Gathering repodata
+2023-01-06T23:01:31 osx-64 Writing pre-patch repodata
+2023-01-06T23:01:31 osx-64 Applying patch instructions
+2023-01-06T23:01:31 osx-64 Writing patched repodata
+2023-01-06T23:01:31 osx-64 Building current_repodata subset
+2023-01-06T23:01:31 noarch Writing current_repodata subset
+2023-01-06T23:01:31 noarch Writing index HTML
+2023-01-06T23:01:31 osx-64 Writing current_repodata subset
+2023-01-06T23:01:31 osx-64 Writing index HTML
+
+
+
+
+
+2023-01-06T23:01:59 Subdir: noarch Gathering repodata
+2023-01-06T23:01:59 noarch Writing pre-patch repodata
+2023-01-06T23:01:59 noarch Applying patch instructions
+2023-01-06T23:01:59 noarch Writing patched repodata
+2023-01-06T23:01:59 Subdir: osx-64 Gathering repodata
+2023-01-06T23:01:59 osx-64 Writing pre-patch repodata
+2023-01-06T23:01:59 noarch Building current_repodata subset
+2023-01-06T23:01:59 osx-64 Applying patch instructions
+2023-01-06T23:01:59 osx-64 Writing patched repodata
+2023-01-06T23:01:59 osx-64 Building current_repodata subset
+2023-01-06T23:01:59 noarch Writing current_repodata subset
+2023-01-06T23:01:59 noarch Writing index HTML
+2023-01-06T23:01:59 osx-64 Writing current_repodata subset
+2023-01-06T23:01:59 osx-64 Writing index HTML
+2023-01-06T23:02:08 Subdir: noarch Gathering repodata
+2023-01-06T23:02:08 noarch Writing pre-patch repodata
+2023-01-06T23:02:08 noarch Applying patch instructions
+2023-01-06T23:02:08 noarch Writing patched repodata
+2023-01-06T23:02:08 noarch Building current_repodata subset
+2023-01-06T23:02:08 Subdir: osx-64 Gathering repodata
+2023-01-06T23:02:08 osx-64 Writing pre-patch repodata
+2023-01-06T23:02:08 osx-64 Applying patch instructions
+2023-01-06T23:02:08 osx-64 Writing patched repodata
+2023-01-06T23:02:08 osx-64 Building current_repodata subset
+2023-01-06T23:02:08 noarch Writing current_repodata subset
+2023-01-06T23:02:08 noarch Writing index HTML
+2023-01-06T23:02:08 osx-64 Writing current_repodata subset
+2023-01-06T23:02:08 osx-64 Writing index HTML
+2023-01-06T23:02:17 Subdir: noarch Gathering repodata
+2023-01-06T23:02:17 noarch Writing pre-patch repodata
+2023-01-06T23:02:17 Subdir: osx-64 Gathering repodata
+2023-01-06T23:02:17 osx-64 Writing pre-patch repodata
+2023-01-06T23:02:17 osx-64 Applying patch instructions
+2023-01-06T23:02:17 osx-64 Writing patched repodata
+2023-01-06T23:02:17 noarch Applying patch instructions
+2023-01-06T23:02:17 noarch Writing patched repodata
+2023-01-06T23:02:17 osx-64 Building current_repodata subset
+2023-01-06T23:02:17 noarch Building current_repodata subset
+2023-01-06T23:02:17 noarch Writing current_repodata subset
+2023-01-06T23:02:17 noarch Writing index HTML
+2023-01-06T23:02:17 osx-64 Writing current_repodata subset
+2023-01-06T23:02:17 osx-64 Writing index HTML
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-ObjectDump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-ObjectDump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-dyldinfo
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-dyldinfo
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-machocheck
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-machocheck
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-unwinddump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-unwinddump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+
+
+
+++ dirname /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/work
++ export CHECK_PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265
++ CHECK_PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265
++ x86_64-apple-darwin13.4.0-otool -l /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/hello
++ grep LC_RPATH -A 3
++ grep -v /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673046088265
++ exit 0

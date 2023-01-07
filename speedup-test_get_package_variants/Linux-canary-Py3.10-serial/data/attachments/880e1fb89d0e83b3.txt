@@ -1,0 +1,51 @@
+  Running command python setup.py egg_info
+  running egg_info
+  creating /tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info
+  writing /tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/PKG-INFO
+  writing dependency_links to /tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/dependency_links.txt
+  writing entry points to /tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/entry_points.txt
+  writing top-level names to /tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/top_level.txt
+  writing manifest file '/tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  reading manifest file '/tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  writing manifest file '/tmp/pip-pip-egg-info-5g8y5c0g/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  Running command python setup.py bdist_wheel
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build/lib
+  creating build/lib/entry_points_have_prefix
+  copying src/entry_points_have_prefix/__init__.py -> build/lib/entry_points_have_prefix
+  copying src/entry_points_have_prefix/main.py -> build/lib/entry_points_have_prefix
+  running egg_info
+  creating src/test_entry_points_have_prefix.egg-info
+  writing src/test_entry_points_have_prefix.egg-info/PKG-INFO
+  writing dependency_links to src/test_entry_points_have_prefix.egg-info/dependency_links.txt
+  writing entry points to src/test_entry_points_have_prefix.egg-info/entry_points.txt
+  writing top-level names to src/test_entry_points_have_prefix.egg-info/top_level.txt
+  writing manifest file 'src/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  reading manifest file 'src/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  writing manifest file 'src/test_entry_points_have_prefix.egg-info/SOURCES.txt'
+  /home/runner/work/_temp/serial/test_recipe_builds_entry_point0/entry_points_have_prefix_1673023744792/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+    warnings.warn(
+  installing to build/bdist.linux-x86_64/wheel
+  running install
+  running install_lib
+  creating build/bdist.linux-x86_64
+  creating build/bdist.linux-x86_64/wheel
+  creating build/bdist.linux-x86_64/wheel/entry_points_have_prefix
+  copying build/lib/entry_points_have_prefix/__init__.py -> build/bdist.linux-x86_64/wheel/entry_points_have_prefix
+  copying build/lib/entry_points_have_prefix/main.py -> build/bdist.linux-x86_64/wheel/entry_points_have_prefix
+  running install_egg_info
+  Copying src/test_entry_points_have_prefix.egg-info to build/bdist.linux-x86_64/wheel/test_entry_points_have_prefix-0.0.1-py3.10.egg-info
+  running install_scripts
+  creating build/bdist.linux-x86_64/wheel/test_entry_points_have_prefix-0.0.1.dist-info/WHEEL
+  creating '/tmp/pip-wheel-bbhi1cqk/test_entry_points_have_prefix-0.0.1-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+  adding 'entry_points_have_prefix/__init__.py'
+  adding 'entry_points_have_prefix/main.py'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/METADATA'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/WHEEL'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/entry_points.txt'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/top_level.txt'
+  adding 'test_entry_points_have_prefix-0.0.1.dist-info/RECORD'
+  removing build/bdist.linux-x86_64/wheel

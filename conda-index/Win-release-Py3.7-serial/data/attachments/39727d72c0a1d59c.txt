@@ -1,0 +1,31 @@
+2023-01-06T21:10:23 Subdir: noarch Gathering repodata
+2023-01-06T21:10:23 noarch Writing pre-patch repodata
+2023-01-06T21:10:23 noarch Applying patch instructions
+2023-01-06T21:10:23 noarch Writing patched repodata
+2023-01-06T21:10:23 Subdir: win-64 Gathering repodata
+2023-01-06T21:10:23 noarch Building current_repodata subset
+2023-01-06T21:10:23 win-64 Writing pre-patch repodata
+2023-01-06T21:10:23 win-64 Applying patch instructions
+2023-01-06T21:10:23 win-64 Writing patched repodata
+2023-01-06T21:10:23 win-64 Building current_repodata subset
+2023-01-06T21:10:23 win-64 Writing current_repodata subset
+2023-01-06T21:10:23 win-64 Writing index HTML
+2023-01-06T21:10:23 noarch Writing current_repodata subset
+2023-01-06T21:10:23 noarch Writing index HTML
+No hash (md5, sha1, sha256) provided for a.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for b.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+No files or script found for output test_multiple_sources
+2023-01-06T21:10:27 Subdir: noarch Gathering repodata
+2023-01-06T21:10:27 noarch Writing pre-patch repodata
+2023-01-06T21:10:27 noarch Applying patch instructions
+2023-01-06T21:10:27 noarch Writing patched repodata
+2023-01-06T21:10:27 noarch Building current_repodata subset
+2023-01-06T21:10:27 Subdir: win-64 Gathering repodata
+2023-01-06T21:10:27 win-64 Writing pre-patch repodata
+2023-01-06T21:10:27 win-64 Applying patch instructions
+2023-01-06T21:10:27 win-64 Writing patched repodata
+2023-01-06T21:10:27 win-64 Building current_repodata subset
+2023-01-06T21:10:28 noarch Writing current_repodata subset
+2023-01-06T21:10:28 noarch Writing index HTML
+2023-01-06T21:10:28 win-64 Writing current_repodata subset
+2023-01-06T21:10:28 win-64 Writing index HTML

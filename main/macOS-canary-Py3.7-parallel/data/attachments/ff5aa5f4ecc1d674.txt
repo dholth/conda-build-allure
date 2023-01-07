@@ -1,0 +1,9 @@
+Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_line_up_python_compiled_libs_top_level_same_name_output/conda_build_config.yaml
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

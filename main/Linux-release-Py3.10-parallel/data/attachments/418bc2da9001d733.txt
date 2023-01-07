@@ -1,0 +1,6 @@
+No files or script found for output test_long_test_prefix
+Traceback (most recent call last):
+  File "/usr/share/miniconda/envs/test/conda-bld/test_long_test_prefix_1673039055591/test_tmp/run_test.py", line 8, in <module>
+    assert '_plac' in prefix
+AssertionError
+Tests failed for test_long_test_prefix-1.0-0.tar.bz2 - moving package to /usr/share/miniconda/envs/test/conda-bld/broken

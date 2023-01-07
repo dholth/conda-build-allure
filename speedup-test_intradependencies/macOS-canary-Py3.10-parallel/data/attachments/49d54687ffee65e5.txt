@@ -1,0 +1,8 @@
+Parsing input package r-mglm:
+.. name: mglm location: None new_location: /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_mglm_GPL_20/r-mglm
+Making/refreshing recipe for mglm
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/MGLM_0.2.1.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw1/test_cran_license_r_mglm_GPL_20/src_cache/source-MGLM_0.2.1_aed900e67f.tar.gz
+Writing recipe for mglm

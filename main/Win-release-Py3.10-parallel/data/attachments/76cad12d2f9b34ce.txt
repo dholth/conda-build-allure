@@ -1,0 +1,4 @@
+No files or script found for output test_downstream_with_test_fail
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)
+No files or script found for output test_upstream_with_downstream_tests
+Tests failed for test_downstream_with_test_fail-1.0-0.tar.bz2 - moving package to D:\a\_temp\parallel\popen-gw0\test_downstream_tests0\broken

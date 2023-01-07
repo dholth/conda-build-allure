@@ -1,0 +1,76 @@
+2023-01-06T21:04:43 Subdir: noarch Gathering repodata
+2023-01-06T21:04:43 noarch Writing pre-patch repodata
+2023-01-06T21:04:43 noarch Applying patch instructions
+2023-01-06T21:04:43 noarch Writing patched repodata
+2023-01-06T21:04:43 noarch Building current_repodata subset
+2023-01-06T21:04:43 Subdir: win-64 Gathering repodata
+2023-01-06T21:04:43 win-64 Writing pre-patch repodata
+2023-01-06T21:04:43 win-64 Applying patch instructions
+2023-01-06T21:04:43 win-64 Writing patched repodata
+2023-01-06T21:04:43 win-64 Building current_repodata subset
+2023-01-06T21:04:43 noarch Writing current_repodata subset
+2023-01-06T21:04:43 noarch Writing index HTML
+2023-01-06T21:04:44 win-64 Writing current_repodata subset
+2023-01-06T21:04:44 win-64 Writing index HTML
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27048 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+2023-01-06T21:05:06 Subdir: noarch Gathering repodata
+2023-01-06T21:05:06 noarch Writing pre-patch repodata
+2023-01-06T21:05:06 noarch Applying patch instructions
+2023-01-06T21:05:06 noarch Writing patched repodata
+2023-01-06T21:05:06 noarch Building current_repodata subset
+2023-01-06T21:05:06 Subdir: win-64 Gathering repodata
+2023-01-06T21:05:06 win-64 Writing pre-patch repodata
+2023-01-06T21:05:06 win-64 Applying patch instructions
+2023-01-06T21:05:06 win-64 Writing patched repodata
+2023-01-06T21:05:06 win-64 Building current_repodata subset
+2023-01-06T21:05:07 noarch Writing current_repodata subset
+2023-01-06T21:05:07 noarch Writing index HTML
+2023-01-06T21:05:07 win-64 Writing current_repodata subset
+2023-01-06T21:05:07 win-64 Writing index HTML
+2023-01-06T21:05:09 Subdir: noarch Gathering repodata
+2023-01-06T21:05:09 Subdir: win-64 Gathering repodata
+2023-01-06T21:05:09 noarch Writing pre-patch repodata
+2023-01-06T21:05:09 win-64 Writing pre-patch repodata
+2023-01-06T21:05:09 noarch Applying patch instructions
+2023-01-06T21:05:09 noarch Writing patched repodata
+2023-01-06T21:05:09 win-64 Applying patch instructions
+2023-01-06T21:05:09 win-64 Writing patched repodata
+2023-01-06T21:05:09 noarch Building current_repodata subset
+2023-01-06T21:05:09 win-64 Building current_repodata subset
+2023-01-06T21:05:10 noarch Writing current_repodata subset
+2023-01-06T21:05:10 noarch Writing index HTML
+2023-01-06T21:05:10 win-64 Writing current_repodata subset
+2023-01-06T21:05:10 win-64 Writing index HTML
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27048 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+2023-01-06T21:05:25 Subdir: noarch Gathering repodata
+2023-01-06T21:05:25 noarch Writing pre-patch repodata
+2023-01-06T21:05:25 noarch Applying patch instructions
+2023-01-06T21:05:25 noarch Writing patched repodata
+2023-01-06T21:05:25 noarch Building current_repodata subset
+2023-01-06T21:05:25 Subdir: win-64 Gathering repodata
+2023-01-06T21:05:25 win-64 Writing pre-patch repodata
+2023-01-06T21:05:25 win-64 Applying patch instructions
+2023-01-06T21:05:25 win-64 Writing patched repodata
+2023-01-06T21:05:25 win-64 Building current_repodata subset
+2023-01-06T21:05:27 noarch Writing current_repodata subset
+2023-01-06T21:05:27 noarch Writing index HTML
+2023-01-06T21:05:27 win-64 Writing current_repodata subset
+2023-01-06T21:05:27 win-64 Writing index HTML
+2023-01-06T21:05:29 Subdir: noarch Gathering repodata
+2023-01-06T21:05:29 noarch Writing pre-patch repodata
+2023-01-06T21:05:29 noarch Applying patch instructions
+2023-01-06T21:05:29 noarch Writing patched repodata
+2023-01-06T21:05:29 noarch Building current_repodata subset
+2023-01-06T21:05:29 Subdir: win-64 Gathering repodata
+2023-01-06T21:05:29 win-64 Writing pre-patch repodata
+2023-01-06T21:05:29 win-64 Applying patch instructions
+2023-01-06T21:05:29 win-64 Writing patched repodata
+2023-01-06T21:05:29 win-64 Building current_repodata subset
+2023-01-06T21:05:30 noarch Writing current_repodata subset
+2023-01-06T21:05:30 noarch Writing index HTML
+2023-01-06T21:05:30 win-64 Writing current_repodata subset
+2023-01-06T21:05:30 win-64 Writing index HTML

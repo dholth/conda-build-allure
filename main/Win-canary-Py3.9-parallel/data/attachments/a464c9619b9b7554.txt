@@ -1,0 +1,19 @@
+Adding .* to spec 'dep1 3.7.3' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'dep1 2.7.16' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+Adding .* to spec 'dep2 3.5.1' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+No files or script found for output dep1
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpv3urjk1a\dep1-3.7.3-h2938f01_0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)
+No files or script found for output dep2
+Exact overlap between bin/py1-intradependencies in packages py1 and py1
+Exact overlap between bin/py2-intradependencies in packages py2 and py2
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpdprvlz18\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpmq7gg47g\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp0as147al\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpfquylo_2\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpxwk_1q9b\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpjtdmcry9\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpnsfzn7rg\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp2go_aqs0\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp2z82mjeu\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp7e117fxx\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp9jceg65q\info\recipe) will be used.

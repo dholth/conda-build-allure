@@ -1,0 +1,98 @@
+Adding in variants from config.variant
+Attempting to finalize metadata for test_no_include_recipe_meta_yaml
+BUILD START: ['test_no_include_recipe_meta_yaml-1.0-1.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673030659460/work
+Packaging test_no_include_recipe_meta_yaml
+Packaging test_no_include_recipe_meta_yaml-1.0-1
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673030659460/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673030659460/work_moved_test_no_include_recipe_meta_yaml-1.0-1_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673030659460/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/test_no_include_recipe_meta_yaml_1673030659460/work_moved_test_no_include_recipe_meta_yaml-1.0-1_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/linux-64/test_no_include_recipe_meta_yaml-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_no_include_recipe_meta_yaml-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:02.0
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+Attempting to finalize metadata for no_include_recipe
+BUILD START: ['no_include_recipe-0.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030661568/work
+Packaging no_include_recipe
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030661568/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030661568/work_moved_no_include_recipe-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030661568/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030661568/work_moved_no_include_recipe-0.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/linux-64/no_include_recipe-0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "no_include_recipe-0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:01.4
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+BUILD START: ['no_include_recipe-0.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/work
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/linux-64/no_include_recipe-0.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/work_moved_no_include_recipe-0.0-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/work_moved_no_include_recipe-0.0-0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    no_include_recipe: 0.0-0 file:///home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/no_include_recipe_1673030662973/test_tmp

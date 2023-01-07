@@ -1,0 +1,12 @@
+Attempting to finalize metadata for test_bad_patch
+BUILD START: ['test_bad_patch-1.0-0.tar.bz2']
+Copying /Users/runner/work/conda-build/conda-build/tests/test-recipes/test-package to /Users/runner/work/_temp/parallel/popen-gw1/test_failed_patch_exits_build0/test_bad_patch_1673050909335/work/
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_bad_patch/fail_to_apply.patch
+Applying patch: /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_bad_patch/fail_to_apply.patch with args:
+['-Np4', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp04oveknn/fail_to_apply.patch.native', '--binary']
+checking file setup.py
+Hunk #1 FAILED at 10.
+1 out of 1 hunk FAILED
+Warning: failed to download source.  If building, will try again after downloading recipe dependencies.
+Error was: 
+Command '['/Users/runner/work/conda-build/conda-build/miniconda/bin/patch', '--no-backup-if-mismatch', '--batch', '-Np4', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp04oveknn/fail_to_apply.patch.native', '--binary', '--dry-run']' returned non-zero exit status 1.

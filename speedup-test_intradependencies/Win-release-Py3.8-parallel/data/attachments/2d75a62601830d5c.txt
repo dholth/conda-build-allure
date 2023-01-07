@@ -1,0 +1,99 @@
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\17_multiple_recipes_independent_config\a\conda_build_config.yaml
+Attempting to finalize metadata for test_independent_config_a
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test_independent_config_a-1.0-h25e16ab_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:          1.0.6-h0c8e037_5       
+    vc:             9-h2eaa2aa_6           
+    vs2008_runtime: 9.00.30729.1-haa95532_6
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\work
+Packaging test_independent_config_a
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_a-1.0-h25e16ab_0.tar.bz2
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_a-1.0-h25e16ab_0.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\work' to 'D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\work_moved_test_independent_config_a-1.0-h25e16ab_0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\work, dest=D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_a_1673026978147\work_moved_test_independent_config_a-1.0-h25e16ab_0_win-64_main_build_loop)
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\17_multiple_recipes_independent_config\b\conda_build_config.yaml
+Attempting to finalize metadata for test_independent_config_b
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test_independent_config_b-1.0-h25e16ab_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:          1.0.6-h0c8e037_5       
+    vc:             9-h2eaa2aa_6           
+    vs2008_runtime: 9.00.30729.1-haa95532_6
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\work
+Packaging test_independent_config_b
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_b-1.0-h25e16ab_0.tar.bz2
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_b-1.0-h25e16ab_0.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\work' to 'D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\work_moved_test_independent_config_b-1.0-h25e16ab_0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\work, dest=D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\test_independent_config_b_1673026986933\work_moved_test_independent_config_b-1.0-h25e16ab_0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_a-1.0-h25e16ab_0.tar.bz2 ^
+    D:\a\_temp\parallel\popen-gw1\test_serial_builds_have_indepe0\win-64\test_independent_config_b-1.0-h25e16ab_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_independent_config_a-1.0-h25e16ab_0": {
+    "recipe": {
+      "bzip2": "1.0.6",
+      "target_platform": "win-64"
+    }
+  },
+  "test_independent_config_b-1.0-h25e16ab_0": {
+    "recipe": {
+      "bzip2": "1.0.6",
+      "target_platform": "win-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:14.4
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

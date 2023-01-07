@@ -1,0 +1,160 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel/relative'...
+done.
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044270817/work'...
+done.
+HEAD is now at 240786e added submodules@0
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpqtqheqze'...
+done.
+Submodule 'absolute' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044270817/work/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044270817/work/relative'...
+done.
+2023-01-06T22:31:23 Subdir: noarch Gathering repodata
+2023-01-06T22:31:23 noarch Writing pre-patch repodata
+2023-01-06T22:31:23 noarch Applying patch instructions
+2023-01-06T22:31:23 noarch Writing patched repodata
+2023-01-06T22:31:23 noarch Building current_repodata subset
+2023-01-06T22:31:23 Subdir: osx-64 Gathering repodata
+2023-01-06T22:31:23 osx-64 Writing pre-patch repodata
+2023-01-06T22:31:23 osx-64 Applying patch instructions
+2023-01-06T22:31:23 osx-64 Writing patched repodata
+2023-01-06T22:31:23 osx-64 Building current_repodata subset
+2023-01-06T22:31:23 noarch Writing current_repodata subset
+2023-01-06T22:31:23 noarch Writing index HTML
+2023-01-06T22:31:24 osx-64 Writing current_repodata subset
+2023-01-06T22:31:24 osx-64 Writing index HTML
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.
+2023-01-06T22:31:40 Subdir: osx-64 Gathering repodata
+2023-01-06T22:31:40 Subdir: noarch Gathering repodata
+2023-01-06T22:31:40 noarch Writing pre-patch repodata
+2023-01-06T22:31:40 noarch Applying patch instructions
+2023-01-06T22:31:40 noarch Writing patched repodata
+2023-01-06T22:31:40 noarch Building current_repodata subset
+2023-01-06T22:31:40 osx-64 Writing pre-patch repodata
+2023-01-06T22:31:40 osx-64 Applying patch instructions
+2023-01-06T22:31:40 osx-64 Writing patched repodata
+2023-01-06T22:31:40 osx-64 Building current_repodata subset
+2023-01-06T22:31:40 noarch Writing current_repodata subset
+2023-01-06T22:31:40 noarch Writing index HTML
+2023-01-06T22:31:40 osx-64 Writing current_repodata subset
+2023-01-06T22:31:40 osx-64 Writing index HTML
+2023-01-06T22:31:53 Subdir: noarch Gathering repodata
+2023-01-06T22:31:53 Subdir: osx-64 Gathering repodata
+2023-01-06T22:31:53 noarch Writing pre-patch repodata
+2023-01-06T22:31:53 osx-64 Writing pre-patch repodata
+2023-01-06T22:31:53 osx-64 Applying patch instructions
+2023-01-06T22:31:53 noarch Applying patch instructions
+2023-01-06T22:31:53 osx-64 Writing patched repodata
+2023-01-06T22:31:53 noarch Writing patched repodata
+2023-01-06T22:31:53 noarch Building current_repodata subset
+2023-01-06T22:31:53 osx-64 Building current_repodata subset
+2023-01-06T22:31:54 noarch Writing current_repodata subset
+2023-01-06T22:31:54 noarch Writing index HTML
+2023-01-06T22:31:54 osx-64 Writing current_repodata subset
+2023-01-06T22:31:54 osx-64 Writing index HTML
++ echo absolute0relative0
++ diff -wuN /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044270817/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/expected_summaries.txt /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044270817/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/summaries.txt
++ exit 0
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub
+   6bf57e3..fb01f8b  master     -> origin/master
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+   aceba3b..47ae01f  master     -> origin/master
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel
+   240786e..c14efc5  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044328824/work'...
+done.
+HEAD is now at c14efc5 added submodules@1
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+   aceba3b..47ae01f  master     -> master
+Cloning into '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpba1vuijx'...
+done.
+Submodule 'absolute' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044328824/work/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044328824/work/relative'...
+done.
+2023-01-06T22:32:17 Subdir: noarch Gathering repodata
+2023-01-06T22:32:17 noarch Writing pre-patch repodata
+2023-01-06T22:32:17 noarch Applying patch instructions
+2023-01-06T22:32:17 noarch Writing patched repodata
+2023-01-06T22:32:17 noarch Building current_repodata subset
+2023-01-06T22:32:17 Subdir: osx-64 Gathering repodata
+2023-01-06T22:32:17 osx-64 Writing pre-patch repodata
+2023-01-06T22:32:17 osx-64 Applying patch instructions
+2023-01-06T22:32:17 osx-64 Writing patched repodata
+2023-01-06T22:32:17 osx-64 Building current_repodata subset
+2023-01-06T22:32:17 noarch Writing current_repodata subset
+2023-01-06T22:32:17 noarch Writing index HTML
+2023-01-06T22:32:18 osx-64 Writing current_repodata subset
+2023-01-06T22:32:18 osx-64 Writing index HTML
+2023-01-06T22:32:36 Subdir: noarch Gathering repodata
+2023-01-06T22:32:36 noarch Writing pre-patch repodata
+2023-01-06T22:32:36 noarch Applying patch instructions
+2023-01-06T22:32:36 noarch Writing patched repodata
+2023-01-06T22:32:36 noarch Building current_repodata subset
+2023-01-06T22:32:36 Subdir: osx-64 Gathering repodata
+2023-01-06T22:32:36 osx-64 Writing pre-patch repodata
+2023-01-06T22:32:36 osx-64 Applying patch instructions
+2023-01-06T22:32:36 osx-64 Writing patched repodata
+2023-01-06T22:32:36 osx-64 Building current_repodata subset
+2023-01-06T22:32:36 noarch Writing current_repodata subset
+2023-01-06T22:32:36 noarch Writing index HTML
+2023-01-06T22:32:37 osx-64 Writing current_repodata subset
+2023-01-06T22:32:37 osx-64 Writing index HTML
+2023-01-06T22:32:52 Subdir: noarch Gathering repodata
+2023-01-06T22:32:52 noarch Writing pre-patch repodata
+2023-01-06T22:32:52 noarch Applying patch instructions
+2023-01-06T22:32:52 noarch Writing patched repodata
+2023-01-06T22:32:52 noarch Building current_repodata subset
+2023-01-06T22:32:53 Subdir: osx-64 Gathering repodata
+2023-01-06T22:32:53 osx-64 Writing pre-patch repodata
+2023-01-06T22:32:53 osx-64 Applying patch instructions
+2023-01-06T22:32:53 osx-64 Writing patched repodata
+2023-01-06T22:32:53 osx-64 Building current_repodata subset
+2023-01-06T22:32:53 noarch Writing current_repodata subset
+2023-01-06T22:32:53 noarch Writing index HTML
+2023-01-06T22:32:53 osx-64 Writing current_repodata subset
+2023-01-06T22:32:53 osx-64 Writing index HTML
++ echo absolute1relative1
++ diff -wuN /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044328824/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/expected_summaries.txt /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673044328824/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/summaries.txt
++ exit 0

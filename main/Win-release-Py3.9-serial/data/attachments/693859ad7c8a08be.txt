@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_state_varia0\render_1673041172018\_h_env
+
+No files or script found for output render

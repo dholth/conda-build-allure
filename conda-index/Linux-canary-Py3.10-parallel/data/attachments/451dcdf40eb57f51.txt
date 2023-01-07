@@ -1,0 +1,143 @@
+Attempting to finalize metadata for test_script_env_warnings
+BUILD START: ['test_script_env_warnings-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work
+
+Resource usage statistics from building test_script_env_warnings:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 18.9M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging test_script_env_warnings
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpm6kiuod0/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062337557/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_script_env_warnings-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:07.4
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 18.9M
+Total disk usage observed (not including envs): 20B
+BUILD START: ['test_script_env_warnings-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work
+
+Resource usage statistics from building test_script_env_warnings:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 18.9M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpyzv533zu/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062344934/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_script_env_warnings-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:05.3
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 18.9M
+Total disk usage observed (not including envs): 20B
+BUILD START: ['test_script_env_warnings-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work
+
+Resource usage statistics from building test_script_env_warnings:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 18.9M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpm3mb3yhi/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/test_script_env_warnings_1673062350190/work_moved_test_script_env_warnings-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_script_env_warnings0/linux-64/test_script_env_warnings-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_script_env_warnings-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:06.0
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 18.9M
+Total disk usage observed (not including envs): 20B

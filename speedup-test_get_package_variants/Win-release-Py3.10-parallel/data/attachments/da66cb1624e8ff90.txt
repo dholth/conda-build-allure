@@ -1,0 +1,6 @@
+[33mWARNING [0m conda_build.config:config.py:336 Setting build platform. This is only useful when pretending to be on another platform, such as for rendering necessary dependencies on a non-native platform. I trust that you know what you're doing.
+[33mWARNING [0m conda_build.config:config.py:322 Setting build arch. This is only useful when pretending to be on another arch, such as for rendering necessary dependencies on a non-native arch. I trust that you know what you're doing.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_line_up_python_compiled_libs\conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for libxyz
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for py-xyz
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for xyz

@@ -1,0 +1,16 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_build_multiple_recipes
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_build_multiple_recipes
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_build_multiple_recipes
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp_qous5ul\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work_moved_test_build_multiple_recipes-1.0-1_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work_moved_test_build_multiple_recipes-1.0-1_win-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work_moved_test_build_multiple_recipes-1.0-1_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\test_build_multiple_recipes_1673040872401\work_moved_test_build_multiple_recipes-1.0-1_win-64_main_build_loop)
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for package2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging package2
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output package2
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpqldhte_u\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work_moved_package2-1.0-1_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work_moved_package2-1.0-1_win-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work' to 'C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work_moved_package2-1.0-1_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work, dest=C:\Users\runneradmin\Miniconda3\conda-bld\package2_1673040888965\work_moved_package2-1.0-1_win-64_main_build_loop)

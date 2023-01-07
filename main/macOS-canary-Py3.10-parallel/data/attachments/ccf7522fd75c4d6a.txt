@@ -1,0 +1,7 @@
+[33mWARNING [0m conda_build.source:source.py:89 Error: HTTP 404 CONNECTION FAILED for url <file:///Users/runner/work/_temp/parallel/popen-gw2/test_build_sh_shellcheck_clean2/src_cache/cb9f7a236fa5fb1ab0e49199fb07016c598d428f69a3823c1d49f3b38eef86fe>
+Elapsed: 00:00.000974
+
+An HTTP error occurred when trying to retrieve this URL.
+HTTP errors are often intermittent, and a simple retry will get you on your way.
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for screen-4.0.3-19.el6.x86_64.rpm.  Source download forced.  Add hash to recipe to use source cache.
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for screen-4.0.3-19.el6.src.rpm.  Source download forced.  Add hash to recipe to use source cache.

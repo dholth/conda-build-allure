@@ -1,0 +1,7 @@
+Attempting to finalize metadata for conda-build-test-rewrite-env
+Packaging conda-build-test-rewrite-env
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpjqe67knn\info\recipe\conda_build_config.yaml
+Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work' to 'D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work_moved_conda-build-test-rewrite-env-1.0-0_win-64'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work, dest=D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work_moved_conda-build-test-rewrite-env-1.0-0_win-64)
+Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work' to 'D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work_moved_conda-build-test-rewrite-env-1.0-0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work, dest=D:\a\_temp\parallel\popen-gw0\test_rewrite_output0\conda-build-test-rewrite-env_1673026666851\work_moved_conda-build-test-rewrite-env-1.0-0_win-64_main_build_loop)

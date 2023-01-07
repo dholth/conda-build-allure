@@ -1,0 +1,16 @@
+Attempting to finalize metadata for conda-build-test-recursive-build-fail
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+
+Leaving build/test directories:
+  Work:
+ /home/runner/work/_temp/parallel/popen-gw0/test_recursive_fail0/work 
+  Test:
+ /home/runner/work/_temp/parallel/popen-gw0/test_recursive_fail0/test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_recursive_fail0/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold 
+  Build:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_recursive_fail0/_build_env 
+
+

@@ -1,0 +1,66 @@
+Attempting to finalize metadata for test_build_output_folder
+Packaging test_build_output_folder
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmplvc_x87q/info/recipe/conda_build_config.yaml
+Renaming work directory '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work' to '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work_moved_test_build_output_folder-1.0-1_osx-64'
+shutil.move(work)=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work, dest=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work_moved_test_build_output_folder-1.0-1_osx-64)
+Renaming work directory '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work' to '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work_moved_test_build_output_folder-1.0-1_osx-64_main_build_loop'
+shutil.move(work)=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work, dest=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work_moved_test_build_output_folder-1.0-1_osx-64_main_build_loop)
+BUILD START: ['test_build_output_folder-1.0-1.tar.bz2']
+source tree in: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/work
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/out/osx-64/test_build_output_folder-1.0-1.tar.bz2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    test_build_output_folder: 1.0-1 file:///var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/out
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/test_tmp
+A-OK
+
+Resource usage statistics from testing test_build_output_folder:
+   Process count: 1
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 15.8M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.3
+
+
+TEST END: /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/out/osx-64/test_build_output_folder-1.0-1.tar.bz2
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmphqtvd927/out/osx-64/test_build_output_folder-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_build_output_folder-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:23.3
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 15.8M
+Total disk usage observed (not including envs): 24B

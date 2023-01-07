@@ -1,0 +1,2 @@
+Glob D:\a\_temp\parallel\popen-gw0\test_package_test0\conda-build-test-has-prefix-files_1673025524045\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\parallel\popen-gw0\test_package_test0\conda-build-test-has-prefix-files_1673025524045\_h_env
+ERROR conda_build.utils:expand_globs(1207): Glob D:\a\_temp\parallel\popen-gw0\test_package_test0\conda-build-test-has-prefix-files_1673025524045\_h_env\both-slash-prefix did not match in root_dir D:\a\_temp\parallel\popen-gw0\test_package_test0\conda-build-test-has-prefix-files_1673025524045\_h_env

@@ -1,0 +1,163 @@
+Attempting to finalize metadata for _cdt_linking
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['_cdt_linking-0-h9bf148f_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:                        0.1-main          
+    _openmp_mutex:                        5.1-1_gnu         
+    _sysroot_linux-64_curr_repodata_hack: 3-haa98f57_10     
+    binutils_impl_linux-64:               2.38-h2a08ee3_1   
+    binutils_linux-64:                    2.38.0-hc2dff05_0 
+    expat:                                2.4.9-h6a678d5_0  
+    gcc_impl_linux-64:                    11.2.0-h1234567_1 
+    gcc_linux-64:                         11.2.0-h5c386dc_0 
+    kernel-headers_linux-64:              3.10.0-h57e8cba_10
+    ld_impl_linux-64:                     2.38-h1181459_1   
+    libdrm-cos6-x86_64:                   2.4.65-4          
+    libgcc-devel_linux-64:                11.2.0-h1234567_1 
+    libgcc-ng:                            11.2.0-h1234567_1 
+    libgomp:                              11.2.0-h1234567_1 
+    libselinux-cos6-x86_64:               2.0.94-4          
+    libselinux-devel-cos6-x86_64:         2.0.94-4          
+    libsepol-cos6-x86_64:                 2.0.41-4          
+    libsepol-devel-cos6-x86_64:           2.0.41-4          
+    libstdcxx-ng:                         11.2.0-h1234567_1 
+    libx11-common-cos6-x86_64:            1.6.4-4           
+    libx11-cos6-x86_64:                   1.6.4-4           
+    libx11-devel-cos6-x86_64:             1.6.4-4           
+    libxau-cos6-x86_64:                   1.0.6-4           
+    libxau-devel-cos6-x86_64:             1.0.6-4           
+    libxcb-cos6-x86_64:                   1.12-4            
+    libxdamage-cos6-x86_64:               1.1.3-4           
+    libxdamage-devel-cos6-x86_64:         1.1.3-4           
+    libxext-cos6-x86_64:                  1.3.3-4           
+    libxext-devel-cos6-x86_64:            1.3.3-4           
+    libxfixes-cos6-x86_64:                5.0.3-4           
+    libxfixes-devel-cos6-x86_64:          5.0.3-4           
+    libxi-cos6-x86_64:                    1.7.8-4           
+    libxi-devel-cos6-x86_64:              1.7.8-4           
+    libxxf86vm-cos6-x86_64:               1.1.3-4           
+    mesa-dri-drivers-cos6-x86_64:         11.0.7-4          
+    mesa-dri1-drivers-cos6-x86_64:        7.11-4            
+    mesa-libgl-cos6-x86_64:               11.0.7-4          
+    mesa-libgl-devel-cos6-x86_64:         11.0.7-4          
+    pkg-config:                           0.29.2-h1bed415_8 
+    sysroot_linux-64:                     2.17-h57e8cba_10  
+    xorg-x11-proto-devel-cos6-x86_64:     7.7-4             
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work
+INFO: activate-binutils_linux-64.sh made the following environmental changes:
++ADDR2LINE=$PREFIX/bin/x86_64-conda-linux-gnu-addr2line
++AR=$PREFIX/bin/x86_64-conda-linux-gnu-ar
++AS=$PREFIX/bin/x86_64-conda-linux-gnu-as
++CXXFILT=$PREFIX/bin/x86_64-conda-linux-gnu-c++filt
++ELFEDIT=$PREFIX/bin/x86_64-conda-linux-gnu-elfedit
++GPROF=$PREFIX/bin/x86_64-conda-linux-gnu-gprof
++LD=$PREFIX/bin/x86_64-conda-linux-gnu-ld
++LD_GOLD=$PREFIX/bin/x86_64-conda-linux-gnu-ld.gold
++NM=$PREFIX/bin/x86_64-conda-linux-gnu-nm
++OBJCOPY=$PREFIX/bin/x86_64-conda-linux-gnu-objcopy
++OBJDUMP=$PREFIX/bin/x86_64-conda-linux-gnu-objdump
++RANLIB=$PREFIX/bin/x86_64-conda-linux-gnu-ranlib
++READELF=$PREFIX/bin/x86_64-conda-linux-gnu-readelf
++SIZE=$PREFIX/bin/x86_64-conda-linux-gnu-size
++STRINGS=$PREFIX/bin/x86_64-conda-linux-gnu-strings
++STRIP=$PREFIX/bin/x86_64-conda-linux-gnu-strip
+INFO: activate-gcc_linux-64.sh made the following environmental changes:
++BUILD=x86_64-conda-linux-gnu
++CC=$PREFIX/bin/x86_64-conda-linux-gnu-cc
++CC_FOR_BUILD=$PREFIX/bin/x86_64-conda-linux-gnu-cc
++CFLAGS=-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem $PREFIX/include -fdebug-prefix-map=$SRC_DIR=/usr/local/src/conda/_cdt_linking-0 -fdebug-prefix-map=$PREFIX=/usr/local/src/conda-prefix
++CMAKE_ARGS=-DCMAKE_LINKER=$PREFIX/bin/x86_64-conda-linux-gnu-ld -DCMAKE_STRIP=$PREFIX/bin/x86_64-conda-linux-gnu-strip -DCMAKE_FIND_ROOT_PATH_MODE_PROGRAM=NEVER -DCMAKE_FIND_ROOT_PATH_MODE_LIBRARY=ONLY -DCMAKE_FIND_ROOT_PATH_MODE_INCLUDE=ONLY -DCMAKE_FIND_ROOT_PATH=$PREFIX;$PREFIX/x86_64-conda-linux-gnu/sysroot -DCMAKE_INSTALL_PREFIX=$PREFIX -DCMAKE_INSTALL_LIBDIR=lib
++CMAKE_PREFIX_PATH=$PREFIX:$PREFIX/x86_64-conda-linux-gnu/sysroot/usr
++CONDA_BUILD_SYSROOT=$PREFIX/x86_64-conda-linux-gnu/sysroot
++CPP=$PREFIX/bin/x86_64-conda-linux-gnu-cpp
++CPPFLAGS=-DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem $PREFIX/include
++DEBUG_CFLAGS=-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem $PREFIX/include -fdebug-prefix-map=$SRC_DIR=/usr/local/src/conda/_cdt_linking-0 -fdebug-prefix-map=$PREFIX=/usr/local/src/conda-prefix
++DEBUG_CPPFLAGS=-D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem $PREFIX/include
++GCC=$PREFIX/bin/x86_64-conda-linux-gnu-gcc
++GCC_AR=$PREFIX/bin/x86_64-conda-linux-gnu-gcc-ar
++GCC_NM=$PREFIX/bin/x86_64-conda-linux-gnu-gcc-nm
++GCC_RANLIB=$PREFIX/bin/x86_64-conda-linux-gnu-gcc-ranlib
++HOST=x86_64-conda-linux-gnu
++LDFLAGS=-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,$PREFIX/lib -Wl,-rpath-link,$PREFIX/lib -L$PREFIX/lib
++_CONDA_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_x86_64_conda_cos7_linux_gnu
++build_alias=x86_64-conda-linux-gnu
++host_alias=x86_64-conda-linux-gnu
+-BUILD=x86_64-conda_cos6-linux-gnu
+$PREFIX/x86_64-conda_cos6-linux-gnu/sysroot/usr/lib64/libGL.so.1
+$PREFIX/x86_64-conda_cos6-linux-gnu/sysroot/usr/lib64/libGL.so.1.2.0
+$PREFIX/x86_64-conda_cos6-linux-gnu/sysroot/usr/lib64/libGL.so
+$PREFIX/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGL.so.1
+$PREFIX/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGL.so.1.2.0
+$PREFIX/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGL.so
+$PREFIX/x86_64-conda-linux-gnu/sysroot/usr/lib64/libc.so
+$PREFIX/x86_64-conda-linux-gnu/sysroot/lib64/libc.so.6
+
+Resource usage statistics from building _cdt_linking:
+   Process count: 2
+   CPU time: Sys=0:00:00.0, User=0:00:00.1
+   Memory: 21.2M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.0
+
+
+Packaging _cdt_linking
+number of files: 1
+WARNING :: Failed to get_static_lib_exports(/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/lib/libexpat.a)
+   INFO: sysroot: '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda-linux-gnu/sysroot/' files: '['/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda-linux-gnu/sysroot/usr/share/zoneinfo/zone1970.tab', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda-linux-gnu/sysroot/usr/share/zoneinfo/zone.tab', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda-linux-gnu/sysroot/usr/share/zoneinfo/tzdata.zi', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda-linux-gnu/sysroot/usr/share/zoneinfo/right/Zulu']'
+   INFO: sysroot: '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda_cos6-linux-gnu/sysroot/' files: '['/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda_cos6-linux-gnu/sysroot/usr/share/pkgconfig/xproto.pc', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda_cos6-linux-gnu/sysroot/usr/share/pkgconfig/xineramaproto.pc', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda_cos6-linux-gnu/sysroot/usr/share/pkgconfig/xf86vidmodeproto.pc', '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/x86_64-conda_cos6-linux-gnu/sysroot/usr/share/pkgconfig/xf86miscproto.pc']'
+   INFO (_cdt_linking,bin/links-to-opengl-cdt): Needed DSO x86_64-conda-linux-gnu/sysroot/usr/lib64/libGL.so.1 found in CDT/compiler package defaults::mesa-libgl-cos6-x86_64-11.0.7-4
+   INFO (_cdt_linking,bin/links-to-opengl-cdt): Needed DSO x86_64-conda-linux-gnu/sysroot/lib64/libc.so.6 found in CDT/compiler package defaults::sysroot_linux-64-2.17-h57e8cba_10
+WARNING (_cdt_linking): run-exports library package pkgs/main::expat-2.4.9-h6a678d5_0 in requirements/run but it is not used (i.e. it is overdepending or perhaps statically linked? If that is what you want then add it to `build/ignore_run_exports`)
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/linux-64/_cdt_linking-0-h9bf148f_0.tar.bz2
+Nothing to test for: /home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/linux-64/_cdt_linking-0-h9bf148f_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work' to '/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work_moved__cdt_linking-0-h9bf148f_0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/_cdt_linking_1673037611031/work_moved__cdt_linking-0-h9bf148f_0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/serial/test_recipe_builds_cdt_linking0/linux-64/_cdt_linking-0-h9bf148f_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "_cdt_linking-0-h9bf148f_0": {
+    "recipe": {
+      "c_compiler": "gcc",
+      "target_platform": "linux-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:01.8
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 21.2M
+Total disk usage observed (not including envs): 24B

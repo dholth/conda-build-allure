@@ -1,0 +1,9 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for ephpnhpf
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging ephpnhpf
+[35mDEBUG   [0m conda_build.noarch_python:noarch_python.py:94 Don't know how to handle file: somewhere/explicitly-not-listed-text-file-containing-prefix.  Including it as-is.
+[35mDEBUG   [0m conda_build.noarch_python:noarch_python.py:94 Don't know how to handle file: somewhere/explicitly-listed-text-file-containing-prefix.  Including it as-is.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpwkf3uauq/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work' to '/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work_moved_ephpnhpf-0.0.1-py_0_noarch'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work_moved_ephpnhpf-0.0.1-py_0_noarch)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work' to '/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work_moved_ephpnhpf-0.0.1-py_0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_entry_point1/ephpnhpf_1673023326341/work_moved_ephpnhpf-0.0.1-py_0_linux-64_main_build_loop)

@@ -1,0 +1,12 @@
+[33mWARNING [0m conda_build.metadata:metadata.py:2813 Not detecting used variables in output script /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_overlapping_files/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for split_packages_script_overlapping_files
+[33mWARNING [0m conda_build.build:build.py:2368 Exact overlap between subpackage_file_1 in packages my_script_subpackage_2 and my_script_subpackage
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging split_packages_script_overlapping_files
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output split_packages_script_overlapping_files
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp49f_sfjf/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmp49f_sfjf/info/recipe/conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1248 Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmph4y1_o1w/info/recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmph4y1_o1w/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpkkcuup94/info/recipe/conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673032590195/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673032590195/work_moved_split_packages_script_overlapping_files-1.0-0_linux-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673032590195/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_overlapping_files0/split_packages_script_overlapping_files_1673032590195/work_moved_split_packages_script_overlapping_files-1.0-0_linux-64_main_build_loop)

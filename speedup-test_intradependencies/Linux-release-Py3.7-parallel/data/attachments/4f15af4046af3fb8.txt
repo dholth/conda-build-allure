@@ -1,0 +1,7 @@
+No files or script found for output output_1
+No files or script found for output test_per_output_tests
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpody0rhze/info/recipe) will be used.
++ echo 'output-level test'
++ exit 0
++ echo 'top-level test'
++ exit 0

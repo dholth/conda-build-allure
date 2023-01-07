@@ -1,0 +1,51 @@
+From https://github.com/conda/conda_build_test_recipe
+ * [new ref]                    -> _conda_cache_origin_head
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049214632/work'...
+done.
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049214632/work'...
+done.
+HEAD is now at 7a05dd8 create dummy content for entry points in small repo
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049214632/work'...
+done.
+HEAD is now at 2a558a8 add test recipe
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049214632/work'...
+done.
+HEAD is now at 7a05dd8 create dummy content for entry points in small repo
+2023-01-06T23:53:45 Subdir: linux-64 Gathering repodata
+2023-01-06T23:53:45 linux-64 Writing pre-patch repodata
+2023-01-06T23:53:45 linux-64 Applying patch instructions
+2023-01-06T23:53:45 linux-64 Writing patched repodata
+2023-01-06T23:53:45 linux-64 Building current_repodata subset
+2023-01-06T23:53:45 Subdir: noarch Gathering repodata
+2023-01-06T23:53:45 Subdir: osx-64 Gathering repodata
+2023-01-06T23:53:45 noarch Writing pre-patch repodata
+2023-01-06T23:53:45 noarch Applying patch instructions
+2023-01-06T23:53:45 noarch Writing patched repodata
+2023-01-06T23:53:45 noarch Building current_repodata subset
+2023-01-06T23:53:45 osx-64 Writing pre-patch repodata
+2023-01-06T23:53:45 osx-64 Applying patch instructions
+2023-01-06T23:53:45 osx-64 Writing patched repodata
+2023-01-06T23:53:45 osx-64 Building current_repodata subset
+2023-01-06T23:53:45 linux-64 Writing current_repodata subset
+2023-01-06T23:53:45 linux-64 Writing index HTML
+2023-01-06T23:53:45 noarch Writing current_repodata subset
+2023-01-06T23:53:45 noarch Writing index HTML
+2023-01-06T23:53:45 Subdir: win-32 Gathering repodata
+2023-01-06T23:53:45 win-32 Writing pre-patch repodata
+2023-01-06T23:53:45 win-32 Applying patch instructions
+2023-01-06T23:53:45 win-32 Writing patched repodata
+2023-01-06T23:53:45 win-32 Building current_repodata subset
+2023-01-06T23:53:45 win-32 Writing current_repodata subset
+2023-01-06T23:53:45 win-32 Writing index HTML
+2023-01-06T23:53:45 osx-64 Writing current_repodata subset
+2023-01-06T23:53:45 osx-64 Writing index HTML
+2023-01-06T23:53:45 Subdir: win-64 Gathering repodata
+2023-01-06T23:53:45 win-64 Writing pre-patch repodata
+2023-01-06T23:53:45 win-64 Applying patch instructions
+2023-01-06T23:53:45 win-64 Writing patched repodata
+2023-01-06T23:53:45 win-64 Building current_repodata subset
+2023-01-06T23:53:45 win-64 Writing current_repodata subset
+2023-01-06T23:53:45 win-64 Writing index HTML
+Cloning into '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-variant-git_1673049214632/work'...
+done.
+HEAD is now at 2a558a8 add test recipe

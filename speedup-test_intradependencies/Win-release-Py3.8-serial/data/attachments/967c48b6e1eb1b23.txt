@@ -1,0 +1,4 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_empty_with_0\empty_with_build_script_1673024117504\_h_env
+
+No files or script found for output empty_with_build_script

@@ -1,0 +1,8 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/12_variant_versions/conda_build_config.yaml
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for ver480.zip.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: ver480.zip
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/variants/12_variant_versions/ver480.zip
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for ver470.zip.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: ver470.zip
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/test-recipes/variants/12_variant_versions/ver470.zip
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_package

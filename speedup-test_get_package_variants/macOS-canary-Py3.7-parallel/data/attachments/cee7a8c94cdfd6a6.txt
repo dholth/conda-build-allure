@@ -1,0 +1,2 @@
+/Users/runner/work/_temp/parallel/popen-gw1/test_setup_py_data_in_env0/conda-build-test-source-setup-py-data-in-env_1673043733286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,

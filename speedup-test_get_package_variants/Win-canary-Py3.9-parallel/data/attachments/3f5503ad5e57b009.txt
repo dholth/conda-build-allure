@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw0\test_recipe_build0\dll-hello_1673027248991\_h_env
+

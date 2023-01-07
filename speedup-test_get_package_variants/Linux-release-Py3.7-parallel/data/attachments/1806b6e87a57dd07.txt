@@ -1,0 +1,153 @@
+Attempting to finalize metadata for test_test_extra_dep
+BUILD START: ['test_test_extra_dep-1.0-1.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/test_test_extra_dep_1673031935974/work
+Packaging test_test_extra_dep
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/test_test_extra_dep_1673031935974/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/test_test_extra_dep_1673031935974/work_moved_test_test_extra_dep-1.0-1_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/test_test_extra_dep_1673031935974/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/test_test_extra_dep_1673031935974/work_moved_test_test_extra_dep-1.0-1_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/linux-64/test_test_extra_dep-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_test_extra_dep-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:02.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/linux-64/test_test_extra_dep-1.0-1.tar.bz2
+Adding in variants from /tmp/tmpumrjw4_m/info/recipe/conda_build_config.yaml
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/work' to '/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/work_moved_test_test_extra_dep-1.0-1_linux-64'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/work, dest=/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/work_moved_test_test_extra_dep-1.0-1_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:       0.1-main                                                                                       
+    _openmp_mutex:       5.1-1_gnu                                                                                      
+    ca-certificates:     2022.10.11-h06a4308_0                                                                          
+    certifi:             2021.5.30-py36h06a4308_0                                                                       
+    imagesize:           0.7.1-py36h52d8127_0                                                                           
+    ld_impl_linux-64:    2.38-h1181459_1                                                                                
+    libffi:              3.3-he6710b0_2                                                                                 
+    libgcc-ng:           11.2.0-h1234567_1                                                                              
+    libgomp:             11.2.0-h1234567_1                                                                              
+    libstdcxx-ng:        11.2.0-h1234567_1                                                                              
+    ncurses:             6.3-h5eee18b_3                                                                                 
+    openssl:             1.1.1s-h7f8727e_0                                                                              
+    pip:                 21.2.2-py36h06a4308_0                                                                          
+    python:              3.6.13-h12debd9_1                                                                              
+    readline:            8.2-h5eee18b_0                                                                                 
+    setuptools:          58.0.4-py36h06a4308_0                                                                          
+    sqlite:              3.40.0-h5082296_0                                                                              
+    test_test_extra_dep: 1.0-1                    file:///home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0
+    tk:                  8.6.12-h1ccaba5_0                                                                              
+    wheel:               0.37.1-pyhd3eb1b0_0                                                                            
+    xz:                  5.2.8-h5eee18b_0                                                                               
+    zlib:                1.2.13-h5eee18b_0                                                                              
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/test_tmp
+import: 'imagesize'
+import: 'imagesize'
+A-OK
+
+Resource usage statistics from testing test_test_extra_dep:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 12.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.1
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/linux-64/test_test_extra_dep-1.0-1.tar.bz2
+All tests passed
+
+
+####################################################################################
+Source and build intermediates have been left in /usr/share/miniconda/envs/test/conda-bld.
+There are currently 42 accumulated.
+To remove them, you can run the ```conda build purge``` command
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0/linux-64/test_test_extra_dep-1.0-1.tar.bz2
+Adding in variants from /tmp/tmpi24rajei/info/recipe/conda_build_config.yaml
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:       0.1-main                                                                                        
+    _openmp_mutex:       5.1-1_gnu                                                                                       
+    bzip2:               1.0.8-h7b6447c_0                                                                                
+    ca-certificates:     2022.10.11-h06a4308_0                                                                           
+    certifi:             2022.12.7-py310h06a4308_0                                                                       
+    ld_impl_linux-64:    2.38-h1181459_1                                                                                 
+    libffi:              3.4.2-h6a678d5_6                                                                                
+    libgcc-ng:           11.2.0-h1234567_1                                                                               
+    libgomp:             11.2.0-h1234567_1                                                                               
+    libstdcxx-ng:        11.2.0-h1234567_1                                                                               
+    libuuid:             1.41.5-h5eee18b_0                                                                               
+    ncurses:             6.3-h5eee18b_3                                                                                  
+    openssl:             1.1.1s-h7f8727e_0                                                                               
+    pip:                 22.3.1-py310h06a4308_0                                                                          
+    python:              3.10.8-h7a1cb2a_1                                                                               
+    readline:            8.2-h5eee18b_0                                                                                  
+    setuptools:          65.5.0-py310h06a4308_0                                                                          
+    sqlite:              3.40.0-h5082296_0                                                                               
+    test_test_extra_dep: 1.0-1                     file:///home/runner/work/_temp/parallel/popen-gw0/test_test_extra_dep0
+    tk:                  8.6.12-h1ccaba5_0                                                                               
+    tzdata:              2022g-h04d1e81_0                                                                                
+    wheel:               0.37.1-pyhd3eb1b0_0                                                                             
+    xz:                  5.2.8-h5eee18b_0                                                                                
+    zlib:                1.2.13-h5eee18b_0                                                                               
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673031935974/test_tmp
+import: 'imagesize'
+
+Leaving build/test directories:
+  Work:
+ /usr/share/miniconda/envs/test/conda-bld/work 
+  Test:
+ /usr/share/miniconda/envs/test/conda-bld/test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  /usr/share/miniconda/envs/test/conda-bld/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl 
+  Build:
+source activate  /usr/share/miniconda/envs/test/conda-bld/_build_env 
+
+

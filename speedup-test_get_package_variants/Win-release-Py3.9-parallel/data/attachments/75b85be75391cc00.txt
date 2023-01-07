@@ -1,0 +1,10 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_api_extra_dep
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_api_extra_dep
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_api_extra_dep
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work' to 'D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work_moved_test_api_extra_dep-1.0-1_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work, dest=D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work_moved_test_api_extra_dep-1.0-1_win-64_main_build_loop)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmppknhmpyx\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work' to 'D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work_moved_test_api_extra_dep-1.0-1_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work, dest=D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\test_api_extra_dep_1673026527578\work_moved_test_api_extra_dep-1.0-1_win-64)
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpnkcftem0\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.build:build.py:2964 Tests failed for test_api_extra_dep-1.0-1.tar.bz2 - moving package to D:\a\_temp\parallel\popen-gw0\test_api_extra_dep0\broken

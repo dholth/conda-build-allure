@@ -1,0 +1,20 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw0\test_activation_in_output_scri0\test_output_activation_1673033951706\_h_env
+
+C:\Users\RUNNER~1\AppData\Local\Temp\conda-16580\conda.tmp - Access is denied.
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpl8f7xj1v\build_script_activates-1.0-0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\recipe\parent\install_activated.sh.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\recipe\parent\install_not_activated.sh.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\recipe\parent\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\recipe\conda_build_config.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\recipe\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\about.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\files.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\git.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\hash_input.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\index.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp4t_zq58_\info\paths.json.  Please remove this file manually (you may need to reboot to free file handles)
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp83j_htn1\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpgu8jsdma\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp0zo980ib\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpn_clm1wf\info\recipe) will be used.

@@ -1,0 +1,77 @@
+Attempting to finalize metadata for ♥
+BUILD START: ['♥-1-0.tar.bz2']
+source tree in: /home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work
+
+Resource usage statistics from building ♥:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 3.2M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging ♥
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.01 seconds
+TEST START: /home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/linux-64/♥-1-0.tar.bz2
+Adding in variants from /tmp/tmpge2pxmm1/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work' to '/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work_moved_♥-1-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work_moved_♥-1-0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    ♥: 1-0 file:///home/runner/work/_temp/serial/test_recipe_builds_unicode_all0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export SRC_DIR=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/test_tmp
+
+Resource usage statistics from testing ♥:
+   Process count: 6
+   CPU time: Sys=0:00:00.1, User=0:00:01.3
+   Memory: 95.0M
+   Disk usage: 16B
+   Time elapsed: 0:00:06.0
+
+
+TEST END: /home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/linux-64/♥-1-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work' to '/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work_moved_♥-1-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work, dest=/home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/♥_1673038829505/work_moved_♥-1-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/serial/test_recipe_builds_unicode_all0/linux-64/♥-1-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "\u2665-1-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:15.9
+CPU usage: sys=0:00:00.1, user=0:00:01.3
+Maximum memory usage observed: 95.0M
+Total disk usage observed (not including envs): 36B

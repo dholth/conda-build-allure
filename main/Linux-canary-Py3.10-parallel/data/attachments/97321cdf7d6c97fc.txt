@@ -1,0 +1,8 @@
+Parsing input package acs:
+.. name: acs location: None new_location: /home/runner/work/_temp/parallel/popen-gw0/test_repo_r_cran_acs__0/r-acs
+Making/refreshing recipe for acs
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/acs_2.1.4.tar.gz
+Reading package metadata from /home/runner/work/_temp/parallel/popen-gw0/test_repo_r_cran_acs__0/src_cache/source-acs_2.1.4_05aa69eaf0.tar.gz
+Writing recipe for acs

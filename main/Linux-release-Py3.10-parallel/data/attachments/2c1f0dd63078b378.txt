@@ -1,0 +1,9 @@
+No files or script found for output testprg
++ pytest -h
++ test -e test_files_folder/text.txt
++ test -e recipe_file
++ exit 0
++ pytest -h
++ test -e test_files_folder/text.txt
++ test -e recipe_file
++ exit 0

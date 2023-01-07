@@ -1,0 +1,30 @@
+2023-01-06T20:39:11 Subdir: linux-64 Gathering repodata
+2023-01-06T20:39:11 linux-64 Writing pre-patch repodata
+2023-01-06T20:39:11 linux-64 Applying patch instructions
+2023-01-06T20:39:11 linux-64 Writing patched repodata
+2023-01-06T20:39:11 linux-64 Building current_repodata subset
+2023-01-06T20:39:11 Subdir: noarch Gathering repodata
+2023-01-06T20:39:11 noarch Writing pre-patch repodata
+2023-01-06T20:39:11 noarch Applying patch instructions
+2023-01-06T20:39:11 noarch Writing patched repodata
+2023-01-06T20:39:11 noarch Building current_repodata subset
+2023-01-06T20:39:11 linux-64 Writing current_repodata subset
+2023-01-06T20:39:11 linux-64 Writing index HTML
+2023-01-06T20:39:11 noarch Writing current_repodata subset
+2023-01-06T20:39:11 noarch Writing index HTML
+No hash (md5, sha1, sha256) provided for mypkg.zip.  Source download forced.  Add hash to recipe to use source cache.
+No files or script found for output mypkg
+2023-01-06T20:39:16 Subdir: linux-64 Gathering repodata
+2023-01-06T20:39:16 linux-64 Writing pre-patch repodata
+2023-01-06T20:39:16 linux-64 Applying patch instructions
+2023-01-06T20:39:16 linux-64 Writing patched repodata
+2023-01-06T20:39:16 linux-64 Building current_repodata subset
+2023-01-06T20:39:16 linux-64 Writing current_repodata subset
+2023-01-06T20:39:16 linux-64 Writing index HTML
+2023-01-06T20:39:16 Subdir: noarch Gathering repodata
+2023-01-06T20:39:16 noarch Writing pre-patch repodata
+2023-01-06T20:39:16 noarch Applying patch instructions
+2023-01-06T20:39:16 noarch Writing patched repodata
+2023-01-06T20:39:16 noarch Building current_repodata subset
+2023-01-06T20:39:16 noarch Writing current_repodata subset
+2023-01-06T20:39:16 noarch Writing index HTML

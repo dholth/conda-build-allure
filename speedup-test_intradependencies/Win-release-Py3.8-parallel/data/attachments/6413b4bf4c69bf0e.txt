@@ -1,0 +1,325 @@
+Attempting to finalize metadata for activation_package
+Attempting to finalize metadata for build_script_activates
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Attempting to finalize metadata for no_activate_explicit
+Attempting to finalize metadata for using_compiler_jinja_activates
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['activation_package-1.0-0.tar.bz2', 'build_script_activates-1.0-0.tar.bz2', 'no_activate_explicit-1.0-0.tar.bz2', 'using_compiler_jinja_activates-1.0-hf4a77e7_0.tar.bz2']
+source tree in: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work
+Packaging activation_package
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env" 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>mkdir D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env\etc\conda\activate.d 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>echo set ACTIVATION_VAR=1  1>D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env\etc\conda\activate.d\activate_script.bat 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>echo export ACTIVATION_VAR=1  1>D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env\etc\conda\activate.d\activate_script.sh 
+
+Resource usage statistics from bundling activation_package:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 100.0K
+   Disk usage: 11.7K
+   Time elapsed: 0:00:02.0
+
+
+number of files: 2
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+Packaging build_script_activates
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    activation_package:    1.0-0                 file:///D:/a/_temp/parallel/popen-gw1/test_activation_in_output_scri0
+    m2-base:               1.0.0-3                                                                                    
+    m2-bash:               4.3.042-5                                                                                  
+    m2-bash-completion:    2.3-2                                                                                      
+    m2-catgets:            1.1-3                                                                                      
+    m2-coreutils:          8.25-102                                                                                   
+    m2-dash:               0.5.8-2                                                                                    
+    m2-file:               5.25-2                                                                                     
+    m2-filesystem:         2016.04-4                                                                                  
+    m2-findutils:          4.6.0-2                                                                                    
+    m2-gawk:               4.1.3-2                                                                                    
+    m2-gcc-libs:           5.3.0-4                                                                                    
+    m2-gettext:            0.19.7-4                                                                                   
+    m2-gmp:                6.1.0-3                                                                                    
+    m2-grep:               2.22-4                                                                                     
+    m2-gzip:               1.7-2                                                                                      
+    m2-inetutils:          1.9.2-2                                                                                    
+    m2-info:               6.0-2                                                                                      
+    m2-less:               481-2                                                                                      
+    m2-libasprintf:        0.19.7-4                                                                                   
+    m2-libcatgets:         1.1-3                                                                                      
+    m2-libcrypt:           1.3-2                                                                                      
+    m2-libgettextpo:       0.19.7-4                                                                                   
+    m2-libiconv:           1.14-3                                                                                     
+    m2-libintl:            0.19.7-4                                                                                   
+    m2-liblzma:            5.2.2-2                                                                                    
+    m2-libpcre:            8.38-2                                                                                     
+    m2-libreadline:        6.3.008-8                                                                                  
+    m2-libutil-linux:      2.26.2-2                                                                                   
+    m2-libxml2:            2.9.2-3                                                                                    
+    m2-mintty:             1!2.2.3-2                                                                                  
+    m2-mpfr:               3.1.4-2                                                                                    
+    m2-msys2-launcher-git: 0.3.28.860c495-2                                                                           
+    m2-msys2-runtime:      2.5.0.17080.65c939c-3                                                                      
+    m2-ncurses:            6.0.20160220-2                                                                             
+    m2-sed:                4.2.2-3                                                                                    
+    m2-tftp-hpa:           5.2-2                                                                                      
+    m2-time:               1.7-2                                                                                      
+    m2-ttyrec:             1.0.8-2                                                                                    
+    m2-tzcode:             2015.e-2                                                                                   
+    m2-util-linux:         2.26.2-2                                                                                   
+    m2-which:              2.21-3                                                                                     
+    m2-zlib:               1.2.8-4                                                                                    
+    msys2-conda-epoch:     20160418-1                                                                                 
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda_hook.bat" 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>call "C:\Users\runneradmin\Miniconda3\Scripts\..\condabin\conda.bat" activate --stack "D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env" 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>set ACTIVATION_VAR=1  
+
+(D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env) (base) D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work>IF "1 " == "" echo "error! activation var unset!"   && exit 1 
+
+Resource usage statistics from bundling build_script_activates:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 100.0K
+   Disk usage: 11.6K
+   Time elapsed: 0:00:02.0
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging no_activate_explicit
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    activation_package:    1.0-0                 file:///D:/a/_temp/parallel/popen-gw1/test_activation_in_output_scri0
+    m2-base:               1.0.0-3                                                                                    
+    m2-bash:               4.3.042-5                                                                                  
+    m2-bash-completion:    2.3-2                                                                                      
+    m2-catgets:            1.1-3                                                                                      
+    m2-coreutils:          8.25-102                                                                                   
+    m2-dash:               0.5.8-2                                                                                    
+    m2-file:               5.25-2                                                                                     
+    m2-filesystem:         2016.04-4                                                                                  
+    m2-findutils:          4.6.0-2                                                                                    
+    m2-gawk:               4.1.3-2                                                                                    
+    m2-gcc-libs:           5.3.0-4                                                                                    
+    m2-gettext:            0.19.7-4                                                                                   
+    m2-gmp:                6.1.0-3                                                                                    
+    m2-grep:               2.22-4                                                                                     
+    m2-gzip:               1.7-2                                                                                      
+    m2-inetutils:          1.9.2-2                                                                                    
+    m2-info:               6.0-2                                                                                      
+    m2-less:               481-2                                                                                      
+    m2-libasprintf:        0.19.7-4                                                                                   
+    m2-libcatgets:         1.1-3                                                                                      
+    m2-libcrypt:           1.3-2                                                                                      
+    m2-libgettextpo:       0.19.7-4                                                                                   
+    m2-libiconv:           1.14-3                                                                                     
+    m2-libintl:            0.19.7-4                                                                                   
+    m2-liblzma:            5.2.2-2                                                                                    
+    m2-libpcre:            8.38-2                                                                                     
+    m2-libreadline:        6.3.008-8                                                                                  
+    m2-libutil-linux:      2.26.2-2                                                                                   
+    m2-libxml2:            2.9.2-3                                                                                    
+    m2-mintty:             1!2.2.3-2                                                                                  
+    m2-mpfr:               3.1.4-2                                                                                    
+    m2-msys2-launcher-git: 0.3.28.860c495-2                                                                           
+    m2-msys2-runtime:      2.5.0.17080.65c939c-3                                                                      
+    m2-ncurses:            6.0.20160220-2                                                                             
+    m2-sed:                4.2.2-3                                                                                    
+    m2-tftp-hpa:           5.2-2                                                                                      
+    m2-time:               1.7-2                                                                                      
+    m2-ttyrec:             1.0.8-2                                                                                    
+    m2-tzcode:             2015.e-2                                                                                   
+    m2-util-linux:         2.26.2-2                                                                                   
+    m2-which:              2.21-3                                                                                     
+    m2-zlib:               1.2.8-4                                                                                    
+    msys2-conda-epoch:     20160418-1                                                                                 
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling no_activate_explicit:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 72.0K
+   Disk usage: 11.7K
+   Time elapsed: 0:00:02.0
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Packaging using_compiler_jinja_activates
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    vc:             14.2-h21ff451_1       
+    vs2015_runtime: 14.27.29016-h5e58377_2
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    activation_package:    1.0-0                    file:///D:/a/_temp/parallel/popen-gw1/test_activation_in_output_scri0
+    m2-base:               1.0.0-3                                                                                       
+    m2-bash:               4.3.042-5                                                                                     
+    m2-bash-completion:    2.3-2                                                                                         
+    m2-catgets:            1.1-3                                                                                         
+    m2-coreutils:          8.25-102                                                                                      
+    m2-dash:               0.5.8-2                                                                                       
+    m2-file:               5.25-2                                                                                        
+    m2-filesystem:         2016.04-4                                                                                     
+    m2-findutils:          4.6.0-2                                                                                       
+    m2-gawk:               4.1.3-2                                                                                       
+    m2-gcc-libs:           5.3.0-4                                                                                       
+    m2-gettext:            0.19.7-4                                                                                      
+    m2-gmp:                6.1.0-3                                                                                       
+    m2-grep:               2.22-4                                                                                        
+    m2-gzip:               1.7-2                                                                                         
+    m2-inetutils:          1.9.2-2                                                                                       
+    m2-info:               6.0-2                                                                                         
+    m2-less:               481-2                                                                                         
+    m2-libasprintf:        0.19.7-4                                                                                      
+    m2-libcatgets:         1.1-3                                                                                         
+    m2-libcrypt:           1.3-2                                                                                         
+    m2-libgettextpo:       0.19.7-4                                                                                      
+    m2-libiconv:           1.14-3                                                                                        
+    m2-libintl:            0.19.7-4                                                                                      
+    m2-liblzma:            5.2.2-2                                                                                       
+    m2-libpcre:            8.38-2                                                                                        
+    m2-libreadline:        6.3.008-8                                                                                     
+    m2-libutil-linux:      2.26.2-2                                                                                      
+    m2-libxml2:            2.9.2-3                                                                                       
+    m2-mintty:             1!2.2.3-2                                                                                     
+    m2-mpfr:               3.1.4-2                                                                                       
+    m2-msys2-launcher-git: 0.3.28.860c495-2                                                                              
+    m2-msys2-runtime:      2.5.0.17080.65c939c-3                                                                         
+    m2-ncurses:            6.0.20160220-2                                                                                
+    m2-sed:                4.2.2-3                                                                                       
+    m2-tftp-hpa:           5.2-2                                                                                         
+    m2-time:               1.7-2                                                                                         
+    m2-ttyrec:             1.0.8-2                                                                                       
+    m2-tzcode:             2015.e-2                                                                                      
+    m2-util-linux:         2.26.2-2                                                                                      
+    m2-which:              2.21-3                                                                                        
+    m2-zlib:               1.2.8-4                                                                                       
+    msys2-conda-epoch:     20160418-1                                                                                    
+    vs2017_win-64:         19.16.27032.1-hb4161e2_3                                                                      
+    vswhere:               2.8.4-haa95532_0                                                                              
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+Resource usage statistics from bundling using_compiler_jinja_activates:
+   Process count: 5
+   CPU time: Sys=0:00:00.1, User=0:00:00.6
+   Memory: 60.5M
+   Disk usage: 12.1K
+   Time elapsed: 0:00:04.1
+
+
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\activation_package-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpb3t002ln\info\recipe\conda_build_config.yaml
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\activation_package-1.0-0.tar.bz2
+TEST START: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\build_script_activates-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp6vz9yy2k\info\recipe\conda_build_config.yaml
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\build_script_activates-1.0-0.tar.bz2
+TEST START: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\no_activate_explicit-1.0-0.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpx5fuau9d\info\recipe\conda_build_config.yaml
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\no_activate_explicit-1.0-0.tar.bz2
+TEST START: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\using_compiler_jinja_activates-1.0-hf4a77e7_0.tar.bz2
+Nothing to test for: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\using_compiler_jinja_activates-1.0-hf4a77e7_0.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work' to 'D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work_moved_test_output_activation-1.0-0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work, dest=D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673026682941\work_moved_test_output_activation-1.0-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\activation_package-1.0-0.tar.bz2 ^
+    D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\build_script_activates-1.0-0.tar.bz2 ^
+    D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\no_activate_explicit-1.0-0.tar.bz2 ^
+    D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\win-64\using_compiler_jinja_activates-1.0-hf4a77e7_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "activation_package-1.0-0": {
+    "recipe": {}
+  },
+  "build_script_activates-1.0-0": {
+    "recipe": {}
+  },
+  "no_activate_explicit-1.0-0": {
+    "recipe": {}
+  },
+  "using_compiler_jinja_activates-1.0-hf4a77e7_0": {
+    "recipe": {
+      "c_compiler": "vs2017",
+      "target_platform": "win-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:03:48.9
+CPU usage: sys=0:00:00.1, user=0:00:00.6
+Maximum memory usage observed: 60.5M
+Total disk usage observed (not including envs): 47.1K

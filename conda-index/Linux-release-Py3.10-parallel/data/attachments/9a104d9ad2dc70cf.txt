@@ -1,0 +1,45 @@
+2023-01-06T21:17:32 Subdir: linux-64 Gathering repodata
+2023-01-06T21:17:32 linux-64 Writing pre-patch repodata
+2023-01-06T21:17:32 linux-64 Applying patch instructions
+2023-01-06T21:17:32 linux-64 Writing patched repodata
+2023-01-06T21:17:32 linux-64 Building current_repodata subset
+2023-01-06T21:17:32 linux-64 Writing current_repodata subset
+2023-01-06T21:17:32 linux-64 Writing index HTML
+2023-01-06T21:17:32 Subdir: noarch Gathering repodata
+2023-01-06T21:17:32 noarch Writing pre-patch repodata
+2023-01-06T21:17:32 noarch Applying patch instructions
+2023-01-06T21:17:32 noarch Writing patched repodata
+2023-01-06T21:17:32 noarch Building current_repodata subset
+2023-01-06T21:17:32 noarch Writing current_repodata subset
+2023-01-06T21:17:32 noarch Writing index HTML
+2023-01-06T21:17:35 Subdir: linux-64 Gathering repodata
+2023-01-06T21:17:35 linux-64 Writing pre-patch repodata
+2023-01-06T21:17:35 linux-64 Applying patch instructions
+2023-01-06T21:17:35 linux-64 Writing patched repodata
+2023-01-06T21:17:35 linux-64 Building current_repodata subset
+2023-01-06T21:17:35 Subdir: noarch Gathering repodata
+2023-01-06T21:17:35 noarch Writing pre-patch repodata
+2023-01-06T21:17:35 noarch Applying patch instructions
+2023-01-06T21:17:35 noarch Writing patched repodata
+2023-01-06T21:17:35 noarch Building current_repodata subset
+2023-01-06T21:17:35 linux-64 Writing current_repodata subset
+2023-01-06T21:17:35 linux-64 Writing index HTML
+2023-01-06T21:17:35 noarch Writing current_repodata subset
+2023-01-06T21:17:35 noarch Writing index HTML
+No files or script found for output def
+2023-01-06T21:17:38 Subdir: linux-64 Gathering repodata
+2023-01-06T21:17:38 linux-64 Writing pre-patch repodata
+2023-01-06T21:17:38 linux-64 Applying patch instructions
+2023-01-06T21:17:38 linux-64 Writing patched repodata
+2023-01-06T21:17:38 linux-64 Building current_repodata subset
+2023-01-06T21:17:38 linux-64 Writing current_repodata subset
+2023-01-06T21:17:38 linux-64 Writing index HTML
+2023-01-06T21:17:38 Subdir: noarch Gathering repodata
+2023-01-06T21:17:38 noarch Writing pre-patch repodata
+2023-01-06T21:17:38 noarch Applying patch instructions
+2023-01-06T21:17:38 noarch Writing patched repodata
+2023-01-06T21:17:38 noarch Building current_repodata subset
+2023-01-06T21:17:38 noarch Writing current_repodata subset
+2023-01-06T21:17:38 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpe91yl7ai/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp5p1u_d1s/info/recipe) will be used.

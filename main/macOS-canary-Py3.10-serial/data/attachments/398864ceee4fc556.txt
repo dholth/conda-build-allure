@@ -1,0 +1,123 @@
+Attempting to finalize metadata for go-hello
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['go-hello-1.0.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    go-core:     1.11.4-h12d9a10_0 defaults
+    go_osx-64:   1.11.4-h144c09f_0 defaults
+    libcxx:      14.0.6-h9765a3e_0 defaults
+    libgfortran: 3.0.1-h93005f0_2  defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export BUILD_PREFIX=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_build_env
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work
+~/work/conda-build/conda-build/tests/test-recipes/go-package ~/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work
+
+Resource usage statistics from building go-hello:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.1M
+   Disk usage: 32B
+   Time elapsed: 0:00:04.3
+
+
+Packaging go-hello
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    go-core:     1.11.4-h12d9a10_0 defaults
+    go_osx-64:   1.11.4-h144c09f_0 defaults
+    libcxx:      14.0.6-h9765a3e_0 defaults
+    libgfortran: 3.0.1-h93005f0_2  defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 1
+WARNING :: Failed to get_static_lib_exports(/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_build_env/go/src/go/internal/gccgoimporter/testdata/libimportsar.a)
+   INFO: sysroot: '/System/Library/Frameworks/' files: '['vmnet.framework/Versions/A/_CodeSignature/CodeResources', 'vmnet.framework/Versions/A/Resources/version.plist', 'vmnet.framework/Versions/A/Resources/en.lproj/InfoPlist.strings', 'vmnet.framework/Versions/A/Resources/Info.plist']'
+   INFO: sysroot: '/usr/lib/' files: '['zsh/5.8/zsh/zselect.so', 'zsh/5.8/zsh/zpty.so', 'zsh/5.8/zsh/zprof.so', 'zsh/5.8/zsh/zleparameter.so']'
+   INFO: sysroot: '/opt/X11/' files: '[]'
+   INFO (go-hello,bin/go-hello): Needed DSO /System/Library/Frameworks/libSystem.B.dylib found in $SYSROOT
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.03 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_build0/osx-64/go-hello-1.0.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpi30dz2wy/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work' to '/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work_moved_go-hello-1.0.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work, dest=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work_moved_go-hello-1.0.0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    go-hello: 1.0.0-0 file:///Users/runner/work/_temp/serial/test_recipe_build0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/test_tmp
+Hello, World!
+
+Resource usage statistics from testing go-hello:
+   Process count: 4
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 23.9M
+   Disk usage: 24B
+   Time elapsed: 0:00:04.3
+
+
+TEST END: /Users/runner/work/_temp/serial/test_recipe_build0/osx-64/go-hello-1.0.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work' to '/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work_moved_go-hello-1.0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work, dest=/Users/runner/work/_temp/serial/test_recipe_build0/go-hello_1673050619397/work_moved_go-hello-1.0.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_build0/osx-64/go-hello-1.0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "go-hello-1.0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:02:06.3
+CPU usage: sys=0:00:00.2, user=0:00:00.4
+Maximum memory usage observed: 23.9M
+Total disk usage observed (not including envs): 56B

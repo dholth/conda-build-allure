@@ -1,0 +1,74 @@
+2023-01-06T20:30:29 Subdir: linux-64 Gathering repodata
+2023-01-06T20:30:29 linux-64 Writing pre-patch repodata
+2023-01-06T20:30:29 linux-64 Applying patch instructions
+2023-01-06T20:30:29 linux-64 Writing patched repodata
+2023-01-06T20:30:29 Subdir: noarch Gathering repodata
+2023-01-06T20:30:29 linux-64 Building current_repodata subset
+2023-01-06T20:30:29 noarch Writing pre-patch repodata
+2023-01-06T20:30:29 noarch Applying patch instructions
+2023-01-06T20:30:29 noarch Writing patched repodata
+2023-01-06T20:30:29 noarch Building current_repodata subset
+2023-01-06T20:30:29 linux-64 Writing current_repodata subset
+2023-01-06T20:30:29 linux-64 Writing index HTML
+2023-01-06T20:30:29 noarch Writing current_repodata subset
+2023-01-06T20:30:29 noarch Writing index HTML
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+2023-01-06T20:31:31 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:31 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:31 linux-64 Applying patch instructions
+2023-01-06T20:31:31 linux-64 Writing patched repodata
+2023-01-06T20:31:31 linux-64 Building current_repodata subset
+2023-01-06T20:31:31 Subdir: noarch Gathering repodata
+2023-01-06T20:31:31 noarch Writing pre-patch repodata
+2023-01-06T20:31:31 noarch Applying patch instructions
+2023-01-06T20:31:31 noarch Writing patched repodata
+2023-01-06T20:31:31 noarch Building current_repodata subset
+2023-01-06T20:31:32 linux-64 Writing current_repodata subset
+2023-01-06T20:31:32 linux-64 Writing index HTML
+2023-01-06T20:31:32 noarch Writing current_repodata subset
+2023-01-06T20:31:32 noarch Writing index HTML
+2023-01-06T20:31:34 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:34 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:34 linux-64 Applying patch instructions
+2023-01-06T20:31:34 linux-64 Writing patched repodata
+2023-01-06T20:31:34 linux-64 Building current_repodata subset
+2023-01-06T20:31:34 linux-64 Writing current_repodata subset
+2023-01-06T20:31:34 linux-64 Writing index HTML
+2023-01-06T20:31:34 Subdir: noarch Gathering repodata
+2023-01-06T20:31:34 noarch Writing pre-patch repodata
+2023-01-06T20:31:34 noarch Applying patch instructions
+2023-01-06T20:31:34 noarch Writing patched repodata
+2023-01-06T20:31:34 noarch Building current_repodata subset
+2023-01-06T20:31:34 noarch Writing current_repodata subset
+2023-01-06T20:31:34 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmppef58ogd/info/recipe) will be used.
+2023-01-06T20:31:37 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:37 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:37 linux-64 Applying patch instructions
+2023-01-06T20:31:37 linux-64 Writing patched repodata
+2023-01-06T20:31:37 linux-64 Building current_repodata subset
+2023-01-06T20:31:37 Subdir: noarch Gathering repodata
+2023-01-06T20:31:37 noarch Writing pre-patch repodata
+2023-01-06T20:31:37 noarch Applying patch instructions
+2023-01-06T20:31:37 noarch Writing patched repodata
+2023-01-06T20:31:37 noarch Building current_repodata subset
+2023-01-06T20:31:37 linux-64 Writing current_repodata subset
+2023-01-06T20:31:37 linux-64 Writing index HTML
+2023-01-06T20:31:37 noarch Writing current_repodata subset
+2023-01-06T20:31:37 noarch Writing index HTML
++ test -e /home/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673037028149/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/test.txt
++ test -e /home/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673037028149/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/lib/libjpeg.so.9
++ test -e /home/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673037028149/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/lib/libjpeg.so
++ exit 0

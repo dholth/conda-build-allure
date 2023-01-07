@@ -1,0 +1,4 @@
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: /home/runner/work/_temp/parallel/popen-gw0/test_extract_multiple_tarballs0/src_cache
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for subfolder2.tar.bz2.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: subfolder2.tar.bz2
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///home/runner/work/conda-build/conda-build/tests/archives/subfolder2.tar.bz2

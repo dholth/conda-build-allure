@@ -1,0 +1,18 @@
+Unknown format
+Unknown format
+Unknown format
+{} is not a Mach-O file
+Can't parse the binary at the index #0
+{} is not a Mach-O file
+Can't parse the binary at the index #1
+{} is not a Mach-O file
+Can't parse the binary at the index #2
+{} is not a Mach-O file
+Can't parse the binary at the index #0
+{} is not a Mach-O file
+Can't parse the binary at the index #1
+{} is not a Mach-O file
+Can't parse the binary at the index #2
++ python -c 'import lief; binary = lief.parse("/Users/runner/work/_temp/parallel/popen-gw1/test_rpath_unix0/rpath_1673049932026/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/rpath"); print('\'':'\''.join([command.path.rstrip('\''/'\'') for command in binary.commands if command.command == lief.MachO.LOAD_COMMAND_TYPES.RPATH]))'
++ grep /Users/runner/work/_temp/parallel/popen-gw1/test_rpath_unix0/rpath_1673049932026/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../previous:/Users/runner/work/_temp/parallel/popen-gw1/test_rpath_unix0/rpath_1673049932026/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../lib:/Users/runner/work/_temp/parallel/popen-gw1/test_rpath_unix0/rpath_1673049932026/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/plugins:/Users/runner/work/_temp/parallel/popen-gw1/test_rpath_unix0/rpath_1673049932026/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../successive
++ exit 0

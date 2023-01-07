@@ -1,0 +1,63 @@
+2023-01-06T20:48:13 Subdir: noarch Gathering repodata
+2023-01-06T20:48:13 noarch Writing pre-patch repodata
+2023-01-06T20:48:13 Subdir: win-64 Gathering repodata
+2023-01-06T20:48:13 noarch Applying patch instructions
+2023-01-06T20:48:13 noarch Writing patched repodata
+2023-01-06T20:48:13 win-64 Writing pre-patch repodata
+2023-01-06T20:48:13 noarch Building current_repodata subset
+2023-01-06T20:48:13 win-64 Applying patch instructions
+2023-01-06T20:48:13 win-64 Writing patched repodata
+2023-01-06T20:48:13 win-64 Building current_repodata subset
+2023-01-06T20:48:13 noarch Writing current_repodata subset
+2023-01-06T20:48:13 noarch Writing index HTML
+2023-01-06T20:48:13 win-64 Writing current_repodata subset
+2023-01-06T20:48:13 win-64 Writing index HTML
+D:\a\_temp\serial\test_recipe_builds_entry_point0\conda-build-test-entry-points_1673038090861\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+2023-01-06T20:56:59 Subdir: noarch Gathering repodata
+2023-01-06T20:56:59 noarch Writing pre-patch repodata
+2023-01-06T20:56:59 noarch Applying patch instructions
+2023-01-06T20:56:59 noarch Writing patched repodata
+2023-01-06T20:56:59 noarch Building current_repodata subset
+2023-01-06T20:56:59 Subdir: win-64 Gathering repodata
+2023-01-06T20:56:59 win-64 Writing pre-patch repodata
+2023-01-06T20:56:59 win-64 Applying patch instructions
+2023-01-06T20:56:59 win-64 Writing patched repodata
+2023-01-06T20:56:59 win-64 Building current_repodata subset
+2023-01-06T20:57:00 win-64 Writing current_repodata subset
+2023-01-06T20:57:00 noarch Writing current_repodata subset
+2023-01-06T20:57:00 win-64 Writing index HTML
+2023-01-06T20:57:00 noarch Writing index HTML
+2023-01-06T20:57:06 Subdir: noarch Gathering repodata
+2023-01-06T20:57:06 noarch Writing pre-patch repodata
+2023-01-06T20:57:06 noarch Applying patch instructions
+2023-01-06T20:57:06 noarch Writing patched repodata
+2023-01-06T20:57:06 noarch Building current_repodata subset
+2023-01-06T20:57:06 Subdir: win-64 Gathering repodata
+2023-01-06T20:57:06 win-64 Writing pre-patch repodata
+2023-01-06T20:57:06 win-64 Applying patch instructions
+2023-01-06T20:57:06 win-64 Writing patched repodata
+2023-01-06T20:57:06 win-64 Building current_repodata subset
+2023-01-06T20:57:06 noarch Writing current_repodata subset
+2023-01-06T20:57:06 noarch Writing index HTML
+2023-01-06T20:57:06 win-64 Writing current_repodata subset
+2023-01-06T20:57:06 win-64 Writing index HTML

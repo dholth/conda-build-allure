@@ -1,0 +1,7 @@
+Attempting to finalize metadata for my_script_subpackage_unrecognized
+Attempting to finalize metadata for split_packages_unrecognized_script_type
+BUILD START: ['my_script_subpackage_unrecognized-1.0-0.tar.bz2', 'split_packages_unrecognized_script_type-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+source tree in: /Users/runner/work/_temp/parallel/popen-gw1/test_autodetect_raises_on_inva0/split_packages_unrecognized_script_type_1673062658246/work
+Packaging my_script_subpackage_unrecognized

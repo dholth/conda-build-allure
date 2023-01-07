@@ -1,0 +1,30 @@
+Parsing input package https://github.com/twitter/AnomalyDetection.git:
+.. name: anomalydetection location: https://github.com/twitter/AnomalyDetection new_location: /home/runner/work/_temp/parallel/popen-gw0/test_repo_r_cran_https___githu0/r-anomalydetection
+Making/refreshing recipe for anomalydetection
+checkout: 'HEAD'
+Your branch is up to date with 'origin/master'.
+==> /usr/share/miniconda/envs/test/bin/git log -n1 <==
+
+commit 1f5deaa1609f8f1964c1e905c7a8ad2d1d0dc718
+Merge: 855454b e5c596b
+Author: Chris Aniszczyk <caniszczyk@gmail.com>
+Date:   Mon Aug 31 15:11:23 2015 -0500
+
+    Merge pull request #51 from terrytangyuan/bugfix
+    
+    fixed bug and added error handling when there are NAs in timestamp
+
+==> /usr/share/miniconda/envs/test/bin/git describe --tags --dirty <==
+
+v1.0.1-79-g1f5deaa
+
+==> /usr/share/miniconda/envs/test/bin/git status <==
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Using tag v1.0.0
+Reading package metadata from /home/runner/work/_temp/parallel/popen-gw0/test_repo_r_cran_https___githu0/skeleton_1673062542676/work/DESCRIPTION
+Writing recipe for anomalydetection

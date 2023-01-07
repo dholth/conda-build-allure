@@ -1,0 +1,28 @@
+Attempting to finalize metadata for foobar
+BUILD START: ['foobar-1.0-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work
+Packaging foobar
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/osx-64/foobar-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpwada_hmk/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work_moved_foobar-1.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work_moved_foobar-1.0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    foobar: 1.0-0 file:///Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/test_tmp

@@ -1,0 +1,5 @@
+No files or script found for output test_subpkg
+No files or script found for output test_subpkg_no_python
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpdcoshdkq/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpq8k1oxl2/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpu8cfi3d4/info/recipe) will be used.

@@ -1,0 +1,110 @@
+Attempting to finalize metadata for libarchive
+BUILD START: ['libarchive-1-0.tar.bz2']
+Source cache directory is: /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/src_cache
+Downloading source to cache: test.7z
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.7z
+Extracting download
+Downloading source to cache: test.tar
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar
+Extracting download
+Downloading source to cache: test.tar.bz2
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.bz2
+Extracting download
+Downloading source to cache: test.tar.gz
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.gz
+Extracting download
+Downloading source to cache: test.tar.lzma
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.lzma
+Extracting download
+Downloading source to cache: test.tar.xz
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.xz
+Extracting download
+Downloading source to cache: test.tar.z
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tar.z
+Extracting download
+Downloading source to cache: test.tgz
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.tgz
+Extracting download
+Downloading source to cache: test.whl
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.whl
+Extracting download
+Downloading source to cache: test.zip
+Downloading file:///Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/libarchive/test.zip
+Extracting download
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work
+
+Resource usage statistics from building libarchive:
+   Process count: 4
+   CPU time: Sys=0:00:00.2, User=0:00:00.3
+   Memory: 38.9M
+   Disk usage: 120B
+   Time elapsed: 0:00:04.3
+
+
+Packaging libarchive
+number of files: 10
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/osx-64/libarchive-1-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpi0j15k8g/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work_moved_libarchive-1-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work_moved_libarchive-1-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    libarchive: 1-0 file:///Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/test_tmp
+~/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac ~/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/test_tmp
+~/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/test_tmp
+
+Resource usage statistics from testing libarchive:
+   Process count: 4
+   CPU time: Sys=0:00:00.2, User=0:00:00.5
+   Memory: 44.1M
+   Disk usage: 24B
+   Time elapsed: 0:00:04.2
+
+
+TEST END: /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/osx-64/libarchive-1-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work_moved_libarchive-1-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/libarchive_1673048810422/work_moved_libarchive-1-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_libarchive_0/osx-64/libarchive-1-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "libarchive-1-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:19.2
+CPU usage: sys=0:00:00.4, user=0:00:00.8
+Maximum memory usage observed: 44.1M
+Total disk usage observed (not including envs): 144B

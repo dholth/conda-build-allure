@@ -1,0 +1,66 @@
+Attempting to finalize metadata for test_floating_point_version
+BUILD START: ['test_floating_point_version-1.10-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work
+Packaging test_floating_point_version
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/osx-64/test_floating_point_version-1.10-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpqx47psry/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work_moved_test_floating_point_version-1.10-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work_moved_test_floating_point_version-1.10-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    test_floating_point_version: 1.10-0 file:///Users/runner/work/_temp/serial/test_recipe_builds_float_misin0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/test_tmp
+
+Resource usage statistics from testing test_floating_point_version:
+   Process count: 3
+   CPU time: Sys=0:00:00.0, User=0:00:00.0
+   Memory: 9.8M
+   Disk usage: 24B
+   Time elapsed: 0:00:04.3
+
+
+TEST END: /Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/osx-64/test_floating_point_version-1.10-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work_moved_test_floating_point_version-1.10-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/test_floating_point_version_1673051764655/work_moved_test_floating_point_version-1.10-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_float_misin0/osx-64/test_floating_point_version-1.10-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_floating_point_version-1.10-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:13.8
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 9.8M
+Total disk usage observed (not including envs): 24B

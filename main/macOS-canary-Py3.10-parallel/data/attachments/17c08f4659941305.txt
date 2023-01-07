@@ -1,0 +1,227 @@
+Initialized empty Git repository in /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub/.git/
+[master (root-commit) 4b0a711] absolute0
+ 1 file changed, 1 insertion(+)
+ create mode 100644 absolute
+Initialized empty Git repository in /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub/.git/
+[master (root-commit) 1390272] relative0
+ 1 file changed, 1 insertion(+)
+ create mode 100644 relative
+Initialized empty Git repository in /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel/.git/
+[master (root-commit) fc4438d] toplevel0
+ 1 file changed, 1 insertion(+)
+ create mode 100644 toplevel
+[master fee412d] added submodules@0
+ 3 files changed, 8 insertions(+)
+ create mode 100644 .gitmodules
+ create mode 160000 absolute
+ create mode 160000 relative
+checkout: '0'
+Relative submodule relative found: url is /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub, submod_mirror_dir is /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+Submodule path 'absolute': checked out '4b0a711a982cfebff2c718e26542977920838737'
+Submodule path 'relative': checked out '1390272f63c2053e5f644bd0c673796a2376d089'
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git log -n1 <==
+
+commit fee412d8412b0e01ac59e5e3d7d21246c98bbcc6
+Author: conda-build <conda@conda-build.org>
+Date:   Fri Jan 6 23:27:51 2023 +0000
+
+    added submodules@0
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git describe --tags --dirty <==
+
+0
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git status <==
+
+HEAD detached at 0
+nothing to commit, working tree clean
+
+Attempting to finalize metadata for relative_submodules
+BUILD START: ['relative_submodules-0-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work
+
+Resource usage statistics from building relative_submodules:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.0M
+   Disk usage: 816B
+   Time elapsed: 0:00:02.2
+
+
+Packaging relative_submodules
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpc4xty1iq/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work_moved_relative_submodules-0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work_moved_relative_submodules-0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+
+
+The following NEW packages will be INSTALLED:
+
+    relative_submodules: 0-0 file:///Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/test_tmp
+
+Resource usage statistics from testing relative_submodules:
+   Process count: 1
+   CPU time: Sys=0:00:00.1, User=0:00:00.1
+   Memory: 15.8M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.2
+
+
+TEST END: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work_moved_relative_submodules-0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work_moved_relative_submodules-0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "relative_submodules-0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:22.4
+CPU usage: sys=0:00:00.2, user=0:00:00.3
+Maximum memory usage observed: 17.0M
+Total disk usage observed (not including envs): 840B
+[master 69b46cf] absolute1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d28c04e] relative1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 53065bc] toplevel1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Entering 'absolute'
+Updating 4b0a711..69b46cf
+Fast-forward
+ absolute | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Entering 'relative'
+Updating 1390272..d28c04e
+Fast-forward
+ relative | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a2be32f] added submodules@1
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+checkout: '1'
+Relative submodule relative found: url is /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub, submod_mirror_dir is /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+Submodule path 'absolute': checked out '69b46cf73b56671b631efdb48ee6738041511264'
+Submodule path 'relative': checked out 'd28c04e38d308be6395413e2000f6348d745f2b4'
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git log -n1 <==
+
+commit a2be32fe5bdc6580dea3a0e498750945982fec56
+Author: conda-build <conda@conda-build.org>
+Date:   Fri Jan 6 23:28:20 2023 +0000
+
+    added submodules@1
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git describe --tags --dirty <==
+
+1
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git status <==
+
+HEAD detached at 1
+nothing to commit, working tree clean
+
+BUILD START: ['relative_submodules-1-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work
+
+Resource usage statistics from building relative_submodules:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.0M
+   Disk usage: 912B
+   Time elapsed: 0:00:02.2
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.02 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-1-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpxcg399rp/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work_moved_relative_submodules-1-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work_moved_relative_submodules-1-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+
+
+The following NEW packages will be INSTALLED:
+
+    relative_submodules: 1-0 file:///Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/test_tmp
+
+Resource usage statistics from testing relative_submodules:
+   Process count: 1
+   CPU time: Sys=0:00:00.1, User=0:00:00.1
+   Memory: 15.8M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.2
+
+
+TEST END: /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-1-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work_moved_relative_submodules-1-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work_moved_relative_submodules-1-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/osx-64/relative_submodules-1-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "relative_submodules-1-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:13.6
+CPU usage: sys=0:00:00.2, user=0:00:00.3
+Maximum memory usage observed: 17.0M
+Total disk usage observed (not including envs): 936B

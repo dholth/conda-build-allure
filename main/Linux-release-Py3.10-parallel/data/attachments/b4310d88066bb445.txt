@@ -1,0 +1,16 @@
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
++ python -c 'import lief; binary = lief.parse("/home/runner/work/_temp/parallel/popen-gw0/test_rpath_unix0/rpath_1673037944892/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ grep '$ORIGIN/../previous:$ORIGIN/../lib:$ORIGIN/../plugins:$ORIGIN/../successive'
++ python -c 'import lief; binary = lief.parse("/home/runner/work/_temp/parallel/popen-gw0/test_rpath_unix0/rpath_1673037944892/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ exit 0

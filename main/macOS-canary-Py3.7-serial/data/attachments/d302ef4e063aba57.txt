@@ -1,0 +1,5 @@
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpd5xjgfc8/info/recipe) will be used.
++ test -e /Users/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673051966874/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/test.txt
++ test -e /Users/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673051966874/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/lib/libjpeg.9.dylib
++ test -e /Users/runner/work/_temp/serial/test_recipe_builds_always_incl0/conda-build-test-always_include_files-glob_1673051966874/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/lib/libjpeg.dylib
++ exit 0

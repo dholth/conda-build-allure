@@ -1,0 +1,49 @@
+2023-01-06T21:45:55 Subdir: noarch Gathering repodata
+2023-01-06T21:45:55 noarch Writing pre-patch repodata
+2023-01-06T21:45:55 noarch Applying patch instructions
+2023-01-06T21:45:55 noarch Writing patched repodata
+2023-01-06T21:45:55 noarch Building current_repodata subset
+2023-01-06T21:45:56 Subdir: win-64 Gathering repodata
+2023-01-06T21:45:56 win-64 Writing pre-patch repodata
+2023-01-06T21:45:56 win-64 Applying patch instructions
+2023-01-06T21:45:56 win-64 Writing patched repodata
+2023-01-06T21:45:56 win-64 Building current_repodata subset
+2023-01-06T21:45:56 noarch Writing current_repodata subset
+2023-01-06T21:45:56 noarch Writing index HTML
+2023-01-06T21:45:57 win-64 Writing current_repodata subset
+2023-01-06T21:45:57 win-64 Writing index HTML
+No files or script found for output test_test_extra_dep
+2023-01-06T21:46:01 Subdir: noarch Gathering repodata
+2023-01-06T21:46:01 noarch Writing pre-patch repodata
+2023-01-06T21:46:01 noarch Applying patch instructions
+2023-01-06T21:46:01 noarch Writing patched repodata
+2023-01-06T21:46:01 noarch Building current_repodata subset
+2023-01-06T21:46:02 Subdir: win-64 Gathering repodata
+2023-01-06T21:46:02 win-64 Writing pre-patch repodata
+2023-01-06T21:46:02 win-64 Applying patch instructions
+2023-01-06T21:46:02 win-64 Writing patched repodata
+2023-01-06T21:46:02 win-64 Building current_repodata subset
+2023-01-06T21:46:02 win-64 Writing current_repodata subset
+2023-01-06T21:46:02 win-64 Writing index HTML
+2023-01-06T21:46:03 noarch Writing current_repodata subset
+2023-01-06T21:46:03 noarch Writing index HTML
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)
+2023-01-06T21:46:30 Subdir: noarch Gathering repodata
+2023-01-06T21:46:30 noarch Writing pre-patch repodata
+2023-01-06T21:46:30 noarch Applying patch instructions
+2023-01-06T21:46:30 noarch Writing patched repodata
+2023-01-06T21:46:30 noarch Building current_repodata subset
+2023-01-06T21:46:31 Subdir: win-64 Gathering repodata
+2023-01-06T21:46:31 win-64 Writing pre-patch repodata
+2023-01-06T21:46:31 win-64 Applying patch instructions
+2023-01-06T21:46:31 win-64 Writing patched repodata
+2023-01-06T21:46:31 win-64 Building current_repodata subset
+2023-01-06T21:46:31 noarch Writing current_repodata subset
+2023-01-06T21:46:31 noarch Writing index HTML
+2023-01-06T21:46:32 win-64 Writing current_repodata subset
+2023-01-06T21:46:32 win-64 Writing index HTML
+Traceback (most recent call last):
+  File "C:\Users\runneradmin\Miniconda3\conda-bld\test_test_extra_dep_1673041553412\test_tmp\run_test.py", line 2, in <module>
+    import imagesize
+ModuleNotFoundError: No module named 'imagesize'
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

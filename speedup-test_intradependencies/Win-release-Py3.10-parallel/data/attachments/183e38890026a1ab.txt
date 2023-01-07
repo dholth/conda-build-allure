@@ -1,0 +1,10 @@
+No hash (md5, sha1, sha256) provided for cb9f7a236fa5fb1ab0e49199fb07016c598d428f69a3823c1d49f3b38eef86fe.  Source download forced.  Add hash to recipe to use source cache.
+Error: HTTP 404 CONNECTION FAILED for url <file:///D:/a/_temp/parallel/popen-gw1/test_repo__rpm_libX11_devel__0/src_cache/cb9f7a236fa5fb1ab0e49199fb07016c598d428f69a3823c1d49f3b38eef86fe>
+Elapsed: 00:00.000187
+
+An HTTP error occurred when trying to retrieve this URL.
+HTTP errors are often intermittent, and a simple retry will get you on your way.
+No hash (md5, sha1, sha256) provided for 8a106b58d2b45b4757ebba9f431cfcd6197392b5ee7640ab288b062fa754822c-primary.xml.gz.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for libX11-devel-1.6.4-3.el6.x86_64.rpm.  Source download forced.  Add hash to recipe to use source cache.
+No hash (md5, sha1, sha256) provided for libX11-1.6.4-3.el6.src.rpm.  Source download forced.  Add hash to recipe to use source cache.
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

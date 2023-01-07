@@ -1,0 +1,8 @@
+Parsing input package data.table:
+.. name: data.table location: None new_location: D:\a\_temp\parallel\popen-gw0\test_cran_no_comments0\r-data.table
+Making/refreshing recipe for data.table
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/data.table_1.14.6.tar.gz
+Reading package metadata from D:\a\_temp\parallel\popen-gw0\test_cran_no_comments0\src_cache\source-data.table_1.14.6_1d8cdbaca6.tar.gz
+Writing recipe for data.table

@@ -1,0 +1,10 @@
+Exact overlap between sysroot/lib in packages symlink_dirs_in_always_include_files_bar and symlink_dirs_in_always_include_files_foo
+Exact overlap between sysroot/lib64/empty in packages symlink_dirs_in_always_include_files_bar and symlink_dirs_in_always_include_files_foo
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmp37b0zggx/info/recipe) will be used.
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673031345197/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib/empty
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673031345197/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib64/empty
++ exit 0
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmptamnm_kw/info/recipe) will be used.
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673031345197/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib/empty
++ test -f /home/runner/work/_temp/parallel/popen-gw1/test_symlink_dirs_in_always_in0/symlink_dirs_in_always_include_files_1673031345197/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/sysroot/lib64/empty
++ exit 0

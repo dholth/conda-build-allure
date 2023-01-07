@@ -1,0 +1,15 @@
+Parsing input package r-udpipe:
+.. name: udpipe location: None new_location: /Users/runner/work/_temp/parallel/popen-gw2/test_cran_license_r_udpipe_MPL0/r-udpipe
+Making/refreshing recipe for udpipe
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/udpipe_0.8.11.tar.gz
+Reading package metadata from /Users/runner/work/_temp/parallel/popen-gw2/test_cran_license_r_udpipe_MPL0/src_cache/source-udpipe_0.8.11_522900de24.tar.gz
+Writing recipe for udpipe
+Attempting to finalize metadata for r-udpipe
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

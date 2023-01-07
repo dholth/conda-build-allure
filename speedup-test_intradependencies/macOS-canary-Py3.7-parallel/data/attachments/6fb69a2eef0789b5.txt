@@ -1,0 +1,8 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/coconut/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/coconut/json HTTP/1.1" 200 14697
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/73/6a/f6a2702025a664223d14253b8661de5d30dbe712c569924ff81943e39f78/coconut-1.2.2.tar.gz HTTP/1.1" 200 111927
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for coconut
+[33mWARNING [0m conda_build.render:render.py:623 Returning non-final recipe for coconut-1.2.2-py37_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:627 Host: pyparsing

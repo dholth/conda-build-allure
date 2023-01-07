@@ -1,0 +1,8 @@
+Parsing input package blatr:
+.. name: blatr location: None new_location: D:\a\_temp\parallel\popen-gw0\test_cran_os_type_blatr_skip__0\r-blatr
+Making/refreshing recipe for blatr
+Tip: install CacheControl and lockfile (conda packages) to cache the CRAN metadata
+Fetching main index from https://cran.r-project.org
+Downloading source from https://cran.r-project.org/src/contrib/blatr_1.0.1.tar.gz
+Reading package metadata from D:\a\_temp\parallel\popen-gw0\test_cran_os_type_blatr_skip__0\src_cache\source-blatr_1.0.1_70e20e2c3a.tar.gz
+Writing recipe for blatr

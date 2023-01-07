@@ -1,0 +1,1 @@
+WARNING: Detecting which files contain PREFIX is slow, installing ripgrep makes it faster. 'conda install ripgrep'

@@ -1,0 +1,64 @@
+Attempting to finalize metadata for conda-build-test-dirty-skip-section
+BUILD START: ['conda-build-test-dirty-skip-section-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/work
+
+Resource usage statistics from building conda-build-test-dirty-skip-section:
+   Process count: 2
+   CPU time: Sys=-, User=0:00:00.1
+   Memory: 19.2M
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+Packaging conda-build-test-dirty-skip-section
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/linux-64/conda-build-test-dirty-skip-section-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpyymkf55s/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/linux-64/conda-build-test-dirty-skip-section-1.0-0.tar.bz2
+
+Leaving build/test directories:
+  Work:
+ /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/work 
+  Test:
+ /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/test_tmp 
+Leaving build/test environments:
+  Test:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol 
+  Build:
+source activate  /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061429373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla 
+
+
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/linux-64/conda-build-test-dirty-skip-section-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-dirty-skip-section-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:06.9
+CPU usage: sys=0:00:00.0, user=0:00:00.1
+Maximum memory usage observed: 19.2M
+Total disk usage observed (not including envs): 20B
+BUILD START: ['conda-build-test-dirty-skip-section-1.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061438320/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061438320/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_dirty_variable_available_0/conda-build-test-dirty-skip-section_1673061438320/work

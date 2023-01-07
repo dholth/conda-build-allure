@@ -1,0 +1,45 @@
+2023-01-06T22:30:25 Subdir: osx-64 Gathering repodata
+2023-01-06T22:30:25 osx-64 Writing pre-patch repodata
+2023-01-06T22:30:25 Subdir: noarch Gathering repodata
+2023-01-06T22:30:25 osx-64 Applying patch instructions
+2023-01-06T22:30:25 osx-64 Writing patched repodata
+2023-01-06T22:30:25 noarch Writing pre-patch repodata
+2023-01-06T22:30:25 osx-64 Building current_repodata subset
+2023-01-06T22:30:25 noarch Applying patch instructions
+2023-01-06T22:30:25 noarch Writing patched repodata
+2023-01-06T22:30:25 noarch Building current_repodata subset
+2023-01-06T22:30:25 osx-64 Writing current_repodata subset
+2023-01-06T22:30:25 noarch Writing current_repodata subset
+2023-01-06T22:30:25 noarch Writing index HTML
+2023-01-06T22:30:25 osx-64 Writing index HTML
+No files or script found for output test_about_json_content
+2023-01-06T22:30:33 Subdir: noarch Gathering repodata
+2023-01-06T22:30:33 noarch Writing pre-patch repodata
+2023-01-06T22:30:33 noarch Applying patch instructions
+2023-01-06T22:30:33 noarch Writing patched repodata
+2023-01-06T22:30:33 noarch Building current_repodata subset
+2023-01-06T22:30:33 Subdir: osx-64 Gathering repodata
+2023-01-06T22:30:33 osx-64 Writing pre-patch repodata
+2023-01-06T22:30:33 osx-64 Applying patch instructions
+2023-01-06T22:30:33 osx-64 Writing patched repodata
+2023-01-06T22:30:33 osx-64 Building current_repodata subset
+2023-01-06T22:30:33 noarch Writing current_repodata subset
+2023-01-06T22:30:33 noarch Writing index HTML
+2023-01-06T22:30:33 osx-64 Writing current_repodata subset
+2023-01-06T22:30:33 osx-64 Writing index HTML
+2023-01-06T22:30:43 Subdir: noarch Gathering repodata
+2023-01-06T22:30:43 noarch Writing pre-patch repodata
+2023-01-06T22:30:43 noarch Applying patch instructions
+2023-01-06T22:30:43 noarch Writing patched repodata
+2023-01-06T22:30:43 noarch Building current_repodata subset
+2023-01-06T22:30:44 Subdir: osx-64 Gathering repodata
+2023-01-06T22:30:44 osx-64 Writing pre-patch repodata
+2023-01-06T22:30:44 osx-64 Applying patch instructions
+2023-01-06T22:30:44 osx-64 Writing patched repodata
+2023-01-06T22:30:44 osx-64 Building current_repodata subset
+2023-01-06T22:30:44 noarch Writing current_repodata subset
+2023-01-06T22:30:44 noarch Writing index HTML
+2023-01-06T22:30:44 osx-64 Writing current_repodata subset
+2023-01-06T22:30:44 osx-64 Writing index HTML
++ echo A-OK
++ exit 0

@@ -1,0 +1,224 @@
+Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/split_packages_hash_resolution/conda_build_config.yaml
+Attempting to finalize metadata for test-split1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['test-split1-1.0.0-hbbb92e4_0.tar.bz2', 'test-split1-1.0.0-nomklh907175f_0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work
+Packaging test-split1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    zlib:          1.2.13-h5eee18b_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:                        0.1-main          
+    _openmp_mutex:                        5.1-1_gnu         
+    _sysroot_linux-64_curr_repodata_hack: 3-haa98f57_10     
+    binutils_impl_linux-64:               2.38-h2a08ee3_1   
+    binutils_linux-64:                    2.38.0-hc2dff05_0 
+    gcc_impl_linux-64:                    11.2.0-h1234567_1 
+    gcc_linux-64:                         11.2.0-h5c386dc_0 
+    kernel-headers_linux-64:              3.10.0-h57e8cba_10
+    ld_impl_linux-64:                     2.38-h1181459_1   
+    libgcc-devel_linux-64:                11.2.0-h1234567_1 
+    libgcc-ng:                            11.2.0-h1234567_1 
+    libgomp:                              11.2.0-h1234567_1 
+    libstdcxx-ng:                         11.2.0-h1234567_1 
+    make:                                 4.2.1-h1bed415_1  
+    sysroot_linux-64:                     2.17-h57e8cba_10  
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    zlib:          1.2.13-h5eee18b_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex:                        0.1-main          
+    _openmp_mutex:                        5.1-1_gnu         
+    _sysroot_linux-64_curr_repodata_hack: 3-haa98f57_10     
+    binutils_impl_linux-64:               2.38-h2a08ee3_1   
+    binutils_linux-64:                    2.38.0-hc2dff05_0 
+    gcc_impl_linux-64:                    11.2.0-h1234567_1 
+    gcc_linux-64:                         11.2.0-h5c386dc_0 
+    kernel-headers_linux-64:              3.10.0-h57e8cba_10
+    ld_impl_linux-64:                     2.38-h1181459_1   
+    libgcc-devel_linux-64:                11.2.0-h1234567_1 
+    libgcc-ng:                            11.2.0-h1234567_1 
+    libgomp:                              11.2.0-h1234567_1 
+    libstdcxx-ng:                         11.2.0-h1234567_1 
+    make:                                 4.2.1-h1bed415_1  
+    sysroot_linux-64:                     2.17-h57e8cba_10  
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-hbbb92e4_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-split1-1.0.0-hbbb92e4_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-split1-1.0.0-hbbb92e4_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main                                                                                           
+    _openmp_mutex: 5.1-1_gnu                                                                                          
+    libgcc-ng:     11.2.0-h1234567_1                                                                                  
+    libgomp:       11.2.0-h1234567_1                                                                                  
+    test-split1:   1.0.0-hbbb92e4_0  file:///home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0
+    zlib:          1.2.13-h5eee18b_0                                                                                  
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/test_tmp
+hello
+
+Resource usage statistics from testing test-split1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 12.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-hbbb92e4_0.tar.bz2
+TEST START: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-nomklh907175f_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-split1-1.0.0-nomklh907175f_0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-split1-1.0.0-nomklh907175f_0_linux-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main                                                                                               
+    _openmp_mutex: 5.1-1_gnu                                                                                              
+    blas:          1.0-openblas                                                                                           
+    libgcc-ng:     11.2.0-h1234567_1                                                                                      
+    libgomp:       11.2.0-h1234567_1                                                                                      
+    nomkl:         3.0-0                                                                                                  
+    test-split1:   1.0.0-nomklh907175f_0 file:///home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0 [nomkl]
+    zlib:          1.2.13-h5eee18b_0                                                                                      
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/test_tmp
+hello
+
+Resource usage statistics from testing test-split1:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 12.0K
+   Disk usage: 16B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-nomklh907175f_0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/test_1673024391489/work_moved_test-1.0.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-hbbb92e4_0.tar.bz2 \
+    /home/runner/work/_temp/parallel/popen-gw0/test_subpackage_recipes_split_0/linux-64/test-split1-1.0.0-nomklh907175f_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test-split1-1.0.0-hbbb92e4_0": {
+    "recipe": {
+      "blas_impl": "mkl",
+      "c_compiler": "gcc",
+      "target_platform": "linux-64"
+    }
+  },
+  "test-split1-1.0.0-nomklh907175f_0": {
+    "recipe": {
+      "blas_impl": "openblas",
+      "c_compiler": "gcc",
+      "target_platform": "linux-64"
+    }
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:45.2
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 12.0K
+Total disk usage observed (not including envs): 32B

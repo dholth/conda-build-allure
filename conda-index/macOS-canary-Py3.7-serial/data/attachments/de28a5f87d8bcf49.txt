@@ -1,0 +1,49 @@
+2023-01-06T23:40:31 Subdir: noarch Gathering repodata
+2023-01-06T23:40:31 noarch Writing pre-patch repodata
+2023-01-06T23:40:31 noarch Applying patch instructions
+2023-01-06T23:40:31 noarch Writing patched repodata
+2023-01-06T23:40:31 noarch Building current_repodata subset
+2023-01-06T23:40:31 Subdir: osx-64 Gathering repodata
+2023-01-06T23:40:31 osx-64 Writing pre-patch repodata
+2023-01-06T23:40:32 osx-64 Applying patch instructions
+2023-01-06T23:40:32 osx-64 Writing patched repodata
+2023-01-06T23:40:32 osx-64 Building current_repodata subset
+2023-01-06T23:40:32 noarch Writing current_repodata subset
+2023-01-06T23:40:32 noarch Writing index HTML
+2023-01-06T23:40:32 osx-64 Writing current_repodata subset
+2023-01-06T23:40:32 osx-64 Writing index HTML
+2023-01-06T23:41:01 Subdir: noarch Gathering repodata
+2023-01-06T23:41:01 noarch Writing pre-patch repodata
+2023-01-06T23:41:01 noarch Applying patch instructions
+2023-01-06T23:41:01 noarch Writing patched repodata
+2023-01-06T23:41:01 noarch Building current_repodata subset
+2023-01-06T23:41:01 Subdir: osx-64 Gathering repodata
+2023-01-06T23:41:01 osx-64 Writing pre-patch repodata
+2023-01-06T23:41:01 osx-64 Applying patch instructions
+2023-01-06T23:41:01 osx-64 Writing patched repodata
+2023-01-06T23:41:01 osx-64 Building current_repodata subset
+2023-01-06T23:41:02 noarch Writing current_repodata subset
+2023-01-06T23:41:02 noarch Writing index HTML
+2023-01-06T23:41:02 osx-64 Writing current_repodata subset
+2023-01-06T23:41:02 osx-64 Writing index HTML
+2023-01-06T23:41:10 Subdir: noarch Gathering repodata
+2023-01-06T23:41:10 Subdir: osx-64 Gathering repodata
+2023-01-06T23:41:10 noarch Writing pre-patch repodata
+2023-01-06T23:41:10 osx-64 Writing pre-patch repodata
+2023-01-06T23:41:10 noarch Applying patch instructions
+2023-01-06T23:41:10 noarch Writing patched repodata
+2023-01-06T23:41:10 osx-64 Applying patch instructions
+2023-01-06T23:41:10 osx-64 Writing patched repodata
+2023-01-06T23:41:10 noarch Building current_repodata subset
+2023-01-06T23:41:10 osx-64 Building current_repodata subset
+2023-01-06T23:41:10 noarch Writing current_repodata subset
+2023-01-06T23:41:10 noarch Writing index HTML
+2023-01-06T23:41:10 osx-64 Writing current_repodata subset
+2023-01-06T23:41:10 osx-64 Writing index HTML
++ cd /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673048425126/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
++ cat binary-has-prefix
++ cat binary-has-prefix
++ grep /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673048425126/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
++ cat binary-has-prefix-ignored
++ cat binary-has-prefix-ignored
++ grep --invert-match /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673048425126/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold

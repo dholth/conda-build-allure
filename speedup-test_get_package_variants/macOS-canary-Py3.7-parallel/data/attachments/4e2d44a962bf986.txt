@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-source-git-jinja2
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging conda-build-test-source-git-jinja2
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output conda-build-test-source-git-jinja2
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-source-git-jinja2_1673043867622/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-source-git-jinja2_1673043867622/work_moved_conda-build-test-source-git-jinja2-1.20.2-py37_0_g262d444_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-source-git-jinja2_1673043867622/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/conda-build-test-source-git-jinja2_1673043867622/work_moved_conda-build-test-source-git-jinja2-1.20.2-py37_0_g262d444_osx-64_main_build_loop)

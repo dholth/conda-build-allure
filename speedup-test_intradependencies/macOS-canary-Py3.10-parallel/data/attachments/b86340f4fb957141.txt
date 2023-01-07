@@ -1,0 +1,6 @@
++ '[' '!' -f /Users/runner/work/_temp/parallel/popen-gw0/test_build_script_and_script_e0/test_build_script_in_output_1673030154048/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_/top_level.txt ']'
++ echo wee
+No files or script found for output test_build_script_in_output
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp4sut6me0/info/recipe) will be used.
++ test -e /Users/runner/work/_temp/parallel/popen-gw0/test_build_script_and_script_e0/test_build_script_in_output_1673030154048/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/test.txt
++ exit 0

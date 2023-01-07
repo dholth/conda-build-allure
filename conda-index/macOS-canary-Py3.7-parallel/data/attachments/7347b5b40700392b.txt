@@ -1,0 +1,2 @@
+Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_cross_build_unix_windows/conda_build_config.yaml
+Attempting to finalize metadata for test_cross_unix_windows

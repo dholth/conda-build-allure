@@ -1,0 +1,39 @@
+Attempting to finalize metadata for output1
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Attempting to finalize metadata for output2
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/debug_1673024280698/_h_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    jpeg:          9e-h7f8727e_0    
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/debug_1673024280698/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main         
+    _openmp_mutex: 5.1-1_gnu        
+    libgcc-ng:     11.2.0-h1234567_1
+    libgomp:       11.2.0-h1234567_1
+    zlib:          1.2.13-h5eee18b_0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /usr/share/miniconda/envs/test/conda-bld/debug_1673024280698/work

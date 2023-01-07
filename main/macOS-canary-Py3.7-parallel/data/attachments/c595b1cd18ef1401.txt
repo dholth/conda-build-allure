@@ -1,0 +1,8 @@
+No files or script found for output test
+No files or script found for output test2
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpne6vdvry/info/recipe) will be used.
++ test -e file
++ test -e folder/file2
++ test -e source_file
++ test -e source_folder/file3
++ exit 0

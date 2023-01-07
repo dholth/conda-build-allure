@@ -1,0 +1,2 @@
+No files or script found for output test_keep_work_dir_abc
+Not moving work directory after build.  Your package may depend on files in the work directory that are not included with your package

@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\24_test_used_vars_in_scripts\conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_find_used_variables_in_scripts
+[35mDEBUG   [0m urllib3.util.retry:retry.py:594 Incremented Retry for (url='/pkgs/main/linux-64/repodata.json'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /pkgs/main/linux-64/repodata.json
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_output_1

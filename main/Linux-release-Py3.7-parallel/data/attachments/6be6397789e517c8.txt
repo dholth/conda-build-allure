@@ -1,0 +1,127 @@
+Attempting to finalize metadata for test_about_prelink_message_file_single
+BUILD START: ['test_about_prelink_message_file_single-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_about_prelink_message/source to /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work/
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work
+Packaging test_about_prelink_message_file_single
+number of files: 0
+Fixing permissions
+Packaged prelink_message file/s.
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_single-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpmwnpng7o/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_single-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work_moved_test_about_prelink_message_file_single-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_single_1673038118285/work_moved_test_about_prelink_message_file_single-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_single-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_about_prelink_message_file_single-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:02.4
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+Attempting to finalize metadata for test_about_prelink_message_file_list
+BUILD START: ['test_about_prelink_message_file_list-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_about_prelink_message/source to /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work/
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work
+Packaging test_about_prelink_message_file_list
+number of files: 0
+Fixing permissions
+Packaged prelink_message file/s.
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_list-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpo09ykx4_/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_list-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work_moved_test_about_prelink_message_file_list-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_list_1673038120763/work_moved_test_about_prelink_message_file_list-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_list-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_about_prelink_message_file_list-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:01.8
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+Attempting to finalize metadata for test_about_prelink_message_file_dir
+BUILD START: ['test_about_prelink_message_file_dir-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_about_prelink_message/source to /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work/
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work
+Packaging test_about_prelink_message_file_dir
+number of files: 0
+Fixing permissions
+Packaged prelink_message file/s.
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_dir-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpfk225iqy/info/recipe/conda_build_config.yaml
+Nothing to test for: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_dir-1.0-0.tar.bz2
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work_moved_test_about_prelink_message_file_dir-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir_1673038122687/work_moved_test_about_prelink_message_file_dir-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/linux-64/test_about_prelink_message_file_dir-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_about_prelink_message_file_dir-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:01.9
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+Attempting to finalize metadata for test_about_prelink_message_file_dir-no-slash-suffix
+BUILD START: ['test_about_prelink_message_file_dir-no-slash-suffix-1.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_about_prelink_message/source to /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir-no-slash-suffix_1673038124824/work/
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_about_license_file_and_pr0/test_about_prelink_message_file_dir-no-slash-suffix_1673038124824/work
+Packaging test_about_prelink_message_file_dir-no-slash-suffix
+number of files: 0
+Fixing permissions

@@ -1,0 +1,26 @@
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpixiply49\info\recipe\conda_build_config.yaml
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\work' to 'D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\work_moved_test_debug_pkg-1.0-0_noarch'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\work, dest=D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\work_moved_test_debug_pkg-1.0-0_noarch)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:          1.0.8-he774522_0                                                                            
+    jpeg:           9e-h2bbff1b_0                                                                               
+    test_debug_pkg: 1.0-0                  file:///D:/a/_temp/parallel/popen-gw1/test_debug_package_custom_path0
+    vc:             14.2-h21ff451_1                                                                             
+    vs2015_runtime: 14.27.29016-h5e58377_2                                                                      
+    xz:             5.2.8-h8cc25b3_0                                                                            
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+
+(base) D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\test_tmp>set "CONDA_SHLVL="   && 
+
+(base) D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\test_tmp>conda activate "D:\a\_temp\parallel\popen-gw1\test_debug_package_custom_path0\_test_env" 

@@ -1,0 +1,48 @@
+Attempting to finalize metadata for pkg_a
+Packaging pkg_a
+Adding in variants from /tmp/tmp6vgb6mmh/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_a_1673024201950/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_a_1673024201950/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_a_1673024201950/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_a_1673024201950/work_moved_pkg_a-1.0.0-0_linux-64_main_build_loop)
+Attempting to finalize metadata for pkg_b
+Packaging pkg_b
+Adding in variants from /tmp/tmppvecpkac/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work_moved_pkg_b-1.0.0-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work_moved_pkg_b-1.0.0-0_linux-64)
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024205932/work_moved_pkg_b-1.0.0-0_linux-64_main_build_loop)
+Adding in variants from /tmp/tmpahhp2jlf/info/recipe/conda_build_config.yaml
+Renaming work directory '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work' to '/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work_moved_pkg_b-1.0.0-0_linux-64'
+shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work, dest=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work_moved_pkg_b-1.0.0-0_linux-64)
+BUILD START: ['pkg_b-1.0.0-0.tar.bz2']
+source tree in: /home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work
+export PREFIX=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla
+export SRC_DIR=/home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/work
+
+Resource usage statistics from building pkg_b:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 8.0K
+   Disk usage: 20B
+   Time elapsed: 0:00:02.0
+
+
+number of files: 1
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/linux-64/pkg_b-1.0.0-0.tar.bz2
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0/pkg_b_1673024219031/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol
+
+
+The following NEW packages will be INSTALLED:
+
+    pkg_a: 1.0.0-0 file:///home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0
+    pkg_b: 1.0.0-0 file:///home/runner/work/_temp/parallel/popen-gw1/test_warning_on_file_clobberin0
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... failed

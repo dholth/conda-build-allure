@@ -1,0 +1,68 @@
+
+
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-ObjectDump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-ObjectDump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-dyldinfo
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-dyldinfo
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-machocheck
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-machocheck
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/bin/x86_64-apple-darwin13.4.0-unwinddump
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/x86_64-apple-darwin13.4.0-unwinddump
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-dyldinfo.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-ld.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-ld64.1
+
+
+
+
+ClobberWarning: Conda was asked to clobber an existing path.
+  source path: /Users/runner/work/conda-build/conda-build/miniconda/pkgs/cctools_osx-64-949.0.1-hc7db93f_25/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+  target path: /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/share/man/man1/x86_64-apple-darwin13.4.0-unwinddump.1
+
+
+
+++ dirname /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/work
++ export CHECK_PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043
++ CHECK_PREFIX=/Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043
++ x86_64-apple-darwin13.4.0-otool -l /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/hello
++ grep LC_RPATH -A 3
++ grep -v /Users/runner/work/_temp/parallel/popen-gw2/test_clean_rpaths0/clean_rpaths_1673060571043
++ exit 0

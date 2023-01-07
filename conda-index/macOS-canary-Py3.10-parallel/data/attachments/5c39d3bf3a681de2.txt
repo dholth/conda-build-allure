@@ -1,0 +1,14 @@
+2023-01-06T22:35:33 Subdir: noarch Gathering repodata
+2023-01-06T22:35:33 noarch Writing pre-patch repodata
+2023-01-06T22:35:33 noarch Applying patch instructions
+2023-01-06T22:35:33 noarch Writing patched repodata
+2023-01-06T22:35:33 noarch Building current_repodata subset
+2023-01-06T22:35:33 Subdir: osx-64 Gathering repodata
+2023-01-06T22:35:33 osx-64 Writing pre-patch repodata
+2023-01-06T22:35:33 osx-64 Applying patch instructions
+2023-01-06T22:35:33 osx-64 Writing patched repodata
+2023-01-06T22:35:33 osx-64 Building current_repodata subset
+2023-01-06T22:35:34 noarch Writing current_repodata subset
+2023-01-06T22:35:34 noarch Writing index HTML
+2023-01-06T22:35:34 osx-64 Writing current_repodata subset
+2023-01-06T22:35:34 osx-64 Writing index HTML

@@ -1,0 +1,46 @@
+2023-01-06T20:44:07 Subdir: linux-64 Gathering repodata
+2023-01-06T20:44:07 linux-64 Writing pre-patch repodata
+2023-01-06T20:44:07 linux-64 Applying patch instructions
+2023-01-06T20:44:07 linux-64 Writing patched repodata
+2023-01-06T20:44:07 linux-64 Building current_repodata subset
+2023-01-06T20:44:07 Subdir: noarch Gathering repodata
+2023-01-06T20:44:07 noarch Writing pre-patch repodata
+2023-01-06T20:44:07 noarch Applying patch instructions
+2023-01-06T20:44:07 noarch Writing patched repodata
+2023-01-06T20:44:07 noarch Building current_repodata subset
+2023-01-06T20:44:07 linux-64 Writing current_repodata subset
+2023-01-06T20:44:07 linux-64 Writing index HTML
+2023-01-06T20:44:07 noarch Writing current_repodata subset
+2023-01-06T20:44:07 noarch Writing index HTML
+/home/runner/work/_temp/serial/test_recipe_builds_unicode_in_0/idna_1673037846492/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: no previously-included files matching '*.pyc' found under directory 'tools'
+warning: no previously-included files matching '*.pyc' found under directory 'tests'
+2023-01-06T20:45:22 Subdir: linux-64 Gathering repodata
+2023-01-06T20:45:22 linux-64 Writing pre-patch repodata
+2023-01-06T20:45:22 linux-64 Applying patch instructions
+2023-01-06T20:45:22 linux-64 Writing patched repodata
+2023-01-06T20:45:22 linux-64 Building current_repodata subset
+2023-01-06T20:45:22 Subdir: noarch Gathering repodata
+2023-01-06T20:45:22 noarch Writing pre-patch repodata
+2023-01-06T20:45:22 noarch Applying patch instructions
+2023-01-06T20:45:22 noarch Writing patched repodata
+2023-01-06T20:45:22 noarch Building current_repodata subset
+2023-01-06T20:45:22 linux-64 Writing current_repodata subset
+2023-01-06T20:45:22 linux-64 Writing index HTML
+2023-01-06T20:45:22 noarch Writing current_repodata subset
+2023-01-06T20:45:22 noarch Writing index HTML
+2023-01-06T20:45:24 Subdir: linux-64 Gathering repodata
+2023-01-06T20:45:24 Subdir: noarch Gathering repodata
+2023-01-06T20:45:24 linux-64 Writing pre-patch repodata
+2023-01-06T20:45:24 linux-64 Applying patch instructions
+2023-01-06T20:45:24 noarch Writing pre-patch repodata
+2023-01-06T20:45:24 linux-64 Writing patched repodata
+2023-01-06T20:45:24 noarch Applying patch instructions
+2023-01-06T20:45:24 linux-64 Building current_repodata subset
+2023-01-06T20:45:24 noarch Writing patched repodata
+2023-01-06T20:45:24 noarch Building current_repodata subset
+2023-01-06T20:45:24 noarch Writing current_repodata subset
+2023-01-06T20:45:24 noarch Writing index HTML
+2023-01-06T20:45:24 linux-64 Writing current_repodata subset
+2023-01-06T20:45:24 linux-64 Writing index HTML

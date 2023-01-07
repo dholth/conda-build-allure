@@ -1,0 +1,2 @@
+Renaming work directory 'D:\a\_temp\serial\test_no_anaconda_upload_condar0\empty_sections_1673041086105\work' to 'D:\a\_temp\serial\test_no_anaconda_upload_condar0\empty_sections_1673041086105\work_moved_empty_sections-0.0-0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\serial\test_no_anaconda_upload_condar0\empty_sections_1673041086105\work, dest=D:\a\_temp\serial\test_no_anaconda_upload_condar0\empty_sections_1673041086105\work_moved_empty_sections-0.0-0_win-64_main_build_loop)

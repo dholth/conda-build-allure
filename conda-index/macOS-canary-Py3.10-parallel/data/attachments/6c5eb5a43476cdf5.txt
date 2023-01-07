@@ -1,0 +1,43 @@
+BUILD START: ['empty_sections-0.0-0.tar.bz2']
+Copying /Users/runner/work/conda-build/conda_build_test_recipe to /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work/
+source tree in: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/empty_sections-0.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp2ka7gvz_/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/empty_sections-0.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work' to '/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work_moved_empty_sections-0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work, dest=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/empty_sections_1673047329816/work_moved_empty_sections-0.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/empty_sections-0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "empty_sections-0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:17.9
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+
+
+####################################################################################
+Source and build intermediates have been left in /Users/runner/work/conda-build/conda-build/miniconda/conda-bld.
+There are currently 44 accumulated.
+To remove them, you can run the ```conda build purge``` command

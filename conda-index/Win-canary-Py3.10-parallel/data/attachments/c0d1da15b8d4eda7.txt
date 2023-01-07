@@ -1,0 +1,93 @@
+2023-01-06T21:48:48 Subdir: noarch Gathering repodata
+2023-01-06T21:48:48 noarch Writing pre-patch repodata
+2023-01-06T21:48:48 noarch Applying patch instructions
+2023-01-06T21:48:48 noarch Writing patched repodata
+2023-01-06T21:48:48 noarch Building current_repodata subset
+2023-01-06T21:48:48 Subdir: win-64 Gathering repodata
+2023-01-06T21:48:48 win-64 Writing pre-patch repodata
+2023-01-06T21:48:48 win-64 Applying patch instructions
+2023-01-06T21:48:48 win-64 Writing patched repodata
+2023-01-06T21:48:48 win-64 Building current_repodata subset
+2023-01-06T21:48:49 noarch Writing current_repodata subset
+2023-01-06T21:48:49 noarch Writing index HTML
+2023-01-06T21:48:49 win-64 Writing current_repodata subset
+2023-01-06T21:48:49 win-64 Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673041725336\_h_env
+
+2023-01-06T21:49:01 Subdir: noarch Gathering repodata
+2023-01-06T21:49:01 noarch Writing pre-patch repodata
+2023-01-06T21:49:01 noarch Applying patch instructions
+2023-01-06T21:49:01 noarch Writing patched repodata
+2023-01-06T21:49:01 noarch Building current_repodata subset
+2023-01-06T21:49:02 Subdir: win-64 Gathering repodata
+2023-01-06T21:49:02 win-64 Writing pre-patch repodata
+2023-01-06T21:49:02 win-64 Applying patch instructions
+2023-01-06T21:49:02 win-64 Writing patched repodata
+2023-01-06T21:49:02 win-64 Building current_repodata subset
+2023-01-06T21:49:03 win-64 Writing current_repodata subset
+2023-01-06T21:49:03 win-64 Writing index HTML
+2023-01-06T21:49:03 noarch Writing current_repodata subset
+2023-01-06T21:49:03 noarch Writing index HTML
+C:\Users\RUNNER~1\AppData\Local\Temp\conda-9326\conda.tmp - Access is denied.
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmplbuj7r58\build_script_activates-1.0-0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)
+2023-01-06T21:50:53 Subdir: noarch Gathering repodata
+2023-01-06T21:50:53 noarch Writing pre-patch repodata
+2023-01-06T21:50:53 noarch Applying patch instructions
+2023-01-06T21:50:53 noarch Writing patched repodata
+2023-01-06T21:50:53 noarch Building current_repodata subset
+2023-01-06T21:50:54 Subdir: win-64 Gathering repodata
+2023-01-06T21:50:54 win-64 Writing pre-patch repodata
+2023-01-06T21:50:54 win-64 Applying patch instructions
+2023-01-06T21:50:54 win-64 Writing patched repodata
+2023-01-06T21:50:54 win-64 Building current_repodata subset
+2023-01-06T21:50:57 noarch Writing current_repodata subset
+2023-01-06T21:50:57 noarch Writing index HTML
+2023-01-06T21:50:57 win-64 Writing current_repodata subset
+2023-01-06T21:50:57 win-64 Writing index HTML
+2023-01-06T21:52:13 Subdir: noarch Gathering repodata
+2023-01-06T21:52:13 noarch Writing pre-patch repodata
+2023-01-06T21:52:13 noarch Applying patch instructions
+2023-01-06T21:52:13 noarch Writing patched repodata
+2023-01-06T21:52:13 noarch Building current_repodata subset
+2023-01-06T21:52:14 Subdir: win-64 Gathering repodata
+2023-01-06T21:52:14 win-64 Writing pre-patch repodata
+2023-01-06T21:52:14 win-64 Applying patch instructions
+2023-01-06T21:52:14 win-64 Writing patched repodata
+2023-01-06T21:52:14 win-64 Building current_repodata subset
+2023-01-06T21:52:14 noarch Writing current_repodata subset
+2023-01-06T21:52:14 noarch Writing index HTML
+2023-01-06T21:52:15 win-64 Writing current_repodata subset
+2023-01-06T21:52:15 win-64 Writing index HTML
+2023-01-06T21:53:53 Subdir: noarch Gathering repodata
+2023-01-06T21:53:53 noarch Writing pre-patch repodata
+2023-01-06T21:53:53 noarch Applying patch instructions
+2023-01-06T21:53:53 noarch Writing patched repodata
+2023-01-06T21:53:53 noarch Building current_repodata subset
+2023-01-06T21:53:53 Subdir: win-64 Gathering repodata
+2023-01-06T21:53:53 win-64 Writing pre-patch repodata
+2023-01-06T21:53:53 win-64 Applying patch instructions
+2023-01-06T21:53:53 win-64 Writing patched repodata
+2023-01-06T21:53:53 win-64 Building current_repodata subset
+2023-01-06T21:53:54 noarch Writing current_repodata subset
+2023-01-06T21:53:54 noarch Writing index HTML
+2023-01-06T21:53:54 win-64 Writing current_repodata subset
+2023-01-06T21:53:54 win-64 Writing index HTML
+2023-01-06T21:53:58 Subdir: noarch Gathering repodata
+2023-01-06T21:53:58 noarch Writing pre-patch repodata
+2023-01-06T21:53:58 noarch Applying patch instructions
+2023-01-06T21:53:58 noarch Writing patched repodata
+2023-01-06T21:53:58 noarch Building current_repodata subset
+2023-01-06T21:53:59 Subdir: win-64 Gathering repodata
+2023-01-06T21:53:59 win-64 Writing pre-patch repodata
+2023-01-06T21:53:59 win-64 Applying patch instructions
+2023-01-06T21:53:59 win-64 Writing patched repodata
+2023-01-06T21:53:59 win-64 Building current_repodata subset
+2023-01-06T21:54:00 noarch Writing current_repodata subset
+2023-01-06T21:54:00 noarch Writing index HTML
+2023-01-06T21:54:00 win-64 Writing current_repodata subset
+2023-01-06T21:54:00 win-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpes94d845\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpbfo4vrbg\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpgghgcl5d\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp5ee0mgb7\info\recipe) will be used.

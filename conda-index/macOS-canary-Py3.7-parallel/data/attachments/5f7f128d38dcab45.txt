@@ -1,0 +1,30 @@
+2023-01-06T23:23:06 Subdir: noarch Gathering repodata
+2023-01-06T23:23:06 noarch Writing pre-patch repodata
+2023-01-06T23:23:06 noarch Applying patch instructions
+2023-01-06T23:23:06 noarch Writing patched repodata
+2023-01-06T23:23:06 noarch Building current_repodata subset
+2023-01-06T23:23:06 Subdir: osx-64 Gathering repodata
+2023-01-06T23:23:06 osx-64 Writing pre-patch repodata
+2023-01-06T23:23:06 osx-64 Applying patch instructions
+2023-01-06T23:23:06 osx-64 Writing patched repodata
+2023-01-06T23:23:06 osx-64 Building current_repodata subset
+2023-01-06T23:23:06 noarch Writing current_repodata subset
+2023-01-06T23:23:06 noarch Writing index HTML
+2023-01-06T23:23:06 osx-64 Writing current_repodata subset
+2023-01-06T23:23:06 osx-64 Writing index HTML
+2023-01-06T23:23:47 Subdir: noarch Gathering repodata
+2023-01-06T23:23:47 noarch Writing pre-patch repodata
+2023-01-06T23:23:47 noarch Applying patch instructions
+2023-01-06T23:23:47 noarch Writing patched repodata
+2023-01-06T23:23:47 noarch Building current_repodata subset
+2023-01-06T23:23:47 Subdir: osx-64 Gathering repodata
+2023-01-06T23:23:47 osx-64 Writing pre-patch repodata
+2023-01-06T23:23:47 osx-64 Applying patch instructions
+2023-01-06T23:23:47 osx-64 Writing patched repodata
+2023-01-06T23:23:47 osx-64 Building current_repodata subset
+2023-01-06T23:23:47 noarch Writing current_repodata subset
+2023-01-06T23:23:47 noarch Writing index HTML
+2023-01-06T23:23:48 osx-64 Writing current_repodata subset
+2023-01-06T23:23:48 osx-64 Writing index HTML
+Returning non-final recipe for coconut-1.2.2-py37_0; one or more dependencies was unsatisfiable:
+Host: pyparsing

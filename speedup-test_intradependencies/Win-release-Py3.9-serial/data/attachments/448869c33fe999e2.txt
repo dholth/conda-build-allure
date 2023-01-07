@@ -1,0 +1,8 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for foobar
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging foobar
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output foobar
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp9kkg9qnl\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work' to 'D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work_moved_foobar-1.0-0_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work, dest=D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work_moved_foobar-1.0-0_win-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work' to 'D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work_moved_foobar-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work, dest=D:\a\_temp\serial\test_early_abort0\foobar_1673027206386\work_moved_foobar-1.0-0_win-64_main_build_loop)

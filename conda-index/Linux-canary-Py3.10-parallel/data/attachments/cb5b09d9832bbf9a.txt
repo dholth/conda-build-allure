@@ -1,0 +1,50 @@
+2023-01-07T04:00:06 Subdir: linux-64 Gathering repodata
+2023-01-07T04:00:06 linux-64 Writing pre-patch repodata
+2023-01-07T04:00:06 linux-64 Applying patch instructions
+2023-01-07T04:00:06 linux-64 Writing patched repodata
+2023-01-07T04:00:06 linux-64 Building current_repodata subset
+2023-01-07T04:00:06 linux-64 Writing current_repodata subset
+2023-01-07T04:00:06 linux-64 Writing index HTML
+2023-01-07T04:00:06 Subdir: noarch Gathering repodata
+2023-01-07T04:00:06 noarch Writing pre-patch repodata
+2023-01-07T04:00:06 noarch Applying patch instructions
+2023-01-07T04:00:06 noarch Writing patched repodata
+2023-01-07T04:00:06 noarch Building current_repodata subset
+2023-01-07T04:00:06 noarch Writing current_repodata subset
+2023-01-07T04:00:06 noarch Writing index HTML
+Cloning into bare repository '/home/runner/work/_temp/parallel/popen-gw1/test_build_preserves_PATH0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/home/runner/work/_temp/parallel/popen-gw1/test_build_preserves_PATH0/conda-build-test-source-git_1673064005492/work'...
+done.
+Note: switching to '1.20.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 262d444 saving other files...
+No files or script found for output conda-build-test-source-git
+2023-01-07T04:00:22 Subdir: linux-64 Gathering repodata
+2023-01-07T04:00:22 linux-64 Writing pre-patch repodata
+2023-01-07T04:00:22 linux-64 Applying patch instructions
+2023-01-07T04:00:22 linux-64 Writing patched repodata
+2023-01-07T04:00:22 linux-64 Building current_repodata subset
+2023-01-07T04:00:22 Subdir: noarch Gathering repodata
+2023-01-07T04:00:22 noarch Writing pre-patch repodata
+2023-01-07T04:00:22 noarch Applying patch instructions
+2023-01-07T04:00:22 noarch Writing patched repodata
+2023-01-07T04:00:22 noarch Building current_repodata subset
+2023-01-07T04:00:22 linux-64 Writing current_repodata subset
+2023-01-07T04:00:22 linux-64 Writing index HTML
+2023-01-07T04:00:22 noarch Writing current_repodata subset
+2023-01-07T04:00:22 noarch Writing index HTML

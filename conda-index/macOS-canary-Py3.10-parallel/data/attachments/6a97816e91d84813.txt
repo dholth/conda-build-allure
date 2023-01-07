@@ -1,0 +1,38 @@
+Attempting to finalize metadata for unknown_selector_test
+BUILD START: ['unknown_selector_test-1.0.0-0.tar.bz2']
+source tree in: /Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/unknown_selector_test_1673044292805/work
+Packaging unknown_selector_test
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.01 seconds
+TEST START: /Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/osx-64/unknown_selector_test-1.0.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmps_yvfvqh/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/osx-64/unknown_selector_test-1.0.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/unknown_selector_test_1673044292805/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/unknown_selector_test_1673044292805/work_moved_unknown_selector_test-1.0.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/unknown_selector_test_1673044292805/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/unknown_selector_test_1673044292805/work_moved_unknown_selector_test-1.0.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/parallel/popen-gw1/test_unknown_selectors0/osx-64/unknown_selector_test-1.0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "unknown_selector_test-1.0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

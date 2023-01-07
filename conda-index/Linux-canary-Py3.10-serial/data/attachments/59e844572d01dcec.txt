@@ -1,0 +1,51 @@
+2023-01-06T20:28:47 Subdir: linux-64 Gathering repodata
+2023-01-06T20:28:47 linux-64 Writing pre-patch repodata
+2023-01-06T20:28:47 linux-64 Applying patch instructions
+2023-01-06T20:28:47 linux-64 Writing patched repodata
+2023-01-06T20:28:47 linux-64 Building current_repodata subset
+2023-01-06T20:28:47 Subdir: noarch Gathering repodata
+2023-01-06T20:28:47 noarch Writing pre-patch repodata
+2023-01-06T20:28:47 noarch Applying patch instructions
+2023-01-06T20:28:47 noarch Writing patched repodata
+2023-01-06T20:28:47 noarch Building current_repodata subset
+2023-01-06T20:28:47 linux-64 Writing current_repodata subset
+2023-01-06T20:28:47 linux-64 Writing index HTML
+2023-01-06T20:28:47 noarch Writing current_repodata subset
+2023-01-06T20:28:47 noarch Writing index HTML
+2023-01-06T20:29:08 Subdir: linux-64 Gathering repodata
+2023-01-06T20:29:08 linux-64 Writing pre-patch repodata
+2023-01-06T20:29:08 linux-64 Applying patch instructions
+2023-01-06T20:29:08 linux-64 Writing patched repodata
+2023-01-06T20:29:08 linux-64 Building current_repodata subset
+2023-01-06T20:29:08 Subdir: noarch Gathering repodata
+2023-01-06T20:29:08 noarch Writing pre-patch repodata
+2023-01-06T20:29:08 noarch Applying patch instructions
+2023-01-06T20:29:08 noarch Writing patched repodata
+2023-01-06T20:29:08 noarch Building current_repodata subset
+2023-01-06T20:29:08 linux-64 Writing current_repodata subset
+2023-01-06T20:29:08 linux-64 Writing index HTML
+2023-01-06T20:29:08 noarch Writing current_repodata subset
+2023-01-06T20:29:08 noarch Writing index HTML
+2023-01-06T20:29:10 Subdir: linux-64 Gathering repodata
+2023-01-06T20:29:10 linux-64 Writing pre-patch repodata
+2023-01-06T20:29:10 Subdir: noarch Gathering repodata
+2023-01-06T20:29:10 linux-64 Applying patch instructions
+2023-01-06T20:29:10 linux-64 Writing patched repodata
+2023-01-06T20:29:10 noarch Writing pre-patch repodata
+2023-01-06T20:29:10 linux-64 Building current_repodata subset
+2023-01-06T20:29:10 noarch Applying patch instructions
+2023-01-06T20:29:10 noarch Writing patched repodata
+2023-01-06T20:29:10 noarch Building current_repodata subset
+2023-01-06T20:29:10 linux-64 Writing current_repodata subset
+2023-01-06T20:29:10 linux-64 Writing index HTML
+2023-01-06T20:29:10 noarch Writing current_repodata subset
+2023-01-06T20:29:10 noarch Writing index HTML
++ cd /home/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673036926908/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
++ cat binary-has-prefix
++ cat binary-has-prefix
++ grep /home/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673036926908/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+grep: (standard input): binary file matches
++ cat binary-has-prefix-ignored
++ cat binary-has-prefix-ignored
++ grep --invert-match /home/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673036926908/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_
+grep: (standard input): binary file matches

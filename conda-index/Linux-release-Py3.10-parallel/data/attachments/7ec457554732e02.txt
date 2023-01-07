@@ -1,0 +1,61 @@
+Not detecting used variables in output script /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_overlapping_files/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+2023-01-06T21:20:16 Subdir: linux-64 Gathering repodata
+2023-01-06T21:20:16 linux-64 Writing pre-patch repodata
+2023-01-06T21:20:16 linux-64 Applying patch instructions
+2023-01-06T21:20:16 linux-64 Writing patched repodata
+2023-01-06T21:20:16 linux-64 Building current_repodata subset
+2023-01-06T21:20:16 Subdir: noarch Gathering repodata
+2023-01-06T21:20:16 noarch Writing pre-patch repodata
+2023-01-06T21:20:16 noarch Applying patch instructions
+2023-01-06T21:20:16 noarch Writing patched repodata
+2023-01-06T21:20:16 noarch Building current_repodata subset
+2023-01-06T21:20:16 linux-64 Writing current_repodata subset
+2023-01-06T21:20:16 linux-64 Writing index HTML
+2023-01-06T21:20:16 noarch Writing current_repodata subset
+2023-01-06T21:20:16 noarch Writing index HTML
+2023-01-06T21:20:25 Subdir: linux-64 Gathering repodata
+2023-01-06T21:20:25 linux-64 Writing pre-patch repodata
+2023-01-06T21:20:25 linux-64 Applying patch instructions
+2023-01-06T21:20:25 linux-64 Writing patched repodata
+2023-01-06T21:20:25 linux-64 Building current_repodata subset
+2023-01-06T21:20:25 linux-64 Writing current_repodata subset
+2023-01-06T21:20:25 Subdir: noarch Gathering repodata
+2023-01-06T21:20:25 linux-64 Writing index HTML
+2023-01-06T21:20:25 noarch Writing pre-patch repodata
+2023-01-06T21:20:25 noarch Applying patch instructions
+2023-01-06T21:20:25 noarch Writing patched repodata
+2023-01-06T21:20:25 noarch Building current_repodata subset
+2023-01-06T21:20:25 noarch Writing current_repodata subset
+2023-01-06T21:20:25 noarch Writing index HTML
+Exact overlap between subpackage_file_1 in packages my_script_subpackage_2 and my_script_subpackage
+2023-01-06T21:20:30 Subdir: linux-64 Gathering repodata
+2023-01-06T21:20:30 linux-64 Writing pre-patch repodata
+2023-01-06T21:20:30 linux-64 Applying patch instructions
+2023-01-06T21:20:30 linux-64 Writing patched repodata
+2023-01-06T21:20:30 linux-64 Building current_repodata subset
+2023-01-06T21:20:30 Subdir: noarch Gathering repodata
+2023-01-06T21:20:30 noarch Writing pre-patch repodata
+2023-01-06T21:20:30 noarch Applying patch instructions
+2023-01-06T21:20:30 noarch Writing patched repodata
+2023-01-06T21:20:30 noarch Building current_repodata subset
+2023-01-06T21:20:30 linux-64 Writing current_repodata subset
+2023-01-06T21:20:30 linux-64 Writing index HTML
+2023-01-06T21:20:30 noarch Writing current_repodata subset
+2023-01-06T21:20:30 noarch Writing index HTML
+No files or script found for output split_packages_script_overlapping_files
+2023-01-06T21:20:33 Subdir: linux-64 Gathering repodata
+2023-01-06T21:20:33 linux-64 Writing pre-patch repodata
+2023-01-06T21:20:33 linux-64 Applying patch instructions
+2023-01-06T21:20:33 linux-64 Writing patched repodata
+2023-01-06T21:20:33 linux-64 Building current_repodata subset
+2023-01-06T21:20:33 Subdir: noarch Gathering repodata
+2023-01-06T21:20:33 noarch Writing pre-patch repodata
+2023-01-06T21:20:33 noarch Applying patch instructions
+2023-01-06T21:20:33 noarch Writing patched repodata
+2023-01-06T21:20:33 noarch Building current_repodata subset
+2023-01-06T21:20:33 linux-64 Writing current_repodata subset
+2023-01-06T21:20:33 linux-64 Writing index HTML
+2023-01-06T21:20:33 noarch Writing current_repodata subset
+2023-01-06T21:20:33 noarch Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmphoz9yoct/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmptjji6079/info/recipe) will be used.

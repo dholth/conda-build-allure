@@ -1,0 +1,3 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Attempting to finalize metadata for test_pin_compatible_semver

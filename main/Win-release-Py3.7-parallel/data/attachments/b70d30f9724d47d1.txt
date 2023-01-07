@@ -1,0 +1,17 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for activation_package
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for build_script_activates
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for no_activate_explicit
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for using_compiler_jinja_activates
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging activation_package
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging build_script_activates
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging no_activate_explicit
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging using_compiler_jinja_activates
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp4rer5f7l\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp4rer5f7l\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpgs7vw5uu\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpgs7vw5uu\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpy1l0j5a_\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpy1l0j5a_\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpggk0mvsb\info\recipe) will be used.
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673041213589\work' to 'D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673041213589\work_moved_test_output_activation-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673041213589\work, dest=D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673041213589\work_moved_test_output_activation-1.0-0_win-64_main_build_loop)

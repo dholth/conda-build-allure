@@ -1,0 +1,78 @@
+Attempting to finalize metadata for test_output_folder_moves_file
+BUILD START: ['test_output_folder_moves_file-1.0-1.tar.bz2']
+source tree in: D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work
+Packaging test_output_folder_moves_file
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\win-64\test_output_folder_moves_file-1.0-1.tar.bz2
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpm2cm0wzb\info\recipe\conda_build_config.yaml
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work' to 'D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work_moved_test_output_folder_moves_file-1.0-1_win-64'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work, dest=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work_moved_test_output_folder_moves_file-1.0-1_win-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\_test_env
+
+
+The following NEW packages will be INSTALLED:
+
+    test_output_folder_moves_file: 1.0-1 file:///D:/a/_temp/parallel/popen-gw1/test_output_folder_moves_file0
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+set PREFIX=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\_test_env
+set SRC_DIR=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\test_tmp
+
+(base) %SRC_DIR%>call "%SRC_DIR%\conda_test_env_vars.bat" 
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>call "%SRC_DIR%\run_test.bat" 
+
+(base) %SRC_DIR%>echo "A-OK" 
+"A-OK"
+
+(base) %SRC_DIR%>IF 0 NEQ 0 exit /B 1 
+
+(base) %SRC_DIR%>exit 0 
+
+Resource usage statistics from testing test_output_folder_moves_file:
+   Process count: 1
+   CPU time: Sys=-, User=-
+   Memory: 112.0K
+   Disk usage: 453B
+   Time elapsed: 0:00:02.0
+
+
+TEST END: D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\win-64\test_output_folder_moves_file-1.0-1.tar.bz2
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work' to 'D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work_moved_test_output_folder_moves_file-1.0-1_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work, dest=D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\test_output_folder_moves_file_1673038970153\work_moved_test_output_folder_moves_file-1.0-1_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    D:\a\_temp\parallel\popen-gw1\test_output_folder_moves_file0\win-64\test_output_folder_moves_file-1.0-1.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "test_output_folder_moves_file-1.0-1": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:06.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 112.0K
+Total disk usage observed (not including envs): 453B

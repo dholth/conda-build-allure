@@ -1,0 +1,18 @@
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw1/test_render_yaml_output0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw1/test_render_yaml_output0/conda-build-test-source-git-jinja2_1673045654660/work'...
+done.
+HEAD is now at 262d444 saving other files...
+2023-01-06T22:54:20 Subdir: noarch Gathering repodata
+2023-01-06T22:54:20 noarch Writing pre-patch repodata
+2023-01-06T22:54:20 noarch Applying patch instructions
+2023-01-06T22:54:20 noarch Writing patched repodata
+2023-01-06T22:54:20 noarch Building current_repodata subset
+2023-01-06T22:54:20 Subdir: osx-64 Gathering repodata
+2023-01-06T22:54:20 osx-64 Writing pre-patch repodata
+2023-01-06T22:54:20 osx-64 Applying patch instructions
+2023-01-06T22:54:20 osx-64 Writing patched repodata
+2023-01-06T22:54:20 osx-64 Building current_repodata subset
+2023-01-06T22:54:20 noarch Writing current_repodata subset
+2023-01-06T22:54:20 noarch Writing index HTML
+2023-01-06T22:54:20 osx-64 Writing current_repodata subset
+2023-01-06T22:54:20 osx-64 Writing index HTML

@@ -1,0 +1,54 @@
+Attempting to finalize metadata for conda-build-test-source-path
+BUILD START: ['conda-build-test-source-path-1.0-0.tar.bz2']
+Copying /Users/runner/work/conda-build/conda_build_test_recipe to /Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work/
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work
+1.21.11
+7
+g8670395
+867039564659ec2b8b35a7c50705caa9a1af3941
+
+Resource usage statistics from building conda-build-test-source-path:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.0M
+   Disk usage: 880B
+   Time elapsed: 0:00:02.1
+
+
+Packaging conda-build-test-source-path
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_source_path0/osx-64/conda-build-test-source-path-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpa540cupw/info/recipe/conda_build_config.yaml
+Nothing to test for: /Users/runner/work/_temp/serial/test_recipe_builds_source_path0/osx-64/conda-build-test-source-path-1.0-0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work_moved_conda-build-test-source-path-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_source_path0/conda-build-test-source-path_1673045545737/work_moved_conda-build-test-source-path-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_source_path0/osx-64/conda-build-test-source-path-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-source-path-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.8
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 17.0M
+Total disk usage observed (not including envs): 880B

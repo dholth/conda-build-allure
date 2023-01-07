@@ -1,0 +1,125 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['conda-build-test-has-prefix-files-1.0-0.tar.bz2']
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/_build_env
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:           1.0.8-h1de35cc_0      defaults
+    ca-certificates: 2022.10.11-hecd8cb5_0 defaults
+    libffi:          3.4.2-hecd8cb5_6      defaults
+    ncurses:         6.3-hca72f7f_3        defaults
+    openssl:         1.1.1s-hca72f7f_0     defaults
+    python:          3.10.8-h218abb5_1     defaults
+    readline:        8.2-hca72f7f_0        defaults
+    sqlite:          3.40.0-h880c91c_0     defaults
+    tk:              8.6.12-h5d9f67b_0     defaults
+    tzdata:          2022g-h04d1e81_0      defaults
+    xz:              5.2.8-h6c40b1e_0      defaults
+    zlib:            1.2.13-h4dc903c_0     defaults
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+export BUILD_PREFIX=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/_build_env
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work
+
+Resource usage statistics from building conda-build-test-has-prefix-files:
+   Process count: 2
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 17.0M
+   Disk usage: 32B
+   Time elapsed: 0:00:02.2
+
+
+number of files: 3
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.04 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+binary-has-prefix (binary): Patching
+unlisted-text-prefix (text): Ignoring (not in build/text_has_prefix_files)
+has-prefix (text): Patching
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work_moved_conda-build-test-has-prefix-files-1.0-0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work_moved_conda-build-test-has-prefix-files-1.0-0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/osx-64/conda-build-test-has-prefix-files-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "conda-build-test-has-prefix-files-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:24.6
+CPU usage: sys=0:00:00.1, user=0:00:00.2
+Maximum memory usage observed: 17.0M
+Total disk usage observed (not including envs): 32B
+TEST START: /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/osx-64/conda-build-test-has-prefix-files-1.0-0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpqz6tncb3/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work_moved_conda-build-test-has-prefix-files-1.0-0_osx-64'
+shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/work_moved_conda-build-test-has-prefix-files-1.0-0_osx-64)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:                             1.0.8-h1de35cc_0      defaults                                                             
+    ca-certificates:                   2022.10.11-hecd8cb5_0 defaults                                                             
+    conda-build-test-has-prefix-files: 1.0-0                 file:///Users/runner/work/_temp/parallel/popen-gw1/test_package_test0
+    libffi:                            3.4.2-hecd8cb5_6      defaults                                                             
+    ncurses:                           6.3-hca72f7f_3        defaults                                                             
+    openssl:                           1.1.1s-hca72f7f_0     defaults                                                             
+    python:                            3.10.8-h218abb5_1     defaults                                                             
+    readline:                          8.2-hca72f7f_0        defaults                                                             
+    sqlite:                            3.40.0-h880c91c_0     defaults                                                             
+    tk:                                8.6.12-h5d9f67b_0     defaults                                                             
+    tzdata:                            2022g-h04d1e81_0      defaults                                                             
+    xz:                                5.2.8-h6c40b1e_0      defaults                                                             
+    zlib:                              1.2.13-h4dc903c_0     defaults                                                             
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl
+export SRC_DIR=/Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/conda-build-test-has-prefix-files_1673028132396/test_tmp
+===== testing package: conda-build-test-has-prefix-files-1.0-0 =====
+running run_test.py
+has-prefix
+$PREFIX
+
+binary-has-prefix
+b'$PREFIX\x00\x00\x00'
+===== conda-build-test-has-prefix-files-1.0-0 OK =====
+
+Resource usage statistics from testing conda-build-test-has-prefix-files:
+   Process count: 3
+   CPU time: Sys=0:00:00.1, User=0:00:00.2
+   Memory: 16.9M
+   Disk usage: 24B
+   Time elapsed: 0:00:02.3
+
+
+TEST END: /Users/runner/work/_temp/parallel/popen-gw1/test_package_test0/osx-64/conda-build-test-has-prefix-files-1.0-0.tar.bz2

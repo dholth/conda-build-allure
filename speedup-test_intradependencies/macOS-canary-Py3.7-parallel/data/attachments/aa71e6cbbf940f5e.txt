@@ -1,0 +1,3 @@
+Attempting to finalize metadata for custom_subdir
+Attempting to finalize metadata for default_subdir
+Attempting to finalize metadata for default_subdir_2

@@ -1,0 +1,76 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel/relative'...
+done.
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work'...
+done.
+HEAD is now at fee412d added submodules@0
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub'...
+done.
+Cloning into '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp_vco6bv2'...
+done.
+Submodule 'absolute' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/work/relative'...
+done.
+deprecation warning: this function has been renamed to get_output_file_paths, to reflect that potentially multiple paths are returned.  This function will be removed in the conda-build 4.0 release.
++ echo absolute0relative0
++ diff -wuN /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/expected_summaries.txt /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047671273/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/summaries.txt
++ exit 0
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub
+   4b0a711..69b46cf  master     -> origin/master
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+   1390272..d28c04e  master     -> origin/master
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/toplevel
+   fee412d..a2be32f  master     -> master
+ * [new tag]         1          -> 1
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work'...
+done.
+HEAD is now at a2be32f added submodules@1
+From /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub
+   1390272..d28c04e  master     -> master
+Cloning into '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpkroalpup'...
+done.
+Submodule 'absolute' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/absolute_sub) registered for path 'absolute'
+Submodule 'relative' (/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/git_cache/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_sub) registered for path 'relative'
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work/absolute'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/work/relative'...
+done.
++ echo absolute1relative1
++ diff -wuN /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/expected_summaries.txt /Users/runner/work/_temp/parallel/popen-gw2/test_relative_git_url_submodul0/relative_submodules_1673047700220/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/summaries.txt
++ exit 0

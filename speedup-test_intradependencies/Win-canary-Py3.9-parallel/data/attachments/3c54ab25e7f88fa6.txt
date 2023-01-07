@@ -1,0 +1,21 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw1\test_activation_in_output_scri0\test_output_activation_1673027714105\_h_env
+
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmpb0f5bur2\activation_package-1.0-0.tar.bz2.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\etc\conda\activate.d\activate_script.bat.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\etc\conda\activate.d\activate_script.sh.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\recipe\parent\install_activated.sh.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\recipe\parent\install_not_activated.sh.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\recipe\parent\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\recipe\conda_build_config.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\recipe\meta.yaml.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\about.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\files.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\git.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\hash_input.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\index.json.  Please remove this file manually (you may need to reboot to free file handles)
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\RUNNER~1\AppData\Local\Temp\tmp84jc3ejb\info\paths.json.  Please remove this file manually (you may need to reboot to free file handles)
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmplsqm6a87\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpsiv0o2h7\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmptu_uq0pl\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp0bg816t3\info\recipe) will be used.

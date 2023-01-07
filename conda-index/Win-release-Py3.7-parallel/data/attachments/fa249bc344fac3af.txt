@@ -1,0 +1,29 @@
+Cloning into bare repository '/d/a/_temp/parallel/popen-gw1/test_get_output_file_path_jinj0/git_cache/github.com/conda/conda_build_test_recipe'...
+Cloning into '/d/a/_temp/parallel/popen-gw1/test_get_output_file_path_jinj0/conda-build-test-source-git-jinja2_1673039570824/work'...
+done.
+Note: checking out '1.20.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 262d444... saving other files...
+2023-01-06T21:12:55 Subdir: noarch Gathering repodata
+2023-01-06T21:12:55 noarch Writing pre-patch repodata
+2023-01-06T21:12:55 noarch Applying patch instructions
+2023-01-06T21:12:55 noarch Writing patched repodata
+2023-01-06T21:12:55 noarch Building current_repodata subset
+2023-01-06T21:12:55 Subdir: win-64 Gathering repodata
+2023-01-06T21:12:55 win-64 Writing pre-patch repodata
+2023-01-06T21:12:55 win-64 Applying patch instructions
+2023-01-06T21:12:55 win-64 Writing patched repodata
+2023-01-06T21:12:55 win-64 Building current_repodata subset
+2023-01-06T21:12:56 noarch Writing current_repodata subset
+2023-01-06T21:12:56 noarch Writing index HTML
+2023-01-06T21:12:56 win-64 Writing current_repodata subset
+2023-01-06T21:12:56 win-64 Writing index HTML

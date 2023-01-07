@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_arbitrary_f0\test_arbitrary_file_in_info_dir_1673023876202\_h_env
+

@@ -1,0 +1,2 @@
+Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\metadata\_pinning_prerelease_python\conda_build_config.yaml
+Attempting to finalize metadata for python

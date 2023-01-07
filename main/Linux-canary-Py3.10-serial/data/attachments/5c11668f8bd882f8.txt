@@ -1,0 +1,61 @@
+Attempting to finalize metadata for requires_external_channel
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['requires_external_channel-1.0-0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho
+
+
+The following NEW packages will be INSTALLED:
+
+    conda_build_test_requirement: 1.0-h35b8010_0 conda_build_test
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+source tree in: /usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/work
+Packaging requires_external_channel
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /usr/share/miniconda/envs/test/conda-bld/linux-64/requires_external_channel-1.0-0.tar.bz2
+Adding in variants from /tmp/tmpy4mgnbhc/info/recipe/conda_build_config.yaml
+Nothing to test for: /usr/share/miniconda/envs/test/conda-bld/linux-64/requires_external_channel-1.0-0.tar.bz2
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/work' to '/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/work_moved_requires_external_channel-1.0-0_linux-64_main_build_loop'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/work, dest=/usr/share/miniconda/envs/test/conda-bld/requires_external_channel_1673039593737/work_moved_requires_external_channel-1.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /usr/share/miniconda/envs/test/conda-bld/linux-64/requires_external_channel-1.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "requires_external_channel-1.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:11.6
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+
+
+####################################################################################
+Source and build intermediates have been left in /usr/share/miniconda/envs/test/conda-bld.
+There are currently 2 accumulated.
+To remove them, you can run the ```conda build purge``` command

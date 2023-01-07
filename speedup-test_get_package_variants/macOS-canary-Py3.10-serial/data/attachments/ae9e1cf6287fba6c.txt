@@ -1,0 +1,164 @@
+Attempting to finalize metadata for ephpnhpf
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+BUILD START: ['ephpnhpf-0.0.1-py_0.tar.bz2']
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:           1.0.8-h1de35cc_0          defaults
+    ca-certificates: 2022.10.11-hecd8cb5_0     defaults
+    certifi:         2022.12.7-py310hecd8cb5_0 defaults
+    libffi:          3.4.2-hecd8cb5_6          defaults
+    ncurses:         6.3-hca72f7f_3            defaults
+    openssl:         1.1.1s-hca72f7f_0         defaults
+    pip:             22.3.1-py310hecd8cb5_0    defaults
+    python:          3.10.8-h218abb5_1         defaults
+    readline:        8.2-hca72f7f_0            defaults
+    setuptools:      65.5.0-py310hecd8cb5_0    defaults
+    sqlite:          3.40.0-h880c91c_0         defaults
+    tk:              8.6.12-h5d9f67b_0         defaults
+    tzdata:          2022g-h04d1e81_0          defaults
+    wheel:           0.37.1-pyhd3eb1b0_0       defaults
+    xz:              5.2.8-h6c40b1e_0          defaults
+    zlib:            1.2.13-h4dc903c_0         defaults
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Copying /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/entry_points_have_prefix_noarch_has_prefix_files to /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work/
+source tree in: /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p
+export BUILD_PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/_build_env
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work
+Using pip 22.3.1 from $PREFIX/lib/python3.10/site-packages/pip (python 3.10)
+Non-user install because user site-packages disabled
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /private/tmp/pip-build-tracker-tizt4ve9
+Initialized build tracking at /private/tmp/pip-build-tracker-tizt4ve9
+Created build tracker: /private/tmp/pip-build-tracker-tizt4ve9
+Entered build tracker: /private/tmp/pip-build-tracker-tizt4ve9
+Created temporary directory: /private/tmp/pip-install-6i5netvw
+Created temporary directory: /private/tmp/pip-ephem-wheel-cache-jg4ebakf
+Processing $SRC_DIR
+  Added file://$SRC_DIR to build tracker '/private/tmp/pip-build-tracker-tizt4ve9'
+  Running setup.py (path:$SRC_DIR/setup.py) egg_info for package from file://$SRC_DIR
+  Created temporary directory: /private/tmp/pip-pip-egg-info-xqqmb0ai
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+  Source in $SRC_DIR has version 1.0, which satisfies requirement noarch-python-test-package==1.0 from file://$SRC_DIR
+  Removed noarch-python-test-package==1.0 from file://$SRC_DIR from build tracker '/private/tmp/pip-build-tracker-tizt4ve9'
+Created temporary directory: /private/tmp/pip-unpack-7mk1ko6n
+Building wheels for collected packages: noarch-python-test-package
+  Created temporary directory: /private/tmp/pip-wheel-94plj84w
+  Building wheel for noarch-python-test-package (setup.py): started
+  Destination directory: /private/tmp/pip-wheel-94plj84w
+  Building wheel for noarch-python-test-package (setup.py): finished with status 'done'
+  Created wheel for noarch-python-test-package: filename=noarch_python_test_package-1.0-py3-none-any.whl size=1544 sha256=05349d3fcdb6f7cdfeb615a4f46d28f3ca3abe53e0969df9bc2a2de2d514e88a
+  Stored in directory: /private/tmp/pip-ephem-wheel-cache-jg4ebakf/wheels/53/60/e4/a82fdc159817d59958dfc90c45554215d9691371af9246634d
+Successfully built noarch-python-test-package
+Installing collected packages: noarch-python-test-package
+
+  changing mode of $PREFIX/bin/noarch_python_test_package_script to 755
+Successfully installed noarch-python-test-package-1.0
+Removed build tracker: '/private/tmp/pip-build-tracker-tizt4ve9'
+
+Resource usage statistics from building ephpnhpf:
+   Process count: 4
+   CPU time: Sys=0:00:00.3, User=0:00:00.7
+   Memory: 59.5M
+   Disk usage: 96B
+   Time elapsed: 0:00:06.2
+
+
+Packaging ephpnhpf
+number of files: 11
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.03 seconds
+Files containing CONDA_PREFIX
+-----------------------------
+python-scripts/noarch_python_test_package_script (text): Patching
+somewhere/explicitly-listed-text-file-containing-prefix (text): Patching
+somewhere/explicitly-not-listed-text-file-containing-prefix (text): Ignoring (not in build/text_has_prefix_files)
+TEST START: /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/noarch/ephpnhpf-0.0.1-py_0.tar.bz2
+Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp516nslmq/info/recipe/conda_build_config.yaml
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work_moved_ephpnhpf-0.0.1-py_0_noarch'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work_moved_ephpnhpf-0.0.1-py_0_noarch)
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+
+
+The following NEW packages will be INSTALLED:
+
+    bzip2:           1.0.8-h1de35cc_0      defaults                                                              
+    ca-certificates: 2022.10.11-hecd8cb5_0 defaults                                                              
+    ephpnhpf:        0.0.1-py_0            file:///Users/runner/work/_temp/serial/test_recipe_builds_entry_point0
+    libffi:          3.4.2-hecd8cb5_6      defaults                                                              
+    ncurses:         6.3-hca72f7f_3        defaults                                                              
+    openssl:         1.1.1s-hca72f7f_0     defaults                                                              
+    python:          3.10.8-h218abb5_1     defaults                                                              
+    readline:        8.2-hca72f7f_0        defaults                                                              
+    ripgrep:         13.0.0-hc2228c6_0     defaults                                                              
+    sqlite:          3.40.0-h880c91c_0     defaults                                                              
+    tk:              8.6.12-h5d9f67b_0     defaults                                                              
+    tzdata:          2022g-h04d1e81_0      defaults                                                              
+    xz:              5.2.8-h6c40b1e_0      defaults                                                              
+    zlib:            1.2.13-h4dc903c_0     defaults                                                              
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+export PREFIX=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+export SRC_DIR=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/test_tmp
+
+Resource usage statistics from testing ephpnhpf:
+   Process count: 4
+   CPU time: Sys=0:00:00.3, User=0:00:00.5
+   Memory: 39.6M
+   Disk usage: 32B
+   Time elapsed: 0:00:06.3
+
+
+TEST END: /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/noarch/ephpnhpf-0.0.1-py_0.tar.bz2
+Renaming work directory '/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work' to '/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work_moved_ephpnhpf-0.0.1-py_0_osx-64_main_build_loop'
+shutil.move(work)=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work, dest=/Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/ephpnhpf_1673041799233/work_moved_ephpnhpf-0.0.1-py_0_osx-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /Users/runner/work/_temp/serial/test_recipe_builds_entry_point0/noarch/ephpnhpf-0.0.1-py_0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "ephpnhpf-0.0.1-py_0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:01:26.2
+CPU usage: sys=0:00:00.6, user=0:00:01.2
+Maximum memory usage observed: 59.5M
+Total disk usage observed (not including envs): 128B

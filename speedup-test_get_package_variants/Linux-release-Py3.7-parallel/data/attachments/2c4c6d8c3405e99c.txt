@@ -1,0 +1,45 @@
+Attempting to finalize metadata for empty_sections
+BUILD START: ['empty_sections-0.0-0.tar.bz2']
+Copying /home/runner/work/conda-build/conda_build_test_recipe to /usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work/
+source tree in: /usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work
+Packaging empty_sections
+number of files: 0
+Fixing permissions
+INFO :: Time taken to mark (prefix)
+        0 replacements in 0 files was 0.00 seconds
+TEST START: /usr/share/miniconda/envs/test/conda-bld/linux-64/empty_sections-0.0-0.tar.bz2
+Adding in variants from /tmp/tmpxbje7jfv/info/recipe/conda_build_config.yaml
+Nothing to test for: /usr/share/miniconda/envs/test/conda-bld/linux-64/empty_sections-0.0-0.tar.bz2
+Renaming work directory '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work' to '/usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
+shutil.move(work)=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work, dest=/usr/share/miniconda/envs/test/conda-bld/empty_sections_1673032756176/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# conda config --set anaconda_upload yes
+anaconda upload \
+    /usr/share/miniconda/envs/test/conda-bld/linux-64/empty_sections-0.0-0.tar.bz2
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{
+  "empty_sections-0.0-0": {
+    "recipe": {}
+  }
+}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:02.2
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B
+
+
+####################################################################################
+Source and build intermediates have been left in /usr/share/miniconda/envs/test/conda-bld.
+There are currently 49 accumulated.
+To remove them, you can run the ```conda build purge``` command

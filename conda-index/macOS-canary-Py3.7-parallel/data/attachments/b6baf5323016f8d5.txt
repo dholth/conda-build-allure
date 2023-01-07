@@ -1,0 +1,60 @@
+2023-01-06T22:33:23 Subdir: noarch Gathering repodata
+2023-01-06T22:33:23 noarch Writing pre-patch repodata
+2023-01-06T22:33:23 noarch Applying patch instructions
+2023-01-06T22:33:23 noarch Writing patched repodata
+2023-01-06T22:33:23 noarch Building current_repodata subset
+2023-01-06T22:33:23 Subdir: osx-64 Gathering repodata
+2023-01-06T22:33:23 osx-64 Writing pre-patch repodata
+2023-01-06T22:33:23 osx-64 Applying patch instructions
+2023-01-06T22:33:23 osx-64 Writing patched repodata
+2023-01-06T22:33:23 osx-64 Building current_repodata subset
+2023-01-06T22:33:23 noarch Writing current_repodata subset
+2023-01-06T22:33:23 noarch Writing index HTML
+2023-01-06T22:33:23 osx-64 Writing current_repodata subset
+2023-01-06T22:33:23 osx-64 Writing index HTML
+Unknown format
+Unknown format
+Unknown format
+{} is not a Mach-O file
+Can't parse the binary at the index #0
+{} is not a Mach-O file
+Can't parse the binary at the index #1
+{} is not a Mach-O file
+Can't parse the binary at the index #2
+{} is not a Mach-O file
+Can't parse the binary at the index #0
+{} is not a Mach-O file
+Can't parse the binary at the index #1
+{} is not a Mach-O file
+Can't parse the binary at the index #2
+2023-01-06T22:34:40 Subdir: noarch Gathering repodata
+2023-01-06T22:34:40 noarch Writing pre-patch repodata
+2023-01-06T22:34:40 noarch Applying patch instructions
+2023-01-06T22:34:40 noarch Writing patched repodata
+2023-01-06T22:34:40 noarch Building current_repodata subset
+2023-01-06T22:34:40 Subdir: osx-64 Gathering repodata
+2023-01-06T22:34:40 osx-64 Writing pre-patch repodata
+2023-01-06T22:34:40 osx-64 Applying patch instructions
+2023-01-06T22:34:40 osx-64 Writing patched repodata
+2023-01-06T22:34:40 osx-64 Building current_repodata subset
+2023-01-06T22:34:40 noarch Writing current_repodata subset
+2023-01-06T22:34:40 noarch Writing index HTML
+2023-01-06T22:34:40 osx-64 Writing current_repodata subset
+2023-01-06T22:34:40 osx-64 Writing index HTML
+2023-01-06T22:34:59 Subdir: noarch Gathering repodata
+2023-01-06T22:34:59 noarch Writing pre-patch repodata
+2023-01-06T22:34:59 noarch Applying patch instructions
+2023-01-06T22:34:59 noarch Writing patched repodata
+2023-01-06T22:34:59 noarch Building current_repodata subset
+2023-01-06T22:34:59 Subdir: osx-64 Gathering repodata
+2023-01-06T22:34:59 osx-64 Writing pre-patch repodata
+2023-01-06T22:34:59 osx-64 Applying patch instructions
+2023-01-06T22:34:59 osx-64 Writing patched repodata
+2023-01-06T22:34:59 osx-64 Building current_repodata subset
+2023-01-06T22:34:59 noarch Writing current_repodata subset
+2023-01-06T22:34:59 noarch Writing index HTML
+2023-01-06T22:34:59 osx-64 Writing current_repodata subset
+2023-01-06T22:34:59 osx-64 Writing index HTML
++ python -c 'import lief; binary = lief.parse("/Users/runner/work/_temp/parallel/popen-gw2/test_rpath_unix0/rpath_1673044399456/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/bin/rpath"); print('\'':'\''.join([command.path.rstrip('\''/'\'') for command in binary.commands if command.command == lief.MachO.LOAD_COMMAND_TYPES.RPATH]))'
++ grep /Users/runner/work/_temp/parallel/popen-gw2/test_rpath_unix0/rpath_1673044399456/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../previous:/Users/runner/work/_temp/parallel/popen-gw2/test_rpath_unix0/rpath_1673044399456/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../lib:/Users/runner/work/_temp/parallel/popen-gw2/test_rpath_unix0/rpath_1673044399456/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/plugins:/Users/runner/work/_temp/parallel/popen-gw2/test_rpath_unix0/rpath_1673044399456/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/../successive
++ exit 0

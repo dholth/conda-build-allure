@@ -1,0 +1,5 @@
+Not detecting used variables in output script /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_overlapping_files/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+Exact overlap between subpackage_file_1 in packages my_script_subpackage_2 and my_script_subpackage
+No files or script found for output split_packages_script_overlapping_files
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpjqp_oslr/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpmhea6o8u/info/recipe) will be used.

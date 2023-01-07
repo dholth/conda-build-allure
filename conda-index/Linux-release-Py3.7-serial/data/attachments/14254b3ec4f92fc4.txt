@@ -1,0 +1,45 @@
+2023-01-06T20:43:28 Subdir: linux-64 Gathering repodata
+2023-01-06T20:43:28 linux-64 Writing pre-patch repodata
+2023-01-06T20:43:28 linux-64 Applying patch instructions
+2023-01-06T20:43:28 linux-64 Writing patched repodata
+2023-01-06T20:43:28 linux-64 Building current_repodata subset
+2023-01-06T20:43:28 Subdir: noarch Gathering repodata
+2023-01-06T20:43:28 noarch Writing pre-patch repodata
+2023-01-06T20:43:28 noarch Applying patch instructions
+2023-01-06T20:43:28 noarch Writing patched repodata
+2023-01-06T20:43:28 noarch Building current_repodata subset
+2023-01-06T20:43:28 linux-64 Writing current_repodata subset
+2023-01-06T20:43:28 linux-64 Writing index HTML
+2023-01-06T20:43:28 noarch Writing current_repodata subset
+2023-01-06T20:43:28 noarch Writing index HTML
+No files or script found for output conda-build-test-jinja2-in-recipe
+2023-01-06T20:43:45 Subdir: linux-64 Gathering repodata
+2023-01-06T20:43:45 linux-64 Writing pre-patch repodata
+2023-01-06T20:43:45 linux-64 Applying patch instructions
+2023-01-06T20:43:45 linux-64 Writing patched repodata
+2023-01-06T20:43:45 linux-64 Building current_repodata subset
+2023-01-06T20:43:45 Subdir: noarch Gathering repodata
+2023-01-06T20:43:45 noarch Writing pre-patch repodata
+2023-01-06T20:43:45 noarch Applying patch instructions
+2023-01-06T20:43:45 noarch Writing patched repodata
+2023-01-06T20:43:45 noarch Building current_repodata subset
+2023-01-06T20:43:45 linux-64 Writing current_repodata subset
+2023-01-06T20:43:45 noarch Writing current_repodata subset
+2023-01-06T20:43:45 noarch Writing index HTML
+2023-01-06T20:43:45 linux-64 Writing index HTML
+2023-01-06T20:43:47 Subdir: linux-64 Gathering repodata
+2023-01-06T20:43:47 linux-64 Writing pre-patch repodata
+2023-01-06T20:43:47 Subdir: noarch Gathering repodata
+2023-01-06T20:43:47 linux-64 Applying patch instructions
+2023-01-06T20:43:47 linux-64 Writing patched repodata
+2023-01-06T20:43:47 noarch Writing pre-patch repodata
+2023-01-06T20:43:47 linux-64 Building current_repodata subset
+2023-01-06T20:43:47 noarch Applying patch instructions
+2023-01-06T20:43:47 noarch Writing patched repodata
+2023-01-06T20:43:47 noarch Building current_repodata subset
+2023-01-06T20:43:47 noarch Writing current_repodata subset
+2023-01-06T20:43:47 noarch Writing index HTML
+2023-01-06T20:43:47 linux-64 Writing current_repodata subset
+2023-01-06T20:43:47 linux-64 Writing index HTML
++ echo
++ exit 0

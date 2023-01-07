@@ -1,0 +1,3 @@
+Not detecting used variables in output script /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/script_install_files/subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+No files or script found for output split_packages_script_install_files
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpu624t76s/info/recipe) will be used.

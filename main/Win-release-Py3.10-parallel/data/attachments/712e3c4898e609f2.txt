@@ -1,0 +1,1 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\variants\19_used_variables\conda_build_config.yaml

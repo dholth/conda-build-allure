@@ -1,0 +1,3 @@
+Not detecting used variables in output script /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/python_test_dep/test_thingie.py; conda-build only knows how to search .sh and .bat files right now.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpga2gun4t/info/recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpqr407_3g/info/recipe) will be used.

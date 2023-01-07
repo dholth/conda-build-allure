@@ -1,0 +1,33 @@
+Cloning into bare repository '/d/a/_temp/parallel/popen-gw0/test_recipe_builds_building_ji0/git_cache/D_/a/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/d/a/_temp/parallel/popen-gw0/test_recipe_builds_building_ji0/mypkg_1673041629944/work'...
+done.
+2023-01-06T21:47:14 Subdir: noarch Gathering repodata
+2023-01-06T21:47:14 noarch Writing pre-patch repodata
+2023-01-06T21:47:14 noarch Applying patch instructions
+2023-01-06T21:47:14 noarch Writing patched repodata
+2023-01-06T21:47:14 noarch Building current_repodata subset
+2023-01-06T21:47:15 Subdir: win-64 Gathering repodata
+2023-01-06T21:47:15 win-64 Writing pre-patch repodata
+2023-01-06T21:47:15 win-64 Applying patch instructions
+2023-01-06T21:47:15 win-64 Writing patched repodata
+2023-01-06T21:47:15 win-64 Building current_repodata subset
+2023-01-06T21:47:15 noarch Writing current_repodata subset
+2023-01-06T21:47:15 noarch Writing index HTML
+2023-01-06T21:47:16 win-64 Writing current_repodata subset
+2023-01-06T21:47:16 win-64 Writing index HTML
+No files or script found for output mypkg
+2023-01-06T21:47:18 Subdir: noarch Gathering repodata
+2023-01-06T21:47:18 noarch Writing pre-patch repodata
+2023-01-06T21:47:18 noarch Applying patch instructions
+2023-01-06T21:47:18 noarch Writing patched repodata
+2023-01-06T21:47:18 noarch Building current_repodata subset
+2023-01-06T21:47:19 Subdir: win-64 Gathering repodata
+2023-01-06T21:47:19 win-64 Writing pre-patch repodata
+2023-01-06T21:47:19 win-64 Applying patch instructions
+2023-01-06T21:47:19 win-64 Writing patched repodata
+2023-01-06T21:47:19 win-64 Building current_repodata subset
+2023-01-06T21:47:20 noarch Writing current_repodata subset
+2023-01-06T21:47:20 noarch Writing index HTML
+2023-01-06T21:47:20 win-64 Writing current_repodata subset
+2023-01-06T21:47:20 win-64 Writing index HTML

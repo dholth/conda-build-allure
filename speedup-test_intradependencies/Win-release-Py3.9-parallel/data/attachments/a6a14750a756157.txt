@@ -1,0 +1,1 @@
+Not moving work directory after build.  Your package may depend on files in the work directory that are not included with your package

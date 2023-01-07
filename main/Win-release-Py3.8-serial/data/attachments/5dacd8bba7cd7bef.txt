@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for fix_permissions
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging fix_permissions
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp27je5281\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673039398853\work' to 'D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673039398853\work_moved_fix_permissions-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673039398853\work, dest=D:\a\_temp\serial\test_recipe_builds_fix_permiss0\fix_permissions_1673039398853\work_moved_fix_permissions-1.0-0_win-64_main_build_loop)

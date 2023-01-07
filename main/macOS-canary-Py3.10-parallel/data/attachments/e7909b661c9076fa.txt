@@ -1,0 +1,7 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): cran.r-project.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://cran.r-project.org:443 "GET /src/contrib/ HTTP/1.1" 200 None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://cran.r-project.org:443 "GET /src/contrib/Archive/ HTTP/1.1" 200 None
+[33mWARNING [0m conda_build.source:source.py:63 No hash (md5, sha1, sha256) provided for source-badger_0.2.2.tar.gz.  Source download forced.  Add hash to recipe to use source cache.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for r-badger
+[33mWARNING [0m conda_build.render:render.py:622 Returning non-final recipe for r-badger-0.2.2-r35_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:627 Host: libcurl, libcurl, libcurl, libcurl, libcurl, r-base, r-base, r-base, r-base, r-base, r-base, r-base, r-base, ncurses, ncurses, zlib, zlib, r-rlang, r-rlang, r-rlang, r-rlang, libiconv, libiconv, krb5, krb5, libgcc, libgcc, libgcc, libgcc, libpng, libpng, libpng, r-jsonlite, r-jsonlite, llvm-openmp, llvm-openmp, libgfortran, libgfortran, libcxx, libcxx, libcxx, libcxx, libcxx, xz, xz, tk, tk, r-desc, clang_osx-64, clang_osx-64, jpeg, jpeg, libopenblas, libopenblas, libssh2, libssh2, r-glue, r-glue, freetype, freetype, cairo, cairo, r-r6, r-r6, r-r6

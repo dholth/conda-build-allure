@@ -1,0 +1,47 @@
+2023-01-06T23:42:41 Subdir: osx-64 Gathering repodata
+2023-01-06T23:42:41 osx-64 Writing pre-patch repodata
+2023-01-06T23:42:41 osx-64 Applying patch instructions
+2023-01-06T23:42:41 osx-64 Writing patched repodata
+2023-01-06T23:42:41 osx-64 Building current_repodata subset
+2023-01-06T23:42:41 Subdir: noarch Gathering repodata
+2023-01-06T23:42:41 noarch Writing pre-patch repodata
+2023-01-06T23:42:41 noarch Applying patch instructions
+2023-01-06T23:42:41 noarch Writing patched repodata
+2023-01-06T23:42:41 noarch Building current_repodata subset
+2023-01-06T23:42:41 noarch Writing current_repodata subset
+2023-01-06T23:42:41 noarch Writing index HTML
+2023-01-06T23:42:41 osx-64 Writing current_repodata subset
+2023-01-06T23:42:41 osx-64 Writing index HTML
+2023-01-06T23:42:51 Subdir: noarch Gathering repodata
+2023-01-06T23:42:51 noarch Writing pre-patch repodata
+2023-01-06T23:42:51 noarch Applying patch instructions
+2023-01-06T23:42:51 noarch Writing patched repodata
+2023-01-06T23:42:51 noarch Building current_repodata subset
+2023-01-06T23:42:51 Subdir: osx-64 Gathering repodata
+2023-01-06T23:42:51 osx-64 Writing pre-patch repodata
+2023-01-06T23:42:51 osx-64 Applying patch instructions
+2023-01-06T23:42:51 osx-64 Writing patched repodata
+2023-01-06T23:42:51 osx-64 Building current_repodata subset
+2023-01-06T23:42:52 noarch Writing current_repodata subset
+2023-01-06T23:42:52 noarch Writing index HTML
+2023-01-06T23:42:52 osx-64 Writing current_repodata subset
+2023-01-06T23:42:52 osx-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpjgcv9blx/info/recipe) will be used.
+2023-01-06T23:43:07 Subdir: noarch Gathering repodata
+2023-01-06T23:43:07 noarch Writing pre-patch repodata
+2023-01-06T23:43:07 noarch Applying patch instructions
+2023-01-06T23:43:07 noarch Writing patched repodata
+2023-01-06T23:43:07 noarch Building current_repodata subset
+2023-01-06T23:43:07 Subdir: osx-64 Gathering repodata
+2023-01-06T23:43:07 osx-64 Writing pre-patch repodata
+2023-01-06T23:43:07 osx-64 Applying patch instructions
+2023-01-06T23:43:07 osx-64 Writing patched repodata
+2023-01-06T23:43:07 osx-64 Building current_repodata subset
+2023-01-06T23:43:07 noarch Writing current_repodata subset
+2023-01-06T23:43:07 noarch Writing index HTML
+2023-01-06T23:43:07 osx-64 Writing current_repodata subset
+2023-01-06T23:43:07 osx-64 Writing index HTML
++ test '!' -f /Users/runner/work/_temp/parallel/popen-gw2/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673048558018/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/foo
++ test '!' -f /Users/runner/work/_temp/parallel/popen-gw2/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673048558018/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bar
++ test -f /Users/runner/work/_temp/parallel/popen-gw2/test_subpackage_script_and_fil0/split_packages_script_and_file_list_1673048558018/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/baz
++ exit 0

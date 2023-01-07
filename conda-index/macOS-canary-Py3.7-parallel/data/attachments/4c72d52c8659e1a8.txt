@@ -1,0 +1,34 @@
+Cloning into bare repository '/Users/runner/work/_temp/parallel/popen-gw2/test_recipe_builds_building_ji1/git_cache/Users/runner/work/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/Users/runner/work/_temp/parallel/popen-gw2/test_recipe_builds_building_ji1/conda-build-test-source-setup-py-data_1673048391055/work'...
+done.
+HEAD is now at 29bb0bd remove tag spec in versioneer
+2023-01-06T23:40:00 Subdir: noarch Gathering repodata
+2023-01-06T23:40:00 noarch Writing pre-patch repodata
+2023-01-06T23:40:00 noarch Applying patch instructions
+2023-01-06T23:40:00 noarch Writing patched repodata
+2023-01-06T23:40:00 noarch Building current_repodata subset
+2023-01-06T23:40:00 Subdir: osx-64 Gathering repodata
+2023-01-06T23:40:00 osx-64 Writing pre-patch repodata
+2023-01-06T23:40:00 osx-64 Applying patch instructions
+2023-01-06T23:40:00 osx-64 Writing patched repodata
+2023-01-06T23:40:00 osx-64 Building current_repodata subset
+2023-01-06T23:40:00 noarch Writing current_repodata subset
+2023-01-06T23:40:00 noarch Writing index HTML
+2023-01-06T23:40:00 osx-64 Writing current_repodata subset
+2023-01-06T23:40:00 osx-64 Writing index HTML
+No files or script found for output conda-build-test-source-setup-py-data
+2023-01-06T23:40:35 Subdir: noarch Gathering repodata
+2023-01-06T23:40:35 noarch Writing pre-patch repodata
+2023-01-06T23:40:35 noarch Applying patch instructions
+2023-01-06T23:40:35 noarch Writing patched repodata
+2023-01-06T23:40:35 noarch Building current_repodata subset
+2023-01-06T23:40:35 Subdir: osx-64 Gathering repodata
+2023-01-06T23:40:35 osx-64 Writing pre-patch repodata
+2023-01-06T23:40:35 osx-64 Applying patch instructions
+2023-01-06T23:40:35 osx-64 Writing patched repodata
+2023-01-06T23:40:35 osx-64 Building current_repodata subset
+2023-01-06T23:40:35 noarch Writing current_repodata subset
+2023-01-06T23:40:35 noarch Writing index HTML
+2023-01-06T23:40:35 osx-64 Writing current_repodata subset
+2023-01-06T23:40:35 osx-64 Writing index HTML

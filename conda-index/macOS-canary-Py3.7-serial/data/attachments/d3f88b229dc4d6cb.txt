@@ -1,0 +1,33 @@
+Cloning into bare repository '/Users/runner/work/_temp/serial/test_recipe_builds_source_rege1/git_cache/Users/runner/work/conda-build/conda_build_test_recipe'...
+done.
+Cloning into '/Users/runner/work/_temp/serial/test_recipe_builds_source_rege1/conda-build-test-get-regex-data_1673046545797/work'...
+done.
+HEAD is now at 29bb0bd remove tag spec in versioneer
+2023-01-06T23:09:13 Subdir: noarch Gathering repodata
+2023-01-06T23:09:13 Subdir: osx-64 Gathering repodata
+2023-01-06T23:09:13 noarch Writing pre-patch repodata
+2023-01-06T23:09:13 osx-64 Writing pre-patch repodata
+2023-01-06T23:09:13 noarch Applying patch instructions
+2023-01-06T23:09:13 osx-64 Applying patch instructions
+2023-01-06T23:09:13 noarch Writing patched repodata
+2023-01-06T23:09:13 osx-64 Writing patched repodata
+2023-01-06T23:09:13 osx-64 Building current_repodata subset
+2023-01-06T23:09:13 noarch Building current_repodata subset
+2023-01-06T23:09:13 noarch Writing current_repodata subset
+2023-01-06T23:09:13 osx-64 Writing current_repodata subset
+2023-01-06T23:09:13 noarch Writing index HTML
+2023-01-06T23:09:13 osx-64 Writing index HTML
+2023-01-06T23:09:42 Subdir: noarch Gathering repodata
+2023-01-06T23:09:42 noarch Writing pre-patch repodata
+2023-01-06T23:09:42 noarch Applying patch instructions
+2023-01-06T23:09:42 noarch Writing patched repodata
+2023-01-06T23:09:42 noarch Building current_repodata subset
+2023-01-06T23:09:42 Subdir: osx-64 Gathering repodata
+2023-01-06T23:09:42 osx-64 Writing pre-patch repodata
+2023-01-06T23:09:42 osx-64 Applying patch instructions
+2023-01-06T23:09:42 osx-64 Writing patched repodata
+2023-01-06T23:09:43 osx-64 Building current_repodata subset
+2023-01-06T23:09:43 noarch Writing current_repodata subset
+2023-01-06T23:09:43 noarch Writing index HTML
+2023-01-06T23:09:43 osx-64 Writing current_repodata subset
+2023-01-06T23:09:43 osx-64 Writing index HTML

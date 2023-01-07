@@ -1,0 +1,7 @@
+Attempting to finalize metadata for conda-build-test-entry-points
+Packaging conda-build-test-entry-points
+Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpndghjg38\info\recipe\conda_build_config.yaml
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work' to 'D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work_moved_conda-build-test-entry-points-1.0-py310_0_win-64'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work, dest=D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work_moved_conda-build-test-entry-points-1.0-py310_0_win-64)
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work' to 'D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work_moved_conda-build-test-entry-points-1.0-py310_0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work, dest=D:\a\_temp\parallel\popen-gw1\test_conda_pkg_format_2__conda0\conda-build-test-entry-points_1673040225389\work_moved_conda-build-test-entry-points-1.0-py310_0_win-64_main_build_loop)

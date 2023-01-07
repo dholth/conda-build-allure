@@ -1,0 +1,24 @@
+Skipped: symlink_dirs_in_always_include_files from D:\a\conda-build\conda-build\tests\test-recipes\metadata\_symlink_dirs_in_always_include_files defines build/skip for this configuration ({'target_platform': 'win-64'}).
+Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_symlink_dirs_in_always_in0\symlink_dirs_in_always_include_files_1673025493770\work' to 'D:\a\_temp\parallel\popen-gw1\test_symlink_dirs_in_always_in0\symlink_dirs_in_always_include_files_1673025493770\work_moved_symlink_dirs_in_always_include_files-0.0.1-0_win-64_main_build_loop'
+shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_symlink_dirs_in_always_in0\symlink_dirs_in_always_include_files_1673025493770\work, dest=D:\a\_temp\parallel\popen-gw1\test_symlink_dirs_in_always_in0\symlink_dirs_in_always_include_files_1673025493770\work_moved_symlink_dirs_in_always_include_files-0.0.1-0_win-64_main_build_loop)
+# Automatic uploading is disabled
+# If you want to upload package(s) to anaconda.org later, type:
+
+
+# To have conda build upload to anaconda.org automatically, use
+# $ conda config --set anaconda_upload yes
+anaconda upload ^
+    
+anaconda_upload is not set.  Not uploading wheels: []
+
+INFO :: The inputs making up the hashes for the built packages are as follows:
+{}
+
+
+####################################################################################
+Resource usage summary:
+
+Total time: 0:00:00.1
+CPU usage: sys=0:00:00.0, user=0:00:00.0
+Maximum memory usage observed: 0B
+Total disk usage observed (not including envs): 0B

@@ -1,0 +1,2 @@
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_entry_point2\ephpnhpf_1673024854595\work' to 'D:\a\_temp\serial\test_recipe_builds_entry_point2\ephpnhpf_1673024854595\work_moved_ephpnhpf-0.0.1-py_0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_entry_point2\ephpnhpf_1673024854595\work, dest=D:\a\_temp\serial\test_recipe_builds_entry_point2\ephpnhpf_1673024854595\work_moved_ephpnhpf-0.0.1-py_0_win-64_main_build_loop)

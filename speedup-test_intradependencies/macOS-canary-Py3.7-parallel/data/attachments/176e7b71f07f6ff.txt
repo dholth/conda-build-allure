@@ -1,0 +1,25 @@
+checkout: 'HEAD'
+Your branch is up to date with 'origin/main'.
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git log -n1 <==
+
+commit 867039564659ec2b8b35a7c50705caa9a1af3941
+Merge: 900f30d faff79b
+Author: Jannis Leidel <jannis@leidel.info>
+Date:   Thu Nov 18 10:47:32 2021 +0100
+
+    Merge pull request #3 from conda/dependabot/pip/pip-21.1
+    
+    Bump pip from 8.1.2 to 21.1
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git describe --tags --dirty <==
+
+1.21.11-7-g8670395
+
+==> /Users/runner/work/conda-build/conda-build/miniconda/bin/git status <==
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Attempting to finalize metadata for flex

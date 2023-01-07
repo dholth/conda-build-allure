@@ -1,0 +1,31 @@
+2023-01-06T20:59:09 Subdir: noarch Gathering repodata
+2023-01-06T20:59:09 Subdir: win-64 Gathering repodata
+2023-01-06T20:59:09 win-64 Writing pre-patch repodata
+2023-01-06T20:59:09 noarch Writing pre-patch repodata
+2023-01-06T20:59:09 win-64 Applying patch instructions
+2023-01-06T20:59:09 noarch Applying patch instructions
+2023-01-06T20:59:09 win-64 Writing patched repodata
+2023-01-06T20:59:09 noarch Writing patched repodata
+2023-01-06T20:59:09 win-64 Building current_repodata subset
+2023-01-06T20:59:09 noarch Building current_repodata subset
+2023-01-06T20:59:09 noarch Writing current_repodata subset
+2023-01-06T20:59:09 noarch Writing index HTML
+2023-01-06T20:59:09 win-64 Writing current_repodata subset
+2023-01-06T20:59:09 win-64 Writing index HTML
+
+EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673038747557\_h_env
+
+2023-01-06T20:59:16 Subdir: noarch Gathering repodata
+2023-01-06T20:59:17 noarch Writing pre-patch repodata
+2023-01-06T20:59:17 noarch Applying patch instructions
+2023-01-06T20:59:17 noarch Writing patched repodata
+2023-01-06T20:59:17 noarch Building current_repodata subset
+2023-01-06T20:59:17 Subdir: win-64 Gathering repodata
+2023-01-06T20:59:17 win-64 Writing pre-patch repodata
+2023-01-06T20:59:17 win-64 Applying patch instructions
+2023-01-06T20:59:17 win-64 Writing patched repodata
+2023-01-06T20:59:17 win-64 Building current_repodata subset
+2023-01-06T20:59:17 noarch Writing current_repodata subset
+2023-01-06T20:59:17 noarch Writing index HTML
+2023-01-06T20:59:17 win-64 Writing current_repodata subset
+2023-01-06T20:59:17 win-64 Writing index HTML

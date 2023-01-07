@@ -1,0 +1,51 @@
+2023-01-06T22:22:31 Subdir: noarch Gathering repodata
+2023-01-06T22:22:31 noarch Writing pre-patch repodata
+2023-01-06T22:22:31 Subdir: osx-64 Gathering repodata
+2023-01-06T22:22:31 noarch Applying patch instructions
+2023-01-06T22:22:31 noarch Writing patched repodata
+2023-01-06T22:22:31 osx-64 Writing pre-patch repodata
+2023-01-06T22:22:31 noarch Building current_repodata subset
+2023-01-06T22:22:31 osx-64 Applying patch instructions
+2023-01-06T22:22:31 osx-64 Writing patched repodata
+2023-01-06T22:22:31 osx-64 Building current_repodata subset
+2023-01-06T22:22:31 osx-64 Writing current_repodata subset
+2023-01-06T22:22:31 osx-64 Writing index HTML
+2023-01-06T22:22:31 noarch Writing current_repodata subset
+2023-01-06T22:22:31 noarch Writing index HTML
+CMake Deprecation Warning at CMakeLists.txt:3 (CMAKE_MINIMUM_REQUIRED):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+No files or script found for output conda-build-test-cmake-generator
+2023-01-06T22:24:37 Subdir: noarch Gathering repodata
+2023-01-06T22:24:37 noarch Writing pre-patch repodata
+2023-01-06T22:24:37 Subdir: osx-64 Gathering repodata
+2023-01-06T22:24:37 osx-64 Writing pre-patch repodata
+2023-01-06T22:24:37 osx-64 Applying patch instructions
+2023-01-06T22:24:37 osx-64 Writing patched repodata
+2023-01-06T22:24:37 noarch Applying patch instructions
+2023-01-06T22:24:37 noarch Writing patched repodata
+2023-01-06T22:24:37 noarch Building current_repodata subset
+2023-01-06T22:24:38 osx-64 Building current_repodata subset
+2023-01-06T22:24:38 noarch Writing current_repodata subset
+2023-01-06T22:24:38 noarch Writing index HTML
+2023-01-06T22:24:38 osx-64 Writing current_repodata subset
+2023-01-06T22:24:38 osx-64 Writing index HTML
+2023-01-06T22:24:48 Subdir: noarch Gathering repodata
+2023-01-06T22:24:48 noarch Writing pre-patch repodata
+2023-01-06T22:24:48 Subdir: osx-64 Gathering repodata
+2023-01-06T22:24:48 osx-64 Writing pre-patch repodata
+2023-01-06T22:24:48 osx-64 Applying patch instructions
+2023-01-06T22:24:48 osx-64 Writing patched repodata
+2023-01-06T22:24:48 noarch Applying patch instructions
+2023-01-06T22:24:48 noarch Writing patched repodata
+2023-01-06T22:24:48 osx-64 Building current_repodata subset
+2023-01-06T22:24:48 noarch Building current_repodata subset
+2023-01-06T22:24:48 noarch Writing current_repodata subset
+2023-01-06T22:24:48 noarch Writing index HTML
+2023-01-06T22:24:48 osx-64 Writing current_repodata subset
+2023-01-06T22:24:48 osx-64 Writing index HTML

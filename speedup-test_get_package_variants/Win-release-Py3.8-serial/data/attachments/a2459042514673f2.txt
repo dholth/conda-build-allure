@@ -1,0 +1,4 @@
+D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026943511\_h_env\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+warning: no previously-included files matching '*.pyc' found under directory 'tools'
+warning: no previously-included files matching '*.pyc' found under directory 'tests'

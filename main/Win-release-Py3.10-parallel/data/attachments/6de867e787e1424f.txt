@@ -1,0 +1,16 @@
+[33mWARNING [0m conda_build.metadata:metadata.py:2811 Not detecting used variables in output script D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_overlapping_files\subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage_2
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for split_packages_script_overlapping_files
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging my_script_subpackage
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging my_script_subpackage_2
+[33mWARNING [0m conda_build.build:build.py:2366 Exact overlap between subpackage_file_1 in packages my_script_subpackage_2 and my_script_subpackage
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging split_packages_script_overlapping_files
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output split_packages_script_overlapping_files
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpd6yxm47m\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpd6yxm47m\info\recipe\conda_build_config.yaml
+[33mWARNING [0m conda_build.utils:utils.py:1246 Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp4j1fr6r8\info\recipe) will be used.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp4j1fr6r8\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp9c87g5eh\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw0\test_overlapping_files0\split_packages_script_overlapping_files_1673042130242\work' to 'D:\a\_temp\parallel\popen-gw0\test_overlapping_files0\split_packages_script_overlapping_files_1673042130242\work_moved_split_packages_script_overlapping_files-1.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw0\test_overlapping_files0\split_packages_script_overlapping_files_1673042130242\work, dest=D:\a\_temp\parallel\popen-gw0\test_overlapping_files0\split_packages_script_overlapping_files_1673042130242\work_moved_split_packages_script_overlapping_files-1.0-0_win-64_main_build_loop)

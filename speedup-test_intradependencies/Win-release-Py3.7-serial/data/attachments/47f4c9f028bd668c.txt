@@ -1,0 +1,694 @@
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for idna
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: D:\a\_temp\serial\test_recipe_builds_unicode_in_0\src_cache
+[32mINFO    [0m conda_build.source:source.py:71 Downloading source to cache: idna-2.1_ed36f281ae.tar.gz
+[32mINFO    [0m conda_build.source:source.py:85 Downloading https://pypi.io/packages/source/i/idna/idna-2.1.tar.gz
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging idna
+[35mDEBUG   [0m chardet.charsetprober:sjisprober.py:60 SHIFT_JIS Japanese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:eucjpprober.py:61 EUC-JP Japanese prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 GB2312 Chinese prober hit error at byte 979
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-KR Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 CP949 Korean prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 Big5 Chinese prober hit error at byte 967
+[35mDEBUG   [0m chardet.charsetprober:mbcharsetprober.py:65 EUC-TW Taiwan prober hit error at byte 966
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 KOI8-R Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 MacCyrillic Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM866 Russian confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 IBM855 Russian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-7 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1253 Greek confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-5 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1251 Bulgarian confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 TIS-620 Thai confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 ISO-8859-9 Turkish confidence = 0.5423782331656712
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.0
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 windows-1255 Hebrew confidence = 0.01
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:101 utf-8  confidence = 0.7525
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 SHIFT_JIS not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-JP not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 GB2312 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-KR not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 CP949 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 Big5 not active
+[35mDEBUG   [0m chardet.charsetprober:charsetgroupprober.py:98 EUC-TW not active
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpge97e281\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work' to 'D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work_moved_idna-2.1-py310_0_win-64'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work, dest=D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work_moved_idna-2.1-py310_0_win-64)
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work' to 'D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work_moved_idna-2.1-py310_0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work, dest=D:\a\_temp\serial\test_recipe_builds_unicode_in_0\idna_1673026358894\work_moved_idna-2.1-py310_0_win-64_main_build_loop)

@@ -1,0 +1,72 @@
+2023-01-06T20:30:46 Subdir: linux-64 Gathering repodata
+2023-01-06T20:30:46 linux-64 Writing pre-patch repodata
+2023-01-06T20:30:46 linux-64 Applying patch instructions
+2023-01-06T20:30:46 linux-64 Writing patched repodata
+2023-01-06T20:30:46 linux-64 Building current_repodata subset
+2023-01-06T20:30:46 linux-64 Writing current_repodata subset
+2023-01-06T20:30:46 linux-64 Writing index HTML
+2023-01-06T20:30:46 Subdir: noarch Gathering repodata
+2023-01-06T20:30:46 noarch Writing pre-patch repodata
+2023-01-06T20:30:46 noarch Applying patch instructions
+2023-01-06T20:30:46 noarch Writing patched repodata
+2023-01-06T20:30:46 noarch Building current_repodata subset
+2023-01-06T20:30:46 noarch Writing current_repodata subset
+2023-01-06T20:30:46 noarch Writing index HTML
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+Unknown format
+2023-01-06T20:31:43 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:43 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:43 linux-64 Applying patch instructions
+2023-01-06T20:31:43 linux-64 Writing patched repodata
+2023-01-06T20:31:43 linux-64 Building current_repodata subset
+2023-01-06T20:31:43 Subdir: noarch Gathering repodata
+2023-01-06T20:31:43 noarch Writing pre-patch repodata
+2023-01-06T20:31:43 noarch Applying patch instructions
+2023-01-06T20:31:43 noarch Writing patched repodata
+2023-01-06T20:31:43 noarch Building current_repodata subset
+2023-01-06T20:31:43 linux-64 Writing current_repodata subset
+2023-01-06T20:31:43 linux-64 Writing index HTML
+2023-01-06T20:31:43 noarch Writing current_repodata subset
+2023-01-06T20:31:43 noarch Writing index HTML
+2023-01-06T20:31:46 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:46 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:46 linux-64 Applying patch instructions
+2023-01-06T20:31:46 linux-64 Writing patched repodata
+2023-01-06T20:31:46 linux-64 Building current_repodata subset
+2023-01-06T20:31:46 Subdir: noarch Gathering repodata
+2023-01-06T20:31:46 noarch Writing pre-patch repodata
+2023-01-06T20:31:46 noarch Applying patch instructions
+2023-01-06T20:31:46 noarch Writing patched repodata
+2023-01-06T20:31:46 noarch Building current_repodata subset
+2023-01-06T20:31:46 linux-64 Writing current_repodata subset
+2023-01-06T20:31:46 linux-64 Writing index HTML
+2023-01-06T20:31:46 noarch Writing current_repodata subset
+2023-01-06T20:31:46 noarch Writing index HTML
+2023-01-06T20:31:49 Subdir: linux-64 Gathering repodata
+2023-01-06T20:31:49 linux-64 Writing pre-patch repodata
+2023-01-06T20:31:49 linux-64 Applying patch instructions
+2023-01-06T20:31:49 linux-64 Writing patched repodata
+2023-01-06T20:31:49 linux-64 Building current_repodata subset
+2023-01-06T20:31:49 linux-64 Writing current_repodata subset
+2023-01-06T20:31:49 linux-64 Writing index HTML
+2023-01-06T20:31:49 Subdir: noarch Gathering repodata
+2023-01-06T20:31:49 noarch Writing pre-patch repodata
+2023-01-06T20:31:49 noarch Applying patch instructions
+2023-01-06T20:31:49 noarch Writing patched repodata
+2023-01-06T20:31:49 noarch Building current_repodata subset
+2023-01-06T20:31:49 noarch Writing current_repodata subset
+2023-01-06T20:31:49 noarch Writing index HTML
++ python -c 'import lief; binary = lief.parse("/home/runner/work/_temp/parallel/popen-gw0/test_rpath_unix0/rpath_1673037045250/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ grep '$ORIGIN/../previous:$ORIGIN/../lib:$ORIGIN/../plugins:$ORIGIN/../successive'
++ python -c 'import lief; binary = lief.parse("/home/runner/work/_temp/parallel/popen-gw0/test_rpath_unix0/rpath_1673037045250/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/rpath"); print([e.rpath for e in binary.dynamic_entries if e.tag == lief.ELF.DYNAMIC_TAGS.RPATH])'
++ exit 0

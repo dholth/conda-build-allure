@@ -1,0 +1,5 @@
+Attempting to finalize metadata for pkg
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

@@ -1,0 +1,4 @@
+Source cache directory is: /home/runner/work/_temp/parallel/popen-gw0/test_alternative_url_no_fn0/src_cache
+Downloading source to cache: a.tar.bz2
+Downloading file:///home/runner/work/conda-build/conda-build/tests/archives/a.tar.bz2
+Extracting download

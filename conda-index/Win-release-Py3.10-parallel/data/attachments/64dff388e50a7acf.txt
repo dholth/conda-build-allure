@@ -1,0 +1,61 @@
+Not detecting used variables in output script D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_overlapping_files\subpackage1.py; conda-build only knows how to search .sh and .bat files right now.
+2023-01-06T22:07:47 Subdir: noarch Gathering repodata
+2023-01-06T22:07:47 noarch Writing pre-patch repodata
+2023-01-06T22:07:47 noarch Applying patch instructions
+2023-01-06T22:07:47 noarch Writing patched repodata
+2023-01-06T22:07:47 noarch Building current_repodata subset
+2023-01-06T22:07:48 Subdir: win-64 Gathering repodata
+2023-01-06T22:07:48 win-64 Writing pre-patch repodata
+2023-01-06T22:07:48 win-64 Applying patch instructions
+2023-01-06T22:07:48 win-64 Writing patched repodata
+2023-01-06T22:07:48 win-64 Building current_repodata subset
+2023-01-06T22:07:48 noarch Writing current_repodata subset
+2023-01-06T22:07:48 noarch Writing index HTML
+2023-01-06T22:07:49 win-64 Writing current_repodata subset
+2023-01-06T22:07:49 win-64 Writing index HTML
+2023-01-06T22:07:55 Subdir: noarch Gathering repodata
+2023-01-06T22:07:55 noarch Writing pre-patch repodata
+2023-01-06T22:07:55 noarch Applying patch instructions
+2023-01-06T22:07:55 noarch Writing patched repodata
+2023-01-06T22:07:55 noarch Building current_repodata subset
+2023-01-06T22:07:56 Subdir: win-64 Gathering repodata
+2023-01-06T22:07:56 win-64 Writing pre-patch repodata
+2023-01-06T22:07:56 win-64 Applying patch instructions
+2023-01-06T22:07:56 win-64 Writing patched repodata
+2023-01-06T22:07:56 win-64 Building current_repodata subset
+2023-01-06T22:07:56 noarch Writing current_repodata subset
+2023-01-06T22:07:56 noarch Writing index HTML
+2023-01-06T22:07:56 win-64 Writing current_repodata subset
+2023-01-06T22:07:56 win-64 Writing index HTML
+Exact overlap between subpackage_file_1 in packages my_script_subpackage_2 and my_script_subpackage
+2023-01-06T22:08:02 Subdir: noarch Gathering repodata
+2023-01-06T22:08:02 noarch Writing pre-patch repodata
+2023-01-06T22:08:02 noarch Applying patch instructions
+2023-01-06T22:08:02 noarch Writing patched repodata
+2023-01-06T22:08:02 noarch Building current_repodata subset
+2023-01-06T22:08:03 Subdir: win-64 Gathering repodata
+2023-01-06T22:08:03 win-64 Writing pre-patch repodata
+2023-01-06T22:08:03 win-64 Applying patch instructions
+2023-01-06T22:08:03 win-64 Writing patched repodata
+2023-01-06T22:08:03 win-64 Building current_repodata subset
+2023-01-06T22:08:03 noarch Writing current_repodata subset
+2023-01-06T22:08:03 noarch Writing index HTML
+2023-01-06T22:08:03 win-64 Writing current_repodata subset
+2023-01-06T22:08:03 win-64 Writing index HTML
+No files or script found for output split_packages_script_overlapping_files
+2023-01-06T22:08:08 Subdir: noarch Gathering repodata
+2023-01-06T22:08:08 noarch Writing pre-patch repodata
+2023-01-06T22:08:08 noarch Applying patch instructions
+2023-01-06T22:08:08 noarch Writing patched repodata
+2023-01-06T22:08:08 noarch Building current_repodata subset
+2023-01-06T22:08:09 Subdir: win-64 Gathering repodata
+2023-01-06T22:08:09 win-64 Writing pre-patch repodata
+2023-01-06T22:08:09 win-64 Applying patch instructions
+2023-01-06T22:08:09 win-64 Writing patched repodata
+2023-01-06T22:08:09 win-64 Building current_repodata subset
+2023-01-06T22:08:09 noarch Writing current_repodata subset
+2023-01-06T22:08:09 noarch Writing index HTML
+2023-01-06T22:08:09 win-64 Writing current_repodata subset
+2023-01-06T22:08:09 win-64 Writing index HTML
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmpf_j_lohg\info\recipe) will be used.
+Multiple meta files found. The meta.yaml file in the base directory (C:\Users\RUNNER~1\AppData\Local\Temp\tmp3_s_twx7\info\recipe) will be used.

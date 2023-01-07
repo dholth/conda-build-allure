@@ -1,0 +1,50 @@
+2023-01-06T23:54:25 Subdir: noarch Gathering repodata
+2023-01-06T23:54:25 noarch Writing pre-patch repodata
+2023-01-06T23:54:25 noarch Applying patch instructions
+2023-01-06T23:54:25 noarch Writing patched repodata
+2023-01-06T23:54:25 noarch Building current_repodata subset
+2023-01-06T23:54:25 Subdir: osx-64 Gathering repodata
+2023-01-06T23:54:25 osx-64 Writing pre-patch repodata
+2023-01-06T23:54:25 osx-64 Applying patch instructions
+2023-01-06T23:54:25 osx-64 Writing patched repodata
+2023-01-06T23:54:25 osx-64 Building current_repodata subset
+2023-01-06T23:54:25 noarch Writing current_repodata subset
+2023-01-06T23:54:25 noarch Writing index HTML
+2023-01-06T23:54:25 osx-64 Writing current_repodata subset
+2023-01-06T23:54:25 osx-64 Writing index HTML
+/Users/runner/work/_temp/parallel/popen-gw0/test_rm_rf_does_not_remove_rel0/test_rm_rf_does_not_follow_links_1673049262439/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  setuptools.SetuptoolsDeprecationWarning,
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+warning: install_lib: 'build/lib' does not exist -- no Python modules to install
+
+file lsfm.py (for module lsfm) not found
+file lsfm.py (for module lsfm) not found
+2023-01-06T23:54:56 Subdir: noarch Gathering repodata
+2023-01-06T23:54:56 noarch Writing pre-patch repodata
+2023-01-06T23:54:56 noarch Applying patch instructions
+2023-01-06T23:54:56 noarch Writing patched repodata
+2023-01-06T23:54:56 noarch Building current_repodata subset
+2023-01-06T23:54:56 Subdir: osx-64 Gathering repodata
+2023-01-06T23:54:56 osx-64 Writing pre-patch repodata
+2023-01-06T23:54:56 osx-64 Applying patch instructions
+2023-01-06T23:54:56 osx-64 Writing patched repodata
+2023-01-06T23:54:56 osx-64 Building current_repodata subset
+2023-01-06T23:54:56 noarch Writing current_repodata subset
+2023-01-06T23:54:56 noarch Writing index HTML
+2023-01-06T23:54:56 osx-64 Writing current_repodata subset
+2023-01-06T23:54:56 osx-64 Writing index HTML
+2023-01-06T23:55:11 Subdir: noarch Gathering repodata
+2023-01-06T23:55:11 noarch Writing pre-patch repodata
+2023-01-06T23:55:11 noarch Applying patch instructions
+2023-01-06T23:55:11 noarch Writing patched repodata
+2023-01-06T23:55:11 noarch Building current_repodata subset
+2023-01-06T23:55:11 Subdir: osx-64 Gathering repodata
+2023-01-06T23:55:11 osx-64 Writing pre-patch repodata
+2023-01-06T23:55:11 osx-64 Applying patch instructions
+2023-01-06T23:55:11 osx-64 Writing patched repodata
+2023-01-06T23:55:11 osx-64 Building current_repodata subset
+2023-01-06T23:55:11 noarch Writing current_repodata subset
+2023-01-06T23:55:11 noarch Writing index HTML
+2023-01-06T23:55:11 osx-64 Writing current_repodata subset
+2023-01-06T23:55:11 osx-64 Writing index HTML

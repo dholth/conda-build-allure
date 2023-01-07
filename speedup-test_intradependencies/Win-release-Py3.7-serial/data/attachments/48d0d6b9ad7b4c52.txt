@@ -1,0 +1,5 @@
+[32mINFO    [0m conda_build.source:source.py:46 Source cache directory is: D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\src_cache
+[32mINFO    [0m conda_build.source:source.py:85 Downloading file:///D:/a/conda-build/conda-build/tests/test-recipes/metadata/hoist_source_multilevel_shadow/mypkg.zip
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmpaq7le69x\info\recipe\conda_build_config.yaml
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673024889470\work' to 'D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673024889470\work_moved_mypkg-1.0.0-0_win-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673024889470\work, dest=D:\a\_temp\serial\test_recipe_builds_hoist_sourc1\mypkg_1673024889470\work_moved_mypkg-1.0.0-0_win-64_main_build_loop)

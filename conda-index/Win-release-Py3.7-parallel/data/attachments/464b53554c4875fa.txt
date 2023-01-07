@@ -1,0 +1,30 @@
+Copying package to conda-build croot.  No packages otherwise alongside yours will be available unless you specify -c local.  To avoid this warning, your package must reside in a channel structure with platform-subfolders.  See more info on what a valid channel is at https://conda.io/docs/user-guide/tasks/create-custom-channels.html
+2023-01-06T21:10:33 Subdir: noarch Gathering repodata
+2023-01-06T21:10:33 noarch Writing pre-patch repodata
+2023-01-06T21:10:33 noarch Applying patch instructions
+2023-01-06T21:10:33 noarch Writing patched repodata
+2023-01-06T21:10:33 noarch Building current_repodata subset
+2023-01-06T21:10:34 Subdir: win-64 Gathering repodata
+2023-01-06T21:10:34 win-64 Writing pre-patch repodata
+2023-01-06T21:10:34 win-64 Applying patch instructions
+2023-01-06T21:10:34 win-64 Writing patched repodata
+2023-01-06T21:10:34 win-64 Building current_repodata subset
+2023-01-06T21:10:34 noarch Writing current_repodata subset
+2023-01-06T21:10:34 noarch Writing index HTML
+2023-01-06T21:10:34 win-64 Writing current_repodata subset
+2023-01-06T21:10:34 win-64 Writing index HTML
+2023-01-06T21:10:39 Subdir: noarch Gathering repodata
+2023-01-06T21:10:39 Subdir: win-64 Gathering repodata
+2023-01-06T21:10:39 noarch Writing pre-patch repodata
+2023-01-06T21:10:39 win-64 Writing pre-patch repodata
+2023-01-06T21:10:39 noarch Applying patch instructions
+2023-01-06T21:10:39 noarch Writing patched repodata
+2023-01-06T21:10:39 win-64 Applying patch instructions
+2023-01-06T21:10:39 win-64 Writing patched repodata
+2023-01-06T21:10:39 noarch Building current_repodata subset
+2023-01-06T21:10:39 win-64 Building current_repodata subset
+2023-01-06T21:10:39 noarch Writing current_repodata subset
+2023-01-06T21:10:39 noarch Writing index HTML
+2023-01-06T21:10:40 win-64 Writing current_repodata subset
+2023-01-06T21:10:40 win-64 Writing index HTML
+Found sh test file on windows.  Ignoring this for now (PRs welcome)

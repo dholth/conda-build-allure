@@ -1,0 +1,49 @@
+2023-01-06T20:59:39 Subdir: linux-64 Gathering repodata
+2023-01-06T20:59:39 linux-64 Writing pre-patch repodata
+2023-01-06T20:59:39 linux-64 Applying patch instructions
+2023-01-06T20:59:39 linux-64 Writing patched repodata
+2023-01-06T20:59:39 linux-64 Building current_repodata subset
+2023-01-06T20:59:39 linux-64 Writing current_repodata subset
+2023-01-06T20:59:39 linux-64 Writing index HTML
+2023-01-06T20:59:39 Subdir: noarch Gathering repodata
+2023-01-06T20:59:39 noarch Writing pre-patch repodata
+2023-01-06T20:59:39 noarch Applying patch instructions
+2023-01-06T20:59:39 noarch Writing patched repodata
+2023-01-06T20:59:39 noarch Building current_repodata subset
+2023-01-06T20:59:39 noarch Writing current_repodata subset
+2023-01-06T20:59:39 noarch Writing index HTML
+No files or script found for output test_test_extra_dep
+2023-01-06T20:59:41 Subdir: linux-64 Gathering repodata
+2023-01-06T20:59:41 linux-64 Writing pre-patch repodata
+2023-01-06T20:59:41 linux-64 Applying patch instructions
+2023-01-06T20:59:41 linux-64 Writing patched repodata
+2023-01-06T20:59:41 linux-64 Building current_repodata subset
+2023-01-06T20:59:42 linux-64 Writing current_repodata subset
+2023-01-06T20:59:42 linux-64 Writing index HTML
+2023-01-06T20:59:42 Subdir: noarch Gathering repodata
+2023-01-06T20:59:42 noarch Writing pre-patch repodata
+2023-01-06T20:59:42 noarch Applying patch instructions
+2023-01-06T20:59:42 noarch Writing patched repodata
+2023-01-06T20:59:42 noarch Building current_repodata subset
+2023-01-06T20:59:42 noarch Writing current_repodata subset
+2023-01-06T20:59:42 noarch Writing index HTML
+2023-01-06T20:59:45 Subdir: linux-64 Gathering repodata
+2023-01-06T20:59:45 linux-64 Writing pre-patch repodata
+2023-01-06T20:59:45 linux-64 Applying patch instructions
+2023-01-06T20:59:45 linux-64 Writing patched repodata
+2023-01-06T20:59:45 linux-64 Building current_repodata subset
+2023-01-06T20:59:45 Subdir: noarch Gathering repodata
+2023-01-06T20:59:45 noarch Writing pre-patch repodata
+2023-01-06T20:59:45 noarch Applying patch instructions
+2023-01-06T20:59:45 noarch Writing patched repodata
+2023-01-06T20:59:45 noarch Building current_repodata subset
+2023-01-06T20:59:45 linux-64 Writing current_repodata subset
+2023-01-06T20:59:45 linux-64 Writing index HTML
+2023-01-06T20:59:45 noarch Writing current_repodata subset
+2023-01-06T20:59:45 noarch Writing index HTML
++ echo A-OK
++ exit 0
+Traceback (most recent call last):
+  File "/usr/share/miniconda/envs/test/conda-bld/test_test_extra_dep_1673038778395/test_tmp/run_test.py", line 2, in <module>
+    import imagesize
+ModuleNotFoundError: No module named 'imagesize'

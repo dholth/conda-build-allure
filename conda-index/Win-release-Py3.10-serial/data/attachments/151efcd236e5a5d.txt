@@ -1,0 +1,36 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... failed
+Copying D:\a\conda-build\conda-build\tests\test-recipes\metadata\_numpy_setup_py_data to D:\a\_temp\serial\test_numpy_setup_py_data0\load_setup_py_test_1673040837612\work\
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\runneradmin\Miniconda3
+
+  added / updated specs:
+    - cython
+
+
+The following NEW packages will be INSTALLED:
+
+  cython             pkgs/main/win-64::cython-0.29.32-py310hd77b12b_0 
+
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+Copying D:\a\conda-build\conda-build\tests\test-recipes\metadata\_numpy_setup_py_data to D:\a\_temp\serial\test_numpy_setup_py_data0\load_setup_py_test_1673040858602\work\
+Attempting to finalize metadata for load_setup_py_test
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed

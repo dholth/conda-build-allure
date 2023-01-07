@@ -1,0 +1,11 @@
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for strong_pinned_package
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_has_run_exports
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for weak_pinned_package
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging strong_pinned_package
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output strong_pinned_package
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_has_run_exports
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test_has_run_exports
+[32mINFO    [0m conda_build.build:build.py:2280 Packaging weak_pinned_package
+[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output weak_pinned_package
+[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw2/test_ignore_run_exports_from0/test_has_run_exports_1673028348808/work' to '/Users/runner/work/_temp/parallel/popen-gw2/test_ignore_run_exports_from0/test_has_run_exports_1673028348808/work_moved_test_has_run_exports-1.0-0_osx-64_main_build_loop'
+[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw2/test_ignore_run_exports_from0/test_has_run_exports_1673028348808/work, dest=/Users/runner/work/_temp/parallel/popen-gw2/test_ignore_run_exports_from0/test_has_run_exports_1673028348808/work_moved_test_has_run_exports-1.0-0_osx-64_main_build_loop)

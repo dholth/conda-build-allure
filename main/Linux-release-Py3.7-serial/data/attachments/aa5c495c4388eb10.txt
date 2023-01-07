@@ -1,0 +1,7 @@
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/14_variant_in_run_and_test/conda_build_config.yaml
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_variant_in_run_and_test
+[35mDEBUG   [0m conda_build.index:index.py:796 found subdirs {'noarch', 'linux-64'}
+[32mINFO    [0m conda_build.index:index.py:865 Building repodata for /home/runner/work/_temp/serial/test_ensure_valid_spec_on_run_0/linux-64
+[32mINFO    [0m conda_build.index:index.py:865 Building repodata for /home/runner/work/_temp/serial/test_ensure_valid_spec_on_run_0/noarch
+[33mWARNING [0m conda_build.utils:utils.py:1767 Adding .* to spec 'click  6' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level
+[33mWARNING [0m conda_build.utils:utils.py:1767 Adding .* to spec 'pytest  3.2' to ensure satisfiability.  Please consider putting {{ var_name }}.* or some relational operator (>/</>=/<=) on this spec in meta.yaml, or if req is also a build req, using {{ pin_compatible() }} jinja2 function instead.  See https://conda.io/docs/user-guide/tasks/build-packages/variants.html#pinning-at-the-variant-level

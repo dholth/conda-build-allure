@@ -1,0 +1,61 @@
+Using url https://files.pythonhosted.org/packages/25/51/b612d897850edde4c2c96b52fc86ba18d6c2ebfc52e2bbc4430f9ed397ae/bigfile-0.1.24.tar.gz (166 KB) for bigfile.
+Downloading bigfile
+PyPI URL:  https://files.pythonhosted.org/packages/25/51/b612d897850edde4c2c96b52fc86ba18d6c2ebfc52e2bbc4430f9ed397ae/bigfile-0.1.24.tar.gz
+Unpacking bigfile...
+done
+working in /tmp/tmp38c457r2conda_skeleton_bigfile-0.1.24.tar.gz
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/runner/work/_temp/parallel/popen-gw1/test_pypi_with_extra_specs0/skeleton_1673038296973/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac
+
+
+The following NEW packages will be INSTALLED:
+
+    _libgcc_mutex: 0.1-main                                               
+    _openmp_mutex: 5.1-1_gnu                                              
+    blas:          1.0-openblas        https://repo.anaconda.com/pkgs/free
+    certifi:       2016.2.28-py36_0    https://repo.anaconda.com/pkgs/free
+    cython:        0.26-py36_0         https://repo.anaconda.com/pkgs/free
+    libgcc-ng:     11.2.0-h1234567_1                                      
+    libgfortran:   3.0.0-1             https://repo.anaconda.com/pkgs/free
+    libgomp:       11.2.0-h1234567_1                                      
+    mpi4py:        2.0.0-py36_2        https://repo.anaconda.com/pkgs/free
+    mpich2:        1.4.1p1-0           https://repo.anaconda.com/pkgs/free
+    nomkl:         3.0-0               https://repo.anaconda.com/pkgs/free
+    numpy:         1.13.1-py36_nomkl_0 https://repo.anaconda.com/pkgs/free
+    openblas:      0.2.19-0            https://repo.anaconda.com/pkgs/free
+    openssl:       1.0.2l-0            https://repo.anaconda.com/pkgs/free
+    patch:         2.7.6-h7b6447c_1001                                    
+    pip:           9.0.1-py36_1        https://repo.anaconda.com/pkgs/free
+    python:        3.6.2-0             https://repo.anaconda.com/pkgs/free
+    pyyaml:        3.12-py36_0         https://repo.anaconda.com/pkgs/free
+    readline:      6.2-2               https://repo.anaconda.com/pkgs/free
+    setuptools:    36.4.0-py36_1       https://repo.anaconda.com/pkgs/free
+    sqlite:        3.13.0-0            https://repo.anaconda.com/pkgs/free
+    tk:            8.5.18-0            https://repo.anaconda.com/pkgs/free
+    wheel:         0.29.0-py36_0       https://repo.anaconda.com/pkgs/free
+    xz:            5.2.3-0             https://repo.anaconda.com/pkgs/free
+    yaml:          0.1.6-0             https://repo.anaconda.com/pkgs/free
+    zlib:          1.2.11-0            https://repo.anaconda.com/pkgs/free
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Applying patch: /tmp/tmp38c457r2conda_skeleton_bigfile-0.1.24.tar.gz/pypi-distutils.patch
+Applying patch: /tmp/tmp38c457r2conda_skeleton_bigfile-0.1.24.tar.gz/pypi-distutils.patch with args:
+['-Np0', '-i', '/tmp/tmp_gl8l3qm/pypi-distutils.patch.native', '--binary']
+checking file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+patching file core.py
+Hunk #1 succeeded at 167 with fuzz 2 (offset 1 line).
+Compiling bigfile/pyxbigfile.pyx because it depends on /home/runner/work/_temp/parallel/popen-gw1/test_pypi_with_extra_specs0/skeleton_1673038296973/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/lib/python3.6/site-packages/Cython/Includes/numpy/__init__.pxd.
+[1/1] Cythonizing bigfile/pyxbigfile.pyx
+Writing recipe for bigfile
+Attempting to finalize metadata for bigfile
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done

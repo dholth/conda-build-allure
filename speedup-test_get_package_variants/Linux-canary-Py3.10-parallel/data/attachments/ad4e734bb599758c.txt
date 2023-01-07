@@ -1,0 +1,2 @@
+[33mWARNING [0m conda_build.config:config.py:336 Setting build platform. This is only useful when pretending to be on another platform, such as for rendering necessary dependencies on a non-native platform. I trust that you know what you're doing.
+[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from argument_variants

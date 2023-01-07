@@ -1,0 +1,2 @@
+[32mINFO    [0m conda_build.index:index.py:865 Building repodata for /Users/runner/work/_temp/parallel/popen-gw0/test_new_pkg_format_preferred0/noarch
+[32mINFO    [0m conda_build.index:index.py:865 Building repodata for /Users/runner/work/_temp/parallel/popen-gw0/test_new_pkg_format_preferred0/osx-64

@@ -1,0 +1,18 @@
+checkout: '1.20.2'
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe log -n1 <==
+
+commit 262d44497c1b6df66501126dd93354701fdb6df4
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 17 10:51:25 2016 -0500
+
+    saving other files...
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe describe --tags --dirty <==
+
+1.20.2
+
+==> C:\Users\runneradmin\Miniconda3\Library\usr\bin\git.exe status <==
+
+HEAD detached at 1.20.2
+nothing to commit, working directory clean
+

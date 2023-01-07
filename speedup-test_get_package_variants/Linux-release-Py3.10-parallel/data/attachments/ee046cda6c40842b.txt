@@ -1,0 +1,5 @@
+No files or script found for output abc
+No files or script found for output test_files_in_parent_recipe
+Multiple meta files found. The meta.yaml file in the base directory (/tmp/tmpmh3epvmj/info/recipe) will be used.
++ test -e recipe_file
++ exit 0

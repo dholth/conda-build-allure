@@ -1,0 +1,2 @@
+No hash (md5, sha1, sha256) provided for mypkg.zip.  Source download forced.  Add hash to recipe to use source cache.
+No files or script found for output mypkg

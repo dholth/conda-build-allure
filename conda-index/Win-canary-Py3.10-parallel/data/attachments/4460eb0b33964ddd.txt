@@ -1,0 +1,50 @@
+2023-01-06T20:41:19 Subdir: noarch Gathering repodata
+2023-01-06T20:41:19 noarch Writing pre-patch repodata
+2023-01-06T20:41:19 noarch Applying patch instructions
+2023-01-06T20:41:19 noarch Writing patched repodata
+2023-01-06T20:41:19 noarch Building current_repodata subset
+2023-01-06T20:41:19 Subdir: win-64 Gathering repodata
+2023-01-06T20:41:19 win-64 Writing pre-patch repodata
+2023-01-06T20:41:19 win-64 Applying patch instructions
+2023-01-06T20:41:19 win-64 Writing patched repodata
+2023-01-06T20:41:19 win-64 Building current_repodata subset
+2023-01-06T20:41:20 noarch Writing current_repodata subset
+2023-01-06T20:41:20 noarch Writing index HTML
+2023-01-06T20:41:20 win-64 Writing current_repodata subset
+2023-01-06T20:41:20 win-64 Writing index HTML
+CMake Deprecation Warning at CMakeLists.txt:3 (CMAKE_MINIMUM_REQUIRED):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+2023-01-06T20:42:06 Subdir: noarch Gathering repodata
+2023-01-06T20:42:06 noarch Writing pre-patch repodata
+2023-01-06T20:42:06 noarch Applying patch instructions
+2023-01-06T20:42:06 noarch Writing patched repodata
+2023-01-06T20:42:06 noarch Building current_repodata subset
+2023-01-06T20:42:07 Subdir: win-64 Gathering repodata
+2023-01-06T20:42:07 win-64 Writing pre-patch repodata
+2023-01-06T20:42:07 win-64 Applying patch instructions
+2023-01-06T20:42:07 win-64 Writing patched repodata
+2023-01-06T20:42:07 win-64 Building current_repodata subset
+2023-01-06T20:42:07 noarch Writing current_repodata subset
+2023-01-06T20:42:07 noarch Writing index HTML
+2023-01-06T20:42:07 win-64 Writing current_repodata subset
+2023-01-06T20:42:07 win-64 Writing index HTML
+2023-01-06T20:42:11 Subdir: noarch Gathering repodata
+2023-01-06T20:42:11 noarch Writing pre-patch repodata
+2023-01-06T20:42:11 noarch Applying patch instructions
+2023-01-06T20:42:11 noarch Writing patched repodata
+2023-01-06T20:42:11 noarch Building current_repodata subset
+2023-01-06T20:42:11 Subdir: win-64 Gathering repodata
+2023-01-06T20:42:11 win-64 Writing pre-patch repodata
+2023-01-06T20:42:11 win-64 Applying patch instructions
+2023-01-06T20:42:11 win-64 Writing patched repodata
+2023-01-06T20:42:11 win-64 Building current_repodata subset
+2023-01-06T20:42:12 noarch Writing current_repodata subset
+2023-01-06T20:42:12 noarch Writing index HTML
+2023-01-06T20:42:12 win-64 Writing current_repodata subset
+2023-01-06T20:42:12 win-64 Writing index HTML

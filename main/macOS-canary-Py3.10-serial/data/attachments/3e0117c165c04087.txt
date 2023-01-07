@@ -1,0 +1,7 @@
++ cd /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673050144532/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
++ cat binary-has-prefix
++ cat binary-has-prefix
++ grep /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673050144532/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold
++ cat binary-has-prefix-ignored
++ cat binary-has-prefix-ignored
++ grep --invert-match /Users/runner/work/_temp/serial/test_recipe_builds_binary_has_0/conda-build-test-binary_has_prefix_files_list_1673050144532/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold

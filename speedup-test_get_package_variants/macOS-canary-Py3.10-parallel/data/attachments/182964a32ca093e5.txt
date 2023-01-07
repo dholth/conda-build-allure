@@ -1,0 +1,4 @@
+Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/metadata/_keep_work_dir/conda_build_config.yaml
+Attempting to finalize metadata for test_keep_work_dir_abc
+Attempting to finalize metadata for test_keep_work_dir_def
+Packaging test_keep_work_dir_abc

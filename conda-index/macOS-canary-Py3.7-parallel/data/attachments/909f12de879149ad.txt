@@ -1,0 +1,33 @@
+2023-01-06T22:29:35 Subdir: noarch Gathering repodata
+2023-01-06T22:29:35 Subdir: osx-64 Gathering repodata
+2023-01-06T22:29:35 osx-64 Writing pre-patch repodata
+2023-01-06T22:29:35 noarch Writing pre-patch repodata
+2023-01-06T22:29:35 osx-64 Applying patch instructions
+2023-01-06T22:29:35 osx-64 Writing patched repodata
+2023-01-06T22:29:35 noarch Applying patch instructions
+2023-01-06T22:29:35 noarch Writing patched repodata
+2023-01-06T22:29:35 osx-64 Building current_repodata subset
+2023-01-06T22:29:35 noarch Building current_repodata subset
+2023-01-06T22:29:35 osx-64 Writing current_repodata subset
+2023-01-06T22:29:35 osx-64 Writing index HTML
+2023-01-06T22:29:35 noarch Writing current_repodata subset
+2023-01-06T22:29:35 noarch Writing index HTML
+  File "f2_bad.py", line 1
+    I am a bad file that should not pass compileall.
+       ^
+SyntaxError: invalid syntax
+
+2023-01-06T22:30:57 Subdir: noarch Gathering repodata
+2023-01-06T22:30:57 noarch Writing pre-patch repodata
+2023-01-06T22:30:57 noarch Applying patch instructions
+2023-01-06T22:30:57 noarch Writing patched repodata
+2023-01-06T22:30:57 noarch Building current_repodata subset
+2023-01-06T22:30:57 Subdir: osx-64 Gathering repodata
+2023-01-06T22:30:57 osx-64 Writing pre-patch repodata
+2023-01-06T22:30:57 osx-64 Applying patch instructions
+2023-01-06T22:30:57 osx-64 Writing patched repodata
+2023-01-06T22:30:57 osx-64 Building current_repodata subset
+2023-01-06T22:30:57 osx-64 Writing current_repodata subset
+2023-01-06T22:30:57 noarch Writing current_repodata subset
+2023-01-06T22:30:57 noarch Writing index HTML
+2023-01-06T22:30:57 osx-64 Writing index HTML

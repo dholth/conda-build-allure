@@ -1,0 +1,17 @@
+Cloning into bare repository '/d/a/_temp/parallel/popen-gw1/test_repo_r_cran_https___githu0/git_cache/github.com/twitter/AnomalyDetection'...
+Cloning into '/d/a/_temp/parallel/popen-gw1/test_repo_r_cran_https___githu0/skeleton_1673027308510/work'...
+done.
+Note: checking out 'v1.0.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 3b65fc9... Merge branch 'master' of https://github.com/twitter/AnomalyDetection
+
+WARNING conda.gateways.disk.delete:unlink_or_rename_to_trash(140): Could not remove or rename C:\Users\runneradmin\Miniconda3\locks\dd80dd179b0a0974699b54ab5dcdd524c22b7ad956989fe44e36a98c82afc4fa.  Please remove this file manually (you may need to reboot to free file handles)

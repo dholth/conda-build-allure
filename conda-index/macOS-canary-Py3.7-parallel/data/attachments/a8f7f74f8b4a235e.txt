@@ -1,0 +1,68 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/impyla/json HTTP/1.1" 301 122
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/impyla/json HTTP/1.1" 200 15856
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/83/ad/c228a3063c1ae3ebdf8000fd84ba43d916520aa651194465feb92d02840e/impyla-0.18.0.tar.gz HTTP/1.1" 200 258219
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'osx-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/noarch/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:806 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/osx-64/.cache/cache.db cache_is_brand_new=True
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:199 CONVERT .cache
+[32mINFO    [0m conda_index.index.convert_cache:convert_cache.py:150 Migrate database
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:806 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'osx-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0, subdir=noarch db_filename=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0, subdir=osx-64 db_filename=/Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/index.html to /Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/channeldata.json to /Users/runner/work/_temp/parallel/popen-gw2/test_pypi_version_sorting0/channeldata.json
+[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for impyla
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'osx-64', 'noarch'}
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld, subdir=noarch db_filename=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 noarch listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 noarch save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 noarch find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 noarch extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:806 noarch cached 0 B from 0 packages at 0 B/second
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld, subdir=osx-64 db_filename=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:431 osx-64 listdir
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:450 osx-64 save fs state
+[35mDEBUG   [0m conda_index.index:__init__.py:759 osx-64 find packages to extract
+[35mDEBUG   [0m conda_index.index:__init__.py:771 osx-64 extract 0 packages
+[32mINFO    [0m conda_index.index:__init__.py:806 osx-64 cached 0 B from 0 packages at 0 B/second
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed noarch
+[32mINFO    [0m conda_index.index:__init__.py:578 Completed osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:680 found subdirs {'osx-64', 'noarch'}
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: noarch
+[35mDEBUG   [0m conda_index.index:__init__.py:654 noarch read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld, subdir=noarch db_filename=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/noarch/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 noarch channeldata finished
+[32mINFO    [0m conda_index.index:__init__.py:653 Channeldata subdir: osx-64
+[35mDEBUG   [0m conda_index.index:__init__.py:654 osx-64 read repodata
+[35mDEBUG   [0m conda_index.index.sqlitecache:sqlitecache.py:102 CondaIndexCache channel_root=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld, subdir=osx-64 db_filename=/Users/runner/work/conda-build/conda-build/miniconda/conda-bld/osx-64/.cache/cache.db cache_is_brand_new=False
+[35mDEBUG   [0m conda_index.index:__init__.py:662 osx-64 channeldata finished
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/index.html to /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/index.html
+[35mDEBUG   [0m conda_index.index:__init__.py:670 write channeldata
+[35mDEBUG   [0m conda_index.index:__init__.py:1155 _maybe_write /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/channeldata.json to /Users/runner/work/conda-build/conda-build/miniconda/conda-bld/channeldata.json
+[33mWARNING [0m conda_build.render:render.py:624 Returning non-final recipe for impyla-0.18.0-py37_0; one or more dependencies was unsatisfiable:
+[33mWARNING [0m conda_build.render:render.py:628 Host: thrift, thrift_sasl
