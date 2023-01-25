@@ -1,7 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for foobar
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging foobar
-[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output foobar
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpwada_hmk/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work' to '/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work_moved_foobar-1.0-0_osx-64'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work, dest=/Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/foobar_1673047604791/work_moved_foobar-1.0-0_osx-64)
-[33mWARNING [0m conda_build.build:build.py:2964 Tests failed for foobar-1.0-0.tar.bz2 - moving package to /Users/runner/work/_temp/parallel/popen-gw1/test_failed_tests_exit_build0/broken

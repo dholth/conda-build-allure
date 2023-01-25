@@ -1,8 +1,0 @@
-added /Users/jsandhu/Documents/projects/CythonExample
-path exists, skipping /Users/jsandhu/Documents/projects/CythonExample
-added /Users/jsandhu/Documents/projects/TestOne
-path exists, skipping /Users/jsandhu/Documents/projects/TestOne
-path exists, skipping /Users/jsandhu/Documents/projects/TestOne
-path exists, skipping /Users/jsandhu/Documents/projects/TestOne
-added /Users/jsandhu/Documents/projects/TestTwo
-path exists, skipping /Users/jsandhu/Documents/projects/TestTwo

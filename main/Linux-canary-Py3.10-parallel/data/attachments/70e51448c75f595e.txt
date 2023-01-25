@@ -1,6 +1,0 @@
-/home/runner/work/_temp/parallel/popen-gw1/test_noarch_python_10/noarch_python_test_package_1673038076691/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
-  warnings.warn(
-warning: build_py: byte-compiling is disabled, skipping.
-
-warning: install_lib: byte-compiling is disabled, skipping.
-

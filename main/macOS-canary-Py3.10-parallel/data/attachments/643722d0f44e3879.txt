@@ -1,6 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for pintest
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging pintest
-[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output pintest
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmpwo3fku_l/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_pin_depends0/pintest_1673048351484/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_pin_depends0/pintest_1673048351484/work_moved_pintest-1.0-0_osx-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_pin_depends0/pintest_1673048351484/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_pin_depends0/pintest_1673048351484/work_moved_pintest-1.0-0_osx-64_main_build_loop)

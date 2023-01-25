@@ -1,2 +1,0 @@
-No hash (md5, sha1, sha256) provided for ver480.zip.  Source download forced.  Add hash to recipe to use source cache.
-No hash (md5, sha1, sha256) provided for ver470.zip.  Source download forced.  Add hash to recipe to use source cache.

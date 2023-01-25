@@ -1,3 +1,0 @@
-patchelf: cannot find section '.dynamic'. The input file is most likely statically linked
-+ go-hello
-+ exit 0

@@ -1,1 +1,0 @@
-Copying package to conda-build croot.  No packages otherwise alongside yours will be available unless you specify -c local.  To avoid this warning, your package must reside in a channel structure with platform-subfolders.  See more info on what a valid channel is at https://conda.io/docs/user-guide/tasks/create-custom-channels.html

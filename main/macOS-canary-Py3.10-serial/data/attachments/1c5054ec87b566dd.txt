@@ -1,2 +1,0 @@
-Renaming work directory '/Users/runner/work/_temp/serial/test_no_anaconda_upload_condar0/empty_sections_1673050188782/work' to '/Users/runner/work/_temp/serial/test_no_anaconda_upload_condar0/empty_sections_1673050188782/work_moved_empty_sections-0.0-0_osx-64_main_build_loop'
-shutil.move(work)=/Users/runner/work/_temp/serial/test_no_anaconda_upload_condar0/empty_sections_1673050188782/work, dest=/Users/runner/work/_temp/serial/test_no_anaconda_upload_condar0/empty_sections_1673050188782/work_moved_empty_sections-0.0-0_osx-64_main_build_loop)

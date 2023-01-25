@@ -1,1 +1,0 @@
-Copying D:\a\conda-build\conda_build_test_recipe to D:\a\_temp\parallel\popen-gw0\test_git_in_output_version0\test_git_in_outptut_version_1673041395963\work\

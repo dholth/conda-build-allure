@@ -1,5 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:273 Resetting dropped connection: pypi.python.org
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.python.org:443 "GET /packages/source/p/pylint/pylint-2.3.1.tar.gz HTTP/1.1" 301 122
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://pypi.org:443 "GET /packages/source/p/pylint/pylint-2.3.1.tar.gz HTTP/1.1" 301 272
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/source/p/pylint/pylint-2.3.1.tar.gz HTTP/1.1" 302 0
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://files.pythonhosted.org:443 "GET /packages/01/8b/538911c0ebc2529f15004f4cb07e3ca562bb9aacea5df89cc25b62e01891/pylint-2.3.1.tar.gz HTTP/1.1" 200 577767

@@ -1,4 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): fastapi.metacpan.org:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://fastapi.metacpan.org:443 "GET /v1/module/Moo HTTP/1.1" 404 None
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://fastapi.metacpan.org:443 "GET /v1/release/Moo HTTP/1.1" 404 None
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://fastapi.metacpan.org:443 "GET /v1/download_url/Moo HTTP/1.1" 200 None

@@ -1,5 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for fix_permissions
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging fix_permissions
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp4q8iohp8/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/Users/runner/work/_temp/parallel/popen-gw0/test_fix_permissions0/fix_permissions_1673047746433/work' to '/Users/runner/work/_temp/parallel/popen-gw0/test_fix_permissions0/fix_permissions_1673047746433/work_moved_fix_permissions-1.0-0_osx-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/Users/runner/work/_temp/parallel/popen-gw0/test_fix_permissions0/fix_permissions_1673047746433/work, dest=/Users/runner/work/_temp/parallel/popen-gw0/test_fix_permissions0/fix_permissions_1673047746433/work_moved_fix_permissions-1.0-0_osx-64_main_build_loop)

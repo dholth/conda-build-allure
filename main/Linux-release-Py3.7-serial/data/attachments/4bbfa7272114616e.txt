@@ -1,2 +1,0 @@
-+ test -f /home/runner/work/_temp/serial/test_recipe_builds_arbitrary_f0/test_arbitrary_file_in_info_dir_1673038353243/_test_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/info/testfile
-+ exit 0

@@ -1,3 +1,0 @@
-No files or script found for output test_no_include_recipe_meta_yaml
-No files or script found for output no_include_recipe
-Tests failed for no_include_recipe-0.0-0.tar.bz2 - moving package to /home/runner/work/_temp/parallel/popen-gw0/test_no_include_recipe_meta_ya0/broken

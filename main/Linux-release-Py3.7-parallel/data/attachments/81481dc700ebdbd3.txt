@@ -1,2 +1,0 @@
-Returning non-final recipe for coconut-1.2.2-py37_0; one or more dependencies was unsatisfiable:
-Host: pyparsing

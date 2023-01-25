@@ -1,5 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\metadata\_run_exports_in_outputs\conda_build_config.yaml
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for binutils_win-32
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gfortran_win-32
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for binutils_win-64
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for gfortran_win-64

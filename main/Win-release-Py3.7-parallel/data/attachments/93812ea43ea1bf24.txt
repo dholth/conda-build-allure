@@ -1,1 +1,0 @@
-Not detecting used variables in output script D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_invalid_script_extension\subpackage3.unrecognized; conda-build only knows how to search .sh and .bat files right now.

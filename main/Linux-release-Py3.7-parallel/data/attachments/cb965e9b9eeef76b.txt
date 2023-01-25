@@ -1,3 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_hash_no_apply_to_custom_build_string
-[33mWARNING [0m conda_build.render:render.py:623 Returning non-final recipe for test_hash_no_apply_to_custom_build_string-1.0-steve; one or more dependencies was unsatisfiable:
-[33mWARNING [0m conda_build.render:render.py:625 Build: zlib

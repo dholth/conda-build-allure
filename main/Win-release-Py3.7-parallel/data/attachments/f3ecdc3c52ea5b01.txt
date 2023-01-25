@@ -1,4 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_intradep_with_templated_output_name\conda_build_config.yaml
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for templated_subpackage_nameabc
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for depends_on_templated
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_templated_subpackage_name

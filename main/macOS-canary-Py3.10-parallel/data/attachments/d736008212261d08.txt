@@ -1,5 +1,0 @@
-No files or script found for output test_no_include_recipe_config_arg
-Importing conda-verify failed.  Please be sure to test your packages.  conda install conda-verify to make this message go away.
-No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
-+ echo A-OK
-+ exit 0

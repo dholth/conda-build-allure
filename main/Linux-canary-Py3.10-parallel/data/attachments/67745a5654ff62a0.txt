@@ -1,3 +1,0 @@
-Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/26_reduced_hashing/hash_yes_compiler/conda_build_config.yaml
-Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/26_reduced_hashing/hash_yes_pinned/conda_build_config.yaml
-Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/variants/26_reduced_hashing/hash_no_python/conda_build_config.yaml

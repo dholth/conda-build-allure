@@ -1,2 +1,0 @@
-Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\metadata\_cross_prefix_elision_compiler_used\conda_build_config.yaml
-Attempting to finalize metadata for test_cross_prefix_elision_compiler_used

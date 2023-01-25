@@ -1,6 +1,0 @@
-No files or script found for output test_build_multiple_recipes
-+ echo A-OK
-+ exit 0
-No files or script found for output package2
-+ echo A-OK
-+ exit 0

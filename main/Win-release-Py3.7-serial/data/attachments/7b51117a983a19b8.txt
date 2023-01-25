@@ -1,6 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test-jinja-setuptools
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging test-jinja-setuptools
-[33mWARNING [0m conda_build.build:build.py:1627 No files or script found for output test-jinja-setuptools
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp4_bm7d2m\info\recipe\conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\serial\test_recipe_builds_jinja_load_0\test-jinja-setuptools_1673039584489\work' to 'D:\a\_temp\serial\test_recipe_builds_jinja_load_0\test-jinja-setuptools_1673039584489\work_moved_test-jinja-setuptools-1.test-0_win-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\serial\test_recipe_builds_jinja_load_0\test-jinja-setuptools_1673039584489\work, dest=D:\a\_temp\serial\test_recipe_builds_jinja_load_0\test-jinja-setuptools_1673039584489\work_moved_test-jinja-setuptools-1.test-0_win-64_main_build_loop)

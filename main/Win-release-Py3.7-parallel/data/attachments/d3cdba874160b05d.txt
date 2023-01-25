@@ -1,3 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for custom_subdir
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for default_subdir
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for default_subdir_2

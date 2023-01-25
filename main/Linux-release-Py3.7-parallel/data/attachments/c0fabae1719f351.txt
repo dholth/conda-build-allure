@@ -1,5 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_compileall
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging test_compileall
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /tmp/tmpmqtcrxrk/info/recipe/conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_compileall_compiles_all_g0/test_compileall_1673037948877/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_compileall_compiles_all_g0/test_compileall_1673037948877/work_moved_test_compileall-1.0-py37_0_linux-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_compileall_compiles_all_g0/test_compileall_1673037948877/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_compileall_compiles_all_g0/test_compileall_1673037948877/work_moved_test_compileall-1.0-py37_0_linux-64_main_build_loop)

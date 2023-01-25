@@ -1,3 +1,0 @@
-No files or script found for output conda-build-test-jinja2-in-recipe
-+ echo
-+ exit 0

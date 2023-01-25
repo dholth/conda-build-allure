@@ -1,4 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for ipp
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for ipp-include
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for ipp-devel
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for ipp-static

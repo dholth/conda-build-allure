@@ -1,6 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.io:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.io:443 "GET /pypi/mpi4py_test/json HTTP/1.1" 301 122
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): pypi.org:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://pypi.org:443 "GET /pypi/mpi4py-test/json HTTP/1.1" 200 2213
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:465 https://files.pythonhosted.org:443 "GET /packages/19/e0/568d6a015728d1d56cd367d7a647f7ef203cec160e764299115516571a8e/mpi4py_test-0.0.10.tar.gz HTTP/1.1" 200 7137
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for mpi4py_test

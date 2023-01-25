@@ -1,3 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/variants/24_test_used_vars_in_scripts/conda_build_config.yaml
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_find_used_variables_in_scripts
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test_output_1

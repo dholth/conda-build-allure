@@ -1,3 +1,0 @@
-No files or script found for output render
-+ test TEST = TEST
-+ exit 0

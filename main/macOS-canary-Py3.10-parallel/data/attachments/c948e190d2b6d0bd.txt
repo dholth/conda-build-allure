@@ -1,4 +1,0 @@
-[33mWARNING [0m conda_build.metadata:metadata.py:2811 Not detecting used variables in output script /Users/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_invalid_script_extension/subpackage3.unrecognized; conda-build only knows how to search .sh and .bat files right now.
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for my_script_subpackage_unrecognized
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for split_packages_unrecognized_script_type
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging my_script_subpackage_unrecognized

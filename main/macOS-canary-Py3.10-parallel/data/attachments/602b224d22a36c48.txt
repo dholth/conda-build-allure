@@ -1,2 +1,0 @@
-Returning non-final recipe for r-rmarkdown-2.19-r35_0; one or more dependencies was unsatisfiable:
-Host: r-htmltools, r-xfun

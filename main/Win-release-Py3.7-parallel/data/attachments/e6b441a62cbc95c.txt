@@ -1,3 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from C:\Users\RUNNER~1\AppData\Local\Temp\tmp8o31fycp\info\recipe\conda_build_config.yaml
-[32mINFO    [0m conda_build.utils:utils.py:1970 Renaming work directory 'D:\a\_temp\parallel\popen-gw1\test_recipe_builds_building_ji1\mypkg_1673040962469\work' to 'D:\a\_temp\parallel\popen-gw1\test_recipe_builds_building_ji1\mypkg_1673040962469\work_moved_mypkg-1.21.11-7_g8670395_win-64_main_build_loop'
-[32mINFO    [0m conda_build.utils:utils.py:1977 shutil.move(work)=D:\a\_temp\parallel\popen-gw1\test_recipe_builds_building_ji1\mypkg_1673040962469\work, dest=D:\a\_temp\parallel\popen-gw1\test_recipe_builds_building_ji1\mypkg_1673040962469\work_moved_mypkg-1.21.11-7_g8670395_win-64_main_build_loop)

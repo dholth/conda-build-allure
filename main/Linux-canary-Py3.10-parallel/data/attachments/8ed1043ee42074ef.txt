@@ -1,2 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /home/runner/work/conda-build/conda-build/tests/test-recipes/split-packages/_pin_compatible_in_output/conda_build_config.yaml
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for test1_abc

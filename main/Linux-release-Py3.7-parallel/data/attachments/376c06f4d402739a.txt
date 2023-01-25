@@ -1,2 +1,0 @@
-[32mINFO    [0m conda_build.metadata:metadata.py:854 Attempting to finalize metadata for conda-build-test-symlinks-fail
-[32mINFO    [0m conda_build.build:build.py:2280 Packaging conda-build-test-symlinks-fail

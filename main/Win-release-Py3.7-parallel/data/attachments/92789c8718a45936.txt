@@ -1,2 +1,0 @@
-No files or script found for output test_build_multiple_recipes
-No files or script found for output package2

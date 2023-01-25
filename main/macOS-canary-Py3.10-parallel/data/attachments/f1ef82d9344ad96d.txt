@@ -1,9 +1,0 @@
-Applying patch: /Users/runner/work/_temp/parallel/popen-gw1/test_patch_paths0/patch.diff
-Applying patch: /Users/runner/work/_temp/parallel/popen-gw1/test_patch_paths0/patch.diff with args:
-['-Np0', '-i', '/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/tmp4w0jhgwo/patch.diff.native', '--binary']
-checking file file-deletion.txt
-checking file file-creation.txt
-checking file file-modification.txt
-patching file file-deletion.txt
-patching file file-creation.txt
-patching file file-modification.txt

@@ -1,3 +1,0 @@
-No files or script found for output test_empty_run_deps
-+ echo test
-+ exit 0

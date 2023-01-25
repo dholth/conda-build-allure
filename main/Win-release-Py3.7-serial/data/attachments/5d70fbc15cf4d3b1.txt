@@ -1,4 +1,0 @@
-
-EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\serial\test_recipe_builds_source_path0\conda-build-test-source-path_1673040904973\_h_env
-
-No files or script found for output conda-build-test-source-path

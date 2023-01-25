@@ -1,2 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://repo.anaconda.com:80 "GET /pkgs/free/win-64/itsdangerous-0.24-py27_0.tar.bz2 HTTP/1.1" 301 None
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://repo.anaconda.com:443 "GET /pkgs/free/win-64/itsdangerous-0.24-py27_0.tar.bz2 HTTP/1.1" 200 15836

@@ -1,3 +1,0 @@
-No files or script found for output foobar
-+ exit 1
-Tests failed for foobar-1.0-0.tar.bz2 - moving package to /home/runner/work/_temp/parallel/popen-gw0/test_failed_tests_exit_build0/broken

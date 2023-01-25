@@ -1,4 +1,0 @@
-
-EnvironmentLocationNotFound: Not a conda environment: D:\a\_temp\parallel\popen-gw1\test_relative_path_test_recipe0\relative\path\empty_with_build_script_1673040552806\_h_env
-
-Testing based on recipes is deprecated as of conda-build 3.16.0.  Please adjust your code to pass your desired conda package to test instead.

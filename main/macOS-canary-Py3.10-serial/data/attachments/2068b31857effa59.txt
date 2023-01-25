@@ -1,8 +1,0 @@
-No numpy version specified in conda_build_config.yaml.  Falling back to default numpy value of 1.21
-No files or script found for output test_source_files
-+ test -e setup.py
-+ test -e conda_build_test
-+ test -e conda_build_test/__init__.py
-+ test -e conda_build_test/empty.py
-+ test -e conda_build_test/manual_entry.py
-+ exit 0
