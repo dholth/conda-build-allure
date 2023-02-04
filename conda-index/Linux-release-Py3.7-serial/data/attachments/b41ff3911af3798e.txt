@@ -1,3 +1,0 @@
-
-Remove all packages in environment /usr/share/miniconda/envs/test/envs/conda_build_bootstrap_test:
-

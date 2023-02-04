@@ -1,2 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:273 Resetting dropped connection: repo.anaconda.com
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://repo.anaconda.com:443 "GET /pkgs/free/win-64/affine-2.0.0-py27_0.tar.bz2 HTTP/1.1" 200 20579

@@ -1,1 +1,0 @@
-[32mINFO    [0m conda_build.variants:variants.py:235 Adding in variants from /Users/runner/work/_temp/parallel/popen-gw0/test_exclusive_config_file0/config_dir/config.yaml

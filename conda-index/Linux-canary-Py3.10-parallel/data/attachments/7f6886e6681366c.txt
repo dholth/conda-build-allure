@@ -1,7 +1,0 @@
-Attempting to finalize metadata for empty_sections
-Packaging empty_sections
-Adding in variants from /tmp/tmpl_63qyus/info/recipe/conda_build_config.yaml
-Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061449453/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061449453/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
-shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061449453/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061449453/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)
-Renaming work directory '/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061454590/work' to '/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061454590/work_moved_empty_sections-0.0-0_linux-64_main_build_loop'
-shutil.move(work)=/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061454590/work, dest=/home/runner/work/_temp/parallel/popen-gw0/test_skip_existing0/empty_sections_1673061454590/work_moved_empty_sections-0.0-0_linux-64_main_build_loop)

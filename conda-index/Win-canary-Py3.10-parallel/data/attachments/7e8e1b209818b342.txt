@@ -1,1 +1,0 @@
-[32mINFO    [0m conda_build.inspect_pkg:inspect_pkg.py:155 ######## Testing platform osx-64 ########

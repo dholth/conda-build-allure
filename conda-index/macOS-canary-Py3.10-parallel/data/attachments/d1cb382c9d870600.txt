@@ -1,4 +1,0 @@
-Source cache directory is: /Users/runner/work/_temp/parallel/popen-gw1/test_extract_tarball_with_subf0/src_cache
-Downloading source to cache: subfolder.tar.bz2
-Downloading file:///Users/runner/work/conda-build/conda-build/tests/archives/subfolder.tar.bz2
-Extracting download

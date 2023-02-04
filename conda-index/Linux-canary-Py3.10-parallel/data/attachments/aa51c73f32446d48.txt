@@ -1,2 +1,0 @@
-Adding in variants from no_numpy
-Adding in variants from single_ver

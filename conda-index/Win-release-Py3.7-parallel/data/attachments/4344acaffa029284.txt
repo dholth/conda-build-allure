@@ -1,2 +1,0 @@
-Source cache directory is: D:\a\_temp\parallel\popen-gw0\test_git_into_existing_populat0\src_cache
-Extracting download

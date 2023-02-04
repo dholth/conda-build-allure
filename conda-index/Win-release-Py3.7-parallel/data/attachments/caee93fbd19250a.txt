@@ -1,2 +1,0 @@
-######## Testing platform osx-64 ########
-True

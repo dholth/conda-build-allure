@@ -1,3 +1,0 @@
-
-Remove all packages in environment /Users/runner/work/conda-build/conda-build/tests/conda_build_bootstrap_test:
-

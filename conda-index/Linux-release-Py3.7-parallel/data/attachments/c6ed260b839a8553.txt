@@ -1,3 +1,0 @@
-Source cache directory is: /home/runner/work/_temp/parallel/popen-gw0/test_multiple_url_sources_into0/src_cache
-Extracting download
-Extracting download

@@ -1,5 +1,0 @@
-Adding in variants from /Users/runner/work/conda-build/conda-build/tests/test-recipes/variants/11_variant_output_names/conda_build_config.yaml
-Attempting to finalize metadata for some_output_using_abc_ghi
-Attempting to finalize metadata for some_output_using_abc_jkl
-Attempting to finalize metadata for some_output_using_def_ghi
-Attempting to finalize metadata for some_output_using_def_jkl

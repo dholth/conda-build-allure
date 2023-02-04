@@ -1,6 +1,0 @@
-Adding in variants from D:\a\conda-build\conda-build\tests\test-recipes\split-packages\_intradep_with_templated_output_name\conda_build_config.yaml
-Attempting to finalize metadata for templated_subpackage_nameabc
-Attempting to finalize metadata for depends_on_templated
-Attempting to finalize metadata for test_templated_subpackage_name
-Collecting package metadata (repodata.json): ...working... done
-Solving environment: ...working... done

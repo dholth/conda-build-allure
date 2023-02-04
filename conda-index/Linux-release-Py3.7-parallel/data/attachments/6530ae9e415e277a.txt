@@ -1,4 +1,0 @@
-Attempting to finalize metadata for test_uses_src_dir
-BUILD START: ['test_uses_src_dir-1.0-0.tar.bz2']
-Collecting package metadata (repodata.json): ...working... done
-Solving environment: ...working... done

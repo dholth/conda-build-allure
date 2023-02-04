@@ -1,4 +1,0 @@
-Attempting to finalize metadata for ipp
-Attempting to finalize metadata for ipp-include
-Attempting to finalize metadata for ipp-devel
-Attempting to finalize metadata for ipp-static
